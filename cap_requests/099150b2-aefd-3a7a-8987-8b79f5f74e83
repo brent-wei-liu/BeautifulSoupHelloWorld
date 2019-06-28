@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:20:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e人民幣中間價下跌\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e人民幣中間價下跌，報6.7049兌1美元，較上日中間價下調92點子。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "人民幣中間價下跌",
+    "uuid": "099150b2-aefd-3a7a-8987-8b79f5f74e83"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:41:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e青光眼年輕化 醫籲高危險群40歲起定期檢查\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e青光眼以往是老人家常見的疾病，會因神經病變導致視野缺損，嚴重的話會出現不可逆的失明，現在卻出現年輕化趨勢，高度近視是罹患青光眼的危現因子，醫師建議高危險群四十歲以上應長期接受定期檢查，及早治療以延緩惡化程度。（戎華儀報導）\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e衛生福利部統計，民國104年我國有34萬就診中的青光眼患者，40歲以上的就佔了29萬人。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e臺北榮民總醫院青光眼科醫師柯玉潔指出，青光眼在症狀初期患者通常難以察覺，在症狀演變過程中，通常先以藥物控制眼壓，減緩視神經的損傷，最後才是開刀，青光眼高危險群包括有家族遺傳史、高度近視、長期使用類固醇的患者等。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e柯玉潔：『視野檢查才能夠偵測到這些視覺功能的損傷，所以大概40歲以上就要做，但是如果你有家族史，或者是你有特別疾病要使用類固醇，或者是你是高度近視的患者，或者是說你的血壓過低或過高，這些都可能跟青光眼有關係，或者是一些像是糖尿病的病人、或者是你曾經外傷過，這也都可能有續發性的青光眼。』\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e柯玉潔表示，傳統青光眼手術對於年紀較輕的患者來說，可能有傷口復原能力強、疤痕組織生成較多，術後眼睛容易刺痛、發炎的缺點，影響術後眼壓控制的效果，臺北榮總這1年來引進自費的微創青光眼手術，提高患者術後的眼睛舒適度。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e（圖：戎華儀攝）\u003c/p\u003e\n    \u003cp\u003e\n      \u003cimg align=\"middle\" class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/bcc.com.tw/ef8e65387553d8ed01077917c9a6f2e5\" width=\"510\"/\u003e\n    \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "青光眼年輕化 醫籲高危險群40歲起定期檢查",
+    "uuid": "0237ef34-f530-3025-b10b-bb328370d4ac"
+}

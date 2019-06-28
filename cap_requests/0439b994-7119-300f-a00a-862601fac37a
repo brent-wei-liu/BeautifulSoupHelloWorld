@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T19:51:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《盈警響號》魯証期貨(01461.HK)料全年淨利跌20%-30%\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e魯証期貨(01461.HK)發盈警，預計2018年止年度歸屬股東淨利潤將較2017年度下跌約20%-30%，主要原因是市場競爭加劇，加之公司經紀業務轉型，導致經營業務淨收入減少。(de/d)~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《盈警響號》魯証期貨(01461.HK)料全年淨利跌20%-30%",
+    "uuid": "0439b994-7119-300f-a00a-862601fac37a"
+}

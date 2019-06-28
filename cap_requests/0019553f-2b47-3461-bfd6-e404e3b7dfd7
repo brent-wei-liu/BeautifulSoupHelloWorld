@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:29:55Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTrump dice que audiencia a Cohen pudo contribuir a fracaso cumbre con Corea del Norte\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003ePor Josh Smith y Hyonhee Shin\u003c/p\u003e\n\u003cp\u003eSEÚL (Reuters) - El presidente de Estados Unidos, Donald Trump, dijo el lunes que la decisión de los demócratas de entrevistar a su exabogado personal, Michael Cohen, el mismo día de la reunión con Kim Jong Un pudo contribuir al final sin acuerdo de la cumbre con Corea del Norte.\u003c/p\u003e\n\u003cp\u003eTrump y Kim se reunieron por segunda vez la semana pasada en la capital de Vietnam, Hanói, para intentar negociar un acuerdo de desnuclearización mientras Cohen testificaba ante una comisión de la Cámara de Representantes, acusando al mandatario de numerosas irregularidades.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Para los demócratas, entrevistar en audiencias abiertas a un mentiroso y estafador convicto en el mismo momento en que se celebraba una Cumbre Nuclear muy importante con Corea del Norte, es quizás un nuevo punto bajo en la política estadounidense y podría haber contribuido al \u0026#39;abandono\u0026#39;\u0026quot;, dijo Trump en Twitter, en referencia a su decisión de desechar lo que calificó como un mal acuerdo con Kim.\u003c/p\u003e\n\u003cp\u003e\u0026quot;No se había hecho nunca cuando hay un presidente en el extranjero. ¡Vergüenza!\u0026quot;, agregó.\u003c/p\u003e\n\u003cp\u003eAl ser preguntado sobre el testimonio de Cohen en una conferencia de prensa el jueves en Hanói, después de que Trump decidió de forma abrupta poner fin por adelantado a la cumbre, el presidente calificó de \u0026quot;incorrectas\u0026quot; las acusaciones y criticó la decisión de celebrar la audiencia cuando estaba fuera del país.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Intenté ver todo lo que pude\u0026quot;, comentó Trump. \u0026quot;No pude ver demasiado porque estuve un poco ocupado, pero creo que celebrar una audiencia falsa como esta en medio de esta cumbre tan importante es realmente algo terrible\u0026quot;, señaló.\u003c/p\u003e\n\u003cp\u003eEl presidente surcoreano, Moon Jae-in, pidió a las autoridades que busquen una forma de reactivar las conversaciones entre Washington y Pyongyang.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Creo que el diálogo entre Corea del Norte y Estados Unidos logrará finalmente un acuerdo, pero nunca es deseable que el estancamiento continúe demasiado\u0026quot;, señaló Moon en un encuentro con altos asesores de política exterior y seguridad.\u003c/p\u003e\n\u003cp/\u003e\n\u003cp/\u003e\n\u003cp\u003e (Reporte de Josh Smith, Hyonhee Shin y Joyce Lee; editado en español por Carlos Serrano)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Trump dice que audiencia a Cohen pudo contribuir a fracaso cumbre con Corea del Norte",
+    "uuid": "0019553f-2b47-3461-bfd6-e404e3b7dfd7"
+}

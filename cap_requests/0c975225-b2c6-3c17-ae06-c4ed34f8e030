@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:38:49Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEE.UU. publicará PIB de Puerto Rico en busca de transparencia\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e(Bloomberg) -- Estados Unidos planea comenzar a producir datos del producto interno bruto de Puerto Rico después de que una quiebra récord y un huracán catastrófico alimentaran la demanda de más información sobre la economía de la isla.\u003c/p\u003e\u003cp\u003eLa Oficina de Análisis Económico del Departamento de Comercio anunció el lunes que planea comenzar a estimar el gasto en consumo, la inversión comercial y el comercio de bienes de Puerto Rico este año. Esas estimaciones eventualmente ayudarán al órgano a generar un valor del PIB, aunque no publicará la cifra de referencia en 2019, según un comunicado.\u003c/p\u003e\u003cp\u003eActualmente, Puerto Rico produce sus propias estimaciones de producción económica, con la asesoría de la Oficina de Análisis Económico desde 2011. Sin embargo, en 2016, el Congreso recomendó que la oficina comience a proporcionar cifras propias, como ya lo hace para los territorios más pequeños de EE.UU.: Samoa, Guam, las Islas Marianas del Norte y las Islas Vírgenes.\u003c/p\u003e\u003cp\u003eLa oficina dijo que la destrucción del huracán María en septiembre de 2017 subrayó la necesidad urgente de contar con estadísticas más modernas para dar forma a la política del gobierno. Puerto Rico ha estimado un costo de reconstrucción de US$139.000 millones, y se espera que al menos una parte del dinero provenga de la Agencia Federal para el Manejo de Emergencias y otras entidades de EE.UU.\u003c/p\u003e\u003cp\u003eLa confiabilidad de sus cifras económicas ha sido un tema clave en la bancarrota de Puerto Rico porque los pronósticos de crecimiento son cruciales para determinar cuánta deuda puede pagar el gobierno.\u003c/p\u003e\u003cp\u003eNota Original:U.S. to Publish Bankrupt Puerto Rico’s GDP in Transparency Push\u003c/p\u003e\u003cp\u003eReporteros en la nota original: Jonathan Levin en Miami, jlevin20@bloomberg.net;Yalixa Rivera en San Juan, yrivera14@bloomberg.net\u003c/p\u003e\u003cp\u003eEditores responsables de la nota original: Michael J. Moore, mmoore55@bloomberg.net, William Selway, Michael B. Marois\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "EE.UU. publicará PIB de Puerto Rico en busca de transparencia",
+    "uuid": "0c975225-b2c6-3c17-ae06-c4ed34f8e030"
+}

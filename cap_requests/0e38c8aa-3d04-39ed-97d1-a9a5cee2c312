@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:09:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAndi Arief Ditangkap, BPN Tunggu Informasi Resmi Polisi\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e –  Direktorat IV Mabes Polri menangkap Wakil Sekretaris Jenderal Partai Demokrat, Andi Arief terkait kasus narkoba pada Senin siang. Dia ditangkap bersama seorang wanita di kamar hotel. \u003c/p\u003e\n\n\u003cp\u003eMenurut informasi, penangkapan Andi Arief dilakukan di kamar 14, lantai 12, Hotel Menara Peninsula, Slipi, Jakarta Barat.\u003c/p\u003e\n\n\u003cp\u003eMenanggapi hal ini, Juru Bicara Badan Pemenangan Nasional (BPN) Prabowo Subianto-Sandiaga Salahuddin Uno, Andre Rosiade mengaku kaget dengan kabar tersebut. Hanya saja, menurutnya, dari BPN menunggu informasi resmi baik dari Kepolisian dan Partai Demokrat.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kami kaget ya, dengan informasi penangkapan Mas Andi Arief. Tetapi, ini kan urusan pribadi beliau,\u0026quot; kata Andre kepada \u003cem\u003eVIVA\u003c/em\u003e, Senin 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Tentu, mengejutkan kejadian ini. Kita tunggu saja hasil pemeriksaan, dan pengumuman resmi pihak Kepolisian,\u0026quot; ujarnya.\u003c/p\u003e\n\n\u003cp\u003ePolitisi Partai Gerindra ini menjelaskan, Partai Demokrat pasti akan mengecek kabar tersebut. \u0026quot;Tentu saya rasa, teman-teman Partai Demokrat akan mengecek kebenaran ini. Akan melihat, apakah ini benar-benar beliau menggunakan narkoba atau tidak,\u0026quot; ujarnya\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Jadi, kami menunggu pengumuman resmi dari pihak Kepolisian dan juga kabar dari Demokrat. Kami serahkan sepenuhnya urusan ini ke Demokrat,\u0026quot; sambungnya.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eDitangkap bersama perempuan\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eSementara itu, pihak Kepolisian membenarkan, saat ditangkap Andi Arief tidak sendirian. Ia sedang bersama seorang perempuan yang identitasnya masih dirahasiakan.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Bersama dengan seorang wanita,\u0026quot; ucap Kabareskrim Polri, Komjen Pol Idham Azis, saat dikonfirmasi, Senin 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eBelum diketahui siapa sosok wanta itu. Dia ada di kamar hotel tempat Andi diciduk. Hingga kini, Andi sendiri masih ditahan. Dia masih diperiksa intensif. (asp)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/nasional/1126871-andi-arief-ditangkap-bpn-tunggu-informasi-resmi-polisi"
+    },
+    "request_path": "requests",
+    "title": "Andi Arief Ditangkap, BPN Tunggu Informasi Resmi Polisi",
+    "uuid": "0e38c8aa-3d04-39ed-97d1-a9a5cee2c312"
+}

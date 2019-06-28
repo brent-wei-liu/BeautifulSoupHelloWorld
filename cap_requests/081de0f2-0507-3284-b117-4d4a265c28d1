@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:29:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTKN Sebut Pidato AHY Lebih Baik dari Prabowo, Fadli Zon: Beda Konteks\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Wakil Ketua Umum Partai Gerindra Fadli Zon mengatakan, pidato antara Komandan Komando Satuan Tugas Bersama atau Kogasma Partai Demokrat Agus Harimurti Yudhoyono atau AHY dan calon presiden nomor urut 02, Prabowo Subianto tidak bisa dibandingkan. Karena, pidato keduanya membahas masalah yang berbeda.\u003c/p\u003e\n\n\u003cp\u003eHal itu dikemukakan Fadli, menanggapi pernyataan Sekretaris Tim Kampanye Nasional (TKN) Jokowi-Ma\u0026#39;ruf, Hasto Kristiyanto, yang menilai isi pidato AHY lebih baik dibanding apa yang disampaikan Prabowo.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Saya kira, kontennya sangat beda. Kalau Prabowo bicara negara dalam konteks besar, persoalan dalam konteks besar, dan bagaimana strategi mengatasinya. Jadi, saya kira, berbeda itu konteks dan tujuannya,\u0026quot; kata Fadli di Kompleks Parlemen, Senin 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eFadli menjelaskan, AHY berpidato dalam kapasitasnya sebagai pejabat partai. Sementara itu, Prabowo berpidato sebagai calon presiden yang menyoroti permasalahan rakyat dan cara mengatasinya.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kalau saudara AHY, bukan paslon dalam hal ini. Kalau pak Prabowo kan, sebagai paslon bicara ke depan. Jadi, kalau membandingkan itu saya kira tidak tepat. Karena, tujuannya beda, konteksnya juga beda,\u0026quot; kata Fadli.\u003c/p\u003e\n\n\u003cp\u003eDiberitakan sebelumnya, Sekretaris TKN Jokowi-Ma\u0026#39;ruf, Hasto Kristiyanto mengatakan, AHY menyampaikan pidatonya substantif dan runtut. \u0026quot;Pidato AHY tersebut, lebih baik daripada pidato politik Prabowo,\u0026quot; kata Hasto di sela Safari Kebangsaan IX, di Lampung, Minggu 3 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eKomandan Komando Satuan Tugas Bersama (Kogasma) Partai Demokrat, Agus Harimurti Yudhoyono, menyampaikan pidatonya pada Jumat malam, 1 Maret 2019. Pidato politik itu diberi judul \u0026#39;Rekomendasi Partai Demokrat kepada Presiden Indonesia Mendatang\u0026#39;. (asp)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/politik/1126813-tkn-sebut-pidato-ahy-lebih-baik-dari-prabowo-fadli-zon-beda-konteks"
+    },
+    "request_path": "requests",
+    "title": "TKN Sebut Pidato AHY Lebih Baik dari Prabowo, Fadli Zon: Beda Konteks",
+    "uuid": "081de0f2-0507-3284-b117-4d4a265c28d1"
+}

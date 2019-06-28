@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:00:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEl PP vuelve a ausentarse de la comisión de investigación de las universidades\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- El grupo parlamentario popular en la Asamblea de Madrid ha vuelto a ausentarse este lunes de la comisión de investigación de universidades que investiga las presuntas irregularidades en el Instituto de Derecho Público de la Universidad Rey Juan Carlos (URJC), en la que comparecen hoy el consejero de Educación, Rafael van Grieken, y el rector de la URJC, Javier Ramos.\nFuentes del PP han indicado a EFE que las razones por las que no ha acudido a esta sesión, al igual que en la primera de ellas, porque consideran que es \u0026quot;contraria al reglamento\u0026quot; de la Asamblea e incide \u0026quot;en cuestiones que invaden la autonomía universitaria\u0026quot;, como alertaba un informe que emitieron los letrados del Parlamento madrileño.\nAdemás, las mismas fuentes han criticado la \u0026quot;estigmatización\u0026quot; de la sesión del próximo miércoles, a la que está citada únicamente la expresidenta madrileña Cristina Cifuentes, y a la que previsiblemente, han avanzado, tampoco acudirán.\nCifuentes será la única compareciente en esta sesión, ya que la abstención del PSOE-M y el voto en contra del PP impidieron citar al líder del PP, Pablo Casado, y la exministra socialista de Sanidad Carmen Montón, como solicitaron Podemos y Ciudadanos en la reunión la Mesa y Portavoces de la comisión de investigación de universidades.\nA la sesión también ha acudido la exasesora de la Consejería de Educación María Teresa Feito, que presuntamente acudió a la URJC después de que saltaran a los medios las informaciones sobre las irregularidades del máster de Cristina Cifuentes.\nFeito no ha querido responder a las preguntas de los portavoces de la comisión de investigación del Parlamento madrileño al estar incurso el caso en un procedimiento judicial.\nEl exdirector de la Fundación para el Conocimiento Madri+D, Jesús Sánchez Martos, también está a citado este lunes a esta comisión, presidida por Ciudadanos, cuyo objetivo, es investigar y determinar la responsabilidades políticas que hubiese por \u0026quot;las presuntas irregularidades y trato de favor en el funcionamiento del Instituto de Derecho Público\u0026quot; de la URJC, así como en otras universidades públicas de Madrid y centros adscritos.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "El PP vuelve a ausentarse de la comisión de investigación de las universidades",
+    "uuid": "06fd672c-4194-3633-bdd4-cdbee9f9b25f"
+}

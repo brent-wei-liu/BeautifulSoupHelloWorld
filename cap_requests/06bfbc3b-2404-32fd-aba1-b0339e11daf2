@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:13:30Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e寵物療癒經濟夯　上海貓咖吸人氣（1） (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e甘露（圖）在上海開設的貓咖啡館，顧客可付費與店內10隻貓咪互動。隨著養寵物的中國人增多，寵物療癒也成為一門好生意。\u003c/p\u003e\n\u003cp\u003e中央社記者張淑伶上海攝　108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/e11144186bc2472cc00dd1862f2761d6\" width=\"630\" height=\"419\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "寵物療癒經濟夯　上海貓咖吸人氣（1） (圖)",
+    "uuid": "06bfbc3b-2404-32fd-aba1-b0339e11daf2"
+}

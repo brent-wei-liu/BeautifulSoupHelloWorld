@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:29:40Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAux européennes, Raffarin roulera pour Macron\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eL\u0026#39;ancien Premier ministre de Jacques Chirac approuve «le projet du président» pour l\u0026#39;Union européenne.\u003c/p\u003e\u003cp\u003eJean-Pierre Raffarin, ancien Premier ministre (2002-2005) de Jacques Chirac, annonce son soutien à Emmanuel Macron pour les élections européennes, dans un entretien publié lundi soir par «Le Figaro».\u003c/p\u003e\u003cp\u003e«Je ne dispose que du texte écrit par le président. Mais il s\u0026#39;agit du projet européen le plus abouti. J\u0026#39;adhère au constat, à la vision et au projet. C\u0026#39;est donc le projet du président que je soutiendrai sans aucune hésitation», a déclaré Jean-Pierre Raffarin au quotidien.\u003c/p\u003e\u003cp\u003eLe projet d\u0026#39;Emmanuel Macron, «c\u0026#39;est la trace de la France en Europe. L\u0026#39;intuition que nous avons eue avec Alain Juppé, après le discours de la Sorbonne d\u0026#39;Emmanuel Macron, se confirme aujourd\u0026#39;hui», développe l\u0026#39;ancien Premier ministre.\u003c/p\u003e\u003cp\u003ePourquoi ne pas soutenir la liste des Républicains (LR)? «L\u0026#39;action européenne est davantage entre les mains de l\u0026#39;exécutif, au Conseil européen, que dans celle des partis. Aujourd\u0026#39;hui, affaiblir le président français, c\u0026#39;est affaiblir la France. Il ne s\u0026#39;agit pas pour moi d\u0026#39;un engagement de politique intérieure, mais d\u0026#39;une réponse à la menace de déconstruction qui pèse sur l\u0026#39;Union européenne», répond Jean-Pierre Raffarin.\u003c/p\u003e\u003cp\u003eLe président de LR Laurent Wauquiez a écrit à l\u0026#39;ancien Premier ministre pour lui demander de faire connaître sa position et de s\u0026#39;expliquer devant le bureau politique du parti, instance dont il est membre de droit. «Je ne veux participer à aucune mise en scène partisane. J\u0026#39;ai toujours été ouvert au débat. Je suis prêt à toutes les discussions, mais pas à leur théâtralisation», répond l\u0026#39;intéressé.\u003c/p\u003e\u003ch2\u003e\u0026quot;Il ne s\u0026#39;agit pas d\u0026#39;adhérer à LREM\u0026quot;\u003c/h2\u003e\u003cp\u003eSoutien d\u0026#39;Alain Juppé lors de la primaire de la droite, théoricien de la «droite constructive» après l\u0026#39;élection d\u0026#39;Emmanuel Macron, Jean-Pierre Raffarin souhaite «une personnalité(...)\u003c/p\u003e\u003cbr/\u003e\u003ca href=\"https://www.parismatch.com/Actu/Politique/Aux-europeennes-Raffarin-roulera-pour-Macron-1610398#xtor=AL-23\"\u003eLire la suite sur Paris Match\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.parismatch.com/Actu/Politique/Aux-europeennes-Raffarin-roulera-pour-Macron-1610398#xtor=AL-23"
+    },
+    "request_path": "requests",
+    "title": "Aux européennes, Raffarin roulera pour Macron",
+    "uuid": "090ca27b-7f22-3405-8968-7cecbf3a3bf3"
+}

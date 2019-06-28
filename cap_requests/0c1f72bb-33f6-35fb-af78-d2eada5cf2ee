@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:46:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePutin firma el decreto que suspende el tratado de desarme INF con EEUU\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMoscú, 4 mar (EFE).- El presidente de Rusia, Vladímir Putin, firmó hoy el decreto que suspende la aplicación del tratado INF sobre la eliminación de misiles de medio y corto alcance suscrito en 1987 con EEUU, informó hoy el Kremlin.\nEl mandatario justificó la firma del decreto en \u0026quot;la necesidad de tomar medidas inmediatas en relación a la violación por parte de EEUU de sus obligaciones bajo el tratado (firmado) entre la Unión de las Repúblicas Socialistas Soviéticas y los Estados Unidos de América\u0026quot;.\nIndicó que suspende el que fue el primer tratado de desarme nuclear de la Guerra Fría \u0026quot;hasta que EEUU deje de violar las obligaciones del INF o, en su caso, hasta su terminación\u0026quot; definitiva.\nPutin anunció el pasado 2 de febrero la suspensión del tratado -que prohíbe misiles con carga nuclear o convencional de un radio de acción de entre 500 y 5.500 kilómetros- en respuesta a la idéntica medida tomada un día antes por EEUU.\nAmbos países se han acusado mutuamente del incumplimiento del INF y, tras unos contactos infructuosos entre representantes de EEUU y de Rusia en Ginebra y en Pekín, Washington anunció finalmente el 1 de febrero que abandonará el tratado en un plazo de seis meses.\nPreviamente, el secretario de Estado de EEUU, Mike Pompeo, había dado en diciembre un plazo de 60 días a Rusia para que volviera a cumplir el tratado.\nEEUU y la OTAN han exigido a Rusia que destruya el misil de crucero Novator 9M729 (SSC-8, según la clasificación de la OTAN), al considerar que supera los 500 kilómetros de alcance.\nMientras, Rusia consideraba \u0026quot;inadmisible\u0026quot; la petición y argumentó que el Novator tiene un alcance de sólo 480 kilómetros, por lo que se enmarca dentro del tratado.\nRusia, a su vez, acusó a EEUU de haber empezado a preparar el terreno para abandonar el INF hace casi dos años, cuando comenzaron las labores para la fabricación de misiles de corto y medio alcance en una de sus plantas militares del estado de Arizona.\nEEUU no solo considera que Moscú viola el tratado, sino que el INF ha quedado obsoleto en general, pues otros países como China, Irán y Corea del Norte fabrican armas nucleares de rango medio y no forman parte del tratado. EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Putin firma el decreto que suspende el tratado de desarme INF con EEUU",
+    "uuid": "0c1f72bb-33f6-35fb-af78-d2eada5cf2ee"
+}

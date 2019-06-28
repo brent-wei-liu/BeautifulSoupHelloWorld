@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:25:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e翠華公布新管理層人事任命　集團主席兒子將出任行政總裁\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e翠華控股﹙1314﹚宣布多項新管理層人事任命，其中現任行政總裁彭烱豪將於今年6月1日起卸任，改由集團主席李遠康兒子接任。\u003c/p\u003e\u003cp\u003e翠華稱，彭烱豪獲留任集團「至尊到會」業務的董事總經理，自2019年6月1日起生效。 另外，集團首席財務官楊東亦自今年4月1日起卸任，但獲委任為集團非執行董事。\u003c/p\u003e\u003cp\u003e其他人事變動方面， 李倩盈將獲委任為執行董事及供應鏈總經理，均自2019年6月1日起生效。現任中國地區首席執行官唐錦雄將獲委任為集團首席運營官，自2019年6月1日起生效，並將繼續出任中國地區首席執行官。\u003c/p\u003e\u003cp\u003e現為翠華執行董事的李祉鍵稱，自己服務集團超過11年，並曾擔任不同的崗位，由市場推廣、店舖規劃、業務發展以至近年的新品牌發展等，與集團一同成長。\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.hk01.com/sns/article/301762?utm_campaign=yahooexchange2018\u0026#38;utm_source=contentlink\u0026#38;utm_medium=referral\"\u003e點擊瀏覽《香港01》更多內容和圖集\u003c/a\u003e\u003cbr /\u003e\u003cbr /\u003e你可能感興趣： \u003cbr /\u003e\u003ca href=\"https://www.hk01.com/sns/article/295991?utm_campaign=yahooexchange2018\u0026#38;utm_source=relatedlink\u0026#38;utm_medium=referral\"\u003e網民熱數7間遊客必食　但港人已少去餐廳　點心、牛腩、曲奇？\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://www.hk01.com/sns/article/281886?utm_campaign=yahooexchange2018\u0026#38;utm_source=relatedlink\u0026#38;utm_medium=referral\"\u003e菌汁譯Washroom Sauce　翠華認錯請食飯　 網民讚「高汁」處理\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.hk01.com/sns/article/301762?utm_campaign=yahooexchange2018\u0026utm_source=contentlink\u0026utm_medium=referral"
+    },
+    "request_path": "requests",
+    "title": "翠華公布新管理層人事任命　集團主席兒子將出任行政總裁",
+    "uuid": "068caaf4-9e29-398a-8ed5-7b4c5d6c9bd3"
+}

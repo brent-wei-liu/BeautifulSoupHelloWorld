@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:12:31Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eUSA slår sammen ambassade og konsulat i Jerusalem\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMandag slås det amerikanske konsulatet og ambassaden i Jerusalem sammen til én enhet.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.aftenposten.no/verden/i/P3kR5J/USA-slar-sammen-ambassade-og-konsulat-i-Jerusalem#xtor=RSS-3"
+    },
+    "request_path": "requests",
+    "title": "USA slår sammen ambassade og konsulat i Jerusalem",
+    "uuid": "06178a5e-c0b0-3360-b9ee-0e11c43e910e"
+}

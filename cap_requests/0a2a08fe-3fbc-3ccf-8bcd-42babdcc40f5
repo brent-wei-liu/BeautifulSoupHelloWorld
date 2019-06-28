@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:49:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLascia un\u0026#039;offerta con la scritta: \u0026quot;Italiani in primis, stranieri per ultimi\u0026quot;. Il parroco: \u0026quot;Se la riprenda\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"https://media.zenfs.com/it/huffpost_it_483/5f992bc783310d283becae7afb7116e9\" alt=\"\"/\u003e\u003cp\u003eUna persona lascia una busta con un\u0026#39;offerta per i poveri, accompagnandola con l\u0026#39;invito a darla agli \u0026quot;italiani in primis\u0026quot; e \u0026quot;gli stranieri per ultimi\u0026quot;, e il parroco lo invita a riprendersela perché si tratta di \u0026quot;slogan che non hanno niente a che fare con la fede\u0026quot;.\u003c/p\u003e\u003cp\u003eIl fatto è stato rivelato da don Gino Cicutto, a capo della collaborazione pastorale di San Nicolò e San Marco a Mira (Venezia), sul foglio parrocchiale che ospita i suoi \u0026quot;appunti\u0026quot; settimanali.\u003c/p\u003e\u003cp\u003e\u0026quot;Quanto era scritto sulla busta - scrive don Cicutto - mi ha profondamente amareggiato e umiliato. C\u0026#39;era scritto: \u0026#39;Pro anziani, malati, al freddo o alla fame, italiani da sempre, in primis! Gli stranieri per ultimi!\u0026#39;. Queste parole ripropongono slogan che siamo abituati a sentire, ma non hanno niente a che fare con la fede e la vita cristiana che considera i più poveri tra i primi, senza guardare il colore della pelle o la provenienza\u0026quot;, sottolinea.\u003c/p\u003e\u003cp\u003eSecondo don Gino \u0026quot;la persona che ha scritto queste parole deve interrogarsi seriamente sul suo essere cristiano, e se non è d\u0026#39;accordo su quello che è la vera carità, può passare per la canonica a riprendersi la sua \u0026#39;offerta\u0026#39;; eventualmente può consegnarla a chi la pensa come lui - conclude - ma non deporla davanti al Signore\u0026quot;.\u003c/p\u003e\u003ca href=\"https://www.huffingtonpost.it/2019/03/04/lascia-unofferta-con-la-scritta-italiani-in-primis-stranieri-per-ultimi-il-parroco-se-la-riprenda_a_23683389/?ncid=yhpf\"\u003eContinua a leggere su HuffPost\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.huffingtonpost.it/2019/03/04/lascia-unofferta-con-la-scritta-italiani-in-primis-stranieri-per-ultimi-il-parroco-se-la-riprenda_a_23683389/?ncid=yhpf"
+    },
+    "request_path": "requests",
+    "title": "Lascia un\u0026#039;offerta con la scritta: \u0026quot;Italiani in primis, stranieri per ultimi\u0026quot;. Il parroco: \u0026quot;Se la riprenda\u0026quot;",
+    "uuid": "0a2a08fe-3fbc-3ccf-8bcd-42babdcc40f5"
+}

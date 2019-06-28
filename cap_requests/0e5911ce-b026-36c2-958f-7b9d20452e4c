@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:09:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eYoung Detective Dee: Rise Of The Sea Dragon\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eThe young Dee Renjie arrives in the Imperial Capital, intent to become an officer of the law. Empress Wu, who is at the start of her reign, has sent the fiery-haired Detective Yuchi to investigate a sea monster that stalks the city at night. Dee and doctor Shatuo  discover that the upper reaches of society, including the Emperor himself, are addicted to a poisonous tea produced by Yuan\u0026#39;s famous teahouse. The sea monster reappears. As the two men are about to kill it, a real sea dragon rises from the deep.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/media/1164264070\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Young Detective Dee: Rise Of The Sea Dragon",
+    "uuid": "0e5911ce-b026-36c2-958f-7b9d20452e4c"
+}

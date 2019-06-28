@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:02:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVIDEO. Europe1: En colère, Bernard Tapie quitte le studio en pleine interview\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cstrong\u003eMEDIAS - Ce lundi matin, Bernard Tapie n\u0026#39;a pas apprécié qu\u0026#39;Audrey Crespo-Mara lui pose des questions sur son ancien collaborateur Marc Fratani. La journaliste assure que son invité savait que le sujet serait abordé\u003c/strong\u003e\nIl s’est mis hors-jeu face à Audrey Crespo-Mara. Invité d’\u003ca href=\"https://www.20minutes.fr/medias/europe1/\"\u003eEurope 1\u003c/a\u003e ce lundi matin, \n\u003ca href=\"https://www.20minutes.fr/dossier/bernard_tapie\"\u003eBernard Tapie\u003c/a\u003e n’a pas apprécié que la journaliste évoque Marc Fratani, son ancien collaborateur \n\u003ca href=\"https://www.lemonde.fr/politique/article/2019/03/02/l-ex-lieutenant-de-bernard-tapie-marc-fratani-regle-ses-comptes_5430602_823448.html?utm_campaign=Lehuit\u0026utm_medium=Social\u0026utm_source=Twitter\" target=\"_blank\" rel=\"nofollow\"\u003equi l’accuse d\u0026#39;avoir acheté un arbitre dans les années 1990\u003c/a\u003e alors qu’il était propriétaire de l’Olympique de Marseille.\n\n« J’ai demandé à la Ligue, par l’intermédiaire de mon avocat, qu’ils le convoquent pour qu’il dise qui, a-t-il répliqué. Parce que s’il y a un arbitre qui a accepté d’être acheté pour un match, il faut le savoir. Vous vous rendez compte, c’est trop grave. » Bernard Tapie a précisé qu’il allait « évidemment » porter plainte contre Marc Fratani.\n\nAudrey Crespo-Mara a alors relancé son invité sur le sujet, provoquant sa colère. « Si on passe la matinée pour parler de ce que Fratani a dit, je me lève et je vous laisse toute seule. On est d’accord ? Je suis venu parler de mon procès et de ce qui se passe dans le pays. S’il n’y a que ça qui vous intéresse, moi ça ne m’intéresse pas », a-t-il lancé avant de se lever et de quitter le studio.\n\n« Assez malhonnête »\n\n« Bernard Tapie, c’est ridicule, franchement », a déploré l’intervieweuse tentant de le faire revenir au micro. Pour elle, l’ex-homme d’affaires a voulu « faire un coup ».\n\nBernard Tapie refuse de répondre aux nouvelles accusations de Marc Fratani et quitte le studio d\u0026#39;Europe 1 : \u0026quot;Il a accepté l’invitation en sachant qu’on en p (...) \u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/arts-stars/medias/2464415-20190304-video-europe1-colere-bernard-tapie-quitte-studio-pleine-interview?xtor=RSS-176\"\u003eLire la suite sur 20minutes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eÀ lire aussi :\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/arts-stars/medias/2423619-20190115-audiences-radio-rtl-garde-tete-europe-1-toujours-recul\"\u003eAudiences radio: RTL garde la tête, Europe 1 toujours en recul\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/arts-stars/medias/2459307-20190225-homo-accent-maghreb-cnil-epingle-europe-1-fichage-auditeurs\"\u003e«Homo», «accent du Maghreb»... La Cnil épingle Europe 1 pour le fichage de ses auditeurs\u003c/a\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.20minutes.fr/arts-stars/medias/2464415-20190304-video-europe1-colere-bernard-tapie-quitte-studio-pleine-interview?xtor=RSS-176"
+    },
+    "request_path": "requests",
+    "title": "VIDEO. Europe1: En colère, Bernard Tapie quitte le studio en pleine interview",
+    "uuid": "0678afa2-5a0f-3c8f-a399-b058cfb749b8"
+}

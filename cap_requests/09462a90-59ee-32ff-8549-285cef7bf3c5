@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T20:48:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSerán sancionadas las autoridades\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/es-US/homerun/notimex.com.mx/24d8993e70e26d0c67fc2892fc6cd8ae\" border=\"0\" hspace=\"5\" vspace=\"5\" alt=\"90303143.jpg\"\n title=\"Ser\u0026#xe1;n sancionadas las autoridades \"\u003e\u003cbr\u003e\u003ca href=\"/es/descargarFoto/503332\" class=\"btn btn-primary\"\u003eDescargar\u003c/a\u003e\u003cbr\u003e90303143. Naucalpan, 3 Mar 2019 (Notimex- Especial).- Los municipios y autoridades estatales que no cumplan con las medidas que implica la Alerta de Género, podrían ser sancionados, señaló la diputada de Ecatepec, Azucena Cisneros Coss, tras denunciar que la desaparición de niñas y mujeres en el Estado de México se ha incrementado.\nNOTIMEX/FOTO/ESPECIAL/COR/ACE/\n\u003cp\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.notimex.gob.mx/ntxfotos/503332"
+    },
+    "request_path": "requests",
+    "title": "Serán sancionadas las autoridades",
+    "uuid": "09462a90-59ee-32ff-8549-285cef7bf3c5"
+}

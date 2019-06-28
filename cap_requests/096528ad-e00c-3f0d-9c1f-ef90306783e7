@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:04:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDuterte quiere rebautizar Filipinas para borrar la connotación colonial española\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eManila, 4 mar (EFE).- El presidente de Filipinas, Rodrigo Duterte, expresó su intención de cambiar el nombre del país para eliminar su connotación colonial, ya que el archipiélago fue bautizado así en 1543 en honor al entonces futuro rey de España Felipe II.\n\u0026quot;No tengo un nombre particular todavía, pero me gustaría cambiarlo porque se debe al rey Felipe de España\u0026quot;, explicó anoche Duterte en un acto en la provincia sureña de Basilan, aunque hace un par de semanas sugirió rebautizar el país como Maharlika, que hace referencia al pasado prehispánico de Filipinas.\nMaharlika era el término malayo que aludía a las primeras civilizaciones feudales que habitaron la isla de Luzón, la más extensa de Filipinas, antes de la colonización de los españoles, que se prolongó más de tres siglos, hasta 1898.\n\u0026quot;Ha pasado ya mucho tiempo. Hay muchos otros nombres. En Mindanao o Luzón no queda islam, fuimos convertidos brutalmente. Mataron (los españoles) a todo aquel que no quería ser cristiano\u0026quot;, señaló el mandatario, según la transcripción de su discurso difundida hoy.\nEl fallecido dictador filipino Ferdinand Marcos, del que Duterte es admirador declarado, también intentó durante su extenso mandato modificar la denominación actual del país por Maharlika.\nSegún Duterte, el nombre de Filipinas, ligado a la herencia hispánica y cristina, discrimina a la comunidad musulmana filipina, que se concentra principalmente en la isla sureña de Mindanao.\nLa actual Constitución de 1987 permite cambiar el nombre del país si el Congreso se pone de acuerdo y luego se ratifica en un referéndum por una mayoría de la población.\nEl presidente de Filipinas, Rodrigo Duterte, en un acto el pasado mes de febrero. EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Duterte quiere rebautizar Filipinas para borrar la connotación colonial española",
+    "uuid": "096528ad-e00c-3f0d-9c1f-ef90306783e7"
+}

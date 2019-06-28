@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:40:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美中貿易衝突可望緩和 日經指數收高逾1%\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社東京2019年3月4日綜合外電報導）投資人期待美國和中國將避免貿易摩擦升溫，加上日圓匯價走貶支撐市場買氣，東京股市今天收盤應聲上漲超過1%。\u003c/p\u003e\u003cp\u003e日經225指數收盤勁揚219.35點或1.02%，收21822.04點。東證一部指數上揚11.87點或0.73%，收1627.59點。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "美中貿易衝突可望緩和 日經指數收高逾1%",
+    "uuid": "0b3afd95-7b42-30a3-9131-c615c26f3bc2"
+}

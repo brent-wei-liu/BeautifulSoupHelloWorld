@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:12:29Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAngel Karamoy Senang Kerja Sama dengan Jose Purnomo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/6352c792d737e39b8cf5b1be3dea5b5f\" title=\"[Fimela] Angel Karamoy\" alt=\"Begitu juga saat hadir dalam gala premiere film terbarunya Reva Guna Guna yang disutradarai Jose Purnomo yang digelar di kawasan Thamrin. (Nurwahyunan/Fimela.com)\"\u003e\u003cp\u003eBegitu juga saat hadir dalam gala premiere film terbarunya Reva Guna Guna yang disutradarai Jose Purnomo yang digelar di kawasan Thamrin. (Nurwahyunan/Fimela.com)\u003c/p\u003e\n\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/2b28c3f31941b30be7371430f40b7fa9\" title=\"[Fimela] Angel Karamoy\" alt=\"\"\u003e\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/8cfdf2ee4eaae672fab9535695da546f\" title=\"[Fimela] Angel Karamoy\" alt=\"Dalam film besutan Jose, Angel menjadi pemeran utama. Ibu dua anak itu berperan sebagai Reva. Baginya, ini merupakan kali pertamanya kerja sama dengan Jose. (Nurwahyunan/Fimela.com)\"\u003e\u003cp\u003eDalam film besutan Jose, Angel menjadi pemeran utama. Ibu dua anak itu berperan sebagai Reva. Baginya, ini merupakan kali pertamanya kerja sama dengan Jose. (Nurwahyunan/Fimela.com)\u003c/p\u003e\n\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/b36f5850fd5b27a36594d753c64ef60f\" title=\"[Fimela] Angel Karamoy\" alt=\"Mantan istri Steve Rumangkang itu mengaku senang terlibat kerja bareng dengan sutradara Jose. Selama bekerja sama, ia melihat sosok yang tegas sebagai sutradara. (Nurwahyunan/Fimela.com)\"\u003e\u003cp\u003eMantan istri Steve Rumangkang itu mengaku senang terlibat kerja bareng dengan sutradara Jose. Selama bekerja sama, ia melihat sosok yang tegas sebagai sutradara. (Nurwahyunan/Fimela.com)\u003c/p\u003e\n\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/4fd5ff84b837e429111cb2e0cfac5ef8\" title=\"[Fimela] Angel Karamoy\" alt=\"\"\u003e\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/845be48597c35c8a9746af1db1924b6b\" title=\"[Fimela] Angel Karamoy\" alt=\"Bermain dalam genre horor juga menjadi pengalaman pertamanya. Salah satu yang menjadi pertimbangan mengambil film horor tersebut juga karena besutan sutradara Jose. (Nurwahyunan/Fimela.com)\"\u003e\u003cp\u003eBermain dalam genre horor juga menjadi pengalaman pertamanya. Salah satu yang menjadi pertimbangan mengambil film horor tersebut juga karena besutan sutradara Jose. (Nurwahyunan/Fimela.com)\u003c/p\u003e\n\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/90e7bab4e65cda9dede70359c5001a76\" title=\"[Fimela] Angel Karamoy\" alt=\"\"\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.fimela.com/news-entertainment/read/3908885/angel-karamoy-senang-kerja-sama-dengan-jose-purnomo?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Angel Karamoy Senang Kerja Sama dengan Jose Purnomo",
+    "uuid": "01f99cd8-a47f-3ae2-9dad-3a633f18a35b"
+}

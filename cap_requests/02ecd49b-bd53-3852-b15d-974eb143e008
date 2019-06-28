@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:50:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e讀者雜誌 3月號值得細細品味\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e旺報【（陳明潔）】\n台北故宮博物院前副院長李霖燦，以故宮名畫談《忙迫與從容》，他說南宋范安仁的《魚?圖卷》令他想到莊子與惠子的濠梁之樂，齊白石畫三條小魚的《三魚圖》，題曰：畫者工之餘，詩者睡之餘，壽者劫之餘，真是妙喻，他導讀了許多國畫和詩詞裡不疾不徐的閒適風采，值得詳讀3月號《讀者》該文，再往故宮印證之。\n3月號《讀者》名家選文還有：席慕蓉在《十字路口》看著少女和婦人的人生感觸；李舒寫張愛玲的《獨居指南》，卡生報導《選擇獨居的年輕人》，關山遠寫歷史上《皇族的血統》，李舒則寫《皇家宴》，邏輯思維創始人羅振宇寫《體驗管理的作用》和《性格缺陷》。\n世界發行量第四大的《讀者》雜誌，每本80元，在誠品等各大書店和網路書店販售。函附20元回郵，免費試閱《讀者》精選期刊一本，電話：（02）2702-8599。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "讀者雜誌 3月號值得細細品味",
+    "uuid": "02ecd49b-bd53-3852-b15d-974eb143e008"
+}

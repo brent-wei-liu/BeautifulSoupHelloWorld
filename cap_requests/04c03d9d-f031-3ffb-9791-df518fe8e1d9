@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKort sagt, tirsdag 5. mars\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eStrøm. Kvinner i samfunnsdebatten. Dette er dagens kortinnlegg.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.aftenposten.no/meninger/debatt/i/oRqwn7/Kort-sagt_-tirsdag-5-mars#xtor=RSS-3"
+    },
+    "request_path": "requests",
+    "title": "Kort sagt, tirsdag 5. mars",
+    "uuid": "04c03d9d-f031-3ffb-9791-df518fe8e1d9"
+}

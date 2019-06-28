@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:22:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eConfirman que Keith Flint, cantante de The Prodigy, se suicidó\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eLondres, 4 mar (EFE).- Liam Howlett, miembro de la banda The Prodigy, confirmó este lunes que la muerte de su colega Keith Flint, cantante de la formación, ha sido un suicidio.\nHowlett señaló en el perfil oficial de Instagram del grupo británico que Flint \u0026quot;se quitó la vida\u0026quot;, después de que la policía de Essex (este de Inglaterra) informara esta mañana de que había encontrado muerto al cantante, de 49 años, en su domicilio.\n\u0026quot;Estoy conmocionado ....cabreado, confuso y con el corazón roto\u0026quot;, escribió el compositor de The Prodigy.\nLas autoridades fueron alertadas esta mañana en torno a las 8:10 GMT y cuando llegaron a la vivienda del cantante, ubicada en la ciudad de Dunmow, encontraron a Flint muerto.\n\u0026quot;La muerte no está siendo tratada como sospechosa y se está preparando un informe para el forense\u0026quot;, indicó en ese momento la policía, antes de que Howlett asegurara que se trata de un suicidio.\nLa banda expresó en un comunicado su \u0026quot;profundo shock y tristeza\u0026quot; por el fallecimiento de Flint, al que calificó de \u0026quot;un pionero, innovador y leyenda\u0026quot;.\n\u0026quot;Le echaremos siempre de menos\u0026quot;, agregaron los otros dos integrantes de la formación, Howlett y Maxim (vocalista).\nEl cantante de aspecto punk acababa de regresar al Reino Unido de una gira por Australia y en mayo tenía previsto un tour por Estados Unidos.\nThe Prodigy sacó en 2018 su séptimo álbum, \u0026quot;No Tourists\u0026quot; y es conocido por su fusión de tecno con breakbeat y house.\nFotografía de archivo tomada el 10 de julio de 2015 al cantante Keith Flint, de los Prodigy, durante el Festival Alive en Oeiras (Portugal). EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Confirman que Keith Flint, cantante de The Prodigy, se suicidó",
+    "uuid": "0e41b9eb-fcf4-3fcd-a0c3-17d88b052244"
+}

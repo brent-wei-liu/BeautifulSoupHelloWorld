@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:01:12Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e星國情侶涉棄嬰案 法務部：可個案司法互助\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社記者劉世怡台北4日電）新店女嬰棄屍案鑑驗結果指向新加坡情侶涉案，但他們已離台；法務部官員今天指出，雖然未與新加坡簽定司法互助協定，但依照兩國各自司法互助法，可以請求就個案相關證據交換。\u003c/p\u003e\n\u003cp\u003e新北市一家環保公司員工2月26日清理車上廚餘時，赫然發現黑色垃圾袋中有一具女嬰屍體，立即報警處理。檢警鎖定一對新加坡籍的男女疑是女嬰父母，兩人於2月19日入境，住台北市武昌街二段的飯店，2月26日當天辦理退房，當天下午離境，搭機返回新加坡。\u003c/p\u003e\n\u003cp\u003e檢警偵辦後，發現許多關鍵證據直指這對新加坡情侶涉案，將他們暫列關係人。新加坡媒體報導，男子的父母受訪提到，兒子女友沒有懷孕生產，兒子宣稱完全不知道發生什麼事情。\u003c/p\u003e\n\u003cp\u003e警方鑑識人員在新加坡情侶居住的飯店浴室排水孔，採集到血跡反應，送往新北市警察局刑事鑑識中心鑑驗，結果今天出爐，證實與女嬰DNA相符。\u003c/p\u003e\n\u003cp\u003e檢察官與法醫明天也將對女嬰進行解剖，了解女嬰是產前或產後死亡，檢方在釐清死因後，不排除透過法務部國際及兩岸法律司，向新加坡提出司法互助請求，請星國警方協助調查，希望取得當事人DNA供比對，以及當事人供述。\u003c/p\u003e\n\u003cp\u003e法務部國際及兩岸法律司官員今天指出，形式上雖與新加坡之間沒有簽定司法互助協定以及引渡條約，不過依照中華民國的國際刑事司法互助法以及新加坡的刑事司法互助法，將可以請求對方就個案相關證據做交換。\u003c/p\u003e\n\u003cp\u003e這名官員也指出，法務部國際及兩岸法律司為一個窗口平台，協助檢察官做司法互助，目前本件個案情形，是否提出司法互助以及請求內容，均由偵辦的北檢檢察官決定，不方便說明。（編輯：張銘坤）1080304\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e相關新聞影音\u003cstrong\u003e\u003ciframe src=\"https://tw.news.yahoo.com/video/\u0026#x005973;\u0026#x005b30;dna\u0026#x005831;\u0026#x00544a;\u0026#x0051fa;\u0026#x007210;-\u0026#x008207;\u0026#x00661f;\u0026#x00570b;\u0026#x0060c5;\u0026#x004fb6;\u0026#x008840;\u0026#x008de1;\u0026#x0076f8;\u0026#x007b26;-044003311.html?format=embed\u0026amp;region=TW\u0026amp;lang=zh-Hant-TW\u0026amp;site=news\u0026amp;player_autoplay=false\" width=\"630\" height=\"354\" frameborder=\"0\" data-yom-embed-source=\"{media_id_1:03f8018f-594f-3dbd-bdb2-2ac8887ee70d}\"\u003e\u003c/iframe\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "星國情侶涉棄嬰案 法務部：可個案司法互助",
+    "uuid": "02830865-e5bb-382f-ab6c-590b34958cc1"
+}

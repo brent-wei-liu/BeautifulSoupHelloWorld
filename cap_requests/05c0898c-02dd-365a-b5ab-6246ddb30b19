@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:21:27Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDéconcentration ou décentralisation : comment choisir le bon dosage pour garantir libertés ET efficacité ?\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003ch3 class=\"s2\"\u003eAtlantico : Alors que le Grand Débat national a réuni Emmanuel Macron et Alain Juppé à Bordeaux, les deux hommes proposent une vision différente concernant les collectivités locales. Si Emmanuel Macron se prononce en faveur de la \u0026quot;déconcentration\u0026quot;, Alain Juppé appelle à plus de décentralisation. Comment distinguer les deux notions, et quelles sont les logiques qui peuvent gouverner cette différence d\u0026#39;approche ? \u003c/h3\u003e\n\n\u003cp\u003e\u003cstrong\u003eDidier Maus\u003c/strong\u003e : Les deux expressions « décentralisation » et « déconcentration » font partie du vocabulaire politique et administratif d’un pays a priori centralisé. D’un point de vue strictement juridique, la décentralisation consiste à transférer des responsabilités du pouvoir central vers des responsables locaux élus (assemblées locales) tandis que la déconcentration se caractérise par un transfert à l’intérieur du pouvoir de l’État du gouvernement central vers les préfets. Dans les deux cas, il y a un renforcement du local par rapport au national, mais dans un cas au profit d’autorités disposants d’une légitimité politique, dans l’autre vers des responsables nommés par le gouvernement.\u003c/p\u003e\n\n\u003cp\u003eIl est évident que ces deux approches ne sont pas identiques. La décentralisation, c’est un renforcement de l’autonomie locale (communes et leurs groupements, départements et régions) tandis que l’autorité déconcentrée demeure sous l’autorité du pouvoir parisien.\u003c/p\u003e\n\n\u003cp\u003eLa France se caractérise, depuis la Révolution, par une forte centralisation politique et administrative (laquelle ne fait que prendre la suite de l’Ancien régime), mais la « grande » loi de 1884 sur les communes affirme un principe de décentralisation en précisant que « le conseil municipal règle pars ses délibérations les affaires de la commune », formule qui est toujours en vigueur. Les réformes de 1982, sous François Mitterrand et Gaston Defferre, et de 2003, avec Jacques Chirac et Jean-Pierre Raffarin, ont nettement renforcé la décentralisation, à la fois en ce qui concerne les départements et les régions, (...)\u003ca rel=\"nofollow\" href=\"https://www.atlantico.fr/decryptage/3567345/deconcentration-ou-decentralisation--comment-choisir-le-bon-dosage-pour-garantir-libertes-et-efficacite--didier-maus?yahoo=1\"\u003e\u003cstrong\u003elire la suite sur Atlantico\u003c/strong\u003e\u003cbr/\u003e\u003c/a\u003e\u003c/p\u003e  \u003cbr/\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Déconcentration ou décentralisation : comment choisir le bon dosage pour garantir libertés ET efficacité ?",
+    "uuid": "05c0898c-02dd-365a-b5ab-6246ddb30b19"
+}

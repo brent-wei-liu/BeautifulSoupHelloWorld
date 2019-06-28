@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:05:21Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《集中市場》集中市場12:00，指數10337.47點，成交值960.77億元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報-台北電】台北股市集中市場12:00，加權指數10337.47點，跌51.7點；總計426家漲、415家跌、113家持平；委買21630809張、委賣10073890張；總成交值960.77億元。\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《集中市場》集中市場12:00，指數10337.47點，成交值960.77億元",
+    "uuid": "07bff69f-0bed-31e1-a00a-028ab8e0080a"
+}

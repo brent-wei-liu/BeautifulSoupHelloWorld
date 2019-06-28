@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:22:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eΜία φάλαινα τους έκανε μούσκεμα! (video)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eTo OMG - αγαπημένη έκφραση των εφήβων που μεταφράζεται Oh my God (Ω! Θεέ μου...) - εν προκειμένω δικαιολογειται. \u003c/p\u003e\u003cp\u003eΕνα γκρουπ από τουρίστες πάνω σε ένα μικρό σκάφος πετυχαίνει μία φάλαινα στα κέφια της. Παίζει σαν δελφίνι! Και ακολουθεί η μεγαλειώδης βουτιά στον αέρα που θα δείτε. Με τη διαφορά, ότι καταλήγει σηκώνοντας ένα κύμα μεγαλύτερο από το σκάφος...\u003c/p\u003e\u003cp\u003eΟι φυσιολάτρες του I love nature ανέβασαν το βίντεο στο Twitter χθες.\u003c/p\u003e\u003cblockquote class=\"twitter-tweet\"\u003e\u003cp lang=\"und\" dir=\"ltr\"\u003eOMG 😲 \u003ca href=\"https://t.co/XR4Na1rGoL\"\u003epic.twitter.com/XR4Na1rGoL\u003c/a\u003e\u003c/p\u003e— I_love_nature (@i_iove_nature) \u003ca href=\"https://twitter.com/i_iove_nature/status/1102214568108064768?ref_src=twsrc%5Etfw\"\u003eMarch 3, 2019\u003c/a\u003e\u003c/blockquote\u003e\u003ch3 class=\"related-entries__head\"\u003eΠΡΙΝ ΦΥΓΕΤΕ...\u003c/h3\u003e\u003cul class=\"related-entries__list\"\u003e\u003cli class=\"related-entries__list__item yr-related-entry\"\u003e\u003ca class=\"related-entries__image\" href=\"https://www.huffingtonpost.gr/entry/trela-ste-nea-eorke-to-manchatan-apokta-te-dike-toe-paralia_gr_5c7bd352e4b0e1f7765293ef?ncid=other_huffpostre_pqylmel2bk8\u0026amp;utm_campaign=related_articles\"\u003e\u003cimg class=\"related-entries__image__src\" src=\"https://media.zenfs.com/el/huffpost_gr_317/fbeb99bb85954672669c9d58b2f409e0\" alt=\"\"/\u003e\u003c/a\u003e\u003ca class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.gr/entry/trela-ste-nea-eorke-to-manchatan-apokta-te-dike-toe-paralia_gr_5c7bd352e4b0e1f7765293ef?ncid=other_huffpostre_pqylmel2bk8\u0026amp;utm_campaign=related_articles\"\u003e\n                        Τρέλα στη Νέα Υόρκη: To Μανχάταν αποκτά τη δική του παραλία\n                    \u003c/a\u003e\u003c/li\u003e\u003cli class=\"related-entries__list__item yr-related-entry\"\u003e\u003ca class=\"related-entries__image\" href=\"https://www.huffingtonpost.gr/entry/aeto-einai-to-chaideetiko-onoma-tes-priykipissas-sarlot_gr_5c7be58ee4b0e5e313cb8ddc?ncid=other_huffpostre_pqylmel2bk8\u0026amp;utm_campaign=related_articles\"\u003e\u003cimg class=\"related-entries__image__src\" src=\"https://media.zenfs.com/el/huffpost_gr_317/2e3f286d7403410536949142f113004c\" alt=\"\"/\u003e\u003c/a\u003e\u003ca class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.gr/entry/aeto-einai-to-chaideetiko-onoma-tes-priykipissas-sarlot_gr_5c7be58ee4b0e5e313cb8ddc?ncid=other_huffpostre_pqylmel2bk8\u0026amp;utm_campaign=related_articles\"\u003e\n                        Αυτό είναι το χαϊδευτικό όνομα της πριγκίπισσας Σάρλοτ\n                    \u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e\u003ch5 class=\"extra-content__title\"\u003e\u003c/h5\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.huffingtonpost.gr/entry/mia-falaina-toes-ekane-moeskema_gr_5c7c3a11e4b0614614db8d6c"
+    },
+    "request_path": "requests",
+    "title": "Μία φάλαινα τους έκανε μούσκεμα! (video)",
+    "uuid": "05ca6192-b9f6-3bae-9a9b-0c4a72bc9b7f"
+}

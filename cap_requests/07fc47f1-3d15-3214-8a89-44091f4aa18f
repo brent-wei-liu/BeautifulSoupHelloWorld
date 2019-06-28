@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:03:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e500 años de la fundación de Veracruz\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/es-US/homerun/notimex.com.mx/bd0fae0d16457ebec92cbacc9eabcd65\" border=\"0\" hspace=\"5\" vspace=\"5\" alt=\"90304028.JPG\"\n title=\"500 a\u0026#xf1;os de la fundaci\u0026#xf3;n de Veracruz\"\u003e\u003cbr\u003e\u003ca href=\"/es/descargarFoto/503361\" class=\"btn btn-primary\"\u003eDescargar\u003c/a\u003e\u003cbr\u003e90304028. Veracruz, Ver., 4 Mar 2019 (Notimex- Ashlei Espinoza).- El alcalde de Veracruz, Fernando Yunes, adelantó que los porteños vivirán una magna celebración digna de recordarse para conmemorar los 500 años de la fundación de la Vera Cruz, a festejarse el próximo 22 de abril. NOTIMEX/FOTO/ASHLEI ESPINOZA/STAFF/ACE/\u003cp\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.notimex.gob.mx/ntxfotos/503361"
+    },
+    "request_path": "requests",
+    "title": "500 años de la fundación de Veracruz",
+    "uuid": "07fc47f1-3d15-3214-8a89-44091f4aa18f"
+}

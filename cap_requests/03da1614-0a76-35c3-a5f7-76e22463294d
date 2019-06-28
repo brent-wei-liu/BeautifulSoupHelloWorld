@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:37:09Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBouteflika presenta su candidatura a la reelección en Argelia pese a las protestas\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003ePor Lamine Chikhi y Hamid Ould Ahmed\u003c/p\u003e\n\u003cp\u003eARGEL (Reuters) - El presidente argelino Abdelaziz Bouteflika presentó los documentos oficiales confirmando que buscará la reelección, dijo el domingo el canal de televisión Ennahar TV, pese a las masivas protestas contra su decisión. \u003c/p\u003e\n\u003cp\u003eNo hubo una confirmación oficial pero la agencia de noticias estatal APS publicó su declaración de bienes, un requisito formal para competir en la votación.\u003c/p\u003e\n\u003cp\u003eDecenas de miles de manifestantes estuvieron protestando todo el día en las ciudades de Argelia para pedir la dimisión de Bouteflika.\u003c/p\u003e\n\u003cp\u003eEl número se acercaba al nivel del viernes, cuando los manifestantes llenaron el centro de Argel, la capital, en una de las mayores demostraciones de disenso -inusuales en el país- desde los levantamientos de la Primavera Árabe de 2011.\u003c/p\u003e\n\u003cp\u003eBouteflika, de 82 años, ha estado frágil de salud por años. El presidente envió sus papeles electorales al Consejo Constitucional en Argel el domingo, dijo el canal de TV privado.\u003c/p\u003e\n\u003cp\u003ePreviamente, la agencia de noticias APS dijo que no tenía que hacerlo en persona. Bouteflika, rara vez visto en público desde que sufrió un accidente cardiovascular en 2013, continuaba en Suiza para una serie de controles médicos no especificados el fin de semana, reportaron medios suizos.\u003c/p\u003e\n\u003cp\u003eSus opositores dicen que él ya no tiene condiciones para gobernar, citando su pobre estado de salud y lo que llaman una corrupción crónica y falta de reformas económicas para responder al alto desempleo, que excede el 25 por ciento entre la población menor de 30 años.\u003c/p\u003e\n\u003cp\u003eLos analistas dicen que los manifestantes, que han salido a las calles hace 10 días, carecen de liderazgo y organización en un país que sigue dominado por veteranos como Bouteflika de la guerra de la independencia contra Francia, de 1954 a 1962.\u003c/p\u003e\n\u003cp\u003ePero la oposición, tradicionalmente débil y dividida, al igual que los grupos de la sociedad civil, ha pedido que sigan las protestas en caso de que Bouteflika, que gobierna desde hace 20 años, continúe la búsqueda de la reelección.\u003c/p\u003e\n\u003cp/\u003e\n\u003cp\u003e (Información de Lamine Chikhi, Hamid Ould Ahmed, Ulf Laessing y Tarek Amara; escrito por Ulf Laessing, editado en español por Gabriel Burin)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Bouteflika presenta su candidatura a la reelección en Argelia pese a las protestas",
+    "uuid": "03da1614-0a76-35c3-a5f7-76e22463294d"
+}

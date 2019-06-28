@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:15:50Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSatgas Tinombala Tembak Mati Anak Buah Ali Kalora\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Satu orang anggota Mujahidin Indonesia Timur atau MIT, tewas dalam baku tembak dengan Satuan Tugas Tinombala TNI-Polri di Poso, Sulawesi Tengah. Sementara itu, satu orang lainnya tertangkap dalam keadaan hidup.\u003c/p\u003e\n\n\u003cp\u003eKelompok MIT yang tewas adalah Basir alias Romzi. Sedangkan anggota yang masih hidup dan tertangkap, bernama Aditya.\u003c/p\u003e\n\n\u003cp\u003eAsisten bidang Operasi (Asops) Polri, Irjen Pol Rudi Sufahriadi mengatakan, Basir sudah lama menjadi anak buah Ali Kalora. Dia merupakan buron yang telah lama dicari.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Basir alias Ramzi yang termasuk DPO (daftar pencarian orang). Lama di bawah Ali Kalora, yang belum tertangkap. Sejak saya jadi Kapolda dari 2012,\u0026quot; katanya di Divisi Humas Polri, Senin 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eSebenarnya, Satgas Tinombala melakukan kontak senjata dengan lima orang kelompok MIT saat itu, tetapi tiga orang lain melarikan diri.\u003c/p\u003e\n\n\u003cp\u003eSatgas Tinombala juga menyita barang bukti berupa senjata api tipe M16 dari kedua pelaku yang dilumpuhkan. Satgas Tinombala sampai saat ini, masih mencari tahu tempat persembunyian dari sisa kelompok MIT.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Selalu berpindah-pindah, dia selalu ada di Poso pesisir Utara dan Selatan, tidak berpindah lagi ke mana-mana, bahkan sekarang sampai ke daerah Parigi, Moutong. Dari gunung-gunung inilah lokasi mereka,\u0026quot; katanya. (asp)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/nasional/1126835-satgas-tinombala-tembak-mati-anak-buah-ali-kalora"
+    },
+    "request_path": "requests",
+    "title": "Satgas Tinombala Tembak Mati Anak Buah Ali Kalora",
+    "uuid": "072bde53-828e-3eec-a792-d1aa3bc6feef"
+}

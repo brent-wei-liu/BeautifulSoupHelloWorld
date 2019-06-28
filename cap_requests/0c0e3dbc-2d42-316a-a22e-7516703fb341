@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:08:21Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMás de 30 productores de cacao ponen en marcha un plan contra la deforestación\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eUn total de 33 empresas que representan el 85% de la elaboración mundial de productos a base de cacao anunciaron un plan común, junto a Costa de Marfil y Ghana, los dos principales productores del grano, para reducir la deforestación, anunció este lunes la Fundación Mundial del Cacao (WCF).\n\u0026quot;Es la primera vez que gobiernos e industria trabajan juntos para lograr un plan de acción común\u0026quot;, dijo a la AFP Richard Scobey, presidente de la WCF, con sede en Washington.\nLas empresas, entre ellas grandes nombres del cacao y del chocolate a nivel mundial (Nestlé, Ferrero, Barry Callebaut, Cémoi, Hershey, Lindt, Mars Wrigley o Mondelez) anunciarán dentro de tres semanas las medidas que piensan tomar.\nEn el caso de Costa de Marfil, el objetivo es alcanzar un 20% de cobertura boscosa en 2030, frente al 11% de 2015, indicó la fundación.\n\u0026quot;Queremos reducir las emisiones de gas de efecto invernadero, la deforestación, restaurar la biodiversidad y promover un desarrollo equilibrado en el plano económico y medioambiental de los cultivadores de cacao\u0026quot;, dijo Scobey en una entrevista por teléfono.\nEl plan responde a los compromisos tomados en noviembre de 2017 en Bonn (Alemania) durante una conferencia de Naciones Unidas sobre el cambio climático.\nEntre otras medidas está previsto cartografiar las plantaciones, crear sistemas para garantizar que el cacao proviene de plantaciones legales, fuera de las zonas protegidas, e invertir en técnicas que permitan producir \u0026quot;más cacao en menos tierra\u0026quot;.\nLas 33 empresas representan el 85% del consumo mundial de cacao. Por su parte Costa de Marfil y Ghana producen el 65% del cacao mundial.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Más de 30 productores de cacao ponen en marcha un plan contra la deforestación",
+    "uuid": "0c0e3dbc-2d42-316a-a22e-7516703fb341"
+}

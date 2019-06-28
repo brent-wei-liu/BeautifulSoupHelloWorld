@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:35:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e新城发展控股(01030.HK)1-2月合同销售额升24.3%至236.59亿元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/126bd06b139c869fbc48f62a30fde2c8\" border=\"0\" alt=\"K\u0026#x0056fe; 01030_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e \u003cp\u003e新城发展控股(01030.HK)公布，2019年2月，集团实现合约销售金额约人民币127.01亿元，同比增长45.15%；合约销售面积约121.75万平方米。\u003c/p\u003e \u003cp\u003e2019年1月至2月累计合同销售金额约人民币236.59亿元，同比增长24.30%；累计销售面积约218.65万平方米，同比增长26.51%。\u003c/p\u003e\u003cp\u003e（文章来源：格隆汇）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001228.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001228.shtml"
+    },
+    "request_path": "requests",
+    "title": "新城发展控股(01030.HK)1-2月合同销售额升24.3%至236.59亿元",
+    "uuid": "0db53b9c-feac-347a-be51-71ec71348564"
+}

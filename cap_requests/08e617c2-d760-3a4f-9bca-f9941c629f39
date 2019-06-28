@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:55:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《金融股》中壽啟動MA第二波招募 ，攜手開發金廣徵跨界人才\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報記者莊丙農台北報導】中壽 (2823) 積極推動年輕化、數位化轉型，看重跨域專業帶來的多元思維，廣徵跨界人才，與開發金 (2883) 攜手在3月9日台大校園聯合徵才，包括許多跨界專案職缺及儲備幹部(MA)的第二波招募，提供具競爭力的薪資福利，以MA來說年薪破百萬，更是躋身企業未來接班人的職缺。\u003c/p\u003e\n\n\u003cp\u003e　中壽指出，活動當天中壽總經理黃淑芬將帶領高階主管，在椰林大道親自與現場年輕學子零距離互動，分享中壽的發展及願景。中壽表示，壽險業本身就是集多領域跨界大成的產業，各部門的協同運作、縝密結合，方能提供完善服務，中壽MA以培養國際化的經營管理與接班人才為目標，二年培訓期將至不同專業領域間輪調，安排高階主管擔任一對一導師，在工作引導及經驗傳承雙向交流下，加速了解壽險業經營特性，提升跨界才能，拓展宏觀視野。因應中壽不斷成長，今年度擴大徵才，啟動第二波MA招募，培養成為保險專業或未來管理人才。\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《金融股》中壽啟動MA第二波招募 ，攜手開發金廣徵跨界人才",
+    "uuid": "08e617c2-d760-3a4f-9bca-f9941c629f39"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:42:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eПарламентские выборы в Эстонии выиграла оппозиция\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eПобеду на выборах в эстонский парламент одержала оппозиционная Партия реформ, правящая Центристская партия — на втором месте, третье место досталось национал-консерваторам, которые также представляют оппозицию\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.rbc.ru/politics/04/03/2019/5c7c70b39a7947498ed99648"
+    },
+    "request_path": "requests",
+    "title": "Парламентские выборы в Эстонии выиграла оппозиция",
+    "uuid": "017fc075-69e6-3670-8572-75adab37f692"
+}

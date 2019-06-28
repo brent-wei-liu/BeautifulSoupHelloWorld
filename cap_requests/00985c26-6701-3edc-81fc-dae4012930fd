@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:54:31Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMieten steigen trotzdem!: Bewohner dürfen seit Jahren nicht mehr auf ihre Balkone\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eHeinz-Werner Woltaire (83) schaut aus einem Fenster seiner Wohnung. Gerne würde er auf einen Balkon gehen. Doch der existiert seit zwei Jahren nicht mehr. Weil die Balkone des Hochhauses als einsturzgefährdet eingestuft wurden, riss der Eigentümer sie teilweise ab. Eigentlich sollten sie saniert werden, doch Woltaire und seine Rahlstedter Nachbarn warten darauf bislang vergeblich.\n\nUnd das seit mehr als zwei Jahren schon! Zum Lüften bleibt den Bewohnern lediglich ein kleiner Spalt oberhalb des Fensters. An den Fenstern ist ein Warnschild angebracht, „Nicht...\u003ca href=\"https://www.mopo.de/hamburg/mieten-steigen-trotzdem--bewohner-duerfen-seit-jahren-nicht-mehr-auf-ihre-balkone-32159042\"\u003eLesen Sie den ganzen Artikel bei mopo\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.mopo.de/hamburg/mieten-steigen-trotzdem--bewohner-duerfen-seit-jahren-nicht-mehr-auf-ihre-balkone-32159042?dmcid=f_yho_Hamburg"
+    },
+    "request_path": "requests",
+    "title": "Mieten steigen trotzdem!: Bewohner dürfen seit Jahren nicht mehr auf ihre Balkone",
+    "uuid": "00985c26-6701-3edc-81fc-dae4012930fd"
+}

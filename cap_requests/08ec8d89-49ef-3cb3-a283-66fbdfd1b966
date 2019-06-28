@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:21:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e龍捲風重創美國阿拉巴馬州 至少14死\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社華盛頓3日綜合外電報導）美國南部阿拉巴馬州警方表示，龍捲風來襲造成「災難性」損害，已知造成14人喪生。\u003c/p\u003e\n\u003cp\u003e    根據美國哥倫比亞廣播公司（CBS）地方電台記者上傳臉書的影音，阿拉巴馬州利郡（Lee County）警長瓊斯（Jay Jones）說：「目前我們證實有14人喪生。」\u003c/p\u003e\n\u003cp\u003e    他說，另有多人送醫，部分傷者「傷勢非常嚴重」，搜救單位也在持續找尋失蹤者。\u003c/p\u003e\n\u003cp\u003e    瓊斯說「根據我們看到的住宅受損情形」，龍捲風造成「災難性」損害。\u003c/p\u003e\n\u003cp\u003e    利郡法醫哈里斯（Bill Harris）告訴「伯明罕新聞報」（Birmingham News），死亡人數恐進一步攀升，「我們仍在從瓦礫堆中搶救民眾。我們會忙上一整晚。」\u003c/p\u003e\n\u003cp\u003e    阿拉巴馬州長艾維（Kay Ivey）推文提醒當地民眾，嚴峻的天氣型態還沒結束。她說，州政府會想辦法幫助受災居民。\u003c/p\u003e\n\u003cp\u003e    伯明罕新聞報引述當地電力單位說，這場風暴造成超過1萬人無電可用。（譯者：蔡佳敏/核稿：陳亦偉）1080304\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "龍捲風重創美國阿拉巴馬州 至少14死",
+    "uuid": "08ec8d89-49ef-3cb3-a283-66fbdfd1b966"
+}

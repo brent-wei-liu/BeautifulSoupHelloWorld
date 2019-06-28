@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-05T06:12:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNFL: Dallas-Star erhält Franchise Tag erneut\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eDer wohl begehrteste Free Agent des Jahres ist vom Markt: Die Dallas Cowboys haben Defensive End DeMarcus Lawrence mit einem Franchise Tag versehen. Das berichtet Ian Rapoport von \u003ci\u003eNFL Network\u003c/i\u003e.\u003c/p\u003e\u003cp\u003eDamit binden die Cowboys ihren besten Pass-Rusher ein weiteres Jahr. Lawrence wäre Unrestricted Free Agent geworden. Der Franchise Tag garantiert dem 26-Jährigen ein Jahresgehalt von rund 17,1 Millionen US-Dollar.\u003c/p\u003e\u003cp\u003eBereits 2018 erhielt Lawrence den Franchise Tag von den Cowboys. Einem Bericht von \u003ci\u003eThe Athletic\u003c/i\u003e zufolge sind die beiden Parteien auch in diesem Jahr weit von einer Einigung auf einen langfristigen Vertrag entfernt.\u003c/p\u003e\u003cp\u003eLawrence verbuchte in der abgelaufenen Saison 42 Tackles und 10,5 Sacks.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMehr bei SPOX: \u003c/strong\u003e\u003ca target=\"_blank\" href=\"http://www.spox.com/de/sport/ussport/nfl/1903/News/houston-texans-versehen-jadeveon-clowney-mit-franchise-tag.html\"\u003eTexans versehen Clowney mit Franchise Tag\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.spox.com/de/sport/ussport/nfl/1903/Artikel/dallas-cowboys-belegen-demarcus-lawrence-mit-franchise-tag.html"
+    },
+    "request_path": "requests",
+    "title": "NFL: Dallas-Star erhält Franchise Tag erneut",
+    "uuid": "0c0f8dde-72c9-352e-b99d-73b6649634ab"
+}

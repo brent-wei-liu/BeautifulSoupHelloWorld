@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:35:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e保時捷指正協助德國監管機構稅務調查\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e據《路透》報道，德國大眾汽車(Volkswagen)旗下保時捷於周日(3日)公布，正就提前退休員工與前最高級管理人員的稅務優惠問題，協助德國監管機構進行調查。\u003c/p\u003e\u003cp\u003e早前德國《周日圖片報》(Bild am Sonntag)報道，去年監管機構曾派員到保時捷辦公室進行調查，拿走一批於2009年-2017年的付款文件及相關單據，包括高層使用公司專機出外行程細節、退休員工領薪，以及前行政總裁開派對等資料。(ca/w)~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "保時捷指正協助德國監管機構稅務調查",
+    "uuid": "05e59a04-9122-3669-90d6-9eb57bbe4424"
+}

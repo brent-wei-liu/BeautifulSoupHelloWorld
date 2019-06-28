@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRahal will in IndyCar-Saison 2019 allen \u0026quot;ein Dorn im Auge\u0026quot; sein\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003eGenau wie Marco Andretti, so wartet auch Graham Rahal in der IndyCar-Serie nach wie vor auf den ganz großen Durchbruch. Die Söhne der beiden inzwischen als Teambesitzer aktiven Ex-Champions Michael Andretti und Bobby Rahal sind bereits seit 2006 beziehungsweise 2008 in der IndyCar-Serie am Start, haben aber beide nur eine einstellige Anzahl Rennsiege vorzuweisen.\u003c/p\u003e\u003cp\u003eRahal begann im April 2008 furios, als er in St. Petersburg sein erstes IndyCar-Rennen direkt gewann. Doch nach dem Debütsieg, den er damals für Newman/Haas Racing errang, vergingen für den Sohn von Bobby Rahal mehr als sieben Jahre, bis er erneut gewann. Seit Juni 2015 in Fontana hat der jüngere Rahal die Anzahl seiner Sieg auf inzwischen sechs nach oben geschraubt, die Gesamtwertung aber nie weiter vorn als auf Rang vier (2015) abgeschlossen.\u003c/p\u003e\u003cp\u003eFür die am 10. März in St. Petersburg beginnende IndyCar-Saison 2019 hat sich Graham Rahal - genau wie übrigens (wieder einmal) Marco Andretti - den ganz großen Durchbruch vorgenommen. Und Rahal spuckt so kurz vor dem Saisonstart große Töne.\u003c/p\u003e\u003cp\u003e\u0026quot;Ich habe immerhin sechs Mal gewonnen. Viele, die es in diesem Sport probieren, können das nicht von sich behaupten. Es gibt keinen Grund, warum nicht häufiger gewinnen sollten. Als Team muss es uns und mir einfach nur gelingen, bessere Qualifyings hinzulegen. Wenn wir das schaffen, können wir für alle ein Dorn im Auge sein. Das ist Fakt\u0026quot;, so der 30-Jährige, der seit 2013 für das Team seines Vaters Bobby Rahal fährt.\u003c/p\u003e\u003cp\u003eAber: Vor seiner siebten Saison im Familienteam spricht Graham Rahal nun von \u0026quot;einer anderen Zeitrechnung\u0026quot; und ist überzeugt, dass sich \u0026quot;letzten Endes alles auszahlen wird, es ist nur eine Frage des Wann\u0026quot;. Personell hat es Rahal in bevorstehenden Saison mit einem neuen Renningenieur zu tun. Der von Ed Carpenter Racing gekommene Allan MacDonald löst Tom German ab und arbeitete bei den Wintertests laut Rahal schon hervorragend mit seinem Gegenüber Eddie Jones zusammen.\u003c/p\u003e\u003cp\u003eJones wiederum ist weiterhin der Renningenieur von Rahals Teamkollege Takuma Sato. \u0026quot;Sie sind ganz enge Freunde. Wie ein altes Ehepaar brauchen sie keine Worte. Sie wissen genau, was der andere denkt\u0026quot;, sagt Rahal über das Ingenieursgespann McDonald/Jones und ist überzeugt: \u0026quot;Das ist genau das, was wir gebraucht haben.\u0026quot;\u003c/p\u003e\u003cp\u003eGenau wie im Falle von Marco Andretti, der vor seiner bereits 14. IndyCar-Saison im Team von Vater Michael Andretti steht, und der wie Rahal nun ebenfalls einen neuen Renningenieur (Mark Bryant statt Nathan O\u0026#39;Rourke) hat, müssen die Ergebnisse auf der Strecke zeigen, ob es mit ganz großen Durchbruch in der Saison 2019 endlich klappt. Marco Andretti hat mit bislang gerade mal zwei Rennsiegen sogar noch vier weniger vorzuweisen als Rahal.\u003c/p\u003e\u003cp\u003e© Motorsport-Total.com\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.sport1.de/motorsport/indycar/2019/03/rahal-will-in-indycar-saison-2019-allen-ein-dorn-im-auge-sein"
+    },
+    "request_path": "requests",
+    "title": "Rahal will in IndyCar-Saison 2019 allen \u0026quot;ein Dorn im Auge\u0026quot; sein",
+    "uuid": "034be74e-32eb-355f-9ef2-bfca1ccebd8d"
+}

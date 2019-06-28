@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:44:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【惠康】家樂牌鮮露205毫升、喜力大樽裝啤酒650毫升通通都係$10支（04/03-05/03）\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【兩天快閃價 $10】兩天(4-5/3)快閃推介：家樂牌鮮露205毫升、喜力大樽裝啤酒650毫升通通都係$10支！ 以上優惠適用於「惠康為您送」網上購物服務。貨品數量有限，部分貨品只限指定分店提供，售/換/送完即止。優惠只適用於指定分店並受條款及細則約束。 ------------ 日前：2019/03/04-2019/03/05 地點：全線惠康超級市場 詳情：https://www.facebook.com/wellcome.supermarket/photos/a.455443234456/10156751352564457/?type=3\u0026theater ＝＝＝＝＝＝＝ 雅虎於本頁中的角色只是為你提供資訊及商戶連結，而並非買賣一方或其代表或代理。所有資料根據連結內商戶直接提供為準，商戶並可能隨時更改。所有買賣均由用戶及商戶雙方自行負責。 「Yahoo著數」現已推出，我哋將會為你搜羅每日超市情報，話你知最新購買飲食嘅著數消息、免費或折扣優惠，幫你慳錢慳時間。 想知仲有咩最筍嘅優惠著數？快啲禁入嚟睇下啦！：https://yjetso.myguide.hk 歡迎提供優惠情報，情報一經採用，將有機會免費獲得Yahoo購物券乙張。快啲同我哋一齊搜羅全港優惠著數喇！ https://yahoohk.app.link/discountsubmit  \u003c/body\u003e\u003c/html\u003e",
+        "url": "https://yjetso.myguide.hk/article/2462"
+    },
+    "request_path": "requests",
+    "title": "【惠康】家樂牌鮮露205毫升、喜力大樽裝啤酒650毫升通通都係$10支（04/03-05/03）",
+    "uuid": "09aac405-7fb9-398d-9c6b-a857ef8670d9"
+}

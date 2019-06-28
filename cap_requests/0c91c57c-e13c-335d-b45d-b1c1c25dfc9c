@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:23:19Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e資金回台租稅優惠 不加碼\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/zh-Hant-TW/homerun/UDN.com/a17fc58b5ff577fd6d7091084a0e5923'\u003e\u003c/p\u003e\u003cp\u003e為鼓勵台商匯回資金投資台灣，財經部會正擬定《海外資金匯回管理運用及課稅條例》，財政部長蘇建榮昨（4）日表態，在優惠稅率方面，目前希望維持第一年8%、第二年10%，不希望再加碼。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://udn.com/news/story/7238/3677599"
+    },
+    "request_path": "requests",
+    "title": "資金回台租稅優惠 不加碼",
+    "uuid": "0c91c57c-e13c-335d-b45d-b1c1c25dfc9c"
+}

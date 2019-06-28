@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:17:02Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMoody\u0026apos;s promuove la Grecia: ecco i tre fattori dell\u0026apos;upgrade\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMoody\u0026#39;s promuove la Grecia. Un upgrade che vale molto per Atene che venerdì scorso ha visto aumentare di due notch (due livelli) il rating sulla solvibilità del governo ellenico, portandolo a \u0026#39;B1\u0026#39; dal precedente \u0026#39;B3\u0026#39;. \n\nSono tre in tutto i fattori chiave che hanno spinto l\u0026#39;agenzia di rating americana a ritoccare verso l\u0026#39;alto il giudizio. Innanzi tutto, \u0026quot;il programma di riforme appare saldamente radicato e le riforme attuate stanno dando i primi frutti\u0026quot;. E ancora nel report di si legge: \u0026quot;I solidi risultati di bilancio sono ormai consolidati e dovrebbero essere mantenuti, poiché la maggior parte del miglioramento fiscale è dovuto a misure strutturali. Infine, la sostenibilità del debito pubblico è materialmente migliorata nel medio periodo dal pacchetto di riduzione del debito dello scorso giugno\u0026quot;. L\u0026#39;outlook passa invece da positivo a stabile.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.finanza.com/Finanza/Notizie_Mondo/Altri_paesi_Europa/notizia/Moody_s_promuove_la_Grecia_ecco_i_tre_fattori_dell_upgrade-503482"
+    },
+    "request_path": "requests",
+    "title": "Moody\u0026apos;s promuove la Grecia: ecco i tre fattori dell\u0026apos;upgrade",
+    "uuid": "04717390-c092-3c73-9422-59bba43e20ab"
+}

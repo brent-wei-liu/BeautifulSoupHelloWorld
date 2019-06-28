@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:58:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e\u0026quot;Tottenham pode vencer a Champions League\u0026quot;, diz Pochettino\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp style=\"text-align:justify;\"\u003eÀs vésperas de encarar o Borussia Dortmund pelo jogo de volta das oitavas de final da Champions League, Mauricio Pochettino insiste que o Tottenham pode derrubar qualquer time da Europa.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003e\u0026quot;Em uma competição como a UCL ou a Copa da Europa, você precisa não apenas ganhar jogos, mas às vezes precisa ter a sorte de chegar para jogar a final\u0026quot;, disse.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003e\u0026quot;Eu acho que muitas circunstâncias estão envolvidas onde às vezes você pode chegar para jogar uma final e talvez não seja o melhor time. Para mim o mais importante é a Premier League ou a Bundesliga. O time mais consistente sempre vence e o melhor time sempre vence os outros 19 oponentes. Em nossa ambição e em nossa mente, somos sempre positivos. Confiamos em nós mesmos e, é claro, podemos vencer qualquer equipe.\u0026quot;, completou.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003eApós vencer o primeiro jogo em casa por 3 a 0, o Tottenham visita o BVB nesta terça-feira (5), às 17h (de Brasília), podendo perder por até dois gols de diferença na Alemanha.\u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "\u0026quot;Tottenham pode vencer a Champions League\u0026quot;, diz Pochettino",
+    "uuid": "0988233f-730f-3912-a8a8-7d96a968f851"
+}

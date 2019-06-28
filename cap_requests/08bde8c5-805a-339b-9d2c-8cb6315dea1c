@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:38:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e市場動態：綠色及可持續發展可能是中國的主題\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e作者: 鄭昆侖, CFA (SFC CE NO:AJD750)\u003cbr/\u003e\u003cp\u003e2019年全國兩會會將於2019年3月5日開始。相信會議期間將討論經濟發展方向及產業發展重點等議題。同時，投資者應該意識到與A股市場（因此H股市場）相關的市場風險，特別是考慮到近期市場的樂觀情緒。…\u003c/p\u003e\u003cp\u003e\u003ca href=\"http://www.quamnet.com/marketingqrp.action?request_locale=ZH_TW\"\u003e如欲閱讀華富股評的個股研究報告、買賣建議，請按此...\u003c/a\u003e\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "市場動態：綠色及可持續發展可能是中國的主題",
+    "uuid": "08bde8c5-805a-339b-9d2c-8cb6315dea1c"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:03:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e火龍果製太陽能電池　嘉大研究登國際期刊（2） (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e嘉義大學電機工程系師生歷時2年，研究利用火龍果製作太陽能電池，實驗發現，以火龍果的染劑塗在導電玻璃片上，可達到最顯著的電極電壓，透過晶片轉換即可形成具高靈敏度火龍果染料敏化太陽能電池，成果更獲國際期刊刊載。（嘉義大學提供）\u003c/p\u003e\n\u003cp\u003e中央社記者黃國芳傳真  108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/e58ba2ea59e78e2b7d3fa124a7d9956b\" width=\"630\" height=\"440\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "火龍果製太陽能電池　嘉大研究登國際期刊（2） (圖)",
+    "uuid": "05c44a26-0e80-32a5-ade0-76ab8f48b48e"
+}

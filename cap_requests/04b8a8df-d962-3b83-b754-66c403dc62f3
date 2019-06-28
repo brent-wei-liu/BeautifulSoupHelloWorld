@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:16:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAl menos 14 muertos causan dos tornados en Alabama\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eWashington, 3 mar (EFE).- Al menos catorce personas murieron hoy por dos tornados en el estado de Alabama, en Estados Unidos, informó el sheriff Jay Jones, del condado de Lee, que fue citado por medios de comunicación locales.\nJones precisó que doce de esas muertes se produjeron en las proximidades de la población de Opelika, en el condado de Lee.\n\u0026quot;Tenemos un área bastante importante de daños\u0026quot;, dijo Jones a la cadena de televisión CNN.\nEl responsable agregó que un número indeterminado de heridos graves han sido trasladados a hospitales.\nDe acuerdo con el Servicio Nacional Meteorológico, una decena de tornados tocaron en la tarde del domingo los estados de Alabama y Georgia.\nEl canal del Tiempo apuntó en su página web que más de 42.000 hogares y negocios sufrieron cortes de la corriente eléctrica en ambos estados.\nSegún esta fuente, la jornada de hoy ha sido la más mortífera por los tornados en Estados Unidos desde el 22 de enero de 2017, cuando 16 personas perdieron la vida por las condiciones climatológicas en el sur de Georgia.\nLa gobernadora de Alabama, Kay Ivey, anunció en Twitter que \u0026quot;debido al clima severo y los tornados hoy, he extendido el Estado de Emergencia emitido el 23 de febrero a todo el estado\u0026quot;.\nEn esa fecha la gobernadora declaró el Estado de Emergencia para algunos condados de Alabama por las inundaciones ocasionadas por las fuertes lluvias.\nIvey agregó en otro tuit que los equipos de rescate están trabajando rápido para ofrecer asistencia a los damnificados.\n\u0026quot;Nuestros corazones se van con los que perdieron sus vidas en las tormentas que hoy golpearon el condado de Lee. Rezos por sus familias y todo aquel cuya casa o negocio se haya visto afectado\u0026quot;, lamentó.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Al menos 14 muertos causan dos tornados en Alabama",
+    "uuid": "04b8a8df-d962-3b83-b754-66c403dc62f3"
+}

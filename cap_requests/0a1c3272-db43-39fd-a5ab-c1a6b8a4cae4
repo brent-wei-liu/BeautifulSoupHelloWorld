@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:00:47Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e4Freaks 4Fam - Episode 2\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Tiga bersaudara tinggal di rumah yang sama. Suatu hari, ayah mereka memberi tahu tentang saudara keempat, Lingzhi, yang akan datang untuk menetap. Mereka ingin mengusirnya, tapi mereka bertengkar soal rencana yang akan dijalankan. Dan mereka terus bertengkar dalam segala hal.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25881665\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "4Freaks 4Fam - Episode 2",
+    "uuid": "0a1c3272-db43-39fd-a5ab-c1a6b8a4cae4"
+}

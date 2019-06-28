@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:10:46Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSécheresse oculaire : comment en venir à bout ?\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003ePicotements, sensibilité, sensation de brûlure… Autant de signes qui montrent que vous souffrez de sécheresse oculaire. Ce phénomène dû à une production insuffisante de larmes est généralement sans gravité, mais peut néanmoins être gênant au quotidien.\u003c/p\u003e\u003cp\u003ePour en venir à bout, encore faut-il en connaître l\u0026#39;origine. La sècheresse des yeux peut être causée par l’âge, l’environnement - pollution ou usage prolongé des écrans par exemple - mais aussi la prise de certains médicaments, le port de lentilles de contact, une carence en vitamine A, ou encore une maladie.\u003c/p\u003eYeux secs : des larmes artificielles pour les soulager\u003cp\u003eUne fois les facteurs de la sécheresse oculaire identifiés par l’ophtalmologue grâce à un examen plus approfondi, des larmes artificielles peuvent être prescrites. Bon à savoir : plus le produit est visqueux, plus il a la capacité de retenir l’eau, et plus il est adapté aux sècheresses oculaires sévères.\u003c/p\u003e\u003cp\u003eDans le cas d’une atteinte inflammatoire de la surface de l\u0026#39;œil, un traitement anti-inflammatoire local par corticoïdes peut être prescrit. Si la sècheresse oculaire est due à un traitement médicamenteux, ce dernier pourra éventuellement être réajusté ou remplacé par le médecin traitant.\u003c/p\u003eSécheresse des yeux : des astuces simples et efficaces\u003cp\u003eIl existe aussi des astuces simples et efficaces à utiliser en complément d\u0026#39;un éventuel traitement prescrit par l\u0026#39;ophtalmologue, afin de lutter contre la sècheresse oculaire, à savoir :\u003c/p\u003ese forcer à cligner des yeux plus souventse protéger de la fumée de cigaretteéviter les pièces climatiséesaérer son domicile quotidiennement et/ou utiliser des humidificateurs d’airrespecter les conseils d’entretien dans le cas de port de lentilles de contactéviter de toucher ses yeux ou au moins se laver les mains au préalableplacer le haut de son écran d’ordinateur au niveau des yeux et faire des pauses régulièrement\u003cp\u003eSource : le site de l\u0026#39;Assurance Maladie.\u003c/p\u003e\u003cp\u003eA lire aussi :\u003c/p\u003e\u003cp\u003e⋙  Sécheresse oculaire, enfin un traitement\u003c/p\u003e\u003cp\u003e⋙  Changer la couleur de ses yeux\u003c/p\u003e\n                                                    \u003cp\u003e\n                                (...) \u003ca href=\"https://www.femmeactuelle.fr/sante/sante-pratique/secheresse-oculaire-comment-en-venir-a-bout-2075772\"\u003eCliquez ici pour voir la suite\u003c/a\u003e\n                            \u003c/p\u003e\n                                                \u003cp\u003e\n                                                                                                                \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.femmeactuelle.fr/sante/sante-pratique/secheresse-oculaire-comment-en-venir-a-bout-2075772"
+    },
+    "request_path": "requests",
+    "title": "Sécheresse oculaire : comment en venir à bout ?",
+    "uuid": "0ac74e45-0c43-384a-ba8d-e37fe4ee5ee3"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:55:57Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eUSA erkennen EU-Vertretung in Washington wieder als vollwertige Botschaft an\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eDie USA haben der Vertretung der Europäischen Union in Washington wieder vollen diplomatischen Status zuerkannt. Mit der am Montag bekannt gegebenen Entscheidung revidierten sie die protokollarische Herabstufung der Vertretung, die von der EU als Brüskierung aufgefasst worden war. Die EU sei \u0026quot;einer von Amerikas wertvollsten Partnern bei der Sicherung von Sicherheit und Wohlstand auf der Welt\u0026quot;, stellte der US-Botschafter bei der EU in Brüssel, Gordon Sondland, nun klar.\u003c/b\u003e\u003c/p\u003e\n\u003cp\u003eDie Entscheidung erfolgte zwei Tage vor wichtigen Handelsgesprächen zwischen der EU und den USA. Am Mittwoch wollen EU-Handelskommissarin Cecilia Malmström und der US-Handelsbeauftragte Robert Lighthizer darüber beraten, wie die von den USA angedrohten Zölle auf Importautos aus der EU noch abgewendet werden können.\u003c/p\u003e\n\u003cp\u003eDie EU hatte im Januar gegen die Herabstufung ihrer Vertretung in Washington protestiert und Gespräche mit der US-Regierung über eine volle Wiederherstellung des diplomatischen Status angekündigt. Das US-Außenministerium hatte die Vertretung zuvor zur Repräsentanz einer internationalen Organisation herabgestuft - ohne die EU vorab darüber zu informieren. Eine solche Repräsentanz genießt einen niedrigeren protokollarischen Rang als eine Botschaft.\u003c/p\u003e\n\u003cp\u003eUnter US-Präsident Donald Trump hatte sich das Verhältnis zwischen Washington und Brüssel verschlechtert. Trump äußerte sich wiederholt abfällig über die EU. US-Außenminister Mike Pompeo warf im Dezember in einer kritischen Rede in Brüssel die Frage auf, ob die EU nicht die Interessen der Bürokraten vor jene der Bürger setze.\u003c/p\u003e\n\u003cp\u003eUS-Botschafter Sondland hingegen betonte in einer schriftlichen Erklärung die Wertschätzung seines Landes für die EU. Diese sei eine \u0026quot;einzigartig wichtige Organisation\u0026quot;, erklärte er. \u0026quot;Sicherheit und Erfolg Europas sind untrennbar mit denen der Vereinigten Staaten verknüpft, und das Niveau dieser Bindung und dieser Kooperation sollte auf allen Ebenen angemessen berücksichtigt werden.\u0026quot;\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "USA erkennen EU-Vertretung in Washington wieder als vollwertige Botschaft an",
+    "uuid": "0be3cd6d-4732-32f4-b109-2a740a4ac038"
+}

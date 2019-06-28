@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:37:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFoot - C1 - PSG - Dani Alves (PSG) : «Ne pas être trop confiants» avant le match retour contre Manchester United\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eDani Alves, le milieu reconverti du PSG, demande à ses coéquipiers d\u0026#39;oublier la victoire du match aller face à MU (2-0), en huitièmes de finale de Ligue des champions, et \u003ci\u003e« faire un résultat »\u003c/i\u003e au retour, mercredi (21 heures). \u003cb\u003e« Êtes-vous confiant pour finir le travail contre Manchester United (\u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Le-psg-reussit-le-coup-parfait-a-manchester-et-prend-une-option-sur-les-quarts-de-finale-de-la-ligue-des-champions/988237\" shape=\"rect\" target=\"_blank\"\u003e2-0 à l\u0026#39;aller\u003c/a\u003e) ?\u003c/b\u003e Bien sûr, je pense que nous avons fait un grand pas. Mais nous ne pouvons pas être trop confiants, nous savons que dans le football tout peut arriver. Nous devons répéter l\u0026#39;excellent travail que nous avons accompli à l\u0026#39;aller. Ne pas jouer avec ce résultat, mais faire un résultat : c\u0026#39;est la seule façon pour nous d\u0026#39;atteindre au final notre objectif. \u003ca href=\"https://abonnes.lequipe.fr/Football/Article/Psg-ces-joueurs-qui-ont-manque-l-occasion-de-bouleverser-la-hierarchie-avant-manchester-united/994806\" shape=\"rect\" target=\"_blank\"\u003eCes joueurs qui ont manqué l\u0026#39;occasion de bouleverser la hiérarchie avant Manchester United\u003c/a\u003e \u003cb\u003eAprès le huitième de finale aller, Kylian Mbappé a dit qu\u0026#39;il fallait \u0026quot;arrêter d\u0026#39;avoir peur\u0026quot;, deux ans après la \u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Le-psg-humilie-a-barcelone-et-elimine-en-huitiemes-de-finale-de-la-ligue-des-champions/783986\" shape=\"rect\" target=\"_blank\"\u003eremontada contre Barcelone\u003c/a\u003e (1-6 au Camp Nou, après la victoire 4-0 à l\u0026#39;aller). Êtes-vous d\u0026#39;accord ?\u003c/b\u003e Oui. Dans le football, vous ne pouvez pas avoir peur. Dans la vie, si les objectifs ne sont pas toujours atteints, c\u0026#39;est à cause de la peur. Il ne faut jamais avoir peur, il faut du respect, car (Manchester United) est une équipe historique en Ligue des champions. J\u0026#39;en plaisante toujours mais l\u0026#39;équipe \u0026quot;vierge\u0026quot; dans cette compétition, c\u0026#39;est nous, pas Manchester United qui l\u0026#39;a déjà gagnée. \u003cb\u003eDepuis la victoire à Manchester, l\u0026#39;équipe a aussi prouvé qu\u0026#39;elle pouvait être très performante sans ses stars Neymar et Edinson Cavani. Comment l\u0026#39;expliquer ?\u003c/b\u003e C\u0026#39;est la preuve qu\u0026#39;il y a beaucoup de qualité dans cette équipe. Je dis toujours que nous avons des joueurs spéciaux, comme Ney, Kylian, Edi, qui peuvent faire la différence à n\u0026#39;importe quel moment, et que notre rôle est de les aider. »\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Football/Actualites/Dani-alves-psg-ne-pas-etre-trop-confiants-avant-le-match-retour-contre-manchester-united/995087"
+    },
+    "request_path": "requests",
+    "title": "Foot - C1 - PSG - Dani Alves (PSG) : «Ne pas être trop confiants» avant le match retour contre Manchester United",
+    "uuid": "09ee5c27-0316-354b-99ab-f1ef3c30d9bb"
+}

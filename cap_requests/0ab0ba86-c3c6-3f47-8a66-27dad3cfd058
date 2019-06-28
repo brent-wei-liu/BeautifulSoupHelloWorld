@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美「查爾斯頓號」近岸作戰艦成軍\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e編譯蘇尹崧／綜合外電報導\u003c/p\u003e\u003cp\u003e　美國海軍「查爾斯頓號」近岸作戰艦（LCS 18）2日舉行成軍儀式，該艦是第9艘「獨立級」近岸作戰艦，也是第6艘被命名為「查爾斯頓號」的海軍艦艇。\u003c/p\u003e\u003cp\u003e　儀式於查爾斯頓號的「老家」─南卡羅萊納州查爾斯頓的哥倫布街碼頭舉行，出席者包括美國海軍部長史賓塞、南卡聯邦參議員史考特等人。史賓塞在演說中強調，雖然先前曾發生一系列意外事故，但在國會支持下，美國海軍已得到所需經費，用於重整戰備狀態、獲取新裝備，並準備面對「大國競爭時代」。\u003c/p\u003e\u003cp\u003e　第6艘以南卡歷史最悠久城市命名艦艇\u003c/p\u003e\u003cp\u003e　「查爾斯頓號」是第6艘以南卡歷史最悠久城市命名的海軍艦艇，第4艘「查爾斯頓號」（PG-51）是一艘砲艇，在二戰期間主要服役於阿拉斯加區域，並獲得一顆戰鬥之星。第5艘「查爾斯頓號」（LKA-113）則是「查爾斯頓級」兩棲貨船的首艦，於越戰期間立下汗馬功勞，直到1992年才退役；退役當日有多名老水手出席儀式，見證歷史與榮譽的傳承。\u003c/p\u003e\n\u003cp\u003e\u003cimg src='https://media.zenfs.com/zh-tw/youthdailynews_517/47876e6d5f3cae6d3f2c1efcc61caa2e' width='934' height='550'/\u003e\u003c/p\u003e\n\u003cp\u003e曾任查爾斯頓市長達40餘年的萊里（右），將象徵艙面值更官權力的長筒望遠鏡，交給雷耶斯少尉。（取自DVIDS網站）\u003c/p\u003e\n\u003cp\u003e\u003cimg src='https://media.zenfs.com/zh-tw/youthdailynews_517/4ab629fb876ddf0b258d49323df55f0d' width='934' height='550'/\u003e\u003c/p\u003e\n\u003cp\u003e「查爾斯頓號」是第9艘「獨立級」近岸作戰艦，也是第6艘以南卡歷史最悠久城市命名的海軍艦艇。 （取自DVIDS網站）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.ydn.com.tw/News/326689"
+    },
+    "request_path": "requests",
+    "title": "美「查爾斯頓號」近岸作戰艦成軍",
+    "uuid": "0ab0ba86-c3c6-3f47-8a66-27dad3cfd058"
+}

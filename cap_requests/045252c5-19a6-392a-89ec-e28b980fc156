@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:40:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中華電攜手和泰汽車 搶車聯網商機\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e（中央社記者江明晏台北4日電）瞄準車聯網市場，中 華電信今天宣布與和泰汽車合作，透過勤崴國際的車聯 網平台研發經驗，推出智聯車載系統，拓展新營運動能 ，未來也積極開發車聯網後裝市場。      中華電信投入物聯網市場多年，今天並宣布與和泰 汽車合作，透過搭載中華電信4G網路的TOYOTA  Drive+Connect智聯車載系統，提供車主即時多元應用 的車聯網服務，並率先導入2019 All New RAV4車款使 用，未來將陸續引入其他暢銷車款。      中華電布局智慧車聯前裝市場，搭配勤崴...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30314590.html"
+    },
+    "request_path": "requests",
+    "title": "中華電攜手和泰汽車 搶車聯網商機",
+    "uuid": "045252c5-19a6-392a-89ec-e28b980fc156"
+}

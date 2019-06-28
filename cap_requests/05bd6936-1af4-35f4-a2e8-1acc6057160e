@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:57:18Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVÍDEO | El caño de Andrés Iniesta con el que todo Japón alucina\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src='https://media.zenfs.com/es/90min_es_120/4f3f7fc79ca123c45d932508677e5231'/\u003e\u003cp class=\"\"\u003e​ No se vayan todavía, Andrés Iniesta sigue sacándose trucos de la chistera y maravillando a medio mundo con sus trucos cuando tiene el esférico entre los pies. Cuando todos creíamos que ya lo habíamos visto todo, que el ex del\u003ca href=\"https://www.90min.com/es/teams/barca\" target=\"_blank\"\u003e​ FC Barcelon\u003c/a\u003e a ya no tenía demasiado que ofrecernos nos ha sorprendido con un maravilloso regate desde la línea de banda en un encuentro del Vissel Kobe. Una jugada que bien podría haber hecho Oliver Atom, icono del que, por cierto, ha inaugurado en Tokio una estación de metro en su honor.\u003c/p\u003e \n\u003ci class=\"wrapper\"\u003e\u003cdiv class=\"video-container StreamableEmbedded Streamable-container Streamable-container--body iframe-container\"\u003e\u003ciframe frameborder=\"0\" scrolling=\"no\" class=\"Streamable embed--Streamable embed--generic-iframe embeded-video-player\"\u003e\u003c/iframe\u003e\u003c/div\u003e\n\u003c/i\u003e\n\u003cp class=\"\"\u003e\u003cbr\u003e\u003c/p\u003e \n\u003cp class=\"\"\u003eAndrés Iniesta iba a sacar una falta desde el lateral del área, el futbolista decidió jugarla en corto para ganar tiempo cerca del banderín de córner. Su compañero no parecía poder zafarse de sus rivales y fue él a salvar la situación. Se hizo con el esférico y se pegó al borde del terreno de juego. Los rivales le hicieron un dos contra uno, parecía que no podría salir de aquel marcaje, pero \u003cstrong\u003eel ex del Barcelona pisó el balón hacia atrás y con un taconazo le hizo un caño a uno de sus rivales\u003c/strong\u003e y llegó a línea de fondo. Allí otro de los rivales le hizo falta. Era consciente de que esa era la única manera de parar a Iniesta.\u003c/p\u003e\n\u003ci class=\"wrapper\"\u003e\u003cdiv class=\"image-container imageEmbedded\"\u003e\u003cimg src=\"https://media.zenfs.com/es/90min_es_120/1795ebcdf75ab416e2b194761b529a93\" alt=\"Andres Iniesta\" title=\"Buddhika Weerasinghe/GettyImages\"\u003e\u003c/div\u003e\u003c/i\u003e\u003cp class=\"\"\u003e\u003cbr\u003e\u003c/p\u003e\n\u003cp\u003eEsta jugada fue en un Vissel Kobe cada vez más españolizado. El futbolista ya es compañero de otro mítico de la selección española, David Villa, que por cierto marcó frente al Sagan Tosu, el equipo de Fernando Torres. A esta dupla ahora se va a unir Sergi Samper, el canterano del Barcelona ha recibido hace unas horas la carta de libertad y viajará hasta le país nipón para jugar junto a ellos.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.90min.com/es/posts/6311276-video-el-cano-de-andres-iniesta-con-el-que-todo-japon-alucina?utm_source=RSS"
+    },
+    "request_path": "requests",
+    "title": "VÍDEO | El caño de Andrés Iniesta con el que todo Japón alucina",
+    "uuid": "05bd6936-1af4-35f4-a2e8-1acc6057160e"
+}

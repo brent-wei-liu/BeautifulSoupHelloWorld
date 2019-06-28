@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:18:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e歐嘉瑞接任中油董事長 工會喊話勞資應更多善意溝通\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/zh-Hant-TW/homerun/UDN.com/01aa6765094ed879e9f2864a47b8fb04'\u003e\u003c/p\u003e\u003cp\u003e爭議多時的中油董座人選終於塵埃落定，中油今（4）日舉行董事長交接典禮，前董座戴謙請辭獲淮，職缺由經濟部指派前能源局長歐...\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://udn.com/news/story/7238/3676085"
+    },
+    "request_path": "requests",
+    "title": "歐嘉瑞接任中油董事長 工會喊話勞資應更多善意溝通",
+    "uuid": "0630cfee-8618-3dd0-9112-c5961b34f6dd"
+}

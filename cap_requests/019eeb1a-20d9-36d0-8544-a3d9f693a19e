@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:19:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e渣打銀行：將繼續增加區塊鏈貿易等數位化投資\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e根據香港《明報》3月4日的報導，渣打香港區行政總裁禤惠儀表示，集團持續投資數位化領域，去年對於數位化項目的投資，主要在改善開戶流程、加強整體系統、聊天機器人（chatbot）及區塊鏈貿易融資等項目上，而這當中還未計算籌備中的虛擬銀行。若今年獲發虛擬銀行牌照，數位化投資額的成長，會比去年更高。\u003c/p\u003e  \u003cp\u003e禤惠儀表示，虛擬銀行屬於一項中線投資項目，希望在品牌效應及營運模式上，都有與傳統銀行不同的體驗，再倒過來促使傳統銀行業加強新思...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30312152.html"
+    },
+    "request_path": "requests",
+    "title": "渣打銀行：將繼續增加區塊鏈貿易等數位化投資",
+    "uuid": "019eeb1a-20d9-36d0-8544-a3d9f693a19e"
+}

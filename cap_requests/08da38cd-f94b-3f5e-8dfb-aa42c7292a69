@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:02:40Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTrik Tersembunyi Baca Pesan WhatsApp Tanpa Diketahui Pengirim\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Aplikasi pesan instan WhatsApp merupakan salah satu aplikasi populer di iPhone maupun Android. Namun ada satu hal yang tidak disukai banyak pengguna, yaitu notifikasi pesan yang sudah dibaca. Notifikasi ini menggunakan sistem centang, yang mana satu centang berarti pesan terkirim, dua centang abu-abu diterima, dan dua centang biru pesan telah terbaca penerima pesan. \u003c/p\u003e\n\n\u003cp\u003eFitur ini berguna terutama bagi si pengirim pesan, namun kadang menjengkelkan jika si penerima sedang tak ingin diketahui telah membaca pesan tersebut. Sebab, kadang ada pengguna yang tidak ingin terbebani harus membalas pesan setelah membacanya. \u003c/p\u003e\n\n\u003cp\u003eSaat ini ada beberapa cara untuk menipu sistem notifikasi tersebut. Cara tersebut terdapat di perangkat iPhone, khususnya pada tipe di atas iPhone 6S. Ada fitur yang dibangun langsung dalam aplikasi. Penerima pesan cukup menekan percakapan untuk mengaktifkan jendela \u0026#39;3D touch peek\u0026#39;. \u003c/p\u003e\n\n\u003cp\u003eJendela ini akan berfungsi untuk memberi kamu sepenggal percakapan di WhatsApp. Jika agak ditekan lagi, maka pengguna akan mendapat lintasan pesan dengan layar penuh. Untuk mengembalikannya pada keadaan semula, kamu hanya harus melepas tekanan pada layar. \u003c/p\u003e\n\n\u003cp\u003eCara di atas tidak akan membuat si pengirim mengetahui pesannya telah terbaca, membuat penerima memiliki waktu tambahan untuk membalas pesan tanpa tekanan.\u003c/p\u003e\n\n\u003cp\u003eOpsi lainnya adalah dengan membaca pesan di notifikasi, cara ini juga dapat dilakukan untuk pengguna Android. \u003c/p\u003e\n\n\u003cp\u003eSolusi selanjutnya adalah dengan mengubah iPhone menjadi ‘airplane mode’, sebelum membuka pesan. Trik ini akan membuat kamu lebih teliti dalam membaca pesan, tidak seperti cara sebelumnya yang terkesan buru-buru. Tapi harus diingat, tutup jendela WhatsApp sebelum kamu kembali menonaktifkan mode pesawat.\u003c/p\u003e\n\n\u003cp\u003eCara tersebut akan membuat pesan tampak belum dibaca. Pengguna juga bisa mematikan tanda baca di pengaturan, baik untuk pengguna iOS maupun Android. (dhi)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/digital/doktek/1126734-trik-tersembunyi-baca-pesan-whatsapp-tanpa-diketahui-pengirim"
+    },
+    "request_path": "requests",
+    "title": "Trik Tersembunyi Baca Pesan WhatsApp Tanpa Diketahui Pengirim",
+    "uuid": "08da38cd-f94b-3f5e-8dfb-aa42c7292a69"
+}

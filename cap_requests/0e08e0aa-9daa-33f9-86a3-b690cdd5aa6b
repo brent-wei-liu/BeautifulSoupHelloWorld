@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 424\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Lomba pekan ini dinamakan Undangan Berbahaya yang akan menyatukan hantu dari Timur dan Barat. Bersama Son Na Eun, Seo Young Hee, dan Ahn Hyo Seop sebagai tamu, para anggota datang mengenakan beragam kostum dan riasan karakter terkenal dari drama dan film untuk merayakan Halloween. Lalu, para anggota dan tamu dibagi ke dalam dua tim, Tim Manusia dan Tim Hantu, yang memainkan tiga misi. Anggota yang menang menerima petunjuk yang akan memandu mereka memenangi lomba pekan ini. Tetap saksikan untuk mengetahui pemenang akhirnya.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 424",
+    "uuid": "0e08e0aa-9daa-33f9-86a3-b690cdd5aa6b"
+}

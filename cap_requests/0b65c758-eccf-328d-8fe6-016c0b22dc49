@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:23:48Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLocation de voiture : 5 astuces pour éviter les galères\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eLouer une voiture n\u0026#39;est pas toujours simple, d’un loueur à l’autre, les écarts de prix, d’options ou de taxes peuvent être important. Avant de signer, voici tout ce qu\u0026#39;il faut savoir. Pour en savoir plus, Carigami livre ses conseils et la marche à suivre pour les 5 « galères » les plus courantes avec une voiture de location. \u003c/p\u003e1. Que faire si je n’ai pas la bonne carte bancaire pour récupérer ma voiture de location en agence ?\u003cp\u003ePour louer une voiture, il est nécessaire d’avoir une carte de crédit ou une carte de débit différé aux nom et prénom du conducteur principal et suffisamment approvisionnée pour déposer la caution. Si le client dispose d’une carte de débit immédiat, il ne pourra pas payer la caution et sera ainsi contraint de souscrire à une assurance complémentaire (souvent hors de prix) proposée par le loueur. C’est alors la seule alternative pour récupérer le véhicule, au risque de perdre sa réservation. L’inscription « débit » ou « crédit » est signalée sur la carte bancaire depuis juin 2016. Qui paie les frais ? C’est au conducteur de payer l’assurance complémentaire puisque c’est à lui de s’assurer d’être en possession de la bonne carte bancaire, tel que stipulé sur le contrat de location.\u003c/p\u003e2. Quelle démarche si la voiture de location tombe en panne ? \u003cp\u003eContacter l’assurance dépannage du loueur. Les coordonnées se trouvent sur le contrat de location. Un garagiste est alors envoyé sur place pour réparer le véhicule aux frais du loueur si « l’assurance routière » est incluse dans l’offre - ce qui est très souvent le cas. Qui paie les frais de réparation ? Le loueur, si les dégâts ne sont pas imputables au conducteur. A l’inverse, si les dégâts sont de son ressort (par exemple : continuer à rouler alors qu’un voyant rouge est allumé) ou s’il entreprend des réparations lui-même ou via un garage sans avoir contacté l’assurance du loueur, les frais seront à sa charge.\u003c/p\u003e3. Un accrochage avec la voiture de location, quelle solution ? \u003cp\u003ePrévenir le loueur et contacter la police\u003c/p\u003e\n                                                    \u003cp\u003e\n                                (...) \u003ca href=\"https://www.femmeactuelle.fr/actu/vie-pratique/location-de-voiture-5-astuces-pour-eviter-les-galeres-2075765\"\u003eCliquez ici pour voir la suite\u003c/a\u003e\n                            \u003c/p\u003e\n                                                \u003cp\u003e\n                                                                                                                \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.femmeactuelle.fr/actu/vie-pratique/location-de-voiture-5-astuces-pour-eviter-les-galeres-2075765"
+    },
+    "request_path": "requests",
+    "title": "Location de voiture : 5 astuces pour éviter les galères",
+    "uuid": "0b65c758-eccf-328d-8fe6-016c0b22dc49"
+}

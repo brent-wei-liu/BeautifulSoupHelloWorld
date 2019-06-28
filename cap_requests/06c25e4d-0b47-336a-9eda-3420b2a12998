@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:38:48Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e干預歐洲議會選舉 俄羅斯駭客虎視眈眈\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/rti.org.tw/d1a5f3961c9eb343c3df8a089e03a128\" width=\"360\" alt=\"\u0026#x007db2;\u0026#x008def; \u0026#x0099ed;\u0026#x005ba2;\u0026#x00ff08;\u0026#x005716;\u0026#x00ff0f;pixabay\u0026#x00ff09;\" title=\"\u0026#x007db2;\u0026#x008def; \u0026#x0099ed;\u0026#x005ba2;\u0026#x00ff08;\u0026#x005716;\u0026#x00ff0f;pixabay\u0026#x00ff09;\"\u003e\u003cbr\u003e\u003cp\u003e歐洲議會(European Parliament)選舉將於5月舉行，隨著選情升溫，歐洲安全官員正全面備戰，防止與俄羅斯有關連的駭客可能影響投票的舉動。\u003c/p\u003e\n\n\u003cp\u003e歐洲聯盟安全專員金恩(Julian King)上星期告訴法國阿爾薩斯報(Alsace)：「有很大的可能，有人將試圖操縱和扭曲(歐洲議會)選舉。」\u003c/p\u003e\n\n\u003cp\u003e這次歐洲議會選舉，將是民粹主義者和疑歐運動，對決親歐洲的國際主義者。\u003c/p\u003e\n\n\u003cp\u003e智庫「歐洲外交關係委員會」(The European Council on Foreign Relations, ECFR)在最近的一份報告中就指出：「已經很明顯，這將是歐盟史上影響最深遠的一次選舉。」\u003c/p\u003e\n\n\u003cp\u003e俄羅斯長久以來否認發動駭客攻擊，或經由社群媒體散佈假訊息來干預外國選舉。據信，這些舉動都是由俄羅斯軍事情報局(GRU)在背後策劃發動。\u003c/p\u003e\n\n\u003cp\u003e一般認為，從協助民粹主義者和疑歐運動，將使俄羅斯從中獲得利益。因為這些人主張歐盟應結束因俄羅斯兼併烏克蘭克里米亞而進行的制裁。\u003c/p\u003e\n\n\u003cp\u003e官員表示，俄羅斯的最大威脅來自三方面：對政黨發動駭客攻擊；目標性的洩露敏感資訊；以及透過社群媒體發表攻佔頭版的訊息。\u003c/p\u003e\n\n\u003cp\u003e這種手法在2016年的美國總統大選就曾見識過，當時俄羅斯駭客竊取民主黨資訊並外洩。\u003c/p\u003e\n\n\u003cp\u003e俄羅斯的手也曾伸入2017年法國總統大選，企圖影響馬克宏(Emmanuel Macron)的選情，當時有數千份檔案資料遭揭露。\u003c/p\u003e\n\n\u003cp\u003e此外，英國在2016年舉行的脫歐公投，據信也有「俄羅斯國家角色」介入。而最新的例子，則是上個月的澳洲政黨遭駭。\u003c/p\u003e\n\n\u003cp\u003e歐洲議會選舉將於5月23日至26日舉行。不願具名的法國安全局消息人士指出：「我們有很大的機率會遭到重大攻擊。」\u003c/p\u003e\n\n\u003cp\u003e在今年1月，歐洲聯盟執行委員會(European Commission)曾呼籲包括谷歌(Google)、推特(Twitter)等平台以及其它廣告公司，在對抗「假新聞」上能有更多作為，包括封鎖假帳號以及取締可疑的網址等。\u003c/p\u003e\n\n\u003cp\u003e根據法新社取得的歐洲安全局內部報告，目前已經採取或完成一些措施，讓歐盟和成員國在遇到駭客攻擊時，能夠更迅速、有效的回應。\u003c/p\u003e\n\n\u003cp\u003eAPT28、「兵風暴」(Pawn Storm)、「魔幻熊」(Fancy Bear)等網路間諜集團，據信最近發動以歐盟機構和政治組織的駭客攻擊，其中包括北大西洋公約組織(NATO)和德國國會。\u003c/p\u003e\n\n\u003cp\u003e日本趨勢科技(Trend Micro)的專家庫耶佐(Loic Guezo)表示，這些駭客集團鎖定的目標，通常是與選舉或決策有關的西方國家機構和政治組織。這些單位做成的決定通常會對俄羅斯產生影響。\u003c/p\u003e\n\n\u003cp\u003e駭客會策略性的洩露竊取到的資料，藉此減損攻擊目標的信用。法國外交和國防部最近的報告就指出，由於這是竊取的資訊，使人們產生一種印象，即這些都是「真實的」未經篩選的原始資料。但事實是，這些資料經常是經過扭曲或竄改後才會對外洩露。\u003c/p\u003e\n\n\u003cp\u003e法國地緣政治研究所(French Geopolitical Institute)專家里蒙尼爾(Kevin Limonier)表示，俄羅斯已經成立一個資訊大軍，利用假帳號把錯誤的訊息，散佈到主流媒體。\u003c/p\u003e\n\u003ca target=\"_blank\" href=\"https://www.rti.org.tw/news/view/id/2013272\"\u003e原始連結\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.rti.org.tw/news/view/id/2013272"
+    },
+    "request_path": "requests",
+    "title": "干預歐洲議會選舉 俄羅斯駭客虎視眈眈",
+    "uuid": "06c25e4d-0b47-336a-9eda-3420b2a12998"
+}

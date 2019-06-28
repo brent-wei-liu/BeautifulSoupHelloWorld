@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:05:58Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTrap - Episode 1\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Kang Woo Hyun dilarikan ke instalasi gawat darurat karena mengalami beberapa cedera. Dia mengaku bahwa dia diburu oleh seseorang dan keluarganya menghilang. Ko Dong Guk, seorang detektif yang mendekati masa pensiun, dipanggil untuk menangani kasus ini. Kesaksian Woo Hyun terdengar gila, tapi terlalu masuk akal dan detail untuk diabaikan.”\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25875796\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Trap - Episode 1",
+    "uuid": "04a72413-fe07-38dc-91b4-8b5199e544a5"
+}

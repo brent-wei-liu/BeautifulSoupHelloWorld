@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:30:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa bolsa de México baja 0,47 % y cierra en 42.418,49 puntos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMéxico, 4 mar (EFE).- El principal indicador de la Bolsa Mexicana de Valores (BMV), el Índice de Precios y Cotizaciones (IPC), retrocedió este lunes 0,47 % y cerró en 42.418,49 unidades, 200,74 menos que la jornada bursátil anterior.\nEn la sesión se negociaron 180,1 millones de títulos en los mercados global y local, por los que se pagaron 9.622 millones de pesos mexicanos (unos 497,5 millones de dólares).\nSe intercambiaron títulos de 461 empresas emisoras, de las cuales 200 ganaron, 245 perdieron y 16 cerraron sin cambio.\nLas mayores ganancias fueron para el Grupo Aeroportuario del Centro Norte (OMA B), con 3,72 %; la cadena de tiendas de conveniencia Fomento Económico Mexicano (FEMSA UB), con 3 %, y el consorcio industrial y comercial Grupo Kuo (KUO B), con 1,9 %\nLas pérdidas más pronunciadas fueron para la constructora de viviendas Sare Holding (SARE B), con -10 %; la firma Unifin Financiera (UNIFIN A), con -4,81 %, y la Financiera Independencia (FINDEP), con -4,33 %.\nEl sector que más perdió fue el de materiales (-1,21 %), seguido por el de consumo frecuente (-0,33 %) y el financiero (-0,29 %), mientras el único que ganó fue el industrial (0,05 %).\nFotografía que muestra el exterior de la Bolsa Mexicana de Valores, en Ciudad de México (México). EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "La bolsa de México baja 0,47 % y cierra en 42.418,49 puntos",
+    "uuid": "0a713d8b-d88d-31d1-8763-5279bf8a0531"
+}

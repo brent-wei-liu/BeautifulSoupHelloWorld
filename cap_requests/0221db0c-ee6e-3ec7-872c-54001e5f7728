@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:29:42Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e韓美展開聯合演練　規模大幅縮小\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e韓美今日起一連7日展開代號「同盟」的聯合演練，取代過往的「關鍵決斷」軍演。\n\n韓聯社報道，「同盟」與「關鍵決斷」演習屬同一性質，但參與的兵力大幅減少，日程減半，並取消反擊訓練。演習以危機管理和防禦訓練為主，不會實際動用裝備，而是以電腦類比訓練的方式進行。\n\n美國和南韓日前決定，停止兩項大型軍演，其中代號「關鍵決斷」的軍演今年改名為「同盟」，以示韓美雙方致力降低緊張局勢，支援達致朝鮮半島無核化的外交努力。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "韓美展開聯合演練　規模大幅縮小",
+    "uuid": "0221db0c-ee6e-3ec7-872c-54001e5f7728"
+}

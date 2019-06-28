@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T16:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e龍捲風重創美國阿拉巴馬州 至少23死\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e編譯組／綜合外電報導\u003c/p\u003e\u003cp\u003e　美國南部阿拉巴馬州3日發生至少2起龍捲風侵襲，已知造成23人喪生，仍有多人失蹤，造成多處「災難性」損害。美國總統川普亦推文呼籲民眾，當心龍捲風的威力並注意自身安危。\u003c/p\u003e\u003cp\u003e　阿拉巴馬州利郡警長瓊斯表示，當局人員持續進行搜救任務，中途還因情況太危險而暫停，龍捲風造成房屋倒塌、磚瓦四散是「前所未見」。東阿拉巴馬醫療中心人員指出，目前已收治超過40人，且「可能有更多傷患」。\u003c/p\u003e\u003cp\u003e　當地法醫哈里斯向媒體表示，從未遭遇過如此嚴重的死傷事件，且「死亡人數恐繼續攀升」，目前最小的罹難者僅有6歲。天災已造成約1萬人無電可用，而當地溫度可能降至冰點；川普同日發文，呼籲當地民眾注意安危，並向死傷者與其家屬致意。\u003c/p\u003e\n\u003cp\u003e\u003cimg src='https://media.zenfs.com/ko/youthdailynews_517/44271160a89d4d2315d2cb01b8589ffe' width='934' height='550'/\u003e\u003c/p\u003e\n\u003cp\u003e阿拉巴馬州利郡遭逢史上最嚴重龍捲風災情，已知造成至少23人喪生，死亡人數恐繼續攀升。圖為災民走在殘破不堪的家園路上。（達志影像／美聯社）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.ydn.com.tw/News/326647"
+    },
+    "request_path": "requests",
+    "title": "龍捲風重創美國阿拉巴馬州 至少23死",
+    "uuid": "085e6e5e-2236-3323-876f-3907f77e0ae8"
+}

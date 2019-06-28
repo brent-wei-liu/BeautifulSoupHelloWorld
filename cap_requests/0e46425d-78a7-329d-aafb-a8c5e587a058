@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:26:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eOde à tolerância e esplendor na primeira noite de desfiles na Sapucaí\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBandeiras pedindo \u0026#34;igualdade\u0026#34;, um navio pirata com uma cachoeira e um beija-flor gigante \u0026#34;voando\u0026#34; no topo de um carro alegórico: os desfiles das escolas de samba do Rio de Janeiro foram marcados, neste domingo (3), por uma alta dose de exuberância e crítica social.\u003c/p\u003e\u003cp\u003eA chuva atrasou em quase uma hora o início dos sete desfiles da primeira noite da Sapucaí, com suas mensagens para uma cidade que há três anos elegeu como prefeito o ex-bispo evangélico Marcello Crivella e a um país governado pelo presidente Jair Bolsonaro.\u003c/p\u003e\u003cp\u003eA atual campeã, a azul e branca Beija-Flor de Nilópolis, levou para a avenida a história de seus 70 carnavais, com um show de fantasias e carros mecanizados de vários metros de altura, um deles coroado por um beija-flor \u0026#39;voando\u0026#39; entre nuvens móveis.\u003c/p\u003e\u003cp\u003eA Beija-Flor venceu em 2018 com um desfile que criticava a corrupção.\u003c/p\u003e\u003cp\u003eJá o Salgueiro consagrou seu enredo a Xangô - patrono da Justiça - e encerrou seu desfile com bandeiras com mensagens contra a corrupção, a favor do feminismo, da igualdade, da liberdade e da diversidade sexual.\u003c/p\u003e\u003cp\u003eA Unidos do Viradouro, este ano dirigida por Paulo Barros, apresentou um enredo sobre a recuperação do universo e o sorriso da infância para \u0026#34;transformar\u0026#34; as tristes paixões do mundo.\u003c/p\u003e\u003cp\u003eNos carros alegóricos, retirados de histórias lidas à noite por uma avó, podia-se ver um navio fantasma com uma cachoeira banhando criaturas do fundo do mar, sapos transformados em príncipes ou, em uma versão mais moderna, um motociclista descendo um rampa.\u003c/p\u003e\u003cp\u003e\u0026#34;Quem me viu chorar, vai me ver sorrir/Você pode acreditar, o amor está aqui/ Vira Viradouro iluminou/ O brilho no olhar voltou\u0026#34;, dizia o samba cantado pelos mais de 2.500 passistas e milhares que os acompanhavam das arquibancadas.\u003c/p\u003e\u003cp\u003eCada escola tem até 75 minutos para desfilar pela Sapucaí e deslumbrar um júri que pontua sua percussão, fantasias, samba enredo, entre outros.\u003c/p\u003e\u003cp\u003eEsta noite, mais sete escolas vão desfilar até o amanhecer.\u003c/p\u003e\u003cp\u003eSerá a vez da Portela, que vai buscar o seu 23º título homenageando a cantora Clara Nunes, ícone musical dos anos 70 e primeira artista a defender publicamente as religiões afro-brasileiras.\u003c/p\u003e\u003cp\u003eA tradicional escola terá uma ala especial desenhada pelo estilista francês Jean-Paul Gaultier.\u003c/p\u003e\u003cp\u003eJá a Mangueira, que conquistou seu 19º título em 2016, vai entrar na avenida contando o \u0026#34;lado B\u0026#34; da história brasileira, exaltando heróis e heroínas negros, índios e pobres, relegados a um segundo plano na narrativa tradicional.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Ode à tolerância e esplendor na primeira noite de desfiles na Sapucaí",
+    "uuid": "0e46425d-78a7-329d-aafb-a8c5e587a058"
+}

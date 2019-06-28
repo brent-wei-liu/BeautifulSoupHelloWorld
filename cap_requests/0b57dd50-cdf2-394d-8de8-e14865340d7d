@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T19:33:02Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBallet en la explanada del Palacio de Bellas Artes\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/es-US/homerun/notimex.com.mx/d247a7c809f412bf13b3bb7f1e5a29ec\" border=\"0\" hspace=\"5\" vspace=\"5\" alt=\"90303133.JPG\"\n title=\"Ballet en la explanada del Palacio de Bellas Artes \"\u003e\u003cbr\u003e\u003ca href=\"/es/descargarFoto/503322\" class=\"btn btn-primary\"\u003eDescargar\u003c/a\u003e\u003cbr\u003e90303133. México, 3 Mar 2019 (Notimex- Alejandro Guzmán).- En la explanada del Palacio de Bellas Artes se realizó un ensayo y presentación de un número musical del Ballet Folklórico de México. NOTIMEX/FOTO/ALEJANDRO GUZMAN/AGH/ACE/\n\u003cp\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.notimex.gob.mx/ntxfotos/503322"
+    },
+    "request_path": "requests",
+    "title": "Ballet en la explanada del Palacio de Bellas Artes",
+    "uuid": "0b57dd50-cdf2-394d-8de8-e14865340d7d"
+}

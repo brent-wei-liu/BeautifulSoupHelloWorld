@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:43:28Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e日本基准国债收益率升到零水平 市场押注央行可能减少购买量\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e【彭博】-- 日本基准10年期国债收益率上升至零水平，为一个多月以来首次，之前该国央行为3月份减少债券购买量铺平了道路。\u003c/p\u003e\u003cp\u003e日本央行上周改变其月度债券购买计划，为三个月内首次改变，使其可以选择在关键的5-10年期区域减少购买量。这番调整帮助延续了基准收益率从两年来低点反弹的走势，并导致收益率曲线趋于陡峭，因为交易员认为央行将削减超长期债券的购买量。\u003c/p\u003e\u003cp\u003e10年期国债收益率周一上涨1.5个基点，至0，上次见到这个水平是1月31日；美国国债收益率近期因为美国经济数据稳健而走高，也推动日债收益率走势。日本财务省计划周二发行2.2万亿日元（197亿美元）的10年期国债。\u003c/p\u003e\u003cp\u003e“对于明天10年期国债招标是否会有需求的担心，以及日本央行将在周三的操作中购买多少5-10年期债券的不确定性，是今日给10年期收益率造成上行压力的两个主要原因，”三菱UFJ摩根士丹利证券驻东京的高级固定收益策略师Katsutoshi Inadome表示。\u003c/p\u003e\u003cp\u003e日本央行对月度债券购买计划的调整让部分投机客措手不及，因为央行行长黑田东彦最近表示，如果日元走强破坏刺激通胀的努力，当局将考虑扩大刺激措施，这让他们预期央行不会减少债券购买。\u003c/p\u003e\u003cp\u003e市场感到意外\u003c/p\u003e\u003cp\u003e日本央行减少5-10年期区域的购买频率“令人感到意外，因为市场参与者认为在通胀率持续低于2%的情况之下，央行会发现很难大幅减少日本国债购买量，”摩根士丹利的策略师们在3月2的一份报告中写道。\u003c/p\u003e\u003cp\u003e之前10年期国债收益率在今年早些时候跌至-0.05%，创下2016年11月以来最低水平，其背景则是人们担心全球经济增长放缓，且包括美联储在内的中央银行政策倾向于鸽派，引发全球债券上涨。\u003c/p\u003e\u003cp\u003e“10年期收益率为负值时难以找到投资者，所以我预计收益率短期内会有更大的上行压力，降低其跌破零的风险，”Inadome表示。\u003c/p\u003e\u003cp\u003e原文标题Japan’s Yield Rises Back to Zero Amid Bets BOJ May Cut Purchases\u003c/p\u003e\u003cp\u003e欲联系记者请洽：Chikako Mogi 东京 cmogi@bloomberg.net\u003c/p\u003e\u003cp\u003e欲联系英文编辑请洽：Tan Hwee Ann hatan@bloomberg.net, Shikhar Balwani、Masaki Kondo\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "日本基准国债收益率升到零水平 市场押注央行可能减少购买量",
+    "uuid": "0af7394a-1aac-3b5f-b43f-0fa8b77f9843"
+}

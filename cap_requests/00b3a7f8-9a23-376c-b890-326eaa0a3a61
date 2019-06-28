@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:48:47Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【7-Eleven】買任何7-SIGNATURE和風の味三文治（吉列雞扒生菜三文治$20／件，其他口味$17／件），即送你雀巢檸檬茶480毫升1支（04/03-05/03）\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【只限2天】去7-Eleven買早餐有著數！買任何7-SIGNATURE和風の味三文治（吉列雞扒生菜三文治$20／件，其他口味$17／件），即送你雀巢檸檬茶480毫升1支*！ 唔好錯過啦 *優惠期由3月4日早上7時起至3月5日。優惠受條款及細則約束，詳情請參閱店內宣傳品。     ------------   日期：2019/03/04-2019/03/05   地點：全線7-Eleven   詳情：https://www.facebook.com/7ElevenHongKong/photos/a.127205577294970/2516099031738934/?type=3\u0026theater    ＝＝＝＝＝＝＝ 雅虎於本頁中的角色只是為你提供資訊及商戶連結，而並非買賣一方或其代表或代理。所有資料根據連結內商戶直接提供為準，商戶並可能隨時更改。所有買賣均由用戶及商戶雙方自行負責。 「Yahoo著數」現已推出，我哋將會為你搜羅每日超市情報，話你知最新購買飲食嘅著數消息、免費或折扣優惠，幫你慳錢慳時間。 想知仲有咩最筍嘅優惠著數？快啲禁入嚟睇下啦！：https://yjetso.myguide.hk 歡迎提供優惠情報，情報一經採用，將有機會免費獲得Yahoo購物券乙張。快啲同我哋一齊搜羅全港優惠著數喇！ https://yahoohk.app.link/discountsubmit\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://yjetso.myguide.hk/article/2463"
+    },
+    "request_path": "requests",
+    "title": "【7-Eleven】買任何7-SIGNATURE和風の味三文治（吉列雞扒生菜三文治$20／件，其他口味$17／件），即送你雀巢檸檬茶480毫升1支（04/03-05/03）",
+    "uuid": "00b3a7f8-9a23-376c-b890-326eaa0a3a61"
+}

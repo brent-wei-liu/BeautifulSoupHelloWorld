@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:21:36Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJuve, Emre Can: \u0026quot;Vittoria bella e difficile. So che in passato avrei potuto fare meglio\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/it-IT/homerun/90min_it_100/eb89089988a9010566ad90fd5005d9c1'/\u003e\u003cp style=\"text-align:justify;\"\u003e\u003cb\u003eEmre Can \u003c/b\u003eha trovato il gol del momentaneo 0-2 nella sfida tra \u003cb\u003eNapoli\u003c/b\u003e e \u003ca href=\"https://www.90min.com/it/teams/juve\" target=\"_blank\"\u003e​Juventus\u003c/a\u003e. Il centrocampista tedesco ha disputato una delle migliori gare della stagione e si candida a una maglia da titolare nella sfida contro l\u0026#39;Atletico Madrid. Il calciatore tedesco ha parlato a \u003ci\u003eJ Tv\u003c/i\u003e dopo la gara. Ecco le sue dichiarazioni sulla sfida del San Paolo.​\u003c/p\u003e\n\u003cp style=\"text-align:justify;\"\u003e\u003cstrong\u003eUna bella vittoria, una gara difficile.\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align:justify;\" class=\"\"\u003e\u0026quot;\u003ci\u003eSì, vittoria molto bella e molto difficile. Sono molto contento, ma penso avremmo potuto fare meglio oggi, ma alla fine abbiamo vinto e siamo felici\u003c/i\u003e\u0026quot;.\u003c/p\u003e\n\u003ci class=\"wrapper\"\u003e\u003cdiv class=\"instagram-container instagramEmbedded\"\u003e\u003ciframe src=\"https://instagram.com/p/BukEVtdh_b_/embed/\" width=\"612\" height=\"710\" frameborder=\"0\" scrolling=\"no\"\u003e\u003c/iframe\u003e\u003c/div\u003e\u003c/i\u003e\u003cp class=\"\"\u003e\u003cstrong\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align:justify;\"\u003e\u003cstrong\u003eLa tua migliore partita quest\u0026#39;anno?\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align:justify;\"\u003e\u0026quot;\u003ci\u003eNo, non lo so. Provo ad aiutare la squadra, so che in passato avrei potuto fare meglio, ora mi sento meglio e piano piano potrò dare il mio meglio. Ho solo provato ad aiutare la squadra\u003c/i\u003e\u0026quot;.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align:justify;\"\u003e\u003cstrong\u003eUna vittoria importante per lo scudetto.\u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align:justify;\"\u003e\u0026quot;\u003ci\u003eSì, molto importante. Sappiamo di avere molti punti di vantaggio, ma abbiamo ancora molte gare da giocare e siamo concentrati per vincerle\u003c/i\u003e\u0026quot;.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.90min.com/it/posts/6311035-juve-emre-can-vittoria-bella-e-difficile-so-che-in-passato-avrei-potuto-fare-meglio?utm_source=RSS"
+    },
+    "request_path": "requests",
+    "title": "Juve, Emre Can: \u0026quot;Vittoria bella e difficile. So che in passato avrei potuto fare meglio\u0026quot;",
+    "uuid": "08661ed4-9bbe-3411-919d-92ca0412e2a0"
+}

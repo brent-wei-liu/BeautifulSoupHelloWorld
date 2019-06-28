@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:42:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLe motivazioni della sentenza del caso Vannini: \u0026quot;Ciontoli sparò colposamente. Condotta non muta la natura del reato\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"https://media.zenfs.com/it/huffpost_it_483/07871eab627295366eb4d5475fa22158\" alt=\"\"/\u003e\u003cp\u003e\u0026quot;Antonio Ciontoli esplose colposamente un colpo di pistola che attinse Marco Vannini\u0026quot;. Così i giudici della prima Corte d\u0026#39;assise d\u0026#39;appello di Roma motivando la sentenza con la quale hanno condannato a cinque anni di reclusione Antonio Ciontoli per avere causato la morte di Marco Vannini, morto il 18 maggio 2015 a Ladispoli, vicino a Roma. I giudici osservano che \u0026quot;Ciontoli ha consapevolmente e reiteratamente evitato l\u0026#39;attivazione di immediati soccorsi\u0026quot; per \u0026quot;evitare conseguenze dannose in ambito lavorativo\u0026quot;.\u003c/p\u003e\u003cp\u003eSecondo la ricostruzione dell\u0026#39;epoca, Vannini si trovava in casa della fidanzata intento a farsi un bagno nella vasca, quando entrò Ciontoli per prendere da una scarpiera un\u0026#39;arma e partì un colpo che ferì gravemente il ragazzo. Di lì, secondo l\u0026#39;accusa, sarebbe partito un ritardo \u0026#39;consapevole\u0026#39; nei soccorsi; le condizioni di Vannini si sarebbero aggravate, fino a provocarne la morte. A processo furono portati, e poi condannati, tutti i componenti la famiglia Ciontoli. In primo grado, Antonio Ciontoli fu condannato a 14 anni per omicidio volontario, i figli e la moglie a tre anni per omicidio colposo. In appello, \u003ca href=\"https://www.huffingtonpost.it/2019/01/29/omicidio-marco-vannini-pena-ridotta-per-il-capofamiglia-antonio-ciontoli_a_23656068/\" target=\"_blank\"\u003econdanna ridotta a 5 anni per il capofamiglia per omicidio colposo\u003c/a\u003e, e conferma della sentenza per i familiari.\u003c/p\u003e\u003cp\u003eLa condotta di Ciontoli nella vicenda \u0026quot;appare estremamente riprovevole sotto il profilo etico... ma il fatto di trovarsi alle prese con un imputato la cui condotta è particolarmente odiosa non può di per sé comportare che un fatto colposo diventi doloso. Nel rispetto del principio del favor rei, dunque, la condotta di Ciontoli va qualificata come sorretta da colpa cosciente\u0026quot;. Tuttavia vista \u0026quot;la gravità della condotta tenuta dall\u0026#39;imputato, della tragicità dell\u0026#39;accaduto, all\u0026#39;assenza di significativi tratti di resipiscenza\u0026quot; la corte ha deciso per Ciontoli il massimo della pena stabilita per l\u0026#39;omicidio colposo, ovvero 5 anni.\u003c/p\u003e\u003cp\u003eDiverso il ragionamento per i suoi familiari che per la corte \u0026quot;difettavano della piena conoscenza delle...\u003c/p\u003e\u003ca href=\"https://www.huffingtonpost.it/2019/03/04/le-motivazioni-della-sentenza-del-caso-vannini-ciontoli-sparo-colposamente-condotta-non-muta-la-natura-del-reato_a_23683688/?ncid=yhpf\"\u003eContinua a leggere su HuffPost\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.huffingtonpost.it/2019/03/04/le-motivazioni-della-sentenza-del-caso-vannini-ciontoli-sparo-colposamente-condotta-non-muta-la-natura-del-reato_a_23683688/?ncid=yhpf"
+    },
+    "request_path": "requests",
+    "title": "Le motivazioni della sentenza del caso Vannini: \u0026quot;Ciontoli sparò colposamente. Condotta non muta la natura del reato\u0026quot;",
+    "uuid": "0d43f178-36e1-3554-a170-f8cba7d20545"
+}

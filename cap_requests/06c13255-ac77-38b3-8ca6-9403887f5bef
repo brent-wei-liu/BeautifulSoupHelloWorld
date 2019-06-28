@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:34:58Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTak Dijagokan, Humble Malah Juara Piala Presiden Esports 2019 Bekasi\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Kemarin, hari Minggu 3 Maret 2019 tim esport dari Bandung Humble berhasil keluar sebagai pemenang pertama babak kualifikasi final turnamen Piala Presiden Esports 2019 regional Bekasi.\u003c/p\u003e\n\n\u003cp\u003eKemenangan itu diraih Humble usai mengalahkan tim Victim Rivals dari Bekasi. Tim Victim Rivals merupakan tim unggulan yang beranggotakan beberapa pemain yang telah lama ada di skema professional Mobile Legends Indonesia. \u003c/p\u003e\n\n\u003cp\u003eSedangkan tim Humble beranggotakan mahasiswa Universitas Telkom Bandung. Uniknya, meski sebagai tim yang kurang diandalkan, justru Humble berhasil menjadi juara di babak pertama dan ketiga. \u003c/p\u003e\n\n\u003cp\u003ePada babak pertama, tim Humble berhasil memenangkan pertandingan dengan skor 21-5 dalam waktu 11:18 menit. Pada babak ini Most Valuable Player (MVP) adalah Schwann dengan menggunakan hero Mobile Legends Kimmy dan pada babak ini Martis yang digunakan DevKoch berhasil mendapatkan maniac.\u003c/p\u003e\n\n\u003cp\u003ePada babak kedua, tim Victim Rivals berhasil mengimbangi permainan dengan memenangkan pertandingan dengan skor 18-17 dengan waktu 13:38 menit, pada pertandingan ini MVP adalah Renbo dengan heronya Alice.\u003c/p\u003e\n\n\u003cp\u003eTetapi pada babak penentuan, tim Humble kembali keluar sebagai juara dengan skor 19-10 dalam waktu 20:35, pada pertandingan ini MVP adalah Gusion dengan heronya Miracle.\u003c/p\u003e\n\n\u003cp\u003eSebelumnya, Piala Presiden Esports 2019 ini membuka pendaftaran di 8 regional, yaitu Palembang, Bali, Makassar, Solo, Manado, Surabaya, Pontianak dan Bekasi. Bekasi merupakan regional dengan pendaftar yang paling banyak, yaitu 800 tim.\u003c/p\u003e\n\n\u003cp\u003ePlt. Kepala Dinas Pemuda dan Olahraga Jawa Barata, Bapak H. De. Dani Ramdan yang kebetulan hadir pada siaran langsung ini menyatakan, “Kami dari Kadispora siap menyambut dan menjadikan esports sebagai cabang olahraga baru, jika sekarang kita punya 800 tim, target berikutnya Jawa Barat harus punya tim pro yang siap bertanding di tahun ini atau tahun depan,\u0026quot; dikutip dari keterangan tertulis pada \u003cem\u003eVIVA. \u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e“Kami sudah mempunyai juara dari 8 tim perwakilan setiap regional untuk ditandingkan di acara Grand Final pada tanggal 30-31 Maret 2019 nanti. Besok kita akan mulai kualifikasi terbuka dan sudah ada 966 tim yang mendaftar. Dari kualifikasi terbuka ini, lewat pertandingan Big Match akan dicari 8 pemenang untuk melawan 8 tim perwakilan regional,” kata Rangga Danu, Wakil Ketua Organizing Committee IESPL.\u003c/p\u003e\n\n\u003cp\u003ePertandingan Big Match sendiri akan ditayangkan di Metro TV pada hari Jumat, 15 dan 22 Maret 2019 pada pukul 13.00 – 15.00. (mus) \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/digital/digilife/1126720-tak-dijagokan-humble-malah-juara-piala-presiden-esports-2019-bekasi"
+    },
+    "request_path": "requests",
+    "title": "Tak Dijagokan, Humble Malah Juara Piala Presiden Esports 2019 Bekasi",
+    "uuid": "06c13255-ac77-38b3-8ca6-9403887f5bef"
+}

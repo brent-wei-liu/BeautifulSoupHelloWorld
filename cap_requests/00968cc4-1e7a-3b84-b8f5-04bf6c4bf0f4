@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:15:54Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLes USA déploient leur système antimissiles THAAD en Israël\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eJERUSALEM (Reuters) - L\u0026#39;armée américaine a déployé pour la première fois en Israël son système de défense antimissile THAAD, a-t-on appris lundi auprès de sources militaires des deux pays. \u003c/p\u003e\n\u003cp\u003eLe déploiement a commencé en mars et doit permettre de tester la capacité des militaires américains à déployer rapidement ce type d\u0026#39;armement à travers le monde, a déclaré une porte-parole de l\u0026#39;US European Command. \u003c/p\u003e\n\u003cp\u003ePour des raisons de sécurité, elle n\u0026#39;a pas voulu préciser combien de temps il avait fallu pour transférer le THAAD (Terminal High Altitude Area Defense), construit par Lockheed Martin et Raytheon, de sa base d\u0026#39;origine de Fort Bliss, au Texas, à l\u0026#39;Etat hébreu. \u003c/p\u003e\n\u003cp\u003e\u0026quot;Cet exercice de déploiement démontre que les forces américaines sont agiles et peuvent répondre rapidement et de manière imprévisible à toute menace\u0026quot;, a déclaré l\u0026#39;US European Command. \u003c/p\u003e\n\u003cp\u003eUn porte-parole de l\u0026#39;armée israélienne a précisé que les éléments du système THAAD se trouvaient sur une base aérienne dans le désert du Néguev, dans le sud d\u0026#39;Israël, et seraient prochainement transportés dans un lieu secret. \u003c/p\u003e\n\u003cp\u003e\u0026quot;Du point de vue israélien, l\u0026#39;avantage est que nous avons l\u0026#39;occasion de l\u0026#39;intégrer à nos systèmes et de simuler différents scénarios\u0026quot;, a souligné le lieutenant-colonel Jonathan Conricus. \u003c/p\u003e\n\u003cp/\u003e\n\u003cp\u003e (Andrea Shalal à Berlin, Rami Ayyub et Dan Williams à Jérusalem; Jean-Stéphane Brosse pour le service français)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Les USA déploient leur système antimissiles THAAD en Israël",
+    "uuid": "00968cc4-1e7a-3b84-b8f5-04bf6c4bf0f4"
+}

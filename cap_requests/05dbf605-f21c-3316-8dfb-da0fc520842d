@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:22:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 377\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, para anggota Running Man menjadi anak-anak dari Pimpinan Maskapai Running yang kaya raya. Mereka harus bertarung melawan satu sama lain demi mendapatkan peringkat tertinggi yang memungkinkan mereka menerima warisan pimpinan. Mereka juga ditemani oleh ahli waris wanita yang akan membantu mereka menjalani lomba. Siapakah yang akan menjadi ahli waris terakhir yang akan menerima warisan Pimpinan?\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 377",
+    "uuid": "05dbf605-f21c-3316-8dfb-da0fc520842d"
+}

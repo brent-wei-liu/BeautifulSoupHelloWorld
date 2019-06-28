@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:22:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJangan Pernah Menyalip Kendaraan Lain dari Kiri\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv id=\"page-1\"\u003e\u003cp\u003e\u003cb\u003eLiputan6.com, Jakarta -\u003c/b\u003e Kecelakaan yang melibatkan kendaraan yang ditumpangi Bupati Demak, Mohammad Natsir, mengakibatkan satu orang meninggal dunia. Kejadian nahas ini, terjadi di Tol KM 349 Kandeman, Kabupaten Batang, Jawa Tengah Minggu (3/3).\u003c/p\u003e\n\u003cp\u003eKecelakaan ini disebabkan saat sang sopir mobil yang ditumpangi Bupati Demak tersebut, menyalip kendaraan yang berada di depan dari arah sebelah kiri. Namun, di saat bersamaan melaju truk tronton sehingga tabrakan tidak dapat dihindarkan.\u003c/p\u003e\n\u003cp\u003eMenanggapi hal tersebut Training Director Safety Defensive Consultant Indonesia (SDCI), Sony Susmana mengatakan untuk tertib di jalan tol yang berkaitan dengan kejadian tersebut, ia menerapkan untuk diri sendiri tidak akan menyalip dari sebelah kiri.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Jika berada di lajur sebelah kanan, dan saya ingin mendahului kendaraan di depan karena berjalan lambat, saya akan meminta dia untuk kasih jalan, atau saya tetap \u003cem\u003estay\u003c/em\u003e di belakangnya,\u0026quot; jelas Sony saat berbincang dengan \u003cstrong\u003eLiputan6.com\u003c/strong\u003e melalui sambungan telepon, Senin (4/3/2019).\u003c/p\u003e\n\u003cp\u003eLanjutnya, upaya untuk mendahuli kendaraan di depannya, dengan cara membunyikan klakson secara damai. Artinya, bukan klakson panjang hanya sekali atau dua kali saja.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Selain itu, saya juga akan kasih lampu untuk memberikan tanda ingin mendahului, kalau kendaraan berjalan sangat lamban,\u0026quot; tegasnya.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\u003c/div\u003e\n\u003c!-- pagebreak --\u003e\n\u003cdiv id=\"page-2\"\u003e\u003ch2 class=\"multipage\"\u003eSelanjutnya\u003c/h2\u003e\n\u003cp\u003eJika sudah memberikan tanda ingin mendahului, kendaraan tetap harus tetap \u003cem\u003estay\u003c/em\u003e di belakang kalau memang tidak dikasih jalan.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Kita harus tahu dan tertib di jalan raya, sebelah kiri 60 km/jam dan kanan 80 km/jam atau untuk mendahului. Ketika kita ingin nenyusul dengan kecepatan yang lebih tinggi tentunya, kalau dari sebelah kiri pasti akan bertemu kendaraan yang kecepatannya rendah, dan ini bertentangan, harusnya dia berpikir sebelah kiri aman itu belum tentu, harus \u003cem\u003estay\u003c/em\u003e di jalan kanan, karena itu peraturannya,\u0026quot; pungkasnya.\u003c/p\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/otomotif/read/3908962/jangan-pernah-menyalip-kendaraan-lain-dari-kiri?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Jangan Pernah Menyalip Kendaraan Lain dari Kiri",
+    "uuid": "03ed01a1-13fd-34ae-9129-e43e9613bcec"
+}

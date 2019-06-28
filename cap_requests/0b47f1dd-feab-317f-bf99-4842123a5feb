@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:49:46Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eReino Unido apela a Convención de Viena para destrabar el brexit\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e(Bloomberg) -- A falta de solo una semana para que Theresa May tenga que presentar su acuerdo sobre el brexit ante el Parlamento para una votación decisiva, los negociadores del Reino Unido recurrirán a un desconocido tratado internacional a fin de encontrar una solución al punto más conflictivo del divorcio.\u003c/p\u003e\u003cp\u003eMay enviará de vuelta a Bruselas el martes al fiscal general, Geoffrey Cox, para tratar de negociar cambios legalmente vinculantes al denominado\u0026#34;backstop\u0026#34; irlandés. Si tiene éxito, entonces el acuerdo de May tiene la posibilidad de ser aprobado en el Parlamento la próxima semana, lo que permitiría una salida ordenada. Si falla, Gran Bretaña se sumergerá en una incertidumbre política sin precedentes y probablemente el brexit sería aplazado.\u003c/p\u003e\u003cp\u003eSi bien la Unión Europea es reacia a hacer concesiones, funcionarios europeos quieren que el acuerdo de May cuente con el visto bueno del Parlamento antes del 29 de marzo, el día en que Gran Bretaña tiene previsto abandonar la institución supranacional. Un retraso sería complicado para ambas partes y la UE está dividida en cuanto a la duración de una eventual prórroga. Esto podría favorecer a May.\u003c/p\u003e\u003cp\u003eLos negociadores del Reino Unido analizan si la Convención de Viena sobre el Derecho de los Tratados, un acuerdo que data de 1969, puede ofrecer una vía de escape, según dos funcionarios de la UE. La convención establece las instancias en las cuales los gobiernos pueden abandonar compromisos previos.\u003c/p\u003e\u003cp\u003eLa UE no está convencida y en cambio presiona por una solución basada en el arbitraje. Está preparada para agregar detalles al acuerdo existente sobre la forma en que cualquiera de las partes puede exigir un arbitraje si negociaciones futuras no se traducen en un reemplazo para el backstop.\u003c/p\u003e\u003cp\u003eEl backstop, la parte más polémica del acuerdo de divorcio, mantiene al Reino Unido en una unión aduanera con la UE \u0026#34;a menos o hasta que\u0026#34; un futuro pacto comercial u otros acuerdos hagan innecesarios los controles fronterizos. May necesita el respaldo de los miembros probrexit de su Partido Conservador, quienes consideran que el backstop es una entrega inaceptable de la futura autonomía de Gran Bretaña.\u003c/p\u003e\u003cp\u003eLas tratativas entre ambas partes se centran en ayudar a Cox a cambiar su opinión legal sobre el acuerdo del backstop. En diciembre, Cox expresó su inquietud por la redacción existente. Si cambia de opinión, la idea --quizás optimista-- es que los legisladores probrexit ofrezcan su respaldo.\u003c/p\u003e\u003cp\u003eNota Original:U.K. Grasps for Brexit Fix in Last-Ditch Attempt to Get Deal\u003c/p\u003e\u003cp\u003e--Con la colaboración de Alex Morales y Tim Ross.\u003c/p\u003e\u003cp\u003eReportero en la nota original: Ian Wishart en Bruselas, iwishart@bloomberg.net\u003c/p\u003e\u003cp\u003eEditores responsables de la nota original: Ben Sills, bsills@bloomberg.net, Emma Ross-Thomas\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Reino Unido apela a Convención de Viena para destrabar el brexit",
+    "uuid": "0b47f1dd-feab-317f-bf99-4842123a5feb"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:44:31Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAlgeries president klamrer seg til makten tross masseprotester\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAlgeries president Abdelaziz Bouteflika (82) lover å gi seg før det har gått fem år, melder statlig TV etter masseprotestene som ryster Afrikas største land.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.aftenposten.no/verden/i/kaARdA/Algeries-president-klamrer-seg-til-makten-tross-masseprotester#xtor=RSS-3"
+    },
+    "request_path": "requests",
+    "title": "Algeries president klamrer seg til makten tross masseprotester",
+    "uuid": "01a0ddb8-32c0-39ea-9763-a1687ca3ec47"
+}

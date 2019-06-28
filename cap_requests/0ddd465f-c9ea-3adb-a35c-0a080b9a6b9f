@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:30:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKate Beckinsale y Pete Davidson hacen oficial su relación en el Madison Square Garden\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAunque esta no es la primera vez que se dejan ver juntos desde que empezaran a circular los primeros rumores sobre su relación sentimental, la aparición de la actriz Kate Beckinsale (45) y el cómico Pete Davidson (25) ayer domingo en el Madison Square Garden de Nueva York, donde disfrutaron juntos de una de las grandes aficiones deportivas del exnovio de Ariana Grande, el hockey sobre hielo, ha sido sin duda el más mediático y menos discreto de sus últimos encuentros.\u003cbr /\u003e\nEl pabellón estaba a rebosar de cara a uno de los partidos más esperados de la temporada regular, el que enfrentó a los New York Rangers y a los Washington Capitals, y como ha quedado patente por medio de varias fotografías, los testigos y reporteros que vieron a la pareja entrando en el recinto de la mano y, posteriormente, abrazados mientras veían el encuentro se cuentan por decenas.\u003cbr /\u003e\nDe esta forma, parece que el romance entre los dos artistas queda oficialmente confirmado y solo resta que alguno de ellos se anime algún día a pronunciarse sobre su idilio para averiguar si se trata de un mero escarceo amoroso o el inicio de un ilusionante proyecto de vida juntos. Hace algo más de un mes, los dos enamorados se habrían dejado ver juntos en una de las fiestas posteriores a la gala de los Globos de Oro y, según ciertas fuentes, poco después hicieron lo propio tras uno de los espectáculos de comedia de Pete Davidson.\u003cbr /\u003e\nLa última vez que Kate Beckinsale, madre de una joven de 20 años con su exmarido Michael Sheen, hizo alguna que otra referencia a su ámbito sentimental, fue durante una entrevista reciente en la que se limitó a describir a su \u0026quot;hombre ideal\u0026quot; como alguien \u0026quot;divertido\u0026quot; y equipado con un sentido del humor contagioso. Qué duda cabe de que Pete Davidson encaja a la perfección en ese perfil, al menos en lo que a su vida profesional se refiere.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Kate Beckinsale y Pete Davidson hacen oficial su relación en el Madison Square Garden",
+    "uuid": "0ddd465f-c9ea-3adb-a35c-0a080b9a6b9f"
+}

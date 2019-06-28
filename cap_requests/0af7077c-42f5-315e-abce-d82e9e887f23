@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:42:48Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e上交所本月下旬啟科創板系統測試\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026lt;匯港通訊\u0026gt;    中證監副主席閻慶民昨日表示,擬投資科創板的投資者已經可以開戶。內地傳媒指出,不少券商已經在積極準備開戶事宜,但正式上線開戶還需等待交易所的通知。\u003cbr/\u003e\u003cbr/\u003e有報道指,部分券商的科創板開戶系統已經基本開發完成,上交所將在3月下旬開始技術系統的全天候測試,測試後開戶系統就可以上線。據了解,海通證券(06837)所有線下網點已經準備就緒,擬收到交易所通知後開放科創板客戶開戶受理，線上受理即將上線。\u003cbr/\u003e\u003cbr/\u003e不過,為確保科創板的順利開板,券商仍有約20套系統需要升級改造,包括項目管理系統、客戶管理系統和工作底稿管理系統在內的一級市場系統的建設及券商的手機 APP 系統、PC 端系統、櫃枱系統等各種二級市場系統的改造。 (BC)\u003cbr/\u003e\u003cbr/\u003e#科創板\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://hkstock.infocastfn.com/stock/hong-kong-stock-news-article/3198650"
+    },
+    "request_path": "requests",
+    "title": "上交所本月下旬啟科創板系統測試",
+    "uuid": "0af7077c-42f5-315e-abce-d82e9e887f23"
+}

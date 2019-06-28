@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:16:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eReunión y entrenamiento con todos, salvo Llorente, antes de recibir al Ajax\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- La plantilla del Real Madrid se reunió en el vestuario en su ciudad deportiva, antes de completar el último entrenamiento de preparación del partido de vuelta de los octavos de final de la Liga de Campeones, que disputa este martes ante el Ajax Amsterdam, con la única ausencia del lesionado Marcos Llorente.\nCon casi media hora de retraso al horario previsto saltaron los jugadores del Real Madrid al césped del campo principal de entrenamiento. Luka Modric confirmó en su rueda de prensa que tuvieron una charla positiva para mejorar la situación, tras caer en en tres días de la Copa del Rey y complicar sus opciones por LaLiga con derrotas en dos clásicos.\n\u0026quot;No puedo decir lo que hablamos pero hemos hablado\u0026quot;, aseguró Modric. \u0026quot;Siempre cuando hay algo que no va bien tenemos que hablar como hemos hecho, como una familia\u0026quot;, añadió.\nTras hacer piña con vistas al regreso de la Liga de Campeones y superar la eliminatoria de octavos ante el Ajax, la plantilla madridista se entrenó a las órdenes de Santiago Solari con la única ausencia del centrocampista Marcos Llorente.\nSerá una de las dos bajas que el técnico argentino tendrá en su equipo titular, junto al sancionado Sergio Ramos. Tras los minutos de calentamiento a puerta abierta, ensayó con los cambios que realizará en su equipo titular en la parte de trabajo a puerta cerrada, en la que los jugadores completaron un partido en reducidas dimensiones.\nEl defensa del Real Madrid Sergio Ramos (c), durante el entrenamiento previo al partido de Liga de Campeones frente al Ajax, esta mañana en la Ciudad deportiva del Real Madrid en Valdebebas.- EFE\nEl delantero galés del Real Madrid Gareth Bale (c), durante el entrenamiento previo al partido de Liga de Campeones frente al Ajax, esta mañana en la Ciudad deportiva del Real Madrid en Valdebebas.- EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Reunión y entrenamiento con todos, salvo Llorente, antes de recibir al Ajax",
+    "uuid": "03d05165-3596-3eee-a6f3-6ab501599dba"
+}

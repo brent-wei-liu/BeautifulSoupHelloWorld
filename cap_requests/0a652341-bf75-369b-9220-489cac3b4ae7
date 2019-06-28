@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:59:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePenangkapan Andi Arief Selesai Jam 1 Malam\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e –  Jajaran Kepolisian telah melakukan penangkapan terhadap Wakil Sekretaris Jenderal Partai Demokrat, Andi Arief di Hotel Menara Peninsula, Slipi, Jakarta Barat, Minggu malam, 3 Maret 2019. \u003c/p\u003e\n\n\u003cp\u003eNamun, \u003cem\u003ePublic Realation Manager \u003c/em\u003eMenara Peninsula Elizabeth Ratna Sari menolak memberikan keterangan lebih detail kepada para awak media, siapa orang yang ditangkap.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Yang bisa kami sampaikan adalah betul bahwa semalam ada datang dari pihak Kepolisian untuk melakukan penangkapan, namun mengenai detail siapa yang berada di dalam kamar maupun siapa target operasinya, kami belum mendapatkan kewenangan,\u0026quot; ujar Elizabeth Ratna Sari di kantornya, Senin 4 Maret 2019. \u003c/p\u003e\n\n\u003cp\u003eIa hanya menyebutkan, aparat Kepolisian melakukan penangkapan terhadap seseorang dari sore dan selesai memproses penangkapan dini hari. \u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Dari kami yang jelas, pihak Kepolisian datang beberapa orang pukul 8.50 WIB (sore/20.50 WIB) lakukan penyelidikan, kemudian penangkapan. Selesai pukul 01.00 WIB kurang lebih,\u0026quot; katanya. \u003c/p\u003e\n\n\u003cp\u003eTetapi, Elizabeth pun tak mau menjelaskan kepada para awak media apakah Andi Arief menyewa kamar Room 1214, Lantai 12 Hotel menara Peninsula. \u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Sejauh ini, kami belum bisa memberikan keterangan lebih jauh untuk masalah siapa penguna kamar itu, karena sampai sejauh ini masih dalam tahap investigasi kepolisian,\u0026quot; tuturnya. (asp)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/nasional/1126911-penangkapan-andi-arief-selesai-jam-1-malam"
+    },
+    "request_path": "requests",
+    "title": "Penangkapan Andi Arief Selesai Jam 1 Malam",
+    "uuid": "0a652341-bf75-369b-9220-489cac3b4ae7"
+}

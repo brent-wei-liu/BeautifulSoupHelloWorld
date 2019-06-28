@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:17:46Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e陳茂波冀今年加大長期增長組合佔未來基金比例至六成\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e預算案提出優化未來基金投資方向，財政司司長陳茂波出席一個電台節目後表示，現時未來基金規模逾2000億元，由金管局管理，分別投資長期增長組合及另一個投資組合。\n\n陳茂波表示，長期增長組合佔未來基金一半，期望今年加大比例至六成。他又形容這方面回報不錯，由成立至去年9月，內部回報達12-13%。\n\n他指出，外匯基金目前不能投資香港資產，以免萬一經濟差，金管局需要動用儲備捍衛聯繫匯率，但賣出香港資產或影響市場。\n\n但他認為，未來基金可調整投資範圍及策略，研究投資合適香港資產，例如一些本地培育好的創科公司，待幾位專家研究後，政府再決定是否可行。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "陳茂波冀今年加大長期增長組合佔未來基金比例至六成",
+    "uuid": "0c5ea3ec-58bb-3b09-be33-397b68b61128"
+}

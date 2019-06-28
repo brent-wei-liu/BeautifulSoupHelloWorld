@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:55:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e艋舺國際舞蹈節  招募「未完成」舞蹈作品\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cspan style=\"font-size:18px;\"\u003e由曉劇場發起的「艋舺國際舞蹈節」，將在4月26日登場，3天活動規劃超過50場節目、講座與活動，歡迎民眾參與。\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u003cspan style=\"font-size:18px;\"\u003e「艋舺國際舞蹈節」今年以「未完成」為主題，公開招募舞蹈作品，參與團隊必需在2小時內拆裝台並依舞蹈節規劃時間演出10到50分鐘，舞蹈節將免費提供演出場地、基本技術設備、文宣品及宣傳。歡迎國內外專業團隊或個人，自即日期至3月10日，把握機會報名參與。\u003c/span\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.ner.gov.tw/news/5c7ce884e150450007ecb562"
+    },
+    "request_path": "requests",
+    "title": "艋舺國際舞蹈節  招募「未完成」舞蹈作品",
+    "uuid": "0ae29fcf-9d78-3c9e-a0f7-1effd02e455c"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e2萬筆健檢資料看「誰最顧健康？」 水象星座奪冠！\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e自我健康管理是現代人必備的課題，包括定期身體健康檢查、健康的飲食習慣和生活型態等，都是不錯的健康管理方式。澄清醫院柏忕健康管理中心統計分析近3年、2萬筆健檢資料，與十二星座進行比對，發現水象星座族群佔最多數，推測對自我健康的重視程度最高。\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e\u003cimg width=\"100%\" height=\"100%\" align=\"middle\" id=\"theMainImage\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/health_tvbs_com_tw_589/a4aeed3db72c1d5c0344892cbf996633\" title=\"20190304-03-01 - 20190304-03-01.jpg\"/\u003e\u003c/p\u003e\n\n\u003cp style=\"text-align:center;\"\u003e示意圖／TVBS\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e分析結果顯示，2萬筆健檢資料中前五名分別是天蠍座（佔9.6％）、處女座（佔9％）、射手座（佔8.95％）、天秤座（佔8.92％）、雙魚座（佔8.68％）。一般認為天蠍座的人有深謀遠慮、直覺敏銳、執行力強、堅持追求事情真相的特性；處女座追求完美、永不氣餒、事事小心謹慎；射手座天生樂觀、行動力強、很好的判斷力；天秤座邏輯強善分析、優雅浪漫、適應力強。\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e總體來看，水象星座（天蠍、巨蟹、雙魚）對自我健康重視程度最高，其次是土象星座（金牛、處女、魔羯）、火象星座（牡羊、獅子、射手)，而風象星座（雙子、天秤、水瓶）排名最末。\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e柏忕健康管理中心主秘江志明表示，或許個性會影響對個人健康檢查的決定，以星座作為健檢數據是一項有趣的參考，但更重要的是從健檢結果分析可以發現，現代人因工作過勞、環境汙染以及先天遺傳性疾病等問題，造成許多疾病都有年輕化的趨勢，文明病問題也越來越多。\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e因此，透過及早透過健檢了解自身的健康狀況是至關重要的，且檢查項目應隨著年齡、生活習慣、職業、家族史、過往病史等因素來考量規劃，當然也不要害怕發現問題，而是要即早解決問題。\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e◎ 編輯／王家瑜報導 \u0026#160;◎ 圖片來源／達志影像/shutterstock提供\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\n\u003cp\u003e本文由健康2.0授權報導，未經同意禁止轉載，點此查看\u003ca href=\"https://health.tvbs.com.tw/medical/314466\"\u003e原始文章\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003e\u0026#160;\u003c/p\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多健康2.0報導\u003c/span\u003e\u003cbr /\u003e\u003ca href=\"https://health.tvbs.com.tw/medical/314445?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=articleid_314466\"\u003e健檢紅字第一名竟是它！女性最怕骨鬆、男性要保肝降三高\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://health.tvbs.com.tw/medical/314457?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=articleid_314466\"\u003e2018十大疫苗新聞出爐！流感疫苗瑕疵、缺貨，名列冠亞軍\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://health.tvbs.com.tw/medical/314460?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=articleid_314466\"\u003e持續中鏢！又有高血壓藥驗出致癌物 600萬顆下架\u003c/a\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://health.tvbs.com.tw/medical/314466"
+    },
+    "request_path": "requests",
+    "title": "2萬筆健檢資料看「誰最顧健康？」 水象星座奪冠！",
+    "uuid": "0720c87a-e112-3000-a667-dd2d54683e33"
+}

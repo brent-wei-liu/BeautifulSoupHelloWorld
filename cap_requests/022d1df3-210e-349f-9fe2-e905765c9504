@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:12:32Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBrian Fernández estaría en la órbita de Cruz Azul\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003ePara nadie es un secreto que \u003ca href=\"https://www.goal.com/es-mx/primera-divisi%C3%B3n/2hsidwomhjsaaytdy9u5niyi4\" target=\"_blank\"\u003e\u003cstrong\u003eBrian Fernández\u003c/strong\u003e\u003c/a\u003e es la gran figura del \u003ca href=\"https://www.goal.com/es-mx/primera-divisi%C3%B3n/2hsidwomhjsaaytdy9u5niyi4\" target=\"_blank\"\u003e\u003cstrong\u003eClausura 2019\u003c/strong\u003e\u003c/a\u003e. Y esa es la razón por la que su nombre es vinculado con varios clubes de la Liga MX. Uno de ellos es \u003ca href=\"https://www.goal.com/es-mx/primera-divisi%C3%B3n/2hsidwomhjsaaytdy9u5niyi4\" target=\"_blank\"\u003e\u003cstrong\u003eCruz Azul\u003c/strong\u003e\u003c/a\u003e, equipo que ya se encuentra trabajando en la confección del plantel con el que competirá durante el próximo semestre. \u003c/p\u003e\n\n\n\u003cp\u003eDe acuerdo con la información que publica el diario Récord, el argentino, \u003cstrong\u003eautor de 8 goles en lo que va de torneo\u003c/strong\u003e, es uno de los que más gusta a la directiva de la Máquina. Aunque de momento no existe ningún tipo de aceramientos, lo cierto es que los Rayos espera recibir unos \u003cstrong\u003e10 millones de dólares\u003c/strong\u003e por Fernández.\u003c/p\u003e\n\n\u003cp\u003eAunque la intención de Cruz Azul es negociar el alto precio del futbolista, resulta poco probable que Necaxa termine cediendo en sus pretensiones económicas debido a que existen otros pretendientes de peso en el futbol mexicano. Por lo pronto, el argentino buscará mejorar sus registros y meter a los Rayos en Liguilla.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Brian Fernández estaría en la órbita de Cruz Azul",
+    "uuid": "022d1df3-210e-349f-9fe2-e905765c9504"
+}

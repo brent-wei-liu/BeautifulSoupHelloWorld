@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:54:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAkıllı saatlerin yarısını tek başına o sattı!\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAkıllı saat sektöründeki son raporlara göre pazardaki hakimiyetini sürdüren Apple, 2018 yılında 22.5 milyon satış gerçekleştirdi. İkinciliğe ise Samsung’u geçen Fitbit çıktı.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.haberturk.com/akilli-saat-pazarinda-hangi-marka-ne-kadar-satti-2391580-teknoloji"
+    },
+    "request_path": "requests",
+    "title": "Akıllı saatlerin yarısını tek başına o sattı!",
+    "uuid": "010255ea-8db7-394e-b443-f435c36e2f1e"
+}

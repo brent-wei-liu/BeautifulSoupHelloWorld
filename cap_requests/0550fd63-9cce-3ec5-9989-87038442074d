@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:55:09Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLIVE／家族故事搬上舞台 一青妙揭開「時光的手箱」\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e舞台劇《時光の手箱：我的阿爸和卡桑》，從一個塵封的手箱說起，帶出了台灣地方首富之子，和當時作為世界強國的日本窮女孩結婚後，兩人之間複雜的情感結構。\u003c/p\u003e\u003cp\u003e而這部作品，其實也是作家一青妙的生活寫照，內容深刻描繪了父親母親、台灣日本、一青妙和妹妹的家庭生活。\u003c/p\u003e\u003cp\u003e4日晚間七點，民視台灣學堂網路直播「台製日常」，邀請到作家一青妙，來和大家談談在台灣和日本之間出生、成長的生命歷程，對一青妙有什麼影響？和齣舞台劇的誕生，想帶給台灣社會什麼意義？\u003c/p\u003e\u003cp\u003e（民視新聞網報導）\u003c/p\u003e\u003cp\u003e\u003ciframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fftvnews53%2Fvideos%2F2307133032866002%2F\u0026show_text=0\u0026width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"\u003e\u003c/iframe\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304W0009"
+    },
+    "request_path": "requests",
+    "title": "LIVE／家族故事搬上舞台 一青妙揭開「時光的手箱」",
+    "uuid": "0550fd63-9cce-3ec5-9989-87038442074d"
+}

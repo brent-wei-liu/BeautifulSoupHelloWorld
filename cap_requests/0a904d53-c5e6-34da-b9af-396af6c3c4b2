@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:14:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa Juve richiama Pirlo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eNovità in casa Juventus. In attesa di novità sul fronte Allegri, la Juventus potrebbe riabbracciare Pirlo. L\u0026#39;attuale opinionista televisivo di Sky sarebbe, infatti, pronto per tornare a lavorare per il club bianconero.\n\nL\u0026#39;ex centrocampista Pirlo, protagonista in maglia bianconera dal 2011 al 2015, potrebbe, secondo il Corriere della Sera, diventare il nuovo allenatore dell\u0026#39;Under 23 juventina, squadra impegnata nel campionato di Serie C.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.sportal.it/articoli/calciomercato/news/la-juve-richiama-pirlo/1130840/"
+    },
+    "request_path": "requests",
+    "title": "La Juve richiama Pirlo",
+    "uuid": "0a904d53-c5e6-34da-b9af-396af6c3c4b2"
+}

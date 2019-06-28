@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:25:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBonecos gigantes são destaque da programação em Olinda nesta segunda\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eOLINDA, PE (FOLHAPRESS) - Símbolos da folia pernambucana, os bonecos gigantes são os destaques do quarto dia oficial de Carnaval em Olinda (PE), nesta segunda-feira (4). Cem personalidades famosas, entre artistas, atletas e personagens do cinema desfilarão entre os foliões.\r\nA expectativa neste ano está sobre a estreia do boneco que representa o presidente Jair Bolsonaro (PSL). A concentração dos gigantes começa às 10h, no Alto da Sé.\r\nTemendo uma confusão generalizada, a Embaixada dos Bonecos, entidade privada responsável pelo encontro dos bonecos gigantes, chegou a cogitar que Bolsonaro desfilasse apenas no Carnaval do Recife, mas decidiu na última semana que ele sairia em Olinda.\r\nA semana na cidade está sendo marcada por gritos de protesto contra o presidente da República durante parte dos desfiles.\r\nNo total, mais de 100 blocos desfilam em Olinda nesta segunda. Os arrastões começam às 9h e seguem até o início da noite.\r\nOlinda também oferece muita animação em seis polos fixos que foram espalhados pela cidade. Na praça do Carmo, o principal palco, o destaque da programação é a banda Tribo de Jah, que se apresentará a partir das 22h.\r\nRECIFE\r\nA beleza e o luxo dos antigos carnavais vão invadir as ruas históricas do Recife Antigo nesta segunda-feira. A partir das 16h, pelo menos 15 blocos líricos se apresentarão no polo do Marco Zero.\r\nA partir das 20h, começam os shows no principal palco da folia recifense. Os destaques desta noite são as apresentações da banda Jota Quest, às 21h30, e do grupo pernambucano Cordel do Fogo Encantado, a partir da 0h.\r\nOutro ponto alto do Carnaval do Recife, o encontro de 17 nações de maracatu, também acontece nesta segunda-feira. A noite dos tambores silenciosos começa às 20h, no Pátio do Terço, bairro de São José.\r\nO evento, marcado pelo sincretismo religioso, reúne os grupos para louvar a Virgem do Rosário.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://folhapress.folha.com.br/texto/1517099"
+    },
+    "request_path": "requests",
+    "title": "Bonecos gigantes são destaque da programação em Olinda nesta segunda",
+    "uuid": "08e7e563-cb02-3707-8e56-24913b7cec14"
+}

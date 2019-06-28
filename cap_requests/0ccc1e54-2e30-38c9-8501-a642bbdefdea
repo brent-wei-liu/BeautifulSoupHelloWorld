@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:27:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCharanga do França faz a festa para foliões nas ruas de São Paulo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eNo penúltimo dia do feriado prolongado de carnaval, as festividades de rua na cidade de São Paulo começam às 9h com O Espetacular Bloco da Charanga do França, no bairro de Santa Cecília, região central. O bloco faz releituras das tradicionais charangas brasileiras, contemplando ritmos como cumbia, maxixe e samba. A expectativa de público é de 10 mil foliões. \u003c/p\u003e\n\n\u003cp\u003eEm seguida, às 10h, o Esfarrapado, o mais antigo da cidade, vem com muitas marchinhas clássicas de carnaval, atraindo moradores e amantes da folia para as ruas do Bixiga. Já às 11h, é a vez do Domingo Ela Não Vai, na Avenida Tiradentes, no Centro. Criado em 2015, o bloco é dedicado ao melhor do axé music dos anos 1990, com destaque para as músicas do É o Tchan! tocadas para mais de 100 mil pessoas. \u003c/p\u003e\n\n\u003cp\u003eNa Lapa, às 13h, o Cordão Cheiroso estima reunir 5 mil pessoas. Às 14h, no Centro, o Batuq do Glicério faz a festa com sets de DJs, seguindo com uma tradicional roda de samba para depois tocar axé e reggae junto com a bateria do bloco. O Batuq do Glicério finaliza a festa com uma grande batucada. No mesmo horário, no Ibirapuera, o Pinga ni Mim traz a música sertaneja para os foliões, desde músicas de Leandro e Leonardo aos hits de Maiara \u0026amp; Maraísa. \u003c/p\u003e\n\n\u003cp\u003eÀs 14h30, em Pinheiros, o Jegue Elétrico, sai às ruas do bairro inspirado nas troças e nos cordões carnavalescos de várias regiões brasileiras. A estimativa é reunir 15 mil pessoas. Às 15h, também em Pinheiros, sai o Bloco 77 – Os Originais do Punk. O bloco carnavalesco vai colocar os foliões para dançar ao som de rock, tocado em ritmo de marchinha. \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://agenciabrasil.ebc.com.br/geral/noticia/2019-03/charanga-do-franca-faz-festa-para-folioes-nas-ruas-de-sao-paulo"
+    },
+    "request_path": "requests",
+    "title": "Charanga do França faz a festa para foliões nas ruas de São Paulo",
+    "uuid": "0ccc1e54-2e30-38c9-8501-a642bbdefdea"
+}

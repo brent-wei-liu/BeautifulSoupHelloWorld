@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:57:10Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eIAEA: Nordkorea nutzt Uran-Anreicherungsanlage weiterhin\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eWIEN (dpa-AFX) - Nordkorea benutzt nach Angaben der Internationalen Atomenergiebeh\u0026#246;rde IAEA weiterhin seine Uran-Anreicherungsanlage im wichtigen Atomkomplex Yongbyon. Au\u0026#223;erdem h\u0026#228;tten Experten Hinweise auf Bauarbeiten an einem Leichtwasserreaktor gesammelt, sagte IAEA-Generaldirektor Yukiya Amano am Montag in Wien.\u003c/p\u003e\n              \n\n\u003cp\u003eDie Anreicherung von Uran wird beobachtet, da h\u0026#246;her angereichertes Uran f\u0026#252;r Atomwaffen genutzt werden kann. Die IAEA bezieht ihre Informationen \u0026#252;ber den Atomkomplex Yongbyon aus Satellitenbildern und \u0026#246;ffentlich zug\u0026#228;nglichen Informationen, da Nordkorea die Experten der Beh\u0026#246;rde nicht ins Land l\u0026#228;sst. Amano rief Nordkoreas F\u0026#252;hrung daher erneut dazu auf, enger mit der internationalen Gemeinschaft zu kooperieren. \u0026quot;Die IAEA ist bereit, Verifikations- und Beobachtungsaufgaben in Nordkorea zu \u0026#252;bernehmen, wenn dazu unter den betroffenen L\u0026#228;ndern eine Vereinbarung getroffen werden sollte.\u0026quot;\u003c/p\u003e\n              \n\n\u003cp\u003eErst vor wenigen Tagen hatte das zweite Gipfeltreffen des US-Pr\u0026#228;sidenten Donald Trump mit Nordkoreas Machthaber Kim Jong Un aber gezeigt, dass sich Nordkorea und die USA in der zentralen Frage des Abbaus des nordkoreanischen Atomwaffenarsenals und bei den Gegenleistungen der USA noch nicht n\u0026#228;hergekommen sind. Das Treffen in Vietnam endete \u0026#252;berraschend ohne Abschlusserkl\u0026#228;rung.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "IAEA: Nordkorea nutzt Uran-Anreicherungsanlage weiterhin",
+    "uuid": "0487a08a-497e-3b46-a1ae-6c16028bba26"
+}

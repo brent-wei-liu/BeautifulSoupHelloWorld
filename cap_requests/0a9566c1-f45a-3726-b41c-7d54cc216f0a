@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:44:04Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCancelan gira de Ryan Adams en Reino Unido e Irlanda\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eNUEVA YORK (AP) — La próxima gira del cantante Ryan Adams por el Reino Unido e Irlanda está cancelada.\u003c/p\u003e\u003cp\u003eSJM Concerts dijo el reembolso de los boletos adquiridos de vendedores autorizados será procesado hacia el final del día el lunes. Los compradores tendrán que esperar un poco para ver la transacción en sus cuentas.\u003c/p\u003e\u003cp\u003eLa cancelación se produjo luego que el New York Times reportó recientemente acusaciones de conducta sexual inapropiada contra Adams hechas por múltiples mujeres, incluida su exesposa Mandy Moore. Adams ha negado las acusaciones.\u003c/p\u003e\u003cp\u003eEl músico de 44 años tenía previsto comenzar la gira el 30 de marzo.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Cancelan gira de Ryan Adams en Reino Unido e Irlanda",
+    "uuid": "0a9566c1-f45a-3726-b41c-7d54cc216f0a"
+}

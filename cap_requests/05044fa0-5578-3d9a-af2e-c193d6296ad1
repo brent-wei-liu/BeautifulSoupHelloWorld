@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:18:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eS\u0026P corta nota de crédito da petrolífera estatal mexicana Pemex\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eCIDADE DO MÉXICO (Reuters) - A agência de classificação Standard \u0026 Poor\u0026#39;s cortou nesta segunda-feira a nota de dívida da petrolífera estatal mexicana Pemex para \u0026quot;B-\u0026quot; ante \u0026quot;BB-\u0026quot;, ampliando pressão sobre o governo do México para reestruturar as finanças da companhia endividada.\n              A S\u0026P cortou também a perspectiva da Pemex de estável para negativa, assim como fez com o governo mexicano na sexta-feira, após o fechamento dos mercados. A agência manteve em \u0026quot;BBB+\u0026quot; o rating da Pemex em escala global, em linha com a do governo mexicano.\n              A perspectiva negativa reflete preocupação de que o plano do governo mexicano para reestruturar as finanças da Pemex é insuficiente, afirmou a S\u0026P, acrescentando que a companhia está exposta a decisões políticas que podem entrar em conflito com os objetivos financeiros da empresa.\n              \u0026quot;O apoio financeiro do governo, para restaurar os fundamentos de crédito, está bem aquém das necessidades de investimento da companhia\u0026quot;, afirmou a S\u0026P.\n              O presidente mexicano, Andrés Manuel López Obrador, prometeu recuperar as contas da Pemex, que tinha dívida de quase 106 bilhões de dólares ao final de 2018 e está enfrentando dificuldades com declínio de produção.\n              A produção de petróleo caiu para 1,62 milhão de barris por dia em janeiro, menor nível desde que os registros públicos começaram em 1990.\n              No mês passado, Obrador afirmou que seu governo vai injetar 3,9 bilhões de dólares na Pemex para reforçar suas finanças e evitar um novo corte na nota de crédito pouco depois que a agência de classificação Fitch reduziu a nota da companhia para um nível acima do patamar \u0026quot;junk\u0026quot;.\n              A S\u0026P afirmou nesta segunda-feira que a Pemex precisa de pelo menos 20 bilhões de dólares ao longo de vários anos para evitar \u0026quot;deterioração adicional\u0026quot;.\n              (Por Daina Beth Solomon e Dave Graham)\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "S\u0026P corta nota de crédito da petrolífera estatal mexicana Pemex",
+    "uuid": "05044fa0-5578-3d9a-af2e-c193d6296ad1"
+}

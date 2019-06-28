@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:48:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGobierno y oposición de Nicaragua inician cuarta sesión de negociaciones\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eManagua, 4 mar (EFE).- El Gobierno de Nicaragua y la opositora Alianza Cívica por la Justicia y la Democracia iniciaron este lunes la cuarta sesión de negociaciones, para encontrar una salida a la crisis del país, que en más de diez meses ha dejado cientos de muertos, y decenas de miles de personas en el exilio.\nLa sesión de este día es la primera en iniciar con retraso, debido a que los representantes del Gobierno llegaron con una hora de retraso a la sede de las negociaciones, el Instituto Centroamericano de Administración de Empresas (Incae), al sur de la capital nicaragüense, Managua.\nLa Alianza Cívica ha expresado su interés en que esta jornada sirva para ponerse de acuerdo con el Gobierno en establecer la \u0026quot;hoja de ruta\u0026quot; de las negociaciones, para avanzar hacia acuerdos concretos.\nEsta cuarta sesión no cuenta con la participación del cardenal Leopoldo Brenes, quien el domingo afirmó que su participación no es como mediador, sino solamente como invitado.\nHasta ahora, el Gobierno y la Alianza han avanzado en 9 de los 12 puntos discutidos, todos relacionados con aspectos de forma, y los pendientes son asuntos de fondo e incluyen la exigencia opositora de justicia y democracia en Nicaragua, según ha informado la oposición.\nTambién está pendiente el tema de los garantes del proceso, un rol para el que se ha ofrecido a Organización de Estados Americanos (OEA) y que según medios locales está generando controversia en las discusiones de la mesa de negociación, que se reúne a puerta cerrada y bajo total hermetismo.\nLa crisis sociopolítica que vive Nicaragua desde abril pasado ha dejado entre 325 y 561 muertos, de 340 a 777 detenidos, cientos de desaparecidos, miles de heridos y decenas de miles en el exilio, según organismos humanitarios.\nEl presidente nicaragüense, Daniel Ortega, reconoce 199 muertos y 340 detenidos, a los que llama \u0026quot;terroristas\u0026quot;, \u0026quot;golpistas\u0026quot; o \u0026quot;delincuentes comunes\u0026quot;.\nOrtega, que lleva doce años seguidos en el poder, no acepta la responsabilidad de la crisis ni tampoco las acusaciones generalizadas sobre graves abusos de las autoridades contra los manifestantes antigubernamentales y denuncia ser víctima de un intento de \u0026quot;golpe de Estado fallido\u0026quot;.\nLa Comisión Interamericana de Derechos Humanos ha denunciado que el Gobierno de Nicaragua ha cometido crímenes \u0026quot;de lesa humanidad\u0026quot;, mientras que en la OEA está en proceso la aplicación de la Carta Democrática Interamericana. EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Gobierno y oposición de Nicaragua inician cuarta sesión de negociaciones",
+    "uuid": "05753d4d-6808-33ec-9752-e7e760e661bc"
+}

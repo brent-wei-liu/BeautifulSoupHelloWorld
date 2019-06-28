@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:42:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePaco Herrera, segundo entrenador de Las Palmas destituido esta campaña\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eRedacción deportes, 4 mar (EFE).- Paco Herrera, destituido este lunes como entrenador de la UD Las Palmas, se ha convertido en el segundo técnico que esta misma campaña se ha visto obligado a abandonar el banquillo del equipo canario.\nEl técnico catalán tomó las riendas del conjunto insular el último noviembre, cuando sustituyó al destituido Manolo Jiménez.\nEn esta etapa, ha dirigido a la UD Las Palmas en catorce jornadas, dejándolo undécimo, a nueve puntos de la zona que luchara por el ascenso a LaLiga Santander. De momento, elclub no ha anunciado su sustituto.\nLos entrenadores de LaLiga 1/2/3 que han dejado el banquillo en la temporada 2018/19 son los siguientes:\nJor. Entrenador Club Sustituto\n---- ---------- ---- ---------\n.5ª Joseba Etxeberria Tenerife José Luis Oltra\n10ª Imanol Idiakez Zaragoza Lucas Alcaraz\n10ª José Antonio Gordillo Gimnàstic Enrique Martín\n11ª Javi López Lugo Alberto Monteagudo\n13ª Juan Sabas Extremadura Antonio Rodríguez \u0026#39;Rodri\u0026#39;\n14ª Manolo Jiménez Las Palmas Paco Herrera\n14ª Rubén Baraja Sporting José Alberto López\n14ª José Ramón Sandoval Córdoba Curro Torres\n18ª Lucas Alcaraz Zaragoza Víctor Fernández\n26ª Rodri Extremadura Manuel Mosquera\n28ª Paco Herrera Las Palmas -------\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Paco Herrera, segundo entrenador de Las Palmas destituido esta campaña",
+    "uuid": "086a7561-8dd8-3861-abef-4e5eb16619b9"
+}

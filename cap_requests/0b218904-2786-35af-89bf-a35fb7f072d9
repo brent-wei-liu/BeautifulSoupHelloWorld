@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:56:44Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDeutsche Anleihen: Kursgewinne\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eFRANKFURT (dpa-AFX) - Die Kurse deutscher Staatsanleihen haben am Montag deutlich zugelegt. Der f\u0026#252;r den deutschen Anleihemarkt richtungsweisende Euro-Bund-Future \u0026lt;DE0009652644\u0026gt; stieg um 0,33 Prozent auf 165,69 Punkte. Die Rendite f\u0026#252;r zehnj\u0026#228;hrige Bundesanleihen fiel auf 0,15 Prozent.\u003c/p\u003e\n              \n\n\u003cp\u003eErneute Kritik von US-Pr\u0026#228;sident Donald Trump am amerikanischen Notenbankchef Jerome Powell sorgte f\u0026#252;r eine gewisse Verunsicherung an den M\u0026#228;rkten. Am Wochenende hatte Trump in einer Rede den Dollar als zu stark bezeichnet. Den Vorsitzenden der Notenbank Fed nannte Trump nicht beim Namen, sondern sprach nur von einem \u0026quot;Herrn in der Fed, der die Zinss\u0026#228;tze gerne anhebt\u0026quot;.\u003c/p\u003e\n              \n\n\u003cp\u003eGest\u0026#252;tzt wurden die Anleihen am Nachmittag durch schwache Wirtschaftsdaten aus den USA. Die Bauinvestitionen sind im Dezember \u0026#252;berraschend gefallen. Die Bauwirtschaft und der Immobilienmarkt sind in den USA von gro\u0026#223;er Bedeutung f\u0026#252;r die konjunkturelle Entwicklung.\u003c/p\u003e\n              \n\n\u003cp\u003eDie Aussicht auf ein Ende des Handelsstreits zwischen den USA und China belastete die Anleihen nicht nachhaltig. Nachdem sich die US-Seite positiv \u0026#252;ber den Verlauf der Handelsgespr\u0026#228;che ge\u0026#228;u\u0026#223;ert hatte, war am Montag auch in Peking von \u0026quot;substanziellen Fortschritten\u0026quot; die Rede.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Deutsche Anleihen: Kursgewinne",
+    "uuid": "0b218904-2786-35af-89bf-a35fb7f072d9"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T23:56:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e銀娛呂耀東：尊重澳門政府對續牌之決定\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e澳門賭牌明年開始將陸續到期，銀娛(00027.HK)副主席呂耀東在北京出席兩會時表示，會配合政府願景做好份內工作，協助澳門成為國際休閒中心，會尊重政府對續牌的決定。\u003c/p\u003e\u003cp\u003e他又稱，澳門擁有博彩娛樂中心，相信未來前景亮麗，但短期情況則難以說準，因政治考慮及經濟下滑可能發生，但長遠對澳門仍有信心。(ek/t)~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "銀娛呂耀東：尊重澳門政府對續牌之決定",
+    "uuid": "0a62f548-c810-310e-9c43-c5f1a171d95a"
+}

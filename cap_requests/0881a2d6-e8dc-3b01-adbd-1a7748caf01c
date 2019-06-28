@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:23:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 349\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, para anggota melanjutkan Proyek Global mereka. Mereka menerobos masuk ke rumah Se Chan secara tiba-tiba. Di sana, mereka melakukan berbagai misi.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 349",
+    "uuid": "0881a2d6-e8dc-3b01-adbd-1a7748caf01c"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T23:52:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e遠大醫藥(00512.HK)一款創新醫療器械產品獲批進入特別審查程序\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e遠大醫藥(00512.HK)公布，集團有參與投資之加拿大醫療器械公司CONAVI之一款創新醫療器械產品「血管內超聲光學相干斷層同步成像系統」(NOVASIGHT)，已獲國家藥品監督管理局醫療器械技術評審中心批准進入特別審查程序。\u003c/p\u003e\u003cp\u003eCONAVI 是一間於加拿大成立，專注於心血管及腔內影像技術創新的醫療器械公司。心血管影像技術是心血管疾病診療中的重要基礎和依據，公認技術含量最高的心血管及腔內影像領域的技術更新將不斷優化心血管疾病的診療水平並推動這一領域向更高層次發展。\u003c/p\u003e\u003cp\u003e公司認為，在創新醫藥和醫療器械產品方面取得新的進展，將加速集團的創新產品陸續進入市場。(ta/w)\u003cbr/\u003e~\u003cbr/\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "遠大醫藥(00512.HK)一款創新醫療器械產品獲批進入特別審查程序",
+    "uuid": "022cc50e-6a8b-3adc-aec8-cfaa9eae80c7"
+}

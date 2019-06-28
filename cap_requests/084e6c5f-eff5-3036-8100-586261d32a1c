@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:17:50Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e海航集团旗下文思海辉据称吸引神州数码和Tech Mahindra的兴趣\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e【彭博】-- 知情人士表示，海航集团出售旗下信息技术外包服务子公司，吸引了神州数码和Tech Mahindra Ltd.等公司的兴趣。\u003c/p\u003e\u003cp\u003e他们说，收购公司安宏资本(Advent International)和一些中国投资基金，也在权衡提出收购海航旗下的文思海辉技术有限公司。债台高筑的海航已经要求在未来几周内进行第二轮报价，他们说。因消息没有公开，知情人士要求匿名。 \u003c/p\u003e\u003cp\u003e知情人士说，一些投资基金可能决定与战略性竞购者联手提出报价。他们说，目前尚未作出最终决定，也无法确定各方是否会决定提出正式报价。\u003c/p\u003e\u003cp\u003e安宏资本、神州数码、海航和Tech Mahindra各自的代表不予评论。文思海辉的代表没有立即回复寻求评论请求。\u003c/p\u003e\u003cp\u003e海航集团一直在处置资产以偿还债务。彭博新闻社在去年12月份曾报道，知情人士表示海航集团正与瑞信集团合作，再次寻求出售旗下文思海辉；正在考虑的选项包括将其整体出售给一个或数个买家。\u003c/p\u003e\u003cp\u003e知情人士说，估值可能是达成协议的主要障碍之一。海航集团拥有文思海辉可以追溯到2016年，当时它从Blackstone Group LP收购了该公司，代价约7亿美元。\u003c/p\u003e\u003cp\u003e文思海辉的控股公司--HNA EcoTech Panorama Cayman Co.上个月公告，进一步推迟提前赎回美元债券的计划。据彭博汇编的数据，HNA EcoTech将于2021年期的美元债券上周五指示性报价约为89。  \u003c/p\u003e\u003cp\u003e原文标题HNA’s Tech Unit Is Said to Attract Digital China, Tech Mahindra\u003c/p\u003e\u003cp\u003e--联合报道 P R Sanjai.\u003c/p\u003e\u003cp\u003e欲联系记者请洽：Vinicy Chan 香港 vchan91@bloomberg.net;Manuel Baigorri 香港 mbaigorri@bloomberg.net\u003c/p\u003e\u003cp\u003e欲联系英文编辑请洽：Ben Scent bscent@bloomberg.net, Timothy Sifert\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "海航集团旗下文思海辉据称吸引神州数码和Tech Mahindra的兴趣",
+    "uuid": "084e6c5f-eff5-3036-8100-586261d32a1c"
+}

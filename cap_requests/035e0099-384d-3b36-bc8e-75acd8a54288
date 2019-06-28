@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:20:42Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【東京馬拉松】屈旨盈風雨下PB 2:46:38\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"aligncenter size-full wp-image-242125\" src=\"http://media.zenfs.com/zh-Hant-HK/homerun/sportsroad.hk/180a71950b01984ec45ed44be7a8b856\" alt=\"\" width=\"900\" height=\"600\"/\u003e\u003c/p\u003e\n\u003cp\u003e【體路專訊】世界六大馬拉松之一東京馬拉松昨日（3日）在大風雨下舉行，這個一席難求的賽事每年吸引眾多香港跑手前赴挑戰，香港運動員徐子健及屈旨盈（Crystal）成為首名衝線的男女子港人代表，正爭取東京奧運資格的Crystal更跑出個人最佳時間2小時46分38秒，為其全職路打下強心針。\u003cspan id=\"more-242129\"\u003e\u003c/span\u003e\u003c/p\u003e \n\u003cp\u003e去年於東京馬拉松一鳴驚人的屈旨盈，由體操界轉戰長跑，跑出2小時47分38秒，開始受外界關注。體操生涯無法如願踏上奧運舞台，期望能在長跑達成，原任職香港浸會大學體育老師的她，已決意辭任教職，希望全心投入訓練，衝擊2020年東京奧運資格。\u003c/p\u003e \n\u003cp\u003e\u003cimg class=\"aligncenter size-full wp-image-242127\" src=\"http://media.zenfs.com/zh-Hant-HK/homerun/sportsroad.hk/c157dd8a4f1691db374a78574e93a645\" alt=\"\" width=\"900\" height=\"600\"/\u003e\u003c/p\u003e \n\u003cp\u003e今年再次出戰東京馬拉松，Crystal亦有備而來。昨日東京天公未有造美，期間一直下雨，起跑時氣溫更只有5度，跑手均要冒住濕冷天氣出發。狀態大好的Crystal未受天雨影響太多，雖然她謂雙手要「冰住跑」，但半程每5公里均能跑出PB（Personal Best）時間，半程時間為1小時19分20秒。至30公里因天氣太寒冷開始跌速，她不禁稱「雨水打落臉也凍到麻木，想笑也不能控制臉部肌肉」，最後10公里得靠意志叫自己保持擺手抬腿，她又謂最後2公里最難捱，凍得只能僵硬地衝過終點，完成時間為2小時46分38秒，比去年快1分鐘，於8201名女跑手中排第30位，亦為她的PB，Crystal賽後在社交平台發文感謝教練及家人的支持。\u003c/p\u003e \n\u003cp\u003e\u003cimg class=\"aligncenter size-full wp-image-242126\" src=\"http://media.zenfs.com/zh-Hant-HK/homerun/sportsroad.hk/497a44d34e70ba0c22bffa5e9c0163cc\" alt=\"\" width=\"900\" height=\"600\"/\u003e近年轉戰三項鐵人的前香港馬拉松代表周子雁亦有出賽，為港人女跑手第6名衝線，時間為3小時16分20秒。而全馬女子組首6名均由非洲跑手包辦，5位來自埃塞俄比亞，1位來自肯亞。冠軍為埃塞俄比亞的Ruti AGA以2小時20分40秒奪得。\u003c/p\u003e \n\u003cp\u003e另外值得一提，中華台北女子跑手曹純玉在東京馬拉松跑出2小時36分14秒，打破台灣紀錄。成績更達標今年田徑世錦賽資格，達標時間為2小時37分。\u003c/p\u003e \n\u003cp\u003e香港男子代表方面，則有徐子健以2小時42分44秒完成，為27230名男跑手中排第509名。全馬男子組亦為非洲跑手天下，包辦了首4名，冠軍為埃塞俄比亞的Birhanu LEGESE以2小時04分46秒完成。\u003c/p\u003e \n\u003cp\u003e資料來源：屈旨盈facebook、東京馬拉松官方網站\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.sportsroad.hk/archives/242129"
+    },
+    "request_path": "requests",
+    "title": "【東京馬拉松】屈旨盈風雨下PB 2:46:38",
+    "uuid": "035e0099-384d-3b36-bc8e-75acd8a54288"
+}

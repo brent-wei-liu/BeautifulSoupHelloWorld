@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:50:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e不要燈會？彰縣府：中央全額補助願辦\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e政治中心／綜合報導\u003c/p\u003e\n\n\u003cp\u003e2019台灣燈會在屏東昨（3）日落幕，這一次燈會被民眾喻為「史上最美台灣燈會」，外媒則評為「沒有雲霄飛車的迪士尼」。今年燈會屏東辦得好，也讓把明年主辦機會讓給台中市的彰化縣被罵翻。對此，彰化縣城觀處長馬英傑表示，「若中央願意全額補助，縣府當然可以辦！」\u003c/p\u003e\n\n\u003cp\u003e\u003cimg src='http://media.zenfs.com/zh-Hant-TW/homerun/setn.com.tw/33a7581331fb775b833d1eb060625145' width='510' height='287' align='middle' class='editorial'/\u003e\u003c/p\u003e\n\n\u003cp\u003e▲屏東燈會大受好評。\u003c/p\u003e\n\n\u003cp\u003e王惠美上任後表示，因縣府財政困難，沒有多餘的錢辦燈會。結果這個說法讓很多網友不滿，有人說「真的好想念魏縣長，憨慢實在的好人」、「選錯人不會做事，四年彰化都停滯」，也有人說「彰化要又老又窮了嗎」、「怕做了出錯乾脆不做，王縣長就是狂」。針對各界質疑，王惠美回應表示，「這次先推掉，後續會再爭取」，但這個說法依舊引發抨擊。\u003c/p\u003e\n\n\u003cp\u003e\u003cimg src='http://media.zenfs.com/zh-Hant-TW/homerun/setn.com.tw/41cfea559b3958f0bc9794ea06e7a294' width='510' height='302' align='middle' class='editorial'/\u003e\u003c/p\u003e\n\n\u003cp\u003e▲王惠美因放棄舉辦台灣燈會挨轟。（圖／翻攝自彰化縣政府）\u003c/p\u003e\n\n\u003cp\u003e根據《自由時報》報導，彰化縣城觀處長馬英傑則表示，2020年台灣燈會經費預估約7億元，地方須自籌5到6億元，中央補助3000萬元到5000萬元，縣府估算財政長短債和隱藏性債務超過400億元，若再編列5億到6億元燈會預算，將造成財庫沈重負擔，因此才忍痛放棄主辦權。\u003c/p\u003e\n\n\u003cp\u003e馬英傑也說，彰化縣團隊過去已有操作過台灣燈會的經驗，操作上沒問題，若中央願意全額補助至少7億元以上的燈會費用，彰化縣願意辦。（編輯：吳禹慶）\u003c/p\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多三立新聞網報導\u003c/span\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=507122\u0026#38;from=y\"\u003e最美燈會功臣！300台無人機升空　英特爾僅一人操控\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=506368\u0026#38;from=y\"\u003e流行白天賞燈？屏東燈會中午就爆滿…網：潘孟安比下韓國瑜\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=504052\u0026#38;from=y\"\u003e請假在家睡會議紀錄卻寫「公出」　韓國瑜：放大檢視很無聊\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=503625\u0026#38;from=y\"\u003e韓國瑜被放鴿子…游淑慧批外交部無能　網嗆：被打臉到崩潰\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.setn.com/News.aspx?NewsID=507173"
+    },
+    "request_path": "requests",
+    "title": "不要燈會？彰縣府：中央全額補助願辦",
+    "uuid": "0656d05c-199d-3f26-a121-22689076117d"
+}

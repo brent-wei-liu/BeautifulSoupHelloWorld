@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:01:04Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFlamengo estreia na Libertadores contra o San José, na altitude de Oruro, nesta terça-feira; confira palpites e prognósticos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg width=\"300\" height=\"185\" src=\"https://media.zenfs.com/pt-BR/oddshark_54/e8ed3de7785b58380ea4cefd565cb219\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Jogador do Flamengo\" style=\"margin-bottom:15px;\"/\u003eUm dos principais candidatos ao título da Copa Libertadores 2019 abre a fase de grupos da competição nesta terça-feira (5), às 19h15 (de Brasília), em Oruro, Bolívia. O Flamengo investiu muito para entrar no torneio com chances reais de conquistar o bicampeonato, e o modesto San José será o primeiro obstáculo – junto, é claro, [\u0026#8230;]\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.ganhador.com/2019/flamengo-estreia-na-libertadores-contra-o-san-jose-na-altitude-de-oruro-nesta-terca-feira-confira-palpites-e-prognosticos/"
+    },
+    "request_path": "requests",
+    "title": "Flamengo estreia na Libertadores contra o San José, na altitude de Oruro, nesta terça-feira; confira palpites e prognósticos",
+    "uuid": "0729cefb-b34d-3966-bc75-c7fd9ff945bf"
+}

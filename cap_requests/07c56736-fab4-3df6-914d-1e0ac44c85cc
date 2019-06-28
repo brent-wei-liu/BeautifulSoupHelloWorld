@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLineageOS 將 Android Pie 帶到了一票老手機之上\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003ca href=\"https://www.engadget.com/2017/01/24/cyanogenmod-lineageos/\"\u003eLineageOS\u003c/a\u003e（以及其前身 \u003ca href=\"https://chinese.engadget.com/2017/01/25/cyanogenmod-lineageos/\"\u003eCyanogenMod\u003c/a\u003e）一直以來都有著為舊設備注入新活力的優良傳統，而隨著近來 LineageOS 16 的\u003ca href=\"https://lineageos.org/Changelog-22/\"\u003e推出\u003c/a\u003e，目前有 30 款包括 2014 年就推出的 \u003ca href=\"https://chinese.engadget.com/2014/04/09/mr-stoneip-samsung-galaxy-s5-a-week-experience/\"\u003eSamsung Galaxy S5\u003c/a\u003e 和 \u003ca href=\"https://chinese.engadget.com/2014/04/23/oneplus-one-launch-ceo-pete-lau-interview/\"\u003eOnePlus One\u003c/a\u003e 等官方早已停止提供更新的老機型，都將獲得運行 \u003ca href=\"https://chinese.engadget.com/2018/08/06/android-p-is-for-pie/\"\u003eAndroid Pie\u003c/a\u003e 的機會。\u003cbr /\u003e\u003cbr /\u003e\n首波名單中的機型，包含華為的 \u003ca href=\"https://chinese.engadget.com/2018/06/03/huawei-p20-pro-review/\"\u003eP20 Pro\u003c/a\u003e、Samsung 於 2016 年推出的 \u003ca href=\"https://chinese.engadget.com/2015/07/19/samsung-galaxy-tab-s2-offically-unveiled/\"\u003eGalaxy Tab S2\u003c/a\u003e 和小米的 \u003ca href=\"https://chinese.engadget.com/2018/08/22/pocophone-f1-hands-on/\"\u003ePocophone F1\u003c/a\u003e 等，現在都已經可以刷入最新的 LineageOS 16 了。Lineage 表示，未來將會陸續支援更多的型號，也暗示未來 LineageOS 會擁有將於 Android 上登場的\u003ca href=\"https://chinese.engadget.com/2019/01/17/android-q-dark-theme-desktop-mode/\"\u003e深色模式\u003c/a\u003e。\u003cbr /\u003e\u003cbr /\u003e\n當然，如果各位有意嘗試刷機，務必要意識到這是一套非官方的系統。也就是說，運作上可能會不如過往穩定，有一些煩人的 bug 也是稀鬆平常的事。若工作上需要大量仰賴手機，刷機前請先三思囉。但若是你不在意這些小問題，刷入新系統或許能讓你的老手機再戰個一年半載呢。\n\u003ca target=\"_blank\" href=\"https://lineageos.org/Changelog-22/\"\u003eLineage\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://chinese.engadget.com/2019/03/04/lineageos-16-android-pie/"
+    },
+    "request_path": "requests",
+    "title": "LineageOS 將 Android Pie 帶到了一票老手機之上",
+    "uuid": "07c56736-fab4-3df6-914d-1e0ac44c85cc"
+}

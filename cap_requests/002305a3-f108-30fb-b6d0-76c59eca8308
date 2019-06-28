@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:38:44Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCroissance depuis 2009 : Chine +139%, Inde +96%, Etats-Unis +34%, Europe - 2% !\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e Le manque de réactivité de nos politiques publiques, suite à la crise financière, ont provoqué une compression des importations ayant conduit les membres de l'euro les plus touchés à voir leur balance des paiements devenir excédentaire alors que celle-ci était en déficit précisément grâce à leurs importations. A son tour, ces excédents soutiennent la valeur de la monnaie unique qui étouffe la croissance... Le fait est que les QE (baisses de taux quantitatives) ont eu peu d'effets sur la croissance européenne. En réalité, la politique monétaire de la BCE n'a pas vraiment eu les effets escomptés, car c'est principalement à la Chine que l'Europe doit ses quelques bonnes statistiques. La croissance européenne ne réagit pas comme prévu en 2015 et en 2016 - qui furent les deux premières années des QE -, car le commerce mondial évolua au taux anémique de 3%. Comme l'Europe est fortement dépendante pour sa survie de ses exportations, ce n'est qu'à la faveur des stimuli chinois que sa croissance put se rétablir à des niveaux décents en 2017, et pour cause, car le commerce mondial put croître cette même année de 5%. Autrement dit, alors qu'il est tentant d'attribuer l'amélioration de la croissance européenne de 2017 aux QE, c'est aux effets bénéfiques de la reprise du commerce mondial que notre continent fut redevable de son embellie. Toutes choses étant égales par ailleurs, c'est le «deleveraging» des chinois et les angoisses de vulnérabilité extrême de leur système financier qui pèsent désormais sur le commerce mondial et qui ralentissent en toute logique notre déjà faible croissance.\u003c/p\u003e \u003cp\u003e\u003cspan\u003eDans ce contexte, l'arrêt annoncé de ses QE par la BCE aura pour conséquence la hausse des taux d'intérêt que bien des nations européennes ne pourront assumer, du fait de taux réels élevés qu'elles subissent déjà, d'une très faible productivité, et enfin d'un euro qui ira en s'appréciant alors que son niveau réel est aujourd'hui plus élevé que lors du lancement des QE !... \u003c/p\u003e\n\u003cem class=\"b\"\u003e\n\u003ca href=\"http://www.latribune.fr/opinions/tribunes/croissance-depuis-2009-chine-139-inde-96-etats-unis-34-europe-2-809418.html#xtor=AL-13\" rel=\"nofollow\"\u003e\n(...) Lire la suite sur La Tribune.fr\n\u003c/a\u003e\n\u003c/em\u003e\n\u003cp\u003e\n\u003cem class=\"b\"\u003e\n\u003ca href=\"http://www.latribune.fr/opinions/tribunes/croissance-depuis-2009-chine-139-inde-96-etats-unis-34-europe-2-809418.html#xtor=AL-13\" rel=\"nofollow\" /\u003e\n\u003c/em\u003e\n\u003c/p\u003e\n\u003cp\u003e\n\u003cbr /\u003e\n\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Croissance depuis 2009 : Chine +139%, Inde +96%, Etats-Unis +34%, Europe - 2% !",
+    "uuid": "002305a3-f108-30fb-b6d0-76c59eca8308"
+}

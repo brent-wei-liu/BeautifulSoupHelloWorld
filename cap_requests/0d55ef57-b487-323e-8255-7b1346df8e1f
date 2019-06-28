@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e圍堵紅火蟻 大家一起來\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e加強圍堵入侵紅火蟻，監控撲滅零星疫情。行政院農業委員會動植物防疫檢疫局108年度獲行政院挹注防治經費，強化入侵紅火蟻防治工作，除持續堅守南北防線採行圍堵策略，推動區域共同防治外，更加強南防線鞏固、防線外零星點撲滅、擴大偵察點掌握疫情等強化措施。為有效運用防治資源，防檢局與國家紅火蟻防治中心協力持續提供地方政府行政與技術支援，期能控制入侵紅火蟻擴散，避免民眾生活遭受騷擾。\n\n防檢局再次呼籲，入侵紅火蟻防疫工作除需要防疫人員全心投入外，民眾如能具備正確認知與自我防範觀念，對於周遭環境多予關心，甚或協助守護，防疫工作才能達到事半功倍的成果。\n\n防檢局將繼續輔導民眾以正確方法進行自主管理，民眾若發現可疑螞蟻，可撥打免付費專線0800-095-590紅火蟻中心通報，相關資訊可至該中心網站（www.fireant.tw）查詢。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "圍堵紅火蟻 大家一起來",
+    "uuid": "0d55ef57-b487-323e-8255-7b1346df8e1f"
+}

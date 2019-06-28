@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:50:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e一槍擊斃大哥好友 槍手遭判刑\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e中國時報【（謝瓊雲）】\n彰化：一槍擊斃大哥好友！去年1月8日「溪湖金錢豹」小莓視聽館發生槍擊命案。槍手郭政霖坦承開槍殺人，檢警則查出是賴金城事先授意，彰化地院依殺人罪將兩人判處無期徒刑，褫奪公權終身；同車前往談判另兩人依非法持有手槍，各處5年4月併科罰金5萬。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "一槍擊斃大哥好友 槍手遭判刑",
+    "uuid": "0ac668a3-dd6f-39b3-9fdc-bbd7ccd08ca0"
+}

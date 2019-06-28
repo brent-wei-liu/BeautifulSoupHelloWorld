@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBloquean la Siglo XXI por muerte de activista\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eCUERNAVACA, Mor., marzo 4 (EL UNIVERSAL).-  Habitantes de  Amilcingo bloquearon por más de cuatro horas la Autopista Siglo XXI -que conecta los estados de Morelos y Puebla- en ambos sentidos, para exigir el esclarecimiento de la muerte del activista Samir Flores, asesinado el pasado 20 de febrero. \nLa protesta de los integrantes de la Asamblea Permanente de los Pueblos de Morelos se realizó frente a las instalaciones de la Escuela Normal Rural Emiliano Zapata, donde los manifestantes colocaron palos, piedras sobre la vialidad, además de que atravesaron dos camionetas para impedir el paso de vehículos. \nDurante el cierre de la autopista los habitantes gritaron consignas como \u0026quot;¡Samir vive, la lucha sigue!\u0026quot; y \u0026quot;¡Samir no murió, el Gobierno lo mató!\u0026quot;, y anunciaron que iniciarán una jornada de información sobre las afectaciones que causará la operación de la Termoeléctrica de Huexca a las comunidades rurales.\nEn Guerrero, padres de familia de los 43 alumnos desaparecidos en Iguala apoyados por estudiantes de la Normal de Ayotzinapa, realizaron una protesta en Chilpancingo para demandar al presidente Andrés Manuel López Obrador el esclarecimiento del crimen de Samir Flores.\nLos familiares de los normalistas desaparecidos marcharon del norte de la capital a la alameda central donde realizaron un mitin en apoyo a las comunidades rurales de Morelos.\nCrimen sin resolver. El activista Samir Flores Soberanes era propietario de la radio comunitari \u0026quot;Amillzintko\u0026quot; y miembro del Frente de Pueblos en Defensa de la Tierra y Agua Morelos-Puebla,Tlaxcala (FPDTA-MPT), grupo opositor a la Termoeléctrica de Huexca y fue asesinado el 20 de febrero por un grupo armado que presuntamente dejó un mensaje.\nLa Fiscalía General del Estado informó que hasta el momento siguen seis líneas de investigación para esclarecer el asesinato del líder opositor, entre las cuales consideran la participación del crimen organizado, su activismo contra la termoeléctrica, por su actividad en radio comunitaria y el posible involucramiento de políticos de todos niveles.\nEl Comisionado de Seguridad Pública, Vicealmirante José Antonio Ortiz Guarneros, sostuvo que la cartulina que presuntamente dejaron los homicidas sí existe, pero fue ocultada por la familia de Samir Flores para que no se hiciera burla del crimen.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Bloquean la Siglo XXI por muerte de activista",
+    "uuid": "08a7b1c8-2052-35ad-8927-bcb30c496ca8"
+}

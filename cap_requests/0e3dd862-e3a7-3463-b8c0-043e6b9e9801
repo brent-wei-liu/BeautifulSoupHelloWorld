@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:22:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e30 svenska cybersoldater mot miljontals kineser i it-kriget\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eSverige ska få 30 cybersoldater – det har ÖB Mikael Bydén lovat. Men siffran bleknar i jämförelse med Kinas väldiga cyberarmé, där cybermilisen räknas i miljontals.\u003c/p\u003e\n\u003cp\u003eKommunistpartiet kan nu skörda frukterna av en tidig och urstark satsning på att kunna vinna krig under cyberförhållanden. De kinesiska datorkrigarna är inte bara flest utan även bäst på vissa områden. \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.svd.se/svenska-satsningen-bleknar-i-jamforelse-med-kinas-cyberarme"
+    },
+    "request_path": "requests",
+    "title": "30 svenska cybersoldater mot miljontals kineser i it-kriget",
+    "uuid": "0e3dd862-e3a7-3463-b8c0-043e6b9e9801"
+}

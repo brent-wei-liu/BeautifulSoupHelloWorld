@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:30:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【旅遊保】旅行遇上天氣或突發問題要改行程，保險點先有得賠？\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-HK/homerun/hksearchfeed.yahoo.com/d27f6263200cd17867ea723e7c41225e\"/\u003e\u003c/p\u003e\u003cp\u003e為您搜羅最新熱門搜尋資訊，立即查看！\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://hk.promotions.yahoo.com/ysm/unified/?fr=strm\u0026p=travel%20insurance\u0026type=mfp_b_001e2_desc\u0026tag=travel%20insurance|%E6%97%85%E9%81%8A|%E4%BF%9D%E9%9A%AA\u0026ct=8\u0026kg=119\" target=\"_blank\"\u003e即睇熱門搜尋結果\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://hk.promotions.yahoo.com/ysm/unified/?fr=strm\u0026p=travel%20insurance\u0026type=mfp_b_001e2\u0026tag=travel%20insurance|%E6%97%85%E9%81%8A|%E4%BF%9D%E9%9A%AA\u0026ct=8\u0026kg=119\u0026date=201903041130"
+    },
+    "request_path": "requests",
+    "title": "【旅遊保】旅行遇上天氣或突發問題要改行程，保險點先有得賠？",
+    "uuid": "02f828f8-0e61-36d9-91f6-e47dffdd12e4"
+}

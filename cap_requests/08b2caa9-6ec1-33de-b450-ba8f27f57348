@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:25:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e*花旗升和電(00215.HK)目標價至2.7元 維持評級「沽售」\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "*花旗升和電(00215.HK)目標價至2.7元 維持評級「沽售」",
+    "uuid": "08b2caa9-6ec1-33de-b450-ba8f27f57348"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:00:54Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e4Freaks 4Fam - Episode 12\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Semua orang mencarikan pekerjaan untuk Lingzhi untuk mencegahnya menyebabkan kerusakan di rumah. Akan tetapi, alih-alih usahanya, dia mengacaukan setiap pekerjaan. Akhirnya dia membantu Moopah di toko teh susu jamur mutiara, dan mereka jadi semakin akrab.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25881665\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "4Freaks 4Fam - Episode 12",
+    "uuid": "05682fbf-2383-38cb-90fe-f7d1ebdaa036"
+}

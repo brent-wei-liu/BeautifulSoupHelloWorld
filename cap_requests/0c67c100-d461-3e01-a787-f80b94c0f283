@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:10:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHalustik - Episode 11\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eDemi loyalitas persahabatan, Kanti menolak tawaran Princess. Ia lebih memilih malanjutkan prakteknya dan berpartner dengan Niki. Ketika ia melakukan rutinitas Kanti melanjutkan rutinitas joggingnya, ada mobil yang medekatinya dengan dua orang laki-laki mendorongnya masuk ke dalam mobil dan membawanya kabur. Niki mulai panik. Kanti meninggalkan handphonenya di kamarnya. Niki mencoba membual kepada para klien agar mereka menjadwalkan ulang sesi konsultasi mereka.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25743743\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Halustik - Episode 11",
+    "uuid": "0c67c100-d461-3e01-a787-f80b94c0f283"
+}

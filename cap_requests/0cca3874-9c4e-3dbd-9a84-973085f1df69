@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:00:05Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e日立在中國5家公司 將進行資源整合\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e日立製作所 (6501-JP) 於週一 (4 日) 發出官方新聞稿，表示自 2019 年 4 月起，在中國的 1. 日立解決方案 (中國) 有限公司 2. 北京日立北工大信息系統有限公司 3. 日立系統 (廣州) 有限公司 4. 日立諮詢 (中國) 有限公司 5. 日立諮詢信息技術 (廣州) 有限公司，集團旗下的這 5 家公司將整合為「日立解決方案 (中國) 有限公司」(Hitachi Solutions(China)Co.,Ltd.)。\u003c/p\u003e  \u003cp\u003e日立表示，這是該公司在中國成長戰略的一環。也是該公司為了強化在中國市場的數位解決方案業務，所作出的資源整合。結合各公司的智慧，就中國社會及企業的各種疑難雜症，在數位解決方案上提供技術支援。\u003c/p\u003e  \u003cp\u003e此外，日立母體也將對「日立解決方案 (中國) 有限公司」進行增資，該公司也將不再隸屬於「株式會社日立 Solutions」(Hitachi Solutions, Ltd. )，而是直屬於日立旗下的子公司。日立在中國社會的創新事業，也計畫將持續擴張。\u003c/p\u003e  \u003cp\u003e「日立解決方案 (中國) 有限公司」位在北京市，設立於 2011 年 10 月。在 2019 年 2 月 28 日時，株式會社日立 Solutions 持有 90% 股份，日立 (中國) 有限公司持有 10% 股份，董事長是久保田健二。資本額 5000 萬元人民幣，員工 117 名 (含子公司，2018 年 12 月 31 日時)。\u003c/p\u003e  \u003cp\u003e日立 (6501-JP) 今 (4) 日在東京股市表現，上漲 1.47% 股價 3393 日圓。\u003c/p\u003e  \u003cfigure\u003e\u003cimg alt=\"(\u0026#x005716;\u0026#x00ff1a;Investing.com)\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cnyes.com/45c5b43bb0d5e7026d60b9a2a44927bd\"\u003e \u003cfigcaption\u003e(圖：Investing.com)\u003c/figcaption\u003e \u003c/figure\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.cnyes.com/news/id/4285320"
+    },
+    "request_path": "requests",
+    "title": "日立在中國5家公司 將進行資源整合",
+    "uuid": "0cca3874-9c4e-3dbd-9a84-973085f1df69"
+}

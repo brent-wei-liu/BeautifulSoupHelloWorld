@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:31:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFortune Cup賽馬機於澳門亮相\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e澳門, 2019年3月4日 - (亞太商訊) - 亞洲先鋒娛樂控股有限公司（「亞洲先鋒娛樂」或「本公司」，及其子公司統稱「本集團」；股份代號：8400.HK）於今日宣佈在澳門兩間著名的大型賭場推出Fortune Cup賽馬機，進一步拓展電子賭桌器材在亞洲的普及範圍。\u003cbr /\u003e\u003cbr /\u003eFortune Cup由博彩機器專家Konami Australia Pty Ltd開發，是一款多站位機械類賽馬遊戲，具備實時數碼視頻動畫功能。這款賽馬機結合了傳統賽馬遊戲機的機械原理和賭場桌上博彩的真實體驗。...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30305372.html"
+    },
+    "request_path": "requests",
+    "title": "Fortune Cup賽馬機於澳門亮相",
+    "uuid": "0d84bf3b-d853-371a-926e-100e1620d2f1"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:07:18Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLuke Perry est mort\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eL\u0026#39;acteur Luke Perry, star de la série «Beverly Hills», est décédé lundi. Il avait 52 ans.\u003c/p\u003e\u003cp\u003eLe comédien Luke Perry, une des icônes des années 1990, est décédé lundi selon TMZ et «People». Le «bad boy» de la série «Beverly Hills» était âgé de 52 ans. La semaine dernière, il avait été victime d\u0026#39;un accident vasculaire cérébral. TMZ raconte qu\u0026#39;il est décédé lundi matin à l\u0026#39;hôpital St. Joseph de Burbank, en Californie. Il tenait actuellement un rôle dans la série «Riverdale» et figure au casting du prochain film de Quentin Tarantino, «Once Upon a Time in Hollywood». Au cinéma, on l\u0026#39;a également vu en 1997 dans «Le Cinquième élément» de Luc Besson.\u003c/p\u003e\u003cp\u003eAu moment de son décès, il était notamment entouré de ses enfants Jack et Sophie, de sa fiancée Wendy Madison Bauer, de son ex-épouse Minnie Sharp, ainsi que de sa mère, son frère et sa soeur, indique l\u0026#39;AFP. La famille de Luke Perry remercie les fans du monde entier pour leur soutien mais demande le respect de son intimité en cette période de deuil. «Aucun détail supplémentaire ne sera donné dans l\u0026#39;immédiat», souligne le communiqué transmis par l\u0026#39;agent de la star. Luke Perry avait été hospitalisé le jour même où les studios Fox avaient annoncé relancer la série «Beverly Hills, 90210» pour six épisodes cet été. Le nom de Luke Perry n\u0026#39;apparaissait toutefois pas au casting.\u003c/p\u003e\u003ch2\u003eDes millions de Françaises et de Français connaissaient Dylan McKay, son personnage\u003c/h2\u003e\u003cp\u003eEn incarnant Dylan McKay dans le feuilleton culte «Beverly Hills» pendant dix saisons, de 1990 à 2000, Luke Perry est entré dans les foyers et dans le cœur de millions d\u0026#39;Américains. En France, la série a d\u0026#39;abord été diffusée par TF1, touchant une large audience. Le succès de «Beverly Hills» à partir 1993 correspond à l\u0026#39;explosion des naissances de petits garçons prénommés Dylan, ainsi qu\u0026#39;en témoignent les statistiques de(...)\u003c/p\u003e\u003cbr/\u003e\u003ca href=\"https://www.parismatch.com/People/Luke-Perry-est-mort-1610380#xtor=AL-23\"\u003eLire la suite sur Paris Match\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.parismatch.com/People/Luke-Perry-est-mort-1610380#xtor=AL-23"
+    },
+    "request_path": "requests",
+    "title": "Luke Perry est mort",
+    "uuid": "0a0dc201-0a68-328e-97f8-6335a8fcb3e2"
+}

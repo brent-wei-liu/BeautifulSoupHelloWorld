@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:34:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJose Mourinho kann sich Rückkehr zu Real Madrid vorstellen: \u0026quot;Ich hätte kein Problem damit\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003ca href=\"https://www.goal.com/de/spieler/jos%C3%A9-mourinho/dt8gnan8xmg0gh5xv8ezh8amt\"\u003eJose Mourinho\u003c/a\u003e könnte sich eine Rückkehr zu \u003ca href=\"https://www.goal.com/de/team/real-madrid/3kq9cckrnlogidldtdie2fkbl\"\u003eReal Madrid\u003c/a\u003e vorstellen. \u0026quot;Ich hätte kein Problem damit, zu Real Madrid zurückzukehren\u0026quot;, sagte der Portugiese im Gespräch mit \u003cem\u003eBeIn Sports\u003c/em\u003e.\u003c/p\u003e\n\n\n\u003cp\u003eMourinho war zwischen 2010 und 2013 Trainer der Königlichen. Mit Real gewann er die spanische Meisterschaft sowie die Copa del Rey. 2011 wurde er zum Welttrainer des Jahres gekürt. Zuletzt trainierte er Manchester United, \u003ca href=\"https://www.goal.com/de/meldungen/jose-mourinho-entlassung-manchester-united/1fby2y6ivm7t71t2zmqh344yu0\" target=\"_blank\"\u003ewurde nach anhaltendem Misserfolg jedoch im Dezember 2018 entlassen.\u003c/a\u003e\u003c/p\u003e\n\n\u003cp\u003eAufgrund der sportlich enttäuschenden Saison von Real Madrid halten sich Gerüchte, wonach Mourinho als Nachfolger von Santiago Solari nach Madrid zurückkehren soll.\u003c/p\u003e\n\n\u003ch2\u003eMourinho lobt: \u0026quot;Real ist der berühmteste Klub der Welt\u0026quot;\u003c/h2\u003e\n\n\u003cp\u003e\u0026quot;Eines der besten Gefühle meiner Karriere war die Rückkehr zu Chelsea. Wenn sie dich ein zweites Mal anrufen, bedeutet das, dass sie wissen, wie gut du es gemacht hast. Es ist ein tolles Gefühl. Real ist der berühmteste Klub der Welt\u0026quot;, erklärte Mourinho.\u003c/p\u003e\n\n\u003cp\u003eVor dem Achtelfinal-Rückspiel gegen Ajax Amsterdam wurde Solari gefragt, ob ihn die Gerüchte um Mourinho belasten. \u003ca href=\"https://www.goal.com/de/spiel/real-madrid-ajax-amsterdam/vorschau/7ryrkavhj5tvsj1pr320d95re\" target=\"_blank\"\u003eSeine Antwort sorgte für Lacher: \u0026quot;Real hatte schon immer mehr Kandidaten als Julia Roberts. Das ist ganz normal.\u0026quot;\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Jose Mourinho kann sich Rückkehr zu Real Madrid vorstellen: \u0026quot;Ich hätte kein Problem damit\u0026quot;",
+    "uuid": "0c93d7eb-c23e-3a9e-8a37-05a19b6e5a38"
+}

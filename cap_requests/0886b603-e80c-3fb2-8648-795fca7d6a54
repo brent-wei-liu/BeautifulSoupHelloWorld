@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:00:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美股盤前─中美可望很快達成貿易協定 指數期貨溫和上揚\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e報導指出，美國總統川普與中國國家主席習近平可望很快達成貿易協定，結束一年來的貿易戰，中國與亞洲股市今日上漲。\u003c/p\u003e  \u003cp\u003e上海綜合指數週一早場大漲約 3%，創九個月高點，香港恆生指數盤中亦上漲 1.5%。隨後該二指數削減漲幅。日經指數今日收高約 1%。\u003c/p\u003e  \u003cp\u003e華爾街日報週日報導，美國與中國的貿易協商已進入最後階段。若川普政府取消對北京的貿易制裁，中國亦將降低美國商品關稅。\u003c/p\u003e  \u003cp\u003e該報導說，在約 3 月 27 日舉行的會議中，川普與習近平可望達成正式協定。\u003c/p\u003e  \u003cp\u003e歐洲股市於早場交易中，大多上漲。\u003c/p\u003e  \u003cp\u003e盤前交易中，美國指數期貨上漲約 0.3%。\u003c/p\u003e  \u003cp\u003e經濟數據方面，台北時間 23:00 美國將公布 12 月營建支出。\u003c/p\u003e  \u003cp\u003e週五，美國將公布 2 月就業報告，為市場所重視。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.cnyes.com/news/id/4285376"
+    },
+    "request_path": "requests",
+    "title": "美股盤前─中美可望很快達成貿易協定 指數期貨溫和上揚",
+    "uuid": "0886b603-e80c-3fb2-8648-795fca7d6a54"
+}

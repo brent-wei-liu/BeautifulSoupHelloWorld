@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T19:07:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eL'allemand Evonik vend sa division méthacrylates pour 3 milliards d'euros\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eFRANCFORT (Reuters) - Le chimiste allemand Evonik a annoncé lundi avoir convenu des termes principaux portant sur la cession pour trois milliards d'euros de sa division de plastiques méthacrylates, qui fabrique des feuilles acryliques transparentes, au fonds d'investissement Advent.\u003c/p\u003e\n              \u003cp\u003eCette vente, dont le principe avait été annoncé il y a un an, doit encore être avalisée par le conseil de surveillance du groupe, précise Evonik dans un bref communiqué.\u003c/p\u003e\n              \u003cp\u003eAu moment de l'annonce de la mise en vente de cette division, le groupe avait dit vouloir se concentrer sur des segments à croissance rapide comme les additifs alimentaires et les composés du caoutchouc destinés aux pneumatiques.\u003c/p\u003e\n              \u003cp\u003eDébut novembre, Evonik a annoncé le rachat de PeroxyChem au fonds d'investissement One Equity Partners pour 625 millions de dollars (552 millions d'euros).\u003c/p\u003e\n              \u003cp/\u003e\n              \u003cp\u003e (Ludwig Burger, Benoit Van Overstraeten pour le service français)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "L'allemand Evonik vend sa division méthacrylates pour 3 milliards d'euros",
+    "uuid": "0ae01077-6940-345c-8456-010e022d9aac"
+}

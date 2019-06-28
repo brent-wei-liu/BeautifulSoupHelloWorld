@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:30:49Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《港股》恆指收漲0.51%，未守住29000點\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報-記者柯婉琇綜合外電報導】美中貿易談判傳出已經接近達成協議的好消息，周一香港恆生指數收漲0.51%，為28959.59點，但未能守住稍早前站上的29000點大關。國企股(H股)收漲0.60%，為11575.53點。南韓《經濟日報》指騰訊和南韓最大聊天軟體公司Kakao列入收購遊戲公司Nexon的5個競標者，騰訊應聲大漲3.15%。此外，大陸保險、銀行股上漲，大陸地產股集體大漲，蘋果概念股走高。\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《港股》恆指收漲0.51%，未守住29000點",
+    "uuid": "01558922-5cd7-3c57-9450-f38918045634"
+}

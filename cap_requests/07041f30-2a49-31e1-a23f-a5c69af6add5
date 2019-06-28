@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:00:30Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBloomberg vs. XRP Army: Das Meinungs-ECHO KW9\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv style=\"margin:5px 5% 10px 5%;\"\u003e\u003cimg src=\"https://media.zenfs.com/de-DE/btc_echo__346/f6b49f2a9a5373c88c31bda4306c50ef\" width=\"391\" height=\"400\" title=\"\" alt=\"\"/\u003e\u003c/div\u003e\n\u003cdiv\u003e\n\u003cp\u003eBitcoin hilft in Venezuela und PoS hilft Ethereum. Forbes-Autor Bloomberg schießt scharf gegen Ripple und ruft die XRP Army auf den Plan, während Pomp gegen eine Massenadaption des JPM Coin vorgehen will.\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv\u003e\u0026nbsp;\u003c/div\u003e\n\u003cdiv\u003e\u003cem\u003eSource: \u003ca href=\"https://www.btc-echo.de/bloomberg-vs-xrp-army-das-meinungs-echo-kw9/\" target=\"_blank\"\u003eBTC-ECHO\u003c/a\u003e\u003c/em\u003e\u003c/div\u003e\n\u003cp\u003eDer Beitrag \u003ca rel=\"nofollow\" href=\"https://www.btc-echo.de/bloomberg-vs-xrp-army-das-meinungs-echo-kw9/\"\u003eBloomberg vs. XRP Army: Das Meinungs-ECHO KW9\u003c/a\u003e erschien zuerst auf \u003ca rel=\"nofollow\" href=\"https://www.btc-echo.de\"\u003eBTC-ECHO\u003c/a\u003e.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.btc-echo.de/bloomberg-vs-xrp-army-das-meinungs-echo-kw9/"
+    },
+    "request_path": "requests",
+    "title": "Bloomberg vs. XRP Army: Das Meinungs-ECHO KW9",
+    "uuid": "07041f30-2a49-31e1-a23f-a5c69af6add5"
+}

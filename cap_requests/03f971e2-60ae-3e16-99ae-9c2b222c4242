@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:09:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDopage: un coureur autrichien de la Groupama-FDJ avoue s\u0026#39;être dopé, le scandale s\u0026#39;étend\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eUn deuxième coureur cycliste autrichien a admis s\u0026#39;être dopé, selon la presse locale ce lundi, et le scandale s\u0026#39;étend après les arrestations de six athlètes la semaine passée dans le cadre d\u0026#39;une enquête sur un réseau international de dopage.\u0026nbsp;Les polices autrichienne et allemande avaient mené une série d\u0026#39;arrestations mercredi dernier à la suite du démantèlement d\u0026#39;un réseau de dopage basé à Erfurt (Allemagne) et dirigé par un médecin allemand de 40 ans, Mark S.\u0026nbsp;\u003c/p\u003e\n\n\u003ch3 style=\"color:#333;font-family:arial, helvetica, sans-serif;font-size:23px;font-weight:700;\"\u003e\u0026quot;La plus grosse erreur de toute ma vie\u0026quot;\u003c/h3\u003e\n\n\u003cp\u003eLes arrestations étaient notamment concentrées sur la station autrichienne de Seefeld, où se tenaient les Championnats du monde de ski nordique. Cinq skieurs avaient été arrêtés, deux Autrichiens, deux Estoniens et un Kazakh.\u0026nbsp;Un coureur cycliste autrichien, qui selon la presse est Stefan Denifl, avait aussi été interpellé et a avoué se doper.\u003c/p\u003e\n\n\u003cp\u003eCela a conduit un autre coureur autrichien à avouer de lui-même qu\u0026#39;il avait également recours au dopage. Celui-ci, Georg\u0026nbsp;Preidler (28 ans), a ainsi affirmé au journal The Kronen qu\u0026#39;il \u0026quot;ne pouvait plus vivre plus longtemps avec ce secret\u0026quot; et il s\u0026#39;est rendu à la police à Graz.\u0026nbsp;\u0026quot;Ces cinq derniers jours ont été un cauchemar, je ne savais pas si j\u0026#39;allais être découvert, je ne savais pas si ce médecin avait tout avoué\u0026quot;, a-t-il déclaré, affirmant n\u0026#39;avoir commencé à se doper que \u0026quot;récemment\u0026quot; et que ses victoires, notamment sur le Giro,...\u003c/p\u003e\u003ca href=\"https://rmcsport.bfmtv.com/plus-de-sports/dopage-un-coureur-de-la-groupama-fdj-avoue-s-etre-dope-le-scandale-s-etend-1645234.html#xtor=AL-68\"\u003eLire la suite sur RMC Sport\u003c/a\u003e\u003cbr /\u003e\u003ch3\u003eA lire aussi\u003c/h3\u003e\u003cul\u003e\u003c/ul\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://rmcsport.bfmtv.com/plus-de-sports/dopage-un-coureur-de-la-groupama-fdj-avoue-s-etre-dope-le-scandale-s-etend-1645234.html"
+    },
+    "request_path": "requests",
+    "title": "Dopage: un coureur autrichien de la Groupama-FDJ avoue s\u0026#39;être dopé, le scandale s\u0026#39;étend",
+    "uuid": "03f971e2-60ae-3e16-99ae-9c2b222c4242"
+}

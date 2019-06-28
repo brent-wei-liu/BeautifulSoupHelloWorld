@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:52:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBegärs häktad för mordförsök mot fyra\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eBegärs häktad för mordförsök mot fyra\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.svd.se/begars-haktad-for-mordforsok-mot-fyra"
+    },
+    "request_path": "requests",
+    "title": "Begärs häktad för mordförsök mot fyra",
+    "uuid": "03f0fc0b-0939-3402-b454-38c45fc33f23"
+}

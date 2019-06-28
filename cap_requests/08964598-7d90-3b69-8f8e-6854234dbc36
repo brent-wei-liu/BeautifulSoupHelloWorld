@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:54:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMadrid e Interior se alían por la inserción laboral de las víctimas del terrorismo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- El Ayuntamiento de Madrid y el Ministerio del Interior se han unido para mejorar la formación y la inserción laboral de las víctimas del terrorismo a través de talleres y seminarios que impulsará la Agencia para el Empleo de Madrid.\nEl ministro del Interior, Fernando Grandqe-Marlaska, y la alcaldesa de Madrid, Manuela Carmena, han firmado hoy este protocolo por el que el consistorio madrileño se compromete a través de la Agencia para el Empleo a comportar información con Interior sobre las diferentes iniciativas de formación en beneficio de las víctimas del terrorismo.\nSe trata, ha dicho la alcaldesa, de trabajar en tres ejes: Información, intermediación y formación, este último el más importante ya que se trata de talleres retribuidos.\nPara ello, el ayuntamiento madrileño designará un técnico de empleo para atender, de forma específica e individualizada a víctimas derivadas por Interior y que seguirá todo el proceso de búsqueda de empleo e incorporación laboral.\nPor su parte, Interior, a través de la Dirección General de Apoyo a las víctimas del terrorismo, también nombrará a una persona de contacto que podrá derivar a la agencia a quienes quieran iniciar un proceso de orientación e intermediación laboral.\nMarlaska ha destacado el compromiso de su departamento con la inserción laboral de este colectivo tal y como contempla la ley de reconocimiento de las víctimas del terrorismo de 2011 y la puesta en marcha del programa Labora que ha permitido atender ya a más de 560 víctimas.\nSolo el año pasado, ha recordado el ministro, se pusieron en marcha 195 actuaciones de intermediación laboral, de las que 61 fueron de formación y se consiguieron 48 contratos de trabajo.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Madrid e Interior se alían por la inserción laboral de las víctimas del terrorismo",
+    "uuid": "08964598-7d90-3b69-8f8e-6854234dbc36"
+}

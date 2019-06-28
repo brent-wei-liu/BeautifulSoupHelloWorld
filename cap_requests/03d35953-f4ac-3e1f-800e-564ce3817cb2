@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:35:02Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e「超凡」樂團主唱猝逝！享年49歲\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e國際中心／綜合報導【 03/04\u0026#160;20:36\u0026#160;發稿 ｜ 22:26\u0026#160;更新：新增網友回應\u0026#160;】\u003c/p\u003e\n\n\u003cp\u003e英倫電子舞曲天團「超凡」（The Prodigy）主唱齊斯弗林特（Keith Flint），今（4日）早被發現陳屍家中，據當地警方表示，醫護人員於今早8點到達他的住處時，就已經沒有生命跡象了，現在已經排除他殺嫌疑，但詳細死因尚有待有關單位進行調查。\u003c/p\u003e\n\n\u003cp\u003e\u003cimg src='http://media.zenfs.com/zh-Hant-TW/homerun/setn.com.tw/8fd6ee1642613b49a4ab40a3642c2245' width='510' height='287' align='middle' class='editorial'/\u003e\u003c/p\u003e\n\n\u003cp\u003e▲「超凡」主唱齊斯弗林特今日猝死家中。（圖／翻攝自IG）\u003c/p\u003e\n\n\u003cp\u003e綜合外媒報導，齊斯弗林特於英國當地時間今日早晨，陳屍於艾薩克斯的家中，救護人員對他進行急救後，依然沒有生命徵象。超凡樂團是1990年成立的英國電音團體，在樂壇上與流線胖小子、化學兄弟並稱，外界視其為Big beat先驅，全球唱片發行量逾2500萬張。\u003c/p\u003e\n\n\u003cp\u003e「超凡樂團」上個月才結束澳洲的巡演回到英國，今日卻驚傳主唱去世的噩耗，粉絲們都非常難過。而官方也在稍早證實這則消息，表示「這是最深刻的震驚和悲傷，他是真正的先驅、創新者和傳奇，讓我們懷念他。」\u0026#160;\u003c/p\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多三立新聞網報導\u003c/span\u003e\u003cbr/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.setn.com/News.aspx?NewsID=507155"
+    },
+    "request_path": "requests",
+    "title": "「超凡」樂團主唱猝逝！享年49歲",
+    "uuid": "03d35953-f4ac-3e1f-800e-564ce3817cb2"
+}

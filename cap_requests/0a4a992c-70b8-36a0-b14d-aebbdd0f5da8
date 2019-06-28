@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:20Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 418\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, Tim Running Man diberi misi untuk mengantarkan koper dalam enam jam. Jika berhasil mengantarkannya dalam waktu yang ditentukan, hukuman hanya akan diberikan kepada satu orang. Sebaliknya, jika gagal, hanya ada satu orang yang tidak dihukum. Mereka juga dilarang membuka kopernya. Jika melanggar, mereka otomatis gagal menjalankan misi dan akan diberi hukuman.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 418",
+    "uuid": "0a4a992c-70b8-36a0-b14d-aebbdd0f5da8"
+}

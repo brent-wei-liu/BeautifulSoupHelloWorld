@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:30:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《台北股市》台灣五十指數7710.12點，跌68.76點，跌幅0.88％\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報-台北電】台灣五十指數今日收盤為7710.12點，下跌68.76點，跌幅0.88％\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《台北股市》台灣五十指數7710.12點，跌68.76點，跌幅0.88％",
+    "uuid": "042cb2a8-cd51-30fe-b344-957839fffeea"
+}

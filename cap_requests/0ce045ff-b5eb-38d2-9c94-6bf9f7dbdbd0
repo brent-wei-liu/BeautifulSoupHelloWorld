@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:12:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTaller general de Libros de Texto Gratuitos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/es-US/homerun/notimex.com.mx/fe7bb743eb4ccd500119e2eac294723b\" border=\"0\" hspace=\"5\" vspace=\"5\" alt=\"90304010.jpg\"\n title=\"Taller general de Libros de Texto Gratuitos\"\u003e\u003cbr\u003e\u003ca href=\"/es/descargarFoto/503343\" class=\"btn btn-primary\"\u003eDescargar\u003c/a\u003e\u003cbr\u003e90304010. Querétaro, 4 Mar 2019 (Notimex- Jessica Espinosa).-  En el taller general de Comisión Nacional de Libros de Texto Gratuitos ubicado en Querétaro, la prensa plana, las rotativas \u0026quot;Harris, los rollos de papel gigantes y el entusiasmo de decenas de trabajadores, están en marcha.\nNOTIMEX/FOTO/JESSICA ESPINOSA/JES/EBF/\u003cp\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.notimex.gob.mx/ntxfotos/503343"
+    },
+    "request_path": "requests",
+    "title": "Taller general de Libros de Texto Gratuitos",
+    "uuid": "0ce045ff-b5eb-38d2-9c94-6bf9f7dbdbd0"
+}

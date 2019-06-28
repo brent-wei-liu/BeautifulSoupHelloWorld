@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:15:46Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e羅致光稱社福物業如超出合理價錢　無必要「為買而買」\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e勞工及福利局局長羅致光表示，預算案提出撥款200億元購買60組物業作社福設施的計劃，預計有關設施在2021年陸續推出，政府會視乎市場情況，慢慢入市，以合理價錢購買物業。若超出合理價錢，政府不會買，無必要「為買而買」。\n\n羅致光出席本台節目《千禧年代》時說，計劃意念已蘊釀一段時間，政府在過往十多二十年覓地增加服務設施，現時應構思新方法解決，強調政府購買物業的政策一直存在。\n\n他提到目前存在服務短缺問題，遠水難以救近火，覓地規劃工作要進行，但所需時間長，不能理會眼前的問題，構思辦法以減低服務設施不足的情況。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "羅致光稱社福物業如超出合理價錢　無必要「為買而買」",
+    "uuid": "0b59a90a-f23e-3e1e-a4d4-d0e06e700f5c"
+}

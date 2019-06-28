@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:10:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e每天壓力大　訓練心理肌力比抗壓性更重要\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/healthnews.tw/aa39a1604de7b001b4584c39d04c5698\" align=\"middle\"/\u003e\u003cp\u003e現代人腳步繁忙快速，一天下來沒有時間關心自己的心理狀態，以致常常在情緒積累已久後，爆發難癒，更懷疑是否自己抗壓性不足。資深心理諮商師林萃芬呼籲大眾，在這個快速變化的新時代裡，本來就會延伸出與過去完全不同的心理困擾，這時需要的是強化自我的「心理肌力」，才能適時因應多變的社會氣氛。\u003c/p\u003e\u003cp\u003e\u003cp style=\"color:rgb(227, 108, 9);\"\u003e\u003cstrong\u003e新生活模式的新挑戰　舊觀念無法再因應\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e由於科技大幅度進展，快速變遷的社會使得現代人的生活型態、工作形式都不相同，甚至也一併改變了人際互動的模式，在這樣的狀況裡，若是持續以就守舊的觀念來面對困難，不僅難以調整出最佳狀態，更可能產生對自我價值否定的反效果。因此，如何建立新思維來協助自己迎向社會挑戰成了重要課題。\u003c/p\u003e\u003cp\u003e\u003cp style=\"color:rgb(227, 108, 9);\"\u003e\u003cstrong\u003e消化壓力更重要　紓解情緒才能再充滿活力\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e林萃芬擁有逾 10 年諮商經驗，觀察出現代人不可或缺的能力即是強健的「心理肌力」，不僅可以讓自己鎮定面對各種突發狀況，更能展現出專業；讓自己擁有良好心理技能，才能發揮好潛能。\u003c/p\u003e\u003cp\u003e對此，林萃芬將過去經驗綜合整理，以《鍛鍊心理肌力》一書來向大眾說明心理肌力的重要，並非總是一股腦地要提升自己的抗壓性，而是要懂得「消化壓力」，才能克服自我的心理困難，妥善紓解負面情緒，讓自己每日都是嶄新的開始。\u003c/p\u003e\u003cp\u003e\u003cp style=\"color:rgb(227, 108, 9);\"\u003e\u003cstrong\u003e學著鍛鍊心理肌力　15 \u003c/strong\u003e\u003cstrong\u003e項心理練習成後盾\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e有鑑於大眾在每日急急忙忙的生活中，不僅沒有時間檢視自我，更常常忽略了要讓自己適度放鬆、清空自我，再吸收力量變得堅強；因此，林萃芬特以 15 項心理練習，慢慢引導大眾認識自我，摸索出自己的內心狀態、一步步鍛鍊自我，再透過情境的演練，分階段學習，讓自己成為自己的後盾，打造自己最佳心靈鍛鍊處方。\u003c/p\u003e\u003cp\u003e【延伸閱讀】\u0026#160;\u003ca href=\"https://www.healthnews.com.tw/news/article/41339\"\u003e空汙來襲咳不停　呼吸道保護看這裡\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.healthnews.com.tw/readnews.php?id=41402"
+    },
+    "request_path": "requests",
+    "title": "每天壓力大　訓練心理肌力比抗壓性更重要",
+    "uuid": "05395b9d-154a-35e4-8f58-4980c6a01595"
+}

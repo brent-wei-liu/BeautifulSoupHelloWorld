@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:12:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHallan sistema de escucha en la sede del favorito a presidenciales de Ucrania\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eKiev, 4 mar (EFE).- Un dispositiva de escucha ha sido hallado este lunes en el inmueble donde se sitúa la oficina del candidato favorito a la Presidencia de Ucrania y comediante de profesión Vladímir Zelenksi, informó el ministro del Interior, Arsén Avákov.\n\u0026quot;La Policía de Kiev detectó junto a la oficina del candidato a la Presidencia Vladímir Zelenski elementos de un equipo de escucha\u0026quot;, señaló en un comunicado, en el que aseguró que se están llevando a cabo investigaciones al respecto.\nEn el local se detectó la presencia de una caja sospechosa, por lo cual al lugar de los hechos fue llamado un equipo de especialistas en explosivos.\nLos especialistas establecieron que el hallazgo no representaba peligro alguno para la vida y entregaron el equipamiento a la Fiscalía y al Consejo de Seguridad de Ucrania.\nEl diputado de la Rada Suprema (Parlamento de Ucrania) Antón Gueráschenko, también asesor del Ministerio de Interior ucraniano, aseguró que el equipo hallado solo se vende a sujetos que disponen de una licencia especial del Servicio de Seguridad ucraniano (SBU).\n\u0026quot;El equipo de escucha que fue hallado hoy en la oficina del candidato a la Presidencia de Ucrania Vladímir Zelenski es de propósito especial, es imposible comprar este equipamiento en internet o en el mercado. Solo se vende a sujetos que se dediquen a operaciones operativas de búsqueda, que tienen una licencia entregada por el SBU\u0026quot;, escribió el diputado en su cuenta de la red social Facebook.\nA menos de un mes de las elecciones presidenciales en Ucrania, el actor y comediante Vladímir Zelenski sigue siendo el candidato favorito a la Presidencia de Ucrania con el 25 % de la intención de voto, según la más reciente encuesta del grupo Rating (ONG ucraniana), seguido por el actual presidente, Petró Poroshenko, con un 16,6 por ciento, y la líder de Batkivschina y ex primera ministra Yulia Timoshenko, con un 16,2 por ciento.\nZelenski es más popular en el sur y el este del país, Poroshenko en la parte occidental, mientras Timoshenko comparte con Zelenski las preferencias de la parte central del país. EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Hallan sistema de escucha en la sede del favorito a presidenciales de Ucrania",
+    "uuid": "0df2f8a8-b885-36dd-b103-e3383ddd33eb"
+}

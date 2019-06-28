@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:10:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e明安去年獲利創九年新高，擬配發現金股利2.2元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【財訊快報記者江星翰報導】明安( 8938 )公布去年稅後純益5.69億元，創九年新高，年增28.58%，每股稅後純益4.2元，擬配發現金股利2.2元，依上月27日收盤價42元計算，現金殖利率5.24%。\u003cbr /\u003e\u003cbr /\u003e　　明安去年第四季進入出貨旺季，受惠TaylorMade及Callaway二大品牌客戶新品鋪貨，上季各月營收皆站穩10億元大關，合計第四季總營收34.28億元，年增12.99%，單季稅後純益2.3億元，年增21%。\u003cbr /\u003e\u003cp\u003e　　今年第一季延續傳統旺季，加上農曆年前...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30305226.html"
+    },
+    "request_path": "requests",
+    "title": "明安去年獲利創九年新高，擬配發現金股利2.2元",
+    "uuid": "0a62baed-d637-39ec-bf1e-4f5825421269"
+}

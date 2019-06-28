@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:05:23Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEvinde tadilat yapınca hapis cezası aldı\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003ca href='https://www.haberturk.com/evinde-tadilat-yapinca-hapis-cezasi-aldi-2392363'\u003e\u003cimg src='http://media.zenfs.com/tr_TR/News/Haberturk/2392363_manset.jpg' alt='83 ya\u0026#x00015f;\u0026#x000131;ndaki Yusuf dede k\u0026#xf6;y\u0026#xfc;nde uzun y\u0026#x000131;llar \u0026#xf6;nce kendisine bir ev in\u0026#x00015f;aa etti. Y\u0026#x000131;llar sonra da o evin k\u0026#xfc;lt\u0026#xfc;r miras\u0026#x000131; oldu\u0026#x00011f;unu \u0026#xf6;\u0026#x00011f;rendi. Dahas\u0026#x000131; k\u0026#xfc;lt\u0026#xfc;r miras\u0026#x000131; say\u0026#x000131;lan kendi evinde yapt\u0026#x000131;\u0026#x00011f;\u0026#x000131; tadilat y\u0026#xfc;z\u0026#xfc;nden hakk\u0026#x000131;nda dava a\u0026#xe7;\u0026#x000131;ld\u0026#x000131;\u0026#x00011f;\u0026#x000131; haberini de ayn\u0026#x000131; anda ald\u0026#x000131;. Yusuf dedenin ya\u0026#x00015f;ad\u0026#x000131;\u0026#x00011f;\u0026#x000131; son \u0026#x00015f;ok da dava sonunda 1 y\u0026#x000131;l 8 ay hapis cezas\u0026#x000131; almas\u0026#x000131; oldu. 83 ya\u0026#x00015f;\u0026#x000131;ndaki Yusuf dedenin ba\u0026#x00015f;\u0026#x000131;na gelenlerin hikayesi tam bir f\u0026#x000131;kra gibi. O dede ve torunu ise HABERT\u0026#xdc;RK\u0026#x002019;e konu\u0026#x00015f;tu.\n\n' align='left' style='padding-right:5px;' border='0' width='97' height='100'/\u003e\u003c/a\u003e83 yaşındaki Yusuf dede köyünde uzun yıllar önce kendisine bir ev inşaa etti. Yıllar sonra da o evin kültür mirası olduğunu öğrendi. Dahası kültür mirası sayılan kendi evinde yaptığı tadilat yüzünden hakkında dava açıldığı haberini de aynı anda aldı. Yusuf dedenin yaşadığı son şok da dava sonunda 1 yıl 8 ay hapis cezası alması oldu. 83 yaşındaki Yusuf dedenin başına gelenlerin hikayesi tam bir fıkra gibi. O dede ve torunu ise HABERTÜRK’e konuştu.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.haberturk.com/evinde-tadilat-yapinca-hapis-cezasi-aldi-2392363"
+    },
+    "request_path": "requests",
+    "title": "Evinde tadilat yapınca hapis cezası aldı",
+    "uuid": "068ccad0-7c28-3893-ae1d-a0b5b7bcc58b"
+}

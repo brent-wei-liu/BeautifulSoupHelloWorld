@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:01:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e調查稱6成受訪者指內地自由行數目已超香港可承受能力\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e中大亞太研究所調查發現，約6成受訪市民表示，內地自由行旅客數目已超出香港可承受的能力，超過5成人認為，在他們居住的社區，自由行旅客已對日常生活造成不便，\n\n調查同時顯示，約6成市民承認，自由行帶旺了本地消費，4成多人指自由行可改善本地就業。被問到自由行為香港帶來好處多還是壞處多，分別指「好處較多」、「壞處較多」和「好壞參半」的市民比例均各佔約3成，顯示市民感到自由行有利亦有弊。\n\n對於應否收緊自由行政策，主張維持不變或應該收緊分別各佔4成多。\n\n中大亞太研究所在2月15至21日以電話訪問了709名市民。身兼北區區議員的民主黨立法會議員林卓廷表示，調查普遍反映市民對自由行的不滿，問題已水深火熱，政府應該立即收緊自由行政策，限制內地訪客一年內只可來港8次。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "調查稱6成受訪者指內地自由行數目已超香港可承受能力",
+    "uuid": "0c81cf36-6f8a-3e82-af1f-f69b6f9b5fcc"
+}

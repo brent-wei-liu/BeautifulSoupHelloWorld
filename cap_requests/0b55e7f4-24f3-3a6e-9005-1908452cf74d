@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:04:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美國跆拳道賽掛中華民國國旗　中國隊抗議後遭撤 (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e2019美國跆拳道公開賽4日落幕，由於大會工作人員搞烏龍，在第8場地上方懸掛中華民國青天白日滿地紅的國旗，而非五環梅花會旗，遭中國代表隊強力抗議後撤下。（中華跆協提供）\u003c/p\u003e\n\u003cp\u003e中央社記者龍柏安傳真　108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/edd1cfdb0b34b87e864b79745ac61c8e\" width=\"630\" height=\"472\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "美國跆拳道賽掛中華民國國旗　中國隊抗議後遭撤 (圖)",
+    "uuid": "0b55e7f4-24f3-3a6e-9005-1908452cf74d"
+}

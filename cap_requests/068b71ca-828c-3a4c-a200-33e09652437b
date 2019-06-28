@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:23:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBORSE ASIA-PACIFICO in rialzo su indiscrezioni intesa Usa-Cina fine mese\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e4 marzo (Reuters) - Le borse dell'area Asia-Pacifico oggi sono generalmente in rialzo dopo le indiscrezioni del week-end sull'avvicinarsi di una intesa fra Cina e Stati Uniti sulle regole per il commercio e i dazi.\u003c/p\u003e\n              \u003cp\u003eNel fine settimana il Wall Street Journal ha scritto che gli Stati Uniti potrebbero togliere molti dei dazi introdotti e che entro la fine del mese potrebbe arrivare l'accordo fra il presidente Donald Trump e il presidente cinese Xi Jinping. \u003c/p\u003e\n              \u003cp\u003e** TOKYO ha chiuso in crescita dell'1,02%, proprio come venerdì. \u003c/p\u003e\n              \u003cp\u003e** SIDNEY inizia la settimana in rialzo, e sui massimi degli ultimi sei mesi, sostenuta dalle aspettative per le trattative fra Cina e Usa. \u003c/p\u003e\n              \u003cp\u003e** SHANGHAI in forte rialzo, oltre il 2%, sull'onda delle attesa di un possibile accordo Cina Usa. \u003c/p\u003e\n              \u003cp\u003e** HONG KONG è in linea al mercato continentale, ma su livelli più contenuti.\u003c/p\u003e\n              \u003cp\u003e** TAIWAN chiude in rosso. \u003c/p\u003e\n              \u003cp\u003e** SEUL: oggi il mercato ha riaperto dopo un periodo di festività e ha chiuso la seduta in ribasso. \u003c/p\u003e\n              \u003cp\u003e** MUMBAI oggi chiusa per una festività.\u003c/p\u003e\n              \u003cp\u003e** SINGAPORE piatta.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "BORSE ASIA-PACIFICO in rialzo su indiscrezioni intesa Usa-Cina fine mese",
+    "uuid": "068b71ca-828c-3a4c-a200-33e09652437b"
+}

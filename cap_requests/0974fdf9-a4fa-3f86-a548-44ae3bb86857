@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:34:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJuan Guaido arrive à Caracas, risque l\u0026#39;arrestation\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eCARACAS (Reuters) - Bravant les menaces d\u0026#39;arrestation, le chef de l\u0026#39;opposition vénézuélienne Juan Guaido est arrivé lundi en milieu de journée à l\u0026#39;aéroport Maiquetia de Caracas, selon des images de la télévision. \u003c/p\u003e\n\u003cp\u003e\u0026quot;Nous sommes ici au Venezuela et nous continuerons d\u0026#39;aller de l\u0026#39;avant\u0026quot;, a-t-il déclaré à l\u0026#39;aéroport face à une foule de partisans venus l\u0026#39;acclamer. \u003c/p\u003e\n\u003cp\u003eJuan Guaido a grimpé sur le toit d\u0026#39;une voiture, pouce levé, avant de partir pour la capitale où l\u0026#39;attendaient plusieurs milliers de personnes. \u003c/p\u003e\n\u003cp\u003eAuparavant, dans un message audio sur Twitter, il avait annoncé: \u0026quot;De retour dans notre pays bien-aimé ! Le Venezuela, on vient de passer les contrôles d\u0026#39;immigration et on se dirige maintenant là où est notre peuple.\u0026quot; \u003c/p\u003e\n\u003cp\u003e\u0026quot;A mon arrivée, quelle que soit la voie choisie par le dictateur, nous allons continuer\u0026quot;, avait-il dit dans un précédent message sur le réseau social. \u003c/p\u003e\n\u003cp\u003eGuaido, qui s\u0026#39;est proclamé président et dont la légitimité est reconnue par les Etats-Unis et la plupart des pays occidentaux, avait indiqué dans une vidéo diffusée dimanche sur Twitter que ce sera un défi \u0026quot;historique\u0026quot; de rentrer au Venezuela.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Si le régime ose, évidemment, nous kidnapper, ce sera la dernière erreur qu\u0026#39;ils commettront\u0026quot;, a-t-il dit, sans préciser d\u0026#39;où il s\u0026#39;exprimait. \u003c/p\u003e\n\u003cp\u003eJuan Guaido a bravé une interdiction de sortie du territoire en se rendant en Colombie pour coordonner l\u0026#39;aide humanitaire destinée au Venezuela, puis au Brésil, au Paraguay, en Argentine et en Equateur.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Toute menace, toute initiative contre la sécurité de son retour entraînera une réponse forte et significative des Etats-Unis et de la communauté internationale\u0026quot;, a averti dimanche John Bolton, conseiller de Donald Trump à la sécurité nationale.\u003c/p\u003e\n\u003cp/\u003e\n\u003cp\u003e (Angus Berwick avec Vivian Sequera, Marco Bello et Matt Spetalnick; Arthur Connan, Guy Kerivel et Jean-Stéphane Brosse pour le service français)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Juan Guaido arrive à Caracas, risque l\u0026#39;arrestation",
+    "uuid": "0974fdf9-a4fa-3f86-a548-44ae3bb86857"
+}

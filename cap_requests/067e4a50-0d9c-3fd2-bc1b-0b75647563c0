@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 414\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Untuk pekan ini, para anggota Running Man dipanggil para staf satu per satu segera setelah syuting dimulai. Mereka disuruh memilih anggota yang akan mereka berikan setengah Running Money mereka. Karena punya uang paling banyak menguntungkan, para anggota mulai bermain pikiran. Sementara itu, Kim Roi Ha, Kwak Si Yang, dan Seo Hyo Rim bergabung dengan mereka sebagai penjahat terbaik.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 414",
+    "uuid": "067e4a50-0d9c-3fd2-bc1b-0b75647563c0"
+}

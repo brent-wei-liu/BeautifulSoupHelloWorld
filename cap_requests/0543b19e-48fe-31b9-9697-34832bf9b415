@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:13:42Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa Jaguar I-Pace élue voiture européenne de l\u0026#39;année\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eGenève (AFP) - La Jaguar I-Pace, un SUV (4x4 de loisir) de luxe à motorisation 100% électrique, a été désignée lundi voiture européenne de l\u0026#39;année, une première dans l\u0026#39;histoire de la prestigieuse marque britannique, à la veille de l\u0026#39;ouverture du salon de l\u0026#39;automobile de Genève.\u003c/p\u003e\u003cp\u003eCe prix \u0026quot;est important car il attire l\u0026#39;attention des gens sur la marque (...), beaucoup de gens n\u0026#39;avaient sans doute pas encore réalisé que Jaguar propose aussi une voiture électrique\u0026quot;, a déclaré à des journalistes Ian Callum, le designer en chef de la marque.\u003c/p\u003e\u003cp\u003eLa mobilité électrique est \u0026quot;très importante pour nous (...), nous pensons que c\u0026#39;est le futur de l\u0026#39;automobile\u0026quot;, a-t-il ajouté, soulignant que c\u0026#39;était la première fois que le prix européen était décerné à Jaguar, filiale du constructeur indien Tata Motors.\u003c/p\u003e\u003cp\u003eCe prix est décerné chaque année depuis 1964.\u003c/p\u003e\u003cp\u003eLa I-Pace est seulement le deuxième modèle 100% électrique à décrocher le prix de voiture de l\u0026#39;année, après la berline compacte Nissan Leaf en 2011.\u003c/p\u003e\u003cp\u003eFabriquée à Graz en Autriche, elle succède à un autre SUV, le Volvo XC40, élu en 2018, illustrant la place prise par ce type de carrosseries dans les gammes des constructeurs automobiles. Les SUV, déclinés dans toutes les tailles, représentent désormais environ une immatriculation sur trois en Europe et dans le monde.\u003c/p\u003e\u003cp\u003eJaguar, qui avait révélé la I-Pace l\u0026#39;an dernier à Genève, n\u0026#39;expose pas de véhicule cette année sur ce salon.\u003c/p\u003e\u003cp\u003eLe SUV de luxe, dont le prix de base est proche de 80.000 euros, a devancé six modèles finalistes, dont la sportive deux places Renault Alpine A110, battue d\u0026#39;extrême justesse. Les cinq autres prétendants étaient les Citroën C5 Aircross, Peugeot 508, Ford Focus, Kia Ceed et Mercedes Classe A.\u003c/p\u003e\u003cp\u003eLa voiture de l\u0026#39;année 2019 a été choisie par un jury de 60 journalistes spécialisés issus de 23 pays européens.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "La Jaguar I-Pace élue voiture européenne de l\u0026#39;année",
+    "uuid": "0543b19e-48fe-31b9-9697-34832bf9b415"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:37:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEEUU y China están a punto de terminar con la guerra comercial: Pompeo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003ePor David Lawder y Ben Blanchard\u003c/p\u003e\n\u003cp\u003eWASHINGTON/PEKÍN (Reuters) - El secretario de Estado de Estados Unidos, Mike Pompeo, dijo el lunes que pensaba que Estados Unidos y China estaban \u0026quot;al borde\u0026quot; de un acuerdo para poner fin a una guerra comercial, lo que se suma a señales positivas de ambas partes sobre las negociaciones.\u003c/p\u003e\n\u003cp\u003ePompeo, en una serie de entrevistas con estaciones de radio y televisión de Iowa, afirmó que espera que se llegue a un acuerdo en las próximas semanas para hacer que el comercio entre las dos economías más grandes del mundo sea más justo y que se eliminen los aranceles de represalia de China a productos agrícolas de Iowa.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Estamos tratando de corregirlo, de arreglarlo, de hacerlo justo y recíproco. Creo que estamos a punto y espero que todas esos aranceles y barreras desaparezcan\u0026quot;, dijo Pompeo a la televisión KCCI en Des Moines, donde asistió a una conferencia con agricultores.\u003c/p\u003e\n\u003cp\u003eSus comentarios se hicieron eco del optimismo que expresaron el lunes el asesor económico de la Casa Blanca, Kevin Hassett, y un portavoz del Parlamento de China.\u003c/p\u003e\n\u003cp\u003eHassett dijo a Fox Business Network que era posible un acuerdo con China, dado el reciente avance de las conversaciones informado por el Representante de Comercio de Estados Unidos, Robert Lighthizer.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Parece que el embajador Lighthizer ha progresado mucho y que podríamos llegar a puerto con China\u0026quot;, dijo. \u0026quot;Creo que todos tienen la esperanza, como la tienen los mercados, de que pronto se llegará la meta\u0026quot;.\u003c/p\u003e\n\u003cp\u003eChina y Estados Unidos se han impuesto aranceles a cientos de miles de millones de dólares en bienes y las conversaciones tienen como objetivo reducir la escalada de un conflicto que ha afectado a los mercados financieros e interrumpido las cadenas de suministro de manufactura.\u003c/p\u003e\n\u003cp\u003eWashington ha exigido que China cambie leyes y prácticas para proteger la propiedad intelectual de Estados Unidos, que ponga fin a las transferencias forzadas de tecnología a las empresas chinas, frene los generosos subsidios industriales y abra el mercado interno a las empresas estadounidenses.\u003c/p\u003e\n\u003cp/\u003e\n\u003cp\u003e (Reporte de Ben Blanchard; Editado en español por Natalia Ramos y Javier López de Lérida)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "EEUU y China están a punto de terminar con la guerra comercial: Pompeo",
+    "uuid": "04d455d7-b1c3-3bfe-ad6d-b2cc208835ea"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:48:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSerie di tornado in Alabama, al momento i morti sono 23\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eUna serie di tornado ha colpito l\u0026#39;Alabama; il peggiore ha causato almeno 23 morti e un numero ancora imprecisato di feriti, parecchi dei quali in gravi condizioni. Secondo il centro meteo dell\u0026#39;Alabama (NWS\u0026nbsp;Birmingham) \u0026quot;il primo tornado che ha colpito la contea di Lee oggi era almeno un EF-3 e largo almeno mezzo miglio\u0026quot;, circa 800 metri.\u0026nbsp;La designazione EF-3 - su una scala da 0 a 5 - significa che il tornado ha venti da 136 a 165 miglia orarie, da 218 a 266 chilometri l\u0026#39;ora.\u003c/p\u003e \n\u003cp\u003eIl presidente\u0026nbsp;Donald\u0026nbsp;Trump\u0026nbsp;ha scritto su Twitter: \u0026quot;Alle persone fantastiche dell\u0026#39;Alabama e delle aree circostanti: si prega di restare prudenti e al riparo. I tornado e le tempeste erano veramente violenti e altri potevano venire. Alle famiglie e agli amici delle vittime e ai feriti, Dio vi benedica tutti!\u0026quot;.\u003c/p\u003e \n\u003cp\u003eSecondo la CNN, almeno 12 vittime si\u0026nbsp;sono registrate in un\u0026#39;area a circa 5-6 miglia a sud della città di\u0026nbsp;Opelik. Lo sceriffo della contea di Lee,\u0026nbsp;JKay\u0026nbsp;Jones ha detto che sono morti anche dei bambini. \u0026quot;La devastazione è incredibile.\u0026nbsp;Non ricordo niente di simile negli ultimi 50 anni, nulla in cui ci siano state così tante vittime come oggi\u0026quot;. Almeno 6.000 case sono rimaste al buio e altre 16.000 hanno avuto sporadiche interruzioni dell\u0026#39;energia nella vicina Georgia.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.agi.it/estero/usa_tornado_alabama-5086776/news/2019-03-04/"
+    },
+    "request_path": "requests",
+    "title": "Serie di tornado in Alabama, al momento i morti sono 23",
+    "uuid": "08e044c3-8313-3bf5-b599-1a37a39dc267"
+}

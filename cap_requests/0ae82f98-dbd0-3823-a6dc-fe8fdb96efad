@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:13:40Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHONDA Motorcycle零利率專案開跑！本月領牌再抽5萬購車金\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv\u003e\u003cimg src=\"https://media.zenfs.com/en/lian-car.com.tw/f2498bc437cf28b4a037e1c086910663\" style=\"width:800px;\"/\u003eHONDA Taiwan為了持續實現「Be Your Wing」的品牌精神，推動「6S」服務，包含Sales、Service、Spare Part、Safety-riding、Security、Society（銷售、服務、零件、安全駕駛課程、保險和道路救援服務、車主活動），其中的「Safery-riding」安全駕駛課程，從交車起，便不斷推動安全的駕駛觀念與技巧。\u003c/div\u003e\u003cdiv\u003e\u003c/div\u003e\u003cdiv\u003e\u003cimg src=\"https://media.zenfs.com/en/lian-car.com.tw/db76fa5d3e918bc0cfbb973b8ce518aa\" style=\"width:800px;\"/\u003e\u003c/div\u003e\u003cdiv\u003e\u003c/div\u003e\u003cdiv\u003eHONDA Taiwan於3/1至3/31推行「疾風競速 零利率購車專案」，凡於本月賞車+試乘體驗的顧客，即可抽HRC 限量復刻T-Shirt，本月完成領牌之車主，除可享36到60期零利率分期方案外，更可抽5萬元購車金！詳情請洽 HONDA Motorcycle 官方網站：\u003ca href=\"https://moto.honda-taiwan.com.tw/\" target=\"_blank\"\u003ehttps://moto.honda-taiwan.com.tw/\u003c/a\u003e或至各區 HONDA Motorcycle 經銷據點查詢。\u003cb\u003eHONDA Motorcycle 全台經銷據點：\u003c/b\u003eHONDA Motorcycle Taipei台北市內湖區舊宗路二段 123 號 (02)2792-6555HONDA Motorcycle Sanchong新北市三重區集賢路106號 電話(02)-2857-3999HONDA Motorcycle Taoyuan桃園市桃園區幸福路 67 號 (03)316-7999HONDA Motorcycle Taichung台中市西屯區西墩里環中路二段 1101 號 (04)2451-3636HONDA Motorcycle Kaohsiung高雄市左營區自由四路 228 號  (07)343-5880\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.lian-car.com/articles/read/28286.html"
+    },
+    "request_path": "requests",
+    "title": "HONDA Motorcycle零利率專案開跑！本月領牌再抽5萬購車金",
+    "uuid": "0ae82f98-dbd0-3823-a6dc-fe8fdb96efad"
+}

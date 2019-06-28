@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T23:28:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCaso Icardi, il no secco a Spalletti: a Francoforte non giocherà\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg width=\"1200\" height=\"675\" src=\"http://media.zenfs.com/it-IT/homerun/notizie_it_154/437197bc8342d04567e11d4213972687\" align=\"middle\" alt=\"\"/\u003e\u003c/p\u003e\u003cp\u003eL\u0026#8217;ex capitano dell\u0026#8217;Inter \u003cstrong\u003eMauro Icardi\u003c/strong\u003e che \u0026#8211; come tutti sappiamo nelle ultime settimane è stato nell\u0026#8217;occhio del ciclone mediatico \u0026#8211; ha comunicato alla società che non rientrerà per la partita di \u003cstrong\u003eEuropa League\u003c/strong\u003e contro l\u0026#8217;\u003cstrong\u003eEintracht Francoforte\u003c/strong\u003e. Sembra infatti che nel pomeriggio, come riporta \u003cem\u003eGazzetta.it\u003c/em\u003e, mister \u003cstrong\u003eLuciano Spalletti\u003c/strong\u003e gli abbia chiesto la disponibilità a seguire il gruppo in Germania; richiesta bocciata da Maurito che a suo dire ha ancora dolore e dovrà continuare a rimanere fuori. Ci si domanda inoltre a cosa possa servire l\u0026#8217;incontro con la società in programma per il 5 marzo dopo l\u0026#8217;\u003cstrong\u003eennesimo rifiuto\u003c/strong\u003e di scendere in campo di Icardi.\u003c/p\u003e\n\u003ch2\u003eContinua la guerra tra Icardi e l\u0026#8217;Inter\u003c/h2\u003e\n\u003cp\u003eObbligatorio a questo punto ricordare che l\u0026#8217;ultima partita di Icardi con la maglia nerazzurra risale al \u003cstrong\u003e9 febbraio\u003c/strong\u003e. La fascia di capitano gli è invece stata tolta il \u003cstrong\u003e13 di febbraio\u003c/strong\u003e, con conseguente esilio volontario da parte del giocatore che ha iniziato a lamentare un dolore al ginocchio, per il quale non è potuto più scendere in campo, iniziando un percorso di fisioterapia che l\u0026#8217;ha reso indisponibile. Non sembra esserci pace dunque tra l\u0026#8217;Inter e la coppia \u0026#8220;solidissima\u0026#8221; \u003cstrong\u003eIcardi \u0026#8211; Wanda Nara\u003c/strong\u003e, sua moglie e agente. Inutili i tentativi di riappacificarsi messi in atto da Spalletti che, ha provato a convocare il Mauro senza fascia ma, evidentemente, senza riuscire a smuoverlo. Nel mentre sui social continuano a susseguirsi polemiche sul caso.\u003c/p\u003e\n\u003ch2\u003eI numeri della passata stagione\u003c/h2\u003e\n\u003cp\u003eNello scorso campionato Maurito chiuse con \u003cstrong\u003e29 reti\u003c/strong\u003e, in cima alla classifica marcatori insieme a \u003cstrong\u003eCiro Immobile\u003c/strong\u003e. Quest’anno, pur essendo andato a segno in Coppa Italia contro il Benevento, Icardi è a digiuno di gol in Serie A da quel sempre più lontano 15 dicembre. In questa stagione inoltre, non è ancora riuscito a spingersi oltre le 9 reti in campionato: un \u003cstrong\u003ebottino certamente misero\u003c/strong\u003e per un giocatore del suo calibro.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.notizie.it/sport/2019/03/05/caso-icardi-no-spalletti/"
+    },
+    "request_path": "requests",
+    "title": "Caso Icardi, il no secco a Spalletti: a Francoforte non giocherà",
+    "uuid": "05aafc76-37d1-3ebf-acde-3b4294e7f3b0"
+}

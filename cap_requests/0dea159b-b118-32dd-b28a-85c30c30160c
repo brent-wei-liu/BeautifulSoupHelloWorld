@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:45:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e餐廳婦女節疑低俗營銷 送單身女黃瓜被批\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【星島日報報道】3月8日是三八婦女節，山東濟南竟有連鎖餐廳疑低俗營銷，在應節活動餐牌上寫「單身妹子到店消費加送新鮮黃瓜一根」，惹來廣泛批評。\n\n　　據網傳照片所示，有餐廳在舉行婦女節活動，餐牌上寫著「3個妹子一同到店消費，如果一人單身，則送酸奶一杯。」下方再放大加粗「加送新鮮黃瓜一根」的字句，又在該句下方括上「本年度最接地氣的單身貴族福利」。\n\n　　有網民透露，該活動的微信公眾號介面中，還有餐廳公號二維碼下面寫著「掃一掃，又不會懷孕」。另有網民指「傳單只給年輕的女性，感覺這種營銷手段十分低俗，非常不尊重女性」。網民均批評這種宣傳超越道德底線，「吸引眼球」也不應這樣做；「抵制這種低俗營銷」。\n\n　　涉事連鎖餐廳向內媒表示，此前的確有此婦女節促銷活動，但目前已經暫停，具體原因並不清楚。該餐廳在濟南的總部解釋，關於到網民對活動的不同理解和聲音，決定於3月4日中午暫停該活動，也刪除了公眾號中的宣傳文章。\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://hd.stheadline.com/news/daily/chi/\" target=\"_blank\"\u003e睇更多\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "餐廳婦女節疑低俗營銷 送單身女黃瓜被批",
+    "uuid": "0dea159b-b118-32dd-b28a-85c30c30160c"
+}

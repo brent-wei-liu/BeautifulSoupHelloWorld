@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:45:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e遊宜蘭住民宿 5車遭刺破輪胎噴漆\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg src='https://media.zenfs.com/ko/cts.com.tw/b8103c87fc97214caa715ed12a9b29fa' align='middle'/\u003e\u003c/p\u003e\t\t\n\t\u003cp\u003e宜蘭縣 / 張政慧 樸星宇 報導\u003c/p\u003e\n \t\u003cp\u003e跟朋友開心住民宿，卻沒想到惹上麻煩，這位林先生趁著連假跟朋友到宜蘭五結鄉玩，並且包棟住宿，沒想到一覺醒來，他們開的五台車輪胎都被刺破，車身還被噴漆，甚至被漆上民宿的名字。停車的地方一共五台車，沒有一台逃過，好好的連假，才住一晚就遇到這種事，林先生說這真的是最慘的連假。\u003c/p\u003e\u003cp\u003e一覺醒來發現車子變成這副模樣，林先生氣炸了，每台車的車身都被噴上藍色的漆，從兩旁到車尾繞了一圈五台車全被破壞，而且每顆輪胎也都被刺破動彈不得，林先生和朋友趁著228連假到宜蘭玩，包棟住在五結鄉的一間民宿，民宿提供的車位是附近一間工廠的大門前方，雙方有合作關係，但到底車子為什麼被噴漆？工廠老闆也很納悶。\u003c/p\u003e\u003cp\u003e調監視器畫面出來看，果真有名男子趁深夜鬼鬼祟祟的蹲在白色轎車的車輪旁邊搞破壞，接著就拿出噴漆從轎車後方，一路噴到車子的駕駛座旁，嫌犯還在車身上用噴漆寫下民宿的名字，指控的意圖相當明顯，這間民宿已經在這經營三年，業者說沒有與人結怨，不清楚為什麼被針對，但最慘的是連假入住的房客，不但出遊心情被影響還得花時間修車善後，可以說是最悲慘的連假經驗。\u003c/p\u003e \t\n\t\t\u003cbr\u003e\u003cbr\u003e\n\t\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多華視新聞報導\u003c/span\u003e\u003cbr /\u003e\n\t\t\t\t\n\t\t\t\t\u003ca href=\"https://news.cts.com.tw/cts/local/201902/201902281953368.html?utm_source=yahoo\u0026utm_medium=%E9%80%81%E7%A8%BF%E5%BB%B6%E4%BC%B8%E9%96%B1%E8%AE%80\"\u003e諷刺環境破壞 KUSO拍賣\u0026quot;海景套房\u0026quot;\u003c/a\u003e\u003cbr /\u003e\n\t\t\t\t\t\t\n\t\t\t\t\u003ca href=\"https://news.cts.com.tw/cts/life/201901/201901091948475.html?utm_source=yahoo\u0026utm_medium=%E9%80%81%E7%A8%BF%E5%BB%B6%E4%BC%B8%E9%96%B1%E8%AE%80\"\u003e出遊注意! 台中非法旅宿逾百家上榜\u003c/a\u003e\u003cbr /\u003e\n\t\t\t\t\t\t\n\t\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.cts.com.tw/cts/society/201903/201903041953621.html"
+    },
+    "request_path": "requests",
+    "title": "遊宜蘭住民宿 5車遭刺破輪胎噴漆",
+    "uuid": "07a0b342-2487-3580-bb99-06815ed9e90b"
+}

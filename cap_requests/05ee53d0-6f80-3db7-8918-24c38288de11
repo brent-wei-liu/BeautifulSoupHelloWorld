@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:54:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLos incendios destruyeron 3.492 hectáreas de bosques en Honduras en dos meses\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eTegucigalpa, 4 mar (EFE).- Al menos 3.492 hectáreas de bosque y pasto fueron destruidas por los incendios en Honduras en los primeros dos meses de 2019, informó este lunes a Efe una fuente del Instituto hondureño de Conservación Forestal (ICF).\nEntre enero y febrero se registraron 109 incendios forestales en Honduras, un 12,3 % menos a las 97 quemas del mismo periodo de 2018, indicó la fuente.\nDel total de incendios, 61 ocurrieron en áreas privadas, donde fueron destruidas por el fuego 2.848 hectáreas, señaló la misma fuente.\nLa destrucción de bosques por incendios en Honduras, según la fuente del ICF, aumentó en los primeros dos meses en 1.406 hectáreas (67,4 %) frente a las 2.086 hectáreas que se quemaron en el mismo periodo de 2018.\nCon 2.461 hectáreas arrasadas por ocho incendios, el departamento de Gracias a Dios es el que más bosques perdió en el periodo de referencia, mientras que el que más fuegos registró con 41, que destruyeron más de 203,6 hectáreas, es Francisco Morazán, donde se localiza Tegucigalpa, la capital, según un informe del ICF.\nEn 2018, unas 60.683 hectáreas de bosques y pasto fueron destruidas en 1.120 incendios registrados en Honduras, según cifras del Instituto de Conservación Forestal.\nCon una extensión de 112.492 kilómetros cuadrados, Honduras pierde anualmente hasta 60.000 y 70.000 hectáreas de bosques por la tala ilegal y los incendios, entre otras causas, según autoridades hondureñas, que consideran que en muchos casos los fuegos son provocados por mano criminal.\nEntre 2007 y 2018, el país centroamericano registró alrededor de 14.000 incendios forestales que destruyeron un total de 712.000 hectáreas de bosques en el país centroamericano, según un informe del estatal Comisionado de los Derechos Humanos.\nSegún el defensor del pueblo hondureño, Roberto Herrera, los incendios forestales suponen una \u0026quot;amenaza constante de vulneración de derechos humanos; por tanto, su prevención y control debe ser prioridad de interés nacional del Estado, principal responsable de proteger, respetar y promover esos derechos\u0026quot;.\nEl caudal de agua de muchas fuentes de Honduras, que figura en el mundo como uno de los más vulnerables ante los desastres naturales, según organismos internacionales, ha sido mermado por la destrucción del bosque.\nEntre enero y febrero se registraron 109 incendios forestales en Honduras, un 12,3 % menos a las 97 quemas del mismo periodo de 2018. EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Los incendios destruyeron 3.492 hectáreas de bosques en Honduras en dos meses",
+    "uuid": "05ee53d0-6f80-3db7-8918-24c38288de11"
+}

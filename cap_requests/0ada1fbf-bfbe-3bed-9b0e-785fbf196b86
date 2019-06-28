@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:12:12Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDecenas de yihadistas se entregan a las fuerzas kurdas en el último reducto del EI\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eDamasco, 4 mar (EFE).- Decenas de yihadistas se entregaron hoy a las Fuerzas de Siria Democrática (FSD) en la localidad de Al Baguz, último reducto del Estado Islámico en el este de Siria y sobre el que la alianza militar encabezada por las milicias kurdas mantiene una ofensiva desde el pasado viernes.\nFuentes de las FSD y del Observatorio Sirio de Derechos Humanos informaron de que además de los combatientes, cientos de civiles abandonaron esa población de la que han salido miles de personas en las últimas semanas, la mayoría familiares de los integrantes del grupo radical.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Decenas de yihadistas se entregan a las fuerzas kurdas en el último reducto del EI",
+    "uuid": "0ada1fbf-bfbe-3bed-9b0e-785fbf196b86"
+}

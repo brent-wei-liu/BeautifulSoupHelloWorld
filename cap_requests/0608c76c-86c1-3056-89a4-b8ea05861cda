@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T16:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e愛沙尼亞改革黨贏大選 組聯合政府困難重重\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e編譯組／綜合外電報導\u003c/p\u003e\u003cp\u003e　愛沙尼亞中間偏右反對黨改革黨在3日的國會大選中「意外勝出」，打敗總理拉塔斯的中間偏左執政黨中央黨；大選結果讓自由派的改革黨黨魁卡加卡拉斯，有機會成為愛沙尼亞首位女總理，但她勢必面臨組成執政聯盟的困難。\u003c/p\u003e\u003cp\u003e　國家選舉辦公室指出，改革黨贏得28.8%選票，在國會101個席次中拿下34席；中央黨則獲23.1%選票，極右派的愛沙尼亞保守人民黨（EKRE）取得17.8%選票。\u003c/p\u003e\u003cp\u003e　卡加卡拉斯在近午夜時，對歡呼的支持群眾表示，「籌組政府和開始更明智地治理這個國家，真正工作現在要展開」。有望成為愛沙尼亞首位女性總理的卡加卡拉斯很有可能面臨組成聯合政府的困難，因其他政黨都排除與疑歐派民族主義政黨EKRE共同執政的可能。\u003c/p\u003e\u003cp\u003e　愛沙尼亞總統將在未來幾天提名總理候選人，後者將就籌組聯合政府展開協商。現年41歲的卡加卡拉斯是律師兼前歐洲議會成員，不到一年前才接手改革黨領袖，而黨創辦人中包括她曾任愛沙尼亞總理及歐洲聯盟執行委員的父親西姆卡拉斯。\u003c/p\u003e\n\u003cp\u003e\u003cimg src='https://media.zenfs.com/ko/youthdailynews_517/93711abfb5637f105ab4689a4995ef64' width='934' height='550'/\u003e\u003c/p\u003e\n\u003cp\u003e現年41歲的卡加卡拉斯（左）有望成為愛沙尼亞首位女性總理，追隨父親腳步治理愛沙尼亞。（達志影像／美聯社）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.ydn.com.tw/News/326655"
+    },
+    "request_path": "requests",
+    "title": "愛沙尼亞改革黨贏大選 組聯合政府困難重重",
+    "uuid": "0608c76c-86c1-3056-89a4-b8ea05861cda"
+}

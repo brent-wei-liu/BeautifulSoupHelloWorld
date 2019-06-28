@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:48:31Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美合併駐巴總領館和駐以大使館\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"https://media.zenfs.com/ko/rti.org.tw/752feb4b4b049d1a22cacb5302093413\" width=\"360\" alt=\"\u0026#x007f8e;\u0026#x00570b;\u0026#x0099d0;\u0026#x008036;\u0026#x008def;\u0026#x006492;\u0026#x0051b7;\u0026#x007e3d;\u0026#x009818;\u0026#x004e8b;\u0026#x009928;\u0026#x003002;(\u0026#x005716;\u0026#x00ff1a;\u0026#x0053d6;\u0026#x0081ea;\u0026#x007dad;\u0026#x0057fa;\u0026#x00767e;\u0026#x0079d1;)\" title=\"\u0026#x007f8e;\u0026#x00570b;\u0026#x0099d0;\u0026#x008036;\u0026#x008def;\u0026#x006492;\u0026#x0051b7;\u0026#x007e3d;\u0026#x009818;\u0026#x004e8b;\u0026#x009928;\u0026#x003002;(\u0026#x005716;\u0026#x00ff1a;\u0026#x0053d6;\u0026#x0081ea;\u0026#x007dad;\u0026#x0057fa;\u0026#x00767e;\u0026#x0079d1;)\"\u003e\u003cbr\u003e\u003cp\u003e美國國務院表示，美國駐巴勒斯坦總領館將在4日併入駐以色列大使館。此舉將惹怒巴勒斯坦當局。\u003c/p\u003e\n\n\u003cp\u003e美國國務卿蓬佩奧(Mike Pompeo)在去年10月就宣布這項單一使館的計畫，外界也預期美國將於3月初正式執行這項計畫。美國國務院在3日宣布合併日期。根據美國的合併方案，駐耶路撒冷巴勒斯坦總領事館將成為大使館的「巴勒斯坦事務部」。\u003c/p\u003e\n\n\u003cp\u003e阿拉伯媒體認為，美國這種做法凸顯偏袒以色列、冷淡巴勒斯坦的立場。而巴勒斯坦當局也擔心，川普政府的目的是要淡化巴勒斯坦對耶路撒冷地位問題的關切。\u003c/p\u003e\n\n\u003cp\u003e巴勒斯坦解放組織(PLO)秘書長艾瑞卡(Saeb Erekat)譴責美國的決定，是協助建立「大以色列」、而非「兩國方案」的最新證據。\u003c/p\u003e\n\n\u003cp\u003e美國總統川普在2017年12月宣布，承認耶路撒冷是以色列首都，並在去年5月把駐以色列大使館從特拉維夫遷移到耶路撒冷。這個做法引發阿拉伯世界的憤怒和國際社會的批評。\u003c/p\u003e\n\n\u003cp\u003e巴勒斯坦領導層自此暫停與美國政府的外交接觸，並抵制美國規劃已久的以、巴和平方案。\u003c/p\u003e\n\n\u003cp\u003e美國國務院發言人巴拉迪諾(Robert Palladino)表示，合併這兩個外交機構是為了提高效率，美國的外交活動和領事服務將延續。\u003c/p\u003e\n\n\u003cp\u003e巴拉迪諾在聲明中說：「這並不代表美國對耶路撒冷、約旦河西岸或加薩走廊的政策改革。以色列在耶路撒冷的特殊邊界問題，將經由各方的談判做最後確定。」\u003c/p\u003e\n\u003ca target=\"_blank\" href=\"https://www.rti.org.tw/news/view/id/2013257\"\u003e原始連結\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.rti.org.tw/news/view/id/2013257"
+    },
+    "request_path": "requests",
+    "title": "美合併駐巴總領館和駐以大使館",
+    "uuid": "058fa1c1-07b8-3d62-949d-dc52613c52d1"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:50:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eReus tror på en vändning mot Tottenham\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBarcelona, Roma och Deportivo La Coruña har gjort det så varför ska inte Borussia Dortmund klara av samma sak?\u003c/p\u003e\n\u003cp\u003eTysken Marco Reus ser bara möjligheter inför returmötet med Tottenham i Champions Leagues åttondelsfinal.\u003c/p\u003e\n\u003cp\u003e– Men vi behöver prestera på topp och göra mål vid rätt tillfällen, säger han om utmaningen att vända 0–3-underläget.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.svd.se/reus-tror-pa-en-vandning-mot-tottenham"
+    },
+    "request_path": "requests",
+    "title": "Reus tror på en vändning mot Tottenham",
+    "uuid": "03ce48f6-eb5b-3bba-85b6-1de76d0c8f22"
+}

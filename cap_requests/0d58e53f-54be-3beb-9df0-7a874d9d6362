@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:19:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJoseph Young：QuadrigaCX是比Mt. Gox更糟糕的慘敗\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg class=\"editorial\" align=\"middle\" src=\"https://media.zenfs.com/zh-tw/__205/3b662a1ae11ee411dd9a4dd4d08f8dbe\" width=\"300\" height=\"300\"/\u003e\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e加密貨幣分析師Joseph Young在推特上發文稱：「根據報導，QuadrigaCX的冷錢包是空的，這個加密交易所建立起來的整個故事分崩離析，這是比Mt. Gox更糟糕的慘敗。」\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\u003cp\u003e根據先前的報導，安永會計師事務所的一份報告顯示，自去年4月以來，QuadrigaCX交易所的6個冷錢包一直處於沒有資金的狀態。\u003c/p\u003e\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://bitnance.vip/news/72aecbd0-48ad-47ee-a775-d72035cbd9ad"
+    },
+    "request_path": "requests",
+    "title": "Joseph Young：QuadrigaCX是比Mt. Gox更糟糕的慘敗",
+    "uuid": "0d58e53f-54be-3beb-9df0-7a874d9d6362"
+}

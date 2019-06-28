@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eI Buy di oggi da Gamenet a Tip\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003eBanca Akros valuta Buy: Acea (accumulate con target a 16.2 euro) in attesa dei risultati del 2018, Fincantieri (accumulate con target a 1.65 euro), Gamenet (con target a 11 euro) con il comparto VLT che sta aumentando a scapito dell’AWP, Gedi (target a 0.50 euro) dopo i dati del 2018, Piaggio (target a 3 euro) con le immatricolazioni italiane di scooter aumentate del 30%, Prima Industrie (target a 28.5 euro) dopo i risltati 2018 in linea con le attese, Tip (traget a 5.9 euro) salita al 22,47% in Ovs.\u003c/p\u003e\u003cp\u003eEquita valuta Buy: Moncler con target a 43 euro dopo i risltati del Q4, StM (target a 18 euro), Bper Banca (target a 5.5 euro) dopo il piano industriale 2019-2021, doBank (target price a 13,1 euro) che potrebbe essere interessata a Prelios, Enel (target a 6 euro, a 5,70 euro per Mediobanca e Banca Imi) dopo l’annuncio dell’ADC di Enel Americas, Inwit (target a 9 euro) in scia all’idea di un operatore unico sulle torri, Saipem (target a 5.3 euro) alzato del 4% dopo i dati del 2018, Coima Res (target a 9.4 euro) dopo il roadshow del management, Ferrari (target a 124,5 euro, Add con tgt a 128.2 euro per Imi).\u003c/p\u003e\u003cp\u003eMediobanca assegna un outperform a: Atlantia (target a 25.2 euro), De Longhi (target a 27.80 euro) che potrebbe essere interessata a Evoca Group, Enav (target a 5 euro), Gedi (target a 0.52 euro) dopo i dati del 2018, Telecom Italia (target a 0.76 euro) con CDP che ha alzato partecipazione al 7.1%.\u003c/p\u003e\u003cp\u003ePer gli analisti di Banca Imi valgono un Buy: Elica con target a 2.9 euro dal precedente di 3 euro dopo la conclusione del caso Guttmann, Juventus (traget a 1.4 euro) dopo i dati del H1 2018-19, Lucisano Media Group (target a 3.3 euro) che distribuirà “Hotel Mumbai”, Maire Tecnimont (target a 6 euro) che ha vinto un contratto EPC da 65 mln, Unipol (target a 4.6 euro) che ricapitalizzerà unisalute con 60 mln di euro.\u003c/p\u003e\n\nAutore: \u003ca href=\"http://www.finanzaoperativa.com/\"\u003eFinanzaoperativa.com \n\u003ca href=\"https://www.trend-online.com/racc/buy-oggi-gamenet-tip-040319/\"\u003ePer ulteriori notizie, analisi, interviste, visita il sito di Trend Online\n        \u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "I Buy di oggi da Gamenet a Tip",
+    "uuid": "01c32599-2d17-3041-83e3-09c90f4ca6fb"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-05T03:05:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e連霸「揹老婆大賽」 英男求婚把女友變老婆\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e上個週末，英國舉辦了第12屆的「揹老婆大賽」，雖然名為揹老婆大賽，但參賽者不一定是夫妻，蟬聯冠軍的男子赫普沃斯（Hepworth），揹的就是他的女友，不過他在奪冠之後立向女友求婚，下次參賽就真的是揹老婆了。\u003c/p\u003e\u003cp\u003e揹著老婆賣力向前衝，這就是西方國家相當流行的揹老婆大賽。只見有人正揹在背上、有人跨坐在肩上，什麼樣的姿勢都有，但大多數人都是讓女方倒掛在肩上。\u003c/p\u003e\u003cp\u003e參賽者吉布斯說：「其實這個姿勢並不完全舒適，我不想說謊，但我只想著希望痛苦2、3分鐘而已，然後我就可以克服，這個姿勢血衝到腦袋會非常快。」\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/1e5a7302f1dacecd4a86d4bbf9aa4cbe\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e在英國南部小鎮舉行的第12屆揹老婆大賽，賽道長達380公尺，不過不是揹著跑完這麼簡單，除了有小丘增加跳躍動作，還會往參賽者身上潑水，增加難度。\u003c/p\u003e\u003cp\u003e參賽者迪希爾瓦：「好辛苦好辛苦　，對揹的人來說毫無疑問相當辛苦。」\u003c/p\u003e\u003cp\u003e雖然說是「揹老婆大賽」，不過參賽者揹的，不一定得真的是老婆，只要到達50公斤，不管是誰都OK。而連續第二年揹著女友拿下冠軍的Chris Hepworth，明年打算揹著老婆來。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/5a26eed86056aaecafc1fc537c17cf9c\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e浪漫求婚之後，接下來兩人明年將挑戰三連霸，在此之前，還要到揹老婆大賽的發源地芬蘭，參加世界盃，希望和真正的老婆，不只稱霸賽事，也能在人生的道路上攜手扶持。\u003c/p\u003e\u003cp\u003e（民視新聞／江皇萱、王泰棋 綜合報導）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304A11M1"
+    },
+    "request_path": "requests",
+    "title": "連霸「揹老婆大賽」 英男求婚把女友變老婆",
+    "uuid": "06515738-9da7-3e24-9986-f3601616b677"
+}

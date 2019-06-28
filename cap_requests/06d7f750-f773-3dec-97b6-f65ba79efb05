@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:05:49Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《公司盈警》百仕達(01168)料去年度業績盈轉虧\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026lt;匯港通訊\u0026gt;\t百仕達控股(01168)發盈警，預期截至2018年12月31日止年內錄得公司擁有人應佔綜合虧損不少於2.5億元，2017年同期則錄得綜合溢利1.1億元。\u003cbr/\u003e\u003cbr/\u003e錄得預期虧損主要由於分佔聯營公司溢利由2017年度的9500萬元轉為截至2018年12月31日止年內之分佔聯營公司虧損(主要來自匯兌虧損、投資物業估值及前期成本)不少於2.25億元；及應收聯營公司貸款(用於撥付上海一個房地產發展及房地產投資項目所需投資資金)的公平值減少不少於1.58億元。\u003cbr/\u003e\u003cbr/\u003e(WH)\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://hkstock.infocastfn.com/stock/hong-kong-stock-news-article/3198665"
+    },
+    "request_path": "requests",
+    "title": "《公司盈警》百仕達(01168)料去年度業績盈轉虧",
+    "uuid": "06d7f750-f773-3dec-97b6-f65ba79efb05"
+}

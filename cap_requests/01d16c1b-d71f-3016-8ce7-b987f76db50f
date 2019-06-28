@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:39:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【觀點】BlockFi執行長：XRP一定會得到支持！\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e根據Cointelegraph日本站報導，加密貨幣借貸新創企業BlockFi的執行長Zac Prince，在接受採訪時表示，目前BlockFi支持的可用於擔保的加密貨幣僅有BTC、ETH、LTC三種。\u003c/p\u003e  \u003cp\u003eZac Prince並表示，選擇幣種時需要考慮「流通性」、「價格波動」、「消費者需求」這三個方面的因素。\u003c/p\u003e  \u003cp\u003e「XRP一定會得到支持，BlockFi計劃在4月或5月添加該幣種。」Zac Prince強調。\u0026lt;...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30312136.html"
+    },
+    "request_path": "requests",
+    "title": "【觀點】BlockFi執行長：XRP一定會得到支持！",
+    "uuid": "01d16c1b-d71f-3016-8ce7-b987f76db50f"
+}

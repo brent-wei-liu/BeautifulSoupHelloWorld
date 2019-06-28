@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:11:18Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e威力彩第108018期頭獎摃龜\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社台北4日電）威力彩第108018期今晚開獎，第一區中獎號碼為21、30、17、02、19、27，第二區中獎號碼為2號。派彩結果，頭獎、貳獎都摃龜。\u003c/p\u003e\n\u003cp\u003e    派彩結果及中獎獎號以台彩公布為準。1080304\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "威力彩第108018期頭獎摃龜",
+    "uuid": "02f80786-2c5b-3bd0-8393-f09f09cf5b9c"
+}

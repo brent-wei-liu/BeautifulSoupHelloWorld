@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:24:19Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e防生物訊息外洩 金正恩護衛清理房間痕跡\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e北韓領導人金正恩，在越南河內住過的美麗雅酒店，在其退房離開後，依然在「鐵桶式保安」之下，由其護衛小組，進行了近5個小時的「痕跡清理」工作，把房間收拾的一絲不剩。（王長偉 首爾報導）\u003c/p\u003e\u003cp\u003e據南韓朝鮮日報網今天報導，金正恩住過的22樓和主持過會議的21樓，他的護衛小組，花費了很長時間，清掃22樓的房間。這應該是為了透過清理金正恩可能遺留在房間裡的頭髮絲、指紋和痰液等，防止洩露生物資訊，不留下和對美國談判有關的情報。\u003c/p\u003e\u003cp\u003e另外，隨火車帶來了裝在冰冷金屬容器裡的牛排等肉類等全部食材。尤其是肉類，非常鮮紅，帶著脂肪，看起來和日本的和牛類似。據了解，美國總統川普和金正恩的口味非常不同。金正恩喜歡稍微烤一下的三分熟牛排，川普則喜歡全熟牛排。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "防生物訊息外洩 金正恩護衛清理房間痕跡",
+    "uuid": "0bf46a14-c1fe-30c0-be5d-52dabcbc3761"
+}

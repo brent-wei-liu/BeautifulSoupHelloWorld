@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:18:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHockey - KHL - Championnat de Russie : Stéphane Da Costa expulsé mais qualifié\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eEkaterinbourg, l\u0026#39;équipe de Stéphane Da Costa, a éliminé le Tchlyabinsk 4 victoires à 0 lundi au premier tour des play-offs du Championnat de Russie (KHL). L\u0026#39;attaquant français a été expulsé pour une charge à la tête. L\u0026#39;Avtomobilist Ekaterinbourg poursuit son incroyable saison en KHL, le puissant Championnat russe. Après avoir terminé première de la Conférence Est, de loin le meilleur résultat de son histoire en saison régulière, l\u0026#39;équipe de Stéphane Da Costa a franchi pour la première fois le premier tour des play-offs lundi, et de quelle manière : le Traktor Tcheliabinsk a été balayé quatre victoires à zéro. L\u0026#39;attaquant français a obtenu deux assistances au cours de la série. Mais il n\u0026#39;a pas pesé lors du match 4 lundi, expulsé définitivement dès la 11e minute de jeu pour une charge à la tête sur un adversaire. \u003cblockquote class=\"twitter-tweet\"\u003e\u003cp lang=\"en\" dir=\"ltr\"\u003eDa Costa ?? is done for the night: 5+20 for check to the head of \u003ca href=\"https://twitter.com/cpt27?ref_src=twsrc%5Etfw\"\u003e@cpt27\u003c/a\u003e ??.\u003ca href=\"https://twitter.com/hashtag/TRKvsAVT?src=hash\u0026#38;ref_src=twsrc%5Etfw\"\u003e#TRKvsAVT\u003c/a\u003e | \u003ca href=\"https://twitter.com/hashtag/GagarinCup?src=hash\u0026#38;ref_src=twsrc%5Etfw\"\u003e#GagarinCup\u003c/a\u003e \u003ca href=\"https://t.co/bZhdip7kjh\"\u003epic.twitter.com/bZhdip7kjh\u003c/a\u003e\u003c/p\u003e\u0026#8212; KHL (@khl_eng) \u003ca href=\"https://twitter.com/khl_eng/status/1102576592843403265?ref_src=twsrc%5Etfw\"\u003eMarch 4, 2019\u003c/a\u003e\u003c/blockquote\u003e\u003cbr /\u003e\n Ses coéquipiers se sont tout de même imposés 4-3. Ekaterinbourg doit maintenant attendre le résultat des autres séries pour connaître son adversaire en demi-finales de Conférence.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Hockey-sur-glace/Actualites/Stephane-da-costa-expulse-mais-qualifie/995084"
+    },
+    "request_path": "requests",
+    "title": "Hockey - KHL - Championnat de Russie : Stéphane Da Costa expulsé mais qualifié",
+    "uuid": "04facb32-79f6-32b4-be59-5f089b77ff75"
+}

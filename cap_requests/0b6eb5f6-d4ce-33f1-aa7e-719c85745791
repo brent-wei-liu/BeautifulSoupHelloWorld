@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:20:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e不滿「七三制」保留「徵召」 王金平否認獨立參選\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e總統大選，國民黨初選機制才定調「七三制」，黨主席吳敦義卻拋保留「萬分之一」的徵召可能性，引爆藍營太陽互鬥，傳出前立法院院長王金平的支持者建議他獨立參選，還已經準備好連署書，不過他強調不會脫黨，兩度喊出，自己是最有能力參選的人，「獨立參選是假議題」。\u003c/p\u003e\u003cp\u003e前立法院長王金平被問到是否可能因為徵召獨立參選，只說：「這是一個假議題，我才是真正有能力，來團結國民黨的人。」接受媒體聯訪，王金平自信喊出自己是最佳人選，而且一連講了兩次。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/2eafc5216e304aea320495abe52ee1c1\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e痛斥徵召韓國瑜是假議題，王金平隨即快閃離開；國民黨初選紛紛擾擾，因為黨主席吳敦義定調「七三制」，卻又保留「萬分之一」徵召的可能性，讓外界有懸念，擺明為韓國瑜鋪路；朱立倫表態支持韓國瑜拚市政，王金平也開轟，說二階段影響團結，揚言選到底，眾太陽都對黨中央不滿，隔岸觀火的張善政，卻在這時補上一槍。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/2e0e15929909beeb8e9231eaac9ca26f\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e張善政說：「國民黨如果分兩階段挑選總統候選人，第一階段出來我們當然希望是強棒，眾望所歸，但是萬一不是這樣子的話，分兩階段，韓國瑜目前的人氣的確很旺，所以說如果他能被徵召，也是國民黨一個補強的機會。」\u003c/p\u003e\u003cp\u003e韓國瑜還沒表態，基層勸進聲卻滿天飛，不過徵召韓國瑜也有隱憂，先是得面臨「落跑市長」罵名，就任不到半年，就選總統；初選勝出者被換掉，更影響黨內團結，而且韓國瑜支持九二共識，喊你儂我儂，親中色彩鮮明。\u003c/p\u003e\u003cp\u003e立委(國) 林奕華表示：「既然參加初選，當然就是遊戲規則，到時候初選出來後，就全力支持所謂民調，及黨員投票最高，的確對國民黨2020選舉，團結我們都說不一定會贏，更何況有人出走。」\u003c/p\u003e\u003cp\u003e立委(國) 費鴻泰也說：「如果規則裡面沒有（二階段）的話，就好像4年前「換柱」一樣，沒有人會相信這個黨提名的辦法。」\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/59c4be97d829e846009725cf7994c3bf\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e就怕換柱事件重演，藍營立委呼籲黨中央，一定要循總統初選的遊戲規則產生人選，否則爭議不會平息。\u003c/p\u003e\u003cp\u003e（民視新聞／徐葳倫、謝政霖 台北報導）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304P01M1"
+    },
+    "request_path": "requests",
+    "title": "不滿「七三制」保留「徵召」 王金平否認獨立參選",
+    "uuid": "0b6eb5f6-d4ce-33f1-aa7e-719c85745791"
+}

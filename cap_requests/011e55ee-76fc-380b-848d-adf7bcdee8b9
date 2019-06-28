@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:10:23Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHalustik - Episode 3\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eNiki semakin bersemangat mempengaruhi kepala Kanti dengan omong kosong spiritual dan semua filosofi penyembuhan alternatifnya, walaupun Kanti gagal mendapatkan pekerjaan, tabungan menipis dan dia diteror, Edo, penagih utang dari perusahaan leasing mobil. Namun,  Niki selalu berhasil memikat Edo dengan pesonanya. Niki yakin di tengah kerumitan yang terjadi, mereka berdua harus melakukan perjalanan ke Nepal, sekaligus mengikuti pelatihan meditasi tanpa bicara (Vippasana) di sana.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25743743\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Halustik - Episode 3",
+    "uuid": "011e55ee-76fc-380b-848d-adf7bcdee8b9"
+}

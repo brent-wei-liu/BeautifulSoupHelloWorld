@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:29:08Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e韋拿杜姆：未習慣爭標壓力\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv style=\"text-align:justify;vertical-align:top;\"\u003e\u003ctable border=\"0\" cellspacing=\"0\" cellpadding=\"5\"\u003e\u003ctr\u003e\u003ctd width=\"95%\" style=\"text-align:justify;\"\u003e【now.com體育】利物浦現於英超次席落後榜首曼城1分，中場韋拿杜姆承認球隊尚未習慣爭標壓力。\u003cp\u003e作客以0:0賽和愛華頓後，利物浦近6場英超和了4場，把榜首位置拱手讓予曼城。韋拿杜姆（Gini Wijnaldum）表示要在餘下9場全勝，才有機會為紅軍在29年後重奪頂級聯賽錦標。\n\n「每個人都希望成為榜首，但我不想說這是一個挫折。我們當然失望，但要好好處理這個情況，努力操練，確保勝出餘下的賽事，因為曼城也一樣。」這名荷蘭國腳表示。\n\n利物浦今季大部份時間皆身處領先位置，如今變成追逐藍月的球隊，韋拿杜姆坦言不肯定寧願被追還是追人：「我們要看看從後追趕適不適合我們，很難說。爭標壓力，曼城習慣了，對我們卻是新事物。」\u003cp\u003e更多now.com體育新聞及英超、西甲精華，\u003ca href=\"http://sports.now.com/site/app/soccer.jsp\"\u003e請按此\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "韋拿杜姆：未習慣爭標壓力",
+    "uuid": "0bfb90fc-fe2b-3ce1-8c05-7588016487c0"
+}

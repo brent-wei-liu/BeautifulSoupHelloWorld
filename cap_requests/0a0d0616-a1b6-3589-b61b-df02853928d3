@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:37:21Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e台北國際工具機展開幕 總統蔡英文出席 (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e2019年台北國際工具機展4日起到9日登場，配合南港展覽館2館啟用，展會規模創歷史新高，總統蔡英文（前中）也親自出席開幕典禮。\u003c/p\u003e\n\u003cp\u003e中央社記者鍾榮峰攝 108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/217f21395108f0648b2cd9ac4d41e5bf\" width=\"630\" height=\"472\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "台北國際工具機展開幕 總統蔡英文出席 (圖)",
+    "uuid": "0a0d0616-a1b6-3589-b61b-df02853928d3"
+}

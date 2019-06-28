@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:08:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEUA celebram retorno de Guaidó à Venezuela e reafirmam seu apoio (Pompeo)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eO secretário de Estado americano, Mike Pompeo, comemorou nesta segunda-feira o retono à Venezuela do líder opositor Juan Guaidó, reconhecido por Washington e mais de 50 países como presidente interino daquele país.\u003c/p\u003e\u003cp\u003e\u0026#34;Os Estados Unidos celebram o povo da Venezuela por suas ações para criar uma transição democrática pacífica, e cumprimentam o presidente interino, Juan Guaidó, por seus esforços diplomáticos bem-sucedidos na região\u0026#34;, disse Pompeu em comunicado.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "EUA celebram retorno de Guaidó à Venezuela e reafirmam seu apoio (Pompeo)",
+    "uuid": "033e3dc2-abd7-33b6-9e4f-49f6bd44b17d"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T23:14:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGarcía Montero viaja a Argelia para conocer el estado del estudio del español\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eArgel, 4 mar (EFE).- El director del Instituto Cervantes, Luis García Montero, llegó a Argel para conocer la situación de la enseñanza del español en este país y el interés que despierta la cultura española.\nA su llegada, García Montero se reunió con el ministro argelino de Cultura, Azzedine Mihoubi, con quien examinó la posibilidad de abrir una sede especial para ayudar a los refugiados saharauis que viven desde hace más de cuarenta años en un pedazo del desierto en el oeste de Argelia.\n\u0026quot;Es un legado histórico que debe ser preservado en la región, en aras de la consolidación de la cultura y de la lengua españolas\u0026quot;, dijo el ministro en una declaración al término del encuentro citada por la agencia estatal de noticias APS.\nHoras después, García Montero se trasladó a la sede del Instituto Cervantes en Argel para presidir una mesa redonda sobre los retos que supone el estudio de la lengua española en el país norteafricano.\n\u0026quot;Durante los años 70 había solamente algunos 400 estudiantes del español, actualmente hay miles\u0026quot;, dijo el profesor de literatura hispanoamérica Ahmed Berraghda.\nSabrina Ahmed Ali, profesora de traducción, evocó los problemas que encuentran los universitarios argelinos debido a la falta de obras específicas.\nGarcía Montero calificó de \u0026quot;interesante\u0026quot; el debate y expresó el deseo de \u0026quot;potenciar esta presencia intentando que \u0026quot;el español tenga hueco en la enseñanza secundaria\u0026quot;.\nAdemás, insistió en avanzar en la solución de los principales problemas evocados en la charla, en particular \u0026quot;la inquietud laboral y de que manera se puede ayudar a que los estudiantes que se formen en las universidades en español encuentran trabajo y pueden tener acceso a las empresas españolas que están radicadas en Argel\u0026quot;.\nY en la facilitación de visados para que los estudiantes argelinos puedan viajar a España para ampliar y mejorar su formación.\nGarcía Montero recordó, igualmente, que la cultura española ha estado siempre presente en Argelia y en particular en Argel, ciudad en el que el afamado escritor español Miguel de Cervantes pasó cinco años cautivo.\nEl director del Instituto Cervantes, Luis García Montero. EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "García Montero viaja a Argelia para conocer el estado del estudio del español",
+    "uuid": "0583172f-4d6f-3982-9161-d96782403ee2"
+}

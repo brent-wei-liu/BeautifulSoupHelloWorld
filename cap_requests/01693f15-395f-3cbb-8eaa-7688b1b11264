@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:44:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eWanda Nara mostró su nueva camioneta valuada en más de u$s200.000\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eAlejada de la Argentina y radicada en Europa desde hace mucho tiempo, Wanda Nara aprovecha para mostrar cada tanto, y a trav\u0026eacute;s de las redes sociales, sus costosas adquisiciones.\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003eLa \u0026uacute;ltima presentaci\u0026oacute;n en sociedad fue su nueva camioneta todoterreno, la Mercedes Benz Clase G, un veh\u0026iacute;culo que a la Argentina lleg\u0026oacute; en noviembre del a\u0026ntilde;o pasado y tiene un valor de 220.000 d\u0026oacute;lares.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eNara posteo las fotos en Instagram acompa\u0026ntilde;ada de la frase: \u0026quot;Enamorada de mi nuevo beb\u0026eacute;\u0026quot;.\u003c/p\u003e\n\u003cdiv class=\"imagen\"\u003e\u003cimg src=\"https://media.zenfs.com/es-ar/iprofesional_650/86e724534fb873c753f8797406b2e4d5\" alt=\"\" width=\"758\" height=\"428.094\"/\u003e\n\u003cdiv class=\"epigrafe\"\u003e\u0026nbsp;\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003e\u003cspan\u003eLuego, para \u0026quot;humanizarse\u0026quot;, agreg\u0026oacute; otra imagen donde dice: \u0026quot;Caminando por la vida comprend\u0026iacute; que lo importante no es que sepas cu\u0026aacute;nto tienes, es que entiendas cu\u0026aacute;nto vales.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eAdem\u0026aacute;s, comparti\u0026oacute; video del interior del veh\u0026iacute;culo al ritmo de la canci\u0026oacute;n \u0026quot;Ocho cuarenta\u0026quot; de Rodrigo, \u0026quot;el Potro\u0026quot;, con mensajes donde dice: \u0026quot;Feliz estreno para m\u0026iacute;\u0026quot;.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.iprofesional.com/recreo/287666-icardi-mercedes-benz-clase-g-Wanda-Nara-mostro-su-camioneta-valuada-en-mas-de-USD-200-000"
+    },
+    "request_path": "requests",
+    "title": "Wanda Nara mostró su nueva camioneta valuada en más de u$s200.000",
+    "uuid": "01693f15-395f-3cbb-8eaa-7688b1b11264"
+}

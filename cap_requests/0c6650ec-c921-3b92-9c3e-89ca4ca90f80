@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:57:07Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《國際產業》AT\u0026T將整頓CNN的數碼業務\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報-外電報導】《華爾街日報報導，AT\u0026T將整頓CNN的數碼業務。\u003c/p\u003e\n\u003cp\u003e  據了解，AT\u0026T高層John Stankey表示，CNN數碼業務仍未發展至完善地步，因而有意撥出更多資源，以拓展業務。\u003c/p\u003e\n\u003cp\u003e  因應HBO頻道行政總裁Richard Plepler與CNN母公司端納(Turner)總裁David Levy辭職，Stankey在2月28日公布重整華納傳媒管理層。(編輯整理：莊雅珍)\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《國際產業》AT\u0026T將整頓CNN的數碼業務",
+    "uuid": "0c6650ec-c921-3b92-9c3e-89ca4ca90f80"
+}

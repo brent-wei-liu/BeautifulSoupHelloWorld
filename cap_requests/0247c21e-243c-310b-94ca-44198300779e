@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:19:43Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e台中黎明重劃區弊案 前立委楊文欣等14人涉背信起訴\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e台中黎明自辦重劃區弊案，炒得沸沸揚揚，前立委楊文欣等14人涉嫌用人頭地主，又虛增拆遷補償費，「灌水」獲得1.2萬坪抵費地，不法超過61億元以上，楊文欣等人遭到檢察官依背信等罪起訴，這讓多次罵重劃會是黑手的黎明幼兒園長林金連，痛批重劃會是最大詐騙集團。\u003c/p\u003e\u003cp\u003e黎明幼兒園園長林金連拉起衣袖，他以鉛筆自殘的傷口，已經痊癒，不過他說心痛很難好。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/679782ef147ec2874da6f7ba97edc490\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e從過年前到總統府自殘，還有去年選舉前，有預謀的撞上時任台中市長的林佳龍座車，林金連的衝撞，讓黎明自辦重劃區成了全台灣矚目的焦點，林金連多次指控黎明重劃會是黑手，現在看起來，檢察官好像也挺他。\u003c/p\u003e\u003cp\u003e檢方追查黎明重劃區弊案，重劃區緊臨七期，土地大約186公頃，是台中市面積最大自辦市地重劃區，前立委楊文欣，曾任富有公司開發董事長，現在是富有總顧問。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/02d802eabc1d860016f95a1c1d14374e\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e檢察官認定，一開始是楊文欣等人向鄭姓地主買128坪土地，登記給468名人頭，讓富有取得人數優勢，順利辦重劃。\u003c/p\u003e\u003cp\u003e台中地檢署襄閱主任檢察官謝謂誠說：「地主每一位土地大概是24到28公分見方，土地相當於一張A4紙張大小。」\u003c/p\u003e\u003cp\u003e再至富有重要幹部11人名下登記土地，好擔任過半數理監事，取得黎明重劃會主導權。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/d9fe32cc8ae3a381ceab1006278de17c\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e謝謂誠進一步說：「當初他們是有透過假買賣的交易方式取得土地，進而取得理監事的資格，清查這11位理監事的部分，每一個人大概取得10坪土地大小。」\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/f7fda30a54231c89dc6194031b06c248\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e楊文欣等人虛增拆遷補償費以及公共設施費，一共灌水12億7000萬元，換得1萬2000坪土地，換算下來，富有海撈超過61億元暴利；檢察官偵結，楊文欣等14人依背信、偽造文書等罪起訴。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/18d320f74c9e51f93f1f1f1295e98550\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e雖然檢察官說，辦這個案子，跟林金連沒有關係，不過林金連說，起訴給了他希望，司法更三審判決幼兒園敗訴，必須拆遷還地，林金連又提上訴，現在他期待，重劃會成員被起訴的結果，能證明重劃會土地取得不正義，讓黎明幼兒園案子有轉圜生機。\u003c/p\u003e\u003cp\u003e（民視新聞／徐秘康、李柏瑾 台中報導）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304C05M1"
+    },
+    "request_path": "requests",
+    "title": "台中黎明重劃區弊案 前立委楊文欣等14人涉背信起訴",
+    "uuid": "0247c21e-243c-310b-94ca-44198300779e"
+}

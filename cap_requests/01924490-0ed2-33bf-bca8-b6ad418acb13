@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:51:30Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEnquête sur la Russie: Pourquoi le rapport de Robert Mueller ne sera (sans doute) pas explosif\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cstrong\u003eETATS-UNIS - Au cours des prochaines semaines, le procureur spécial qui enquête sur la campagne de Donald Trump devrait transmettre un résumé factuel et laisser le Congrès américain se débrouiller avec\u003c/strong\u003e\nDe notre correspondant aux Etats-Unis,\n\nImpossible d’y échapper. Comme l’hiver dans Game of Thrones, le « Mueller report is coming » ! Face à la frénésie des médias américains, le bureau du \u003ca href=\"https://www.20minutes.fr/monde/2070347-20170518-video-bob-mueller-incorruptible-va-innocenter-couler-trump\"\u003eprocureur spécial\u003c/a\u003e chargé d’enquêter sur les soupçons de \u003ca href=\"https://www.20minutes.fr/monde/2390563-20181208-russiagate-moscou-propose-equipe-trump-synergie-politique-fin-2015\"\u003ecollusion entre la campagne de Donald Trump et la Russie\u003c/a\u003e a dû démentir que son rapport serait transmis au département de la Justice la semaine du 25 février. Attendu comme l’Evangile selon Saint Jean par les anti-Trump, le rapport n’apportera sans doute pas de réponse définitive aux questions qui agitent l’Amérique depuis deux ans – sa publication n’est même pas garantie. Ce qui ne signifie pas pour autant que le président américain sera tiré d’affaire.\n\nUn rapport détaillé ou un résumé ?\n\nLe 11 septembre 1998, la mise en ligne du rapport du procureur Kenneth Starr sur l’affaire Lewinsky avait presque cassé Internet, époque modems 56K. S’étalant sur \u003ca href=\"https://www.washingtonpost.com/wp-srv/politics/special/clinton/icreport/icreport.htm?noredirect=on\" target=\"_blank\"\u003e445 pages\u003c/a\u003e, il contenait de nombreux détails sur la vie sexuelle de Bill Clinton et concluait que les actions du président américain étaient « passibles d’un impeachment. »\n\n\u003ca href=\"https://www.law.gwu.edu/paul-rosenzweig\" target=\"_blank\"\u003eL’avocat Paul Rosenzweig\u003c/a\u003e faisait partie de l’équipe de Starr. Selon lui, le rapport de Robert Mueller sera sans doute « très court ». « Il ne contiendra pas de conclusions comme \u0026#39;\u0026#39;Donald Trump a entravé la justice\u0026#39;\u0026#39; », prédit-il. L’explication ti (...) \u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/monde/2463091-20190304-publier-lundi-enquete-russie-pourquoi-rapport-robert-mueller-doute-explosif?xtor=RSS-176\"\u003eLire la suite sur 20minutes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.20minutes.fr/monde/2463091-20190304-publier-lundi-enquete-russie-pourquoi-rapport-robert-mueller-doute-explosif?xtor=RSS-176"
+    },
+    "request_path": "requests",
+    "title": "Enquête sur la Russie: Pourquoi le rapport de Robert Mueller ne sera (sans doute) pas explosif",
+    "uuid": "01924490-0ed2-33bf-bca8-b6ad418acb13"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:21:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKommentar \u0026quot;Kölner Stadt-Anzeiger\u0026quot;: Vatika-Archive\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eDer \u0026quot;Kölner Stadt-Anzeiger\u0026quot; kommentiert die Ankündigung des Papstes, die Geheimarchive des Vatikans aus der NS-Zeit zu öffnen:\u003c/b\u003e\u003c/p\u003e\n\u003cp\u003e\u0026quot;Den Satz, die Kirche habe \u0026#39;keine Angst vor  der Geschichte\u0026#39;, hat Papst Franziskus von seinem  Vorvorgänger Johannes Paul?II. übernommen. Es ist eine großartige Maxime. Bei manchen vielleicht immer noch mehr Wunsch als Wirklichkeit. Aber immerhin. Anklage und Apologie halten sich für die Amtszeit Pius? XII. die Waage. Wie sehr und warum ließ der Pacelli-Papst gegenüber den Regimes Mussolinis und Hitlers Milde walten? Wie beeinflussten kirchlicher Antijudaismus und Antibolschewismus die Politik des Vatikans? Auf solche Fragen können Historiker am Ende nur auf Basis der Quellen antworten. Was immer ihre Forschung zutage fördert, es wird ein Dienst an der Wahrheit sein.\u0026quot;\u003c/p\u003e\n\u003cp\u003e(folgt sechs)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Kommentar \u0026quot;Kölner Stadt-Anzeiger\u0026quot;: Vatika-Archive",
+    "uuid": "0a1efed7-fcd1-39d2-ba5d-c2bd1787efe4"
+}

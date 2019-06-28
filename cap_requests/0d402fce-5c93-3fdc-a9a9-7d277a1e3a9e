@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:14:31Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMonster Hunt\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eIn a fantasy world far far away, monsters ruled the land. Then came human’s all-out war in an attempt to seize the land. In its final days, they outwitted the monsters and succeeded in driving them into the dark mountains. Ever since, monsters were forbidden to step into the land again. If they were found, they would be captured and exterminated. For all these years, the two races have lived in their separate worlds, until the birth of a new monster king who would reshape the balance of power and bring in the new world order.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/media/1164108742\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Monster Hunt",
+    "uuid": "0d402fce-5c93-3fdc-a9a9-7d277a1e3a9e"
+}

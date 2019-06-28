@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:26:18Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGawat, Arema Tanpa 3 Pilar di Laga Pembuka Piala Presiden 2019\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Arema FC berada dalam situasi genting jelang laga melawan Barito Putera di ajang Piala Presiden, Senin 4 Maret 2019. Bermain di Stadion Kanjuruhan, Malang, tiga pemain Arema terancam absen di laga pembuka itu.\u003c/p\u003e\n\n\u003cp\u003eMereka yang tak bisa berlaga adalah Dedik Setyawan, Johan Alfarizi, dan Roberto Lima. Absennya ketiga pemain ini membuat pelatih Milomir Seslija harus memutar otaknya.\u003c/p\u003e\n\n\u003cp\u003eSudah ada solusi yang didapat. Seperti, demi menutup absennya Lima, Milo bakal memainkan Nur Hardianto.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kesempatan bagi Hardianto. Sebab, di turnamen sebelumnya, Hardianto minim jam terbang dan harus dimanfaatkan kesempatan ini olehnya,\u0026quot; kata Milo.\u003c/p\u003e\n\n\u003cp\u003eRekrutan anyar, Ricky Kayame, juga bakal menjadi opsi untuk Milo. Dipastikan, Ricky akan dimainkan oleh Milo pada babak kedua.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Ricky baru empat kali latihan dan masih beradaptasi dengan tim. Kami masih lihat kondisinya. Saya akan menempatkan Ricky sebagai pemain yang efektif, jadi tidak masalah jika nanti cuma diturunkan selama 15 sampai 20 menit. Yang penting, efektif, ketimbang bermain 60 menit hanya jalan kaki,\u0026quot; ujar Milo.\u003c/p\u003e\n\n\u003cp\u003ePelatih asal Bosnia itu menuturkan target Arema di Piala Indonesia adalah persiapan jelang Liga 1. Tak ada patokan Arema harus juara atau lainnya.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kami cuma mau main bagus di setiap laga selama Piala Presiden, untuk persiapan menghadapi Liga 1. Lewat turnamen ini, saya yakin ini jadi lebih baik. Saya sadar, semua tim mau juara dan ini jadi motivasi buat Arema. Yang jelas, kami mau tim ini lebih baik sebelum benar-benar tampil di kompetisi,\u0026quot; terang Milo.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/bola/liga-indonesia/1126777-gawat-arema-tanpa-3-pilar-di-laga-pembuka-piala-presiden-2019"
+    },
+    "request_path": "requests",
+    "title": "Gawat, Arema Tanpa 3 Pilar di Laga Pembuka Piala Presiden 2019",
+    "uuid": "02c0d62c-654e-37f3-b8d8-1ecf32c5c841"
+}

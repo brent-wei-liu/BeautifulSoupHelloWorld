@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:56:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFoot - C1 - Santiago Solari (entraîneur du Real Madrid) : « Le Real a toujours été plus courtisé que Julia Roberts »\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eL\u0026#39;entraîneur du Real Madrid Santiago Solari a ironiquement répondu, ce lundi, à la rumeur d\u0026#39;un retour de José Mourinho sur le banc merengue. Le technicien a estimé son club \u003ci\u003e« plus courtisé que Julia Roberts. »\u003c/i\u003e Santiago Solari a décidé de manier l\u0026#39;ironie pour calmer les rumeurs qui désignent José Mourinho comme son potentiel successeur. L\u0026#39;actuel entraîneur du Real Madrid a expliqué ce lundi, en conférence de presse, que son club \u003ci\u003e« a toujours été plus courtisé que Julia Roberts. »\u003c/i\u003e À la veille \u003ca href=\"https://www.lequipe.fr/Football/ligue-des-champions-resultats.html\" shape=\"rect\" target=\"_blank\"\u003edu huitième de finale retour de Ligue des champions\u003c/a\u003e contre l\u0026#39;Ajax Amsterdam, l\u0026#39;Argentin préfère donc répondre à ces spéculations avec humour. Celles-ci ont été alimentées par la déclaration de l\u0026#39;entraîneur portugais sur la chaîne \u003ci\u003ebeIN Sports\u003c/i\u003e dont il est devenu consultant après son récent limogeage de Manchester United. \u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Jose-mourinho-quitte-manchester-united/969876\" shape=\"rect\" target=\"_blank\"\u003eJosé Mourinho quitte Manchester United\u003c/a\u003e \u003ci\u003e« Revenir dans un club où j\u0026#39;ai déjà entraîné ? Si je pense qu\u0026#39;il s\u0026#39;agit du bon club, de la bonne structure, avec les ambitions voulues, je n\u0026#39;aurai aucun problème à revenir. C\u0026#39;est un vrai motif de fierté quand un club où vous avez travaillé par le passé souhaite votre retour »\u003c/i\u003e, a précisé le double vainqueur de la C1 (2004 et 2010). Fragilisé par les deux défaites lors des derniers clasicos face au FC Barcelone en Coupe du Roi \u003ca href=\"https://www.lequipe.fr/Football/Actualites/Le-barca-corrige-le-real-chez-lui-et-se-qualifie-pour-la-finale-de-la-coupe-du-roi/993399\" shape=\"rect\" target=\"_blank\"\u003e(0-3)\u003c/a\u003e et en Liga \u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Le-barca-s-offre-un-nouveau-clasico-au-bernabeu-et-largue-le-real-madrid-dans-la-course-au-titre/994443\" shape=\"rect\" target=\"_blank\"\u003e(0-1)\u003c/a\u003e, Santiago Solari, qui a récemment prolongé son contrat jusqu\u0026#39;en 2021, sait désormais qu\u0026#39;il ne lui reste plus que la scène européenne pour sauver la saison de son équipe.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Football/Actualites/Santiago-solari-entraineur-du-real-madrid-le-real-a-toujours-ete-plus-courtise-que-julia-roberts/994965"
+    },
+    "request_path": "requests",
+    "title": "Foot - C1 - Santiago Solari (entraîneur du Real Madrid) : « Le Real a toujours été plus courtisé que Julia Roberts »",
+    "uuid": "0cb5f338-e23e-311d-a221-89bb18088863"
+}

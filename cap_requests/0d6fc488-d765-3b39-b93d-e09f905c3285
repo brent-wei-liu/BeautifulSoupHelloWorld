@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:23:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e開季25人名單有望 越洋專訪張育成\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e23歲的張育成，今年很有機會擠進開季25人名單，因為印地安人當家游擊手林多受傷，球隊需要可供靈活調度的內野手，因此春訓期間，印地安人持續給張育成在二三壘和游擊先發上場的機會，上週六張育成轟出訓第一支全壘打，對他也相當大的加分效果。\u003c/p\u003e\u003cp\u003e張育成的power絕對是他挑戰大聯盟的強項。談到這支全壘打，張育成顯得意猶未盡，他表示「我那時候打到就知道是全壘打，就感覺就很還蠻爽的」。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/b96bd8b8ba0bfb19f908abf61799ad55\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e張育成目前春訓打擊率2成86，長打率高達6成43，也貢獻2分打點，打擊狀況不錯，他歸功於同隊的台灣球員朱立人給他的建議和提醒。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/4c1e3f581cae0a1f182632c910e8653e\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e張育成提到，「小朱跟我說重心是有點太後面，前幾場有點太猶豫不敢出棒，打擊上把重心留在中間，還有就是積極出棒」。\u003c/p\u003e\u003cp\u003e除了打擊之外，為了配合球隊需要，張育成也必須擔任二三壘和游擊，三個不同的守備位置。印地安人總教練法蘭柯納說：「我們希望他不論是守二壘三壘，或是游擊都能很舒服自在，讓他在固定出賽下，習慣不同位置」。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/5149c11d9bafd70a498a8947821565f7\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e印地安人希望張育成三個位置都能守，增加調度靈活性，張育成則表示三個位置他都沒問題，也沒有特別偏愛哪一個，重點還是必須要有穩定性，才能得到球隊信任。\u003c/p\u003e\u003cp\u003e\u003ciframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fftvsports%2Fvideos%2F1891797987614379%2F\u0026show_text=0\u0026width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\"\u003e\u003c/iframe\u003e\u003c/p\u003e\u003cp\u003e（民視新聞／美國亞歷桑納 綜合報導）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304A05M1"
+    },
+    "request_path": "requests",
+    "title": "開季25人名單有望 越洋專訪張育成",
+    "uuid": "0d6fc488-d765-3b39-b93d-e09f905c3285"
+}

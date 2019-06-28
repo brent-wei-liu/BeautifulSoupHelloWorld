@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-02-26T21:45:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美孚凸海大單位千九萬易手\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-HK/homerun/thesun.hk.com/d80bf5e1c3d60975298e8eb982ca4824\" alt=\"\u0026#x004e8c;\u0026#x00624b;\u0026#x005e02;\u0026#x00983b;\u0026#x009304;\u0026#x005927;\u0026#x00984d;\u0026#x006210;\u0026#x004ea4;\u0026#x003002;\u0026#x00ff08;\u0026#x008cc7;\u0026#x006599;\u0026#x005716;\u0026#x007247;\u0026#x00ff09;\"\u003e \u003c/p\u003e\n\t\t\t\t\t\u003cp\u003e \n\t\t\t\t\t\t\t\t樓價走勢趨穩定，換樓客再度入市。荔枝角美孚新邨自一八年十月之後再錄凸海大單位成交。該屋苑一期百老滙街十六號低層Ｂ室，實用面積一千三百二十九方呎，減價八十萬元後，以一千九百萬元轉售，呎價約一萬四千二百九十六元。\u003cbr\u003e\u003cbr\u003e\n\t\t\t\t\t\t\t\t中原馮健平透露，上址新買家為同區客，在市場睇樓已一段時間，見海景單位放盤罕有，加上近期樓價開始回升，故決定入市。該項目本月交投增多，日前單日連錄三宗買賣，全月則共錄約二十宗。\u003cbr\u003e\u003cbr\u003e\n\t\t\t\t\t\t\t\t該屋苑對上一宗的凸海單位成交，售價約二千一百五十萬元，高峰時期最高成交價曾超過二千四百萬元。\u003cbr\u003e\u003cbr\u003e\n\t\t\t\t\t\t\t\t太古城逾二千萬成交\u003cbr\u003e\u003cbr\u003e\t\n\t\t\t\t\t\t\t\t港島指標屋苑鰂魚涌太古城繼續錄得大額成交，中原王秀芬表示，該盤今個月以來共錄二十四宗，平均呎價進一步升至一萬九千九百六十三元，佔九宗為海景花園，當中六宗樓價都逾二千萬元。\u003cbr\u003e\u003cbr\u003e\n\t\t\t\t\t\t\t\t屋苑最新錄得的美菊閣高層Ｂ室，實用面積一千零一十五方呎，一月初叫價二千三百八十萬元，終獲用家以二千二百八十萬元承接，呎價約二萬二千四百六十三元。\u003cbr\u003e\u003cbr\u003e\n\t\t\t\t\t\t\t\t至於近期二手交投轉旺的東涌區，水藍‧天岸亦錄今年第一宗三房成交。美聯吳惠斌表示，該單位為一個低層特色戶，實用面積九百二十一方呎，原業主一手購入之後，只作度假用途，並且以一千三百萬元叫價放盤，近日獲外區客以一千一百一十八萬元購入，呎價一萬二千一百三十九元。\u003cbr\u003e\u003cbr\u003e\n\t\t\t\t\t\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://orientaldaily.on.cc/cnt/finance/20190227/00202_004.html"
+    },
+    "request_path": "requests",
+    "title": "美孚凸海大單位千九萬易手",
+    "uuid": "0a5141b1-e788-3c93-a848-84e32a0133e3"
+}

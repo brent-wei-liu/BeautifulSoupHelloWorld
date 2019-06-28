@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:44:57Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBremens Kruse wechselt Rennserie mit Motorsport-Team\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eFußballprofi Max Kruse hat sich für einen Wechsel entschieden - allerdings nur auf der Rennstrecke. Der Kapitän des Bundesligisten Werder Bremen geht mit seinem Rennstall \u0026quot;Max Kruse Racing\u0026quot; in der kommenden Saison nicht mehr in der ADAC TCR Germany an den Start. Stattdessen wechselt Kruse in die VLN Langstreckenmeisterschaft, die insgesamt neun Rennen auf der Nürburgring Nordschleife austrägt.\u003cbr\u003e\u0026quot;Langstreckenrennen bedeuten für unser Team natürlich eine ganz neue Herausforderung. Ich persönlich will immer gewinnen und das Team sieht das genauso\u0026quot;, sagte Kruse. Der 30-Jährige wird sich aber nicht selbst am Steuer seiner Rennwagen versuchen. Diese Aufgabe überlässt er dem Duo Andy Gülden und Benjamin Leuchter.\u003cbr\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "#"
+    },
+    "request_path": "requests",
+    "title": "Bremens Kruse wechselt Rennserie mit Motorsport-Team",
+    "uuid": "08224999-f14d-306d-8b36-a21fcfbc6d68"
+}

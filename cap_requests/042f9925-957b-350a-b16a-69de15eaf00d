@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:00:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEl Consejo de la UE aprueba el nuevo acuerdo pesquero con Marruecos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eBruselas, 4 mar (EFE).- El Consejo de la Unión Europea (UE) adoptó este lunes el acuerdo de colaboración de pesca sostenible con Marruecos, junto con su protocolo de aplicación y del canje de notas adjunto al pacto, lo que supone un paso más con vistas a su aplicación futura.\nLa adopción tiene lugar tras la aprobación del Parlamento Europeo el pasado 12 de febrero y constituye el \u0026quot;último trámite formal\u0026quot; por parte de la UE, explicó el Consejo en un comunicado.\nPara que pueda entrar en vigor, será necesario que Marruecos culmine también su proceso de ratificación del acuerdo, recordó.\nEl protocolo de aplicación del acuerdo, que tiene cuatro años de duración, asigna a la UE posibilidades de pesca como contrapartida de una contribución financiera global de 208 millones de euros.\nUna parte importante de esa contribución se utilizará para promover el desarrollo sostenible de la economía de la pesca en Marruecos y del sector pesquero en el Sáhara Occidental, precisó el Consejo.\nEl anterior pacto pesquero fue tumbado en diciembre de 2016 por el Tribunal de Justicia de la Unión Europea (TJUE) porque no mencionaba expresamente su aplicación en el Sáhara Occidental y no beneficiaba a la población saharaui.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "El Consejo de la UE aprueba el nuevo acuerdo pesquero con Marruecos",
+    "uuid": "042f9925-957b-350a-b16a-69de15eaf00d"
+}

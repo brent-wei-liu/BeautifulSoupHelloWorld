@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:55:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中信金：中信銀與財付通支付科技合作微信支付續約\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e公開資訊觀測站重大訊息公告\u003cbr\u003e\u003cbr\u003e(2891)中信金-代子公司中國信託商業銀行股份有限公司公告與「財付通支付科技有限公司」合作微信支付續約。\u003cbr\u003e\u003cbr\u003e1.事實發生日:108/02/27\u003cbr\u003e2.公司名稱:中國信託商業銀行股份有限公司\u003cbr\u003e3.與公司關係(請輸入本公司或子公司):子公司\u003cbr\u003e4.相互持股比例:不適用\u003cbr\u003e5.發生緣由:與「財付通支付科技有限公司」合作微信支付續約\u003cbr\u003e6.因應措施:無\u003cbr\u003e7.其他應敘明事項:無\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "中信金：中信銀與財付通支付科技合作微信支付續約",
+    "uuid": "0b66fa43-594c-30f4-8925-007c3ff2116c"
+}

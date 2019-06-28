@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:33:03Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e公設重點換人當　放入這個才有賣點\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\t好房網News黃薏珊／綜合報導\u003c/p\u003e  \t近日「2018年閱讀競爭力績優城市」調查結果出爐，其以人均擁書冊數、人均借閱冊數、人均到館人次及辦證率為指標，經加總記分，由新竹市奪冠，未來竹市也將有新總圖書館落成，傳出有在地建商看準市民對文化設施的需求，而考慮未來在公共設施的規劃增加「文創閱覽室」、「學習讀書廳」，甚至可能採異業結盟，引進書局迎合市場。  \t   \t新竹市長林智堅曾表示，新竹市具有所得高、學歷高、出生率高以及平均年齡低的「三高一低」體質，轄內的科研機構多，市民多愛讀書、愛藝...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30308830.html"
+    },
+    "request_path": "requests",
+    "title": "公設重點換人當　放入這個才有賣點",
+    "uuid": "047c4f9b-a81e-3780-9116-cf4fe1f10155"
+}

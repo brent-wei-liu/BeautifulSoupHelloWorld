@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:59:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e美國恢復歐盟代表團地位 讚譽是最有價值夥伴\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社布魯塞爾4日綜合外電報導）美國與歐洲聯盟棘手的貿易談判即將重開之際，美國今天表示已恢復歐盟駐華府代表團的原來地位，並稱美國視歐盟為「最有價值的夥伴」之一。\u003c/p\u003e\n\u003cp\u003e    去年底美國國務院調降歐盟代表團外交地位，由盟國降至國際組織，使美國與歐盟的雙邊關係再受衝擊。\u003c/p\u003e\n\u003cp\u003e    根據美國駐歐盟大使桑德蘭（Gordon Sondland）發表的聲明：「國務院將再度承認歐盟在華府的代表機構。」\u003c/p\u003e\n\u003cp\u003e    他說：「歐盟是獨一無二的重要組織，而且是美國在確保全球安全與繁榮方面最有價值夥伴之一。歐洲的安全與成功與美國息息相關，而且雙方的來往與合作程度於所有情況下都應得到適當的認可。」（譯者：曹宇帆/核稿：林治平）1080304\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "美國恢復歐盟代表團地位 讚譽是最有價值夥伴",
+    "uuid": "02069a16-1d52-3e8a-8887-5a0be2003cae"
+}

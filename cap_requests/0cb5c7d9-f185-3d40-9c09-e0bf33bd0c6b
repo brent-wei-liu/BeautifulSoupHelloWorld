@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:28:30Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDe simples gouttes pour bientôt guérir la myopie?\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBient\u0026#244;t la fin de la corv\u0026#233;e de lentilles ou la fatigue du porteur de lunettes ? S\u0026#39;il est encore trop t\u0026#244;t pour crier au miracle scientifique, la promesse est l\u0026#224;. Une \u0026#233;quipe de chercheurs isra\u0026#233;liens a d\u0026#233;velopp\u0026#233; un syst\u0026#232;me de gouttes oculaires qui pourrait permettre de recouvrer la vue sans lunettes ni (presque aucune) chirurgie, r\u0026#233;v\u0026#232;le France inter ce lundi. \u0026#160;\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eLIRE AUSSI \u0026#62;\u0026#62; En 2050, un Terrien sur deux sera myope\u003c/em\u003e\u003c/strong\u003e\u0026#160;\u003c/p\u003e\u003cp\u003eDepuis plusieurs mois, ces chercheurs isra\u0026#233;liens r\u0026#233;alisent des essais prometteurs chez l\u0026#39;animal. Ils estiment pouvoir d\u0026#233;buter en 2021 un essai sur l\u0026#39;homme.\u0026#160;\u003c/p\u003e\u003ch3 class=\"intertitre\"\u003eUne intervention laser puis des nanoparticules\u003c/h3\u003e\u003cp\u003eImagin\u0026#233;e par le docteur David Smadja, ophtalmologue au Shaare Zedek Medical Center de J\u0026#233;rusalem, la technique oeuvre en deux temps. Tout d\u0026#39;abord, un laser doit faire dans l\u0026#39;oeil de minuscules trous, de la taille d\u0026#39;une cellule, afin d\u0026#39;y dessiner un trac\u0026#233; qui doit correspondre \u0026#224; la correction souhait\u0026#233;e. Des gouttes compos\u0026#233;es de nanoparticules, vers\u0026#233;es dans un second temps dans l\u0026#39;oeil, vont s\u0026#39;infiltrer dans ces trous et modifier le trajet de la lumi\u0026#232;re dans l\u0026#39;oeil, afin de la conduire \u0026quot;l\u0026#224; o\u0026#249; on le souhaite pour une correction optimale\u0026quot;.\u0026#160;\u003c/p\u003e\u003cp\u003eBeaucoup de questions se posent encore, rappelle France inter. Par exemple, jusqu\u0026#39;\u0026#224; quel point peut-on corriger la vue ? Des myopies lourdes sont-elles aussi concern\u0026#233;es par ce progr\u0026#232;s ? Combien de temps durent les petits trous sur la corn\u0026#233;e, garantissant la p\u0026#233;n\u0026#233;tration des gouttes et donc l\u0026#39;efficacit\u0026#233; du syst\u0026#232;me, restent-ils ouverts ?\u0026#160;\u003c/p\u003e\u003cp\u003eLe docteur David Smadja \u0026#233;voque pour l\u0026#39;instant un effet d\u0026#39;une semaine mais, \u0026#224; terme, on pourrait imaginer faire l\u0026#39;op\u0026#233;ration chez soi, tout seul, car l\u0026#39;op\u0026#233;ration serait sans douleur. \u0026quot;Un peu comme les diab\u0026#233;tiques qui se piquent aujourd\u0026#39;hui chez eux, avec un syst\u0026#232;me ultral\u0026#233;ger pour mesurer leur glyc\u0026#233;mie, on peut imaginer un mini laser hyper simple\u0026quot;, pr\u0026#233;cise David Smadja.\u0026#160;\u003c/p\u003e\u003cp\u003e\u003ca href=\"//www.lexpress.fr/actualite/societe/sante/sante-de-simples-gouttes-pour-bientot-guerir-la-myopie_2065355.html#xtor=AL-447\"\u003eRetrouver cet article sur L\u0026#39;Express.fr\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "//www.lexpress.fr/actualite/societe/sante/sante-de-simples-gouttes-pour-bientot-guerir-la-myopie_2065355.html"
+    },
+    "request_path": "requests",
+    "title": "De simples gouttes pour bientôt guérir la myopie?",
+    "uuid": "0cb5c7d9-f185-3d40-9c09-e0bf33bd0c6b"
+}

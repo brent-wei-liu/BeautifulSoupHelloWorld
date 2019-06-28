@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:10:18Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e購屋先看風水　老師一句話讓她賠慘了\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e記者楊忠翰／新北報導\u003c/p\u003e\n\n\u003cp\u003e新北市1名陳姓女子，前年間購買遠雄新宿建案的1戶房產及車位，總價為2937萬元，當初她看房時便知客廳方位是南北向，並非她原本屬意的東西向，陳女再請風水老師評估後，以雙方曾有口頭約定為由解約，但遠雄建設否認有此約定，沒收已付價金440萬餘元，雙方最後鬧上法院；法官認為，陳女看屋時已知座向方位，契約亦無「風水老師評估適合」條款，因此判她敗訴。\u003c/p\u003e\n\n\u003cp\u003e據了解，2014年間，陳女原本與遠雄建設簽約購買預售屋，總價為2937萬元，她支付852萬餘元後，赫然發現預售屋門口牆面設置6個變電箱，雙方協調後解除預售契約，改買遠雄新宿建案成屋，房屋售價相同，原本的852萬餘元轉為已付價金；後來陳女不再支付價金，遠雄催促未獲回應，只好發函通知解約，並沒收440萬餘元。\u003c/p\u003e\n\n\u003cp\u003e陳女認為，當初她未能在簽約前聯絡上風水老師，藉以確認客廳方位，但她在簽約前就言明，客廳陽台座向方位是南北向，並非東西向，因此當她簽約後，仍須請風水老師確認方位是否適合，倘若不適合就不會買，當時遠雄人員並未反對，她才會正式簽約，加上對方職員涉嫌詐欺，才未將上述約定登載在契約內；她認為自己有權解約，遂提告要求返還440萬餘元，倘若法院認為她主張並無理由，亦應酌減違約金。\u003c/p\u003e\n\n\u003cp\u003e遠雄建設則辯稱，陳女購買的是成屋，足以判斷客廳方位，而且他們並未同意「風水老師評估適合」一事；法官認為，陳女看屋時便知客廳座向，仍出於自由意願簽約購買，理應接受契約拘束，不能任意反悔或撤銷，而且遍查契約並無「風水老師評估適合」條款；按照房屋契約精神，違約必須沒收總價百分之十五的違約金，遠雄沒收440萬餘元自屬有據。\u003c/p\u003e\n\n\u003cp\u003e\u003cimg src='http://media.zenfs.com/zh-Hant-TW/homerun/setn.com.tw/214dab8b9635fe3c0f98ddd00ea03ff2' width='510' height='287' align='middle' class='editorial'/\u003e\u003c/p\u003e\n\n\u003cp\u003e▲陳女購買遠雄新宿成屋反悔遭沒收訂金440萬餘元。（圖／翻攝自Google Map）\u003c/p\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多三立新聞網報導\u003c/span\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=505846\u0026#38;from=y\"\u003e謊稱女子下面「氣不通」　要做愛才通氣　神棍這下踢到鐵板\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=498522\u0026#38;from=y\"\u003e誰摔死了李新？珠寶商違約　北院判須賠償郭新政110萬元\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=486016\u0026#38;from=y\"\u003e誰摔死了李新？郭新政控蕓賞違約　500萬是否賠下月揭曉\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=479998\u0026#38;from=y\"\u003e開5槍「行刑式」爆頭！男殺人後投案　稱疑家中風水遭破壞\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.setn.com/News.aspx?NewsID=506846"
+    },
+    "request_path": "requests",
+    "title": "購屋先看風水　老師一句話讓她賠慘了",
+    "uuid": "03861c4e-f734-3bf3-a3c9-ea4223a6fcb9"
+}

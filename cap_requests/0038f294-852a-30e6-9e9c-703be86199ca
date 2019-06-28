@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:32:32Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e«Le dialogue est devenu peu à peu impossible»... Jean-Louis Debré donne des nouvelles de Jacques Chirac\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cstrong\u003eNOUVELLES - Jacques Chirac, atteint de graves troubles neurologiques, n’a pas fait d’apparition publique depuis 2014, lors d’une remise de prix de la Fondation qui porte son nom\u003c/strong\u003e\nSi le mystère plane toujours sur l’état de santé de \u003ca href=\"https://www.20minutes.fr/dossier/jacques_chirac\"\u003eJacques Chirac\u003c/a\u003e, atteint de graves troubles neurologiques, \n\u003ca href=\"https://www.20minutes.fr/dossier/jean_louis_debre\"\u003el’ancien président du Conseil constitutionnel, Jean-Louis Debré\u003c/a\u003e, a donné quelques nouvelles de l’ancien chef d’Etat. Et elles ne sont pas rassurantes.\n\nAmi avec Jacques Chirac depuis une cinquantaine d’années, Jean-Louis Debré continue de rendre visite chaque semaine à \u003ca href=\"https://www.20minutes.fr/societe/1942707-20161014-comment-vont-bernadette-jacques-chirac\"\u003el’ancien président de la République\u003c/a\u003e, mais « le dialogue est devenu peu à peu impossible », a-t-il expliqué \n\u003ca href=\"https://www.lemonde.fr/politique/article/2019/03/04/debre-chirac-amis-pour-la-vie_5430984_823448.html\" target=\"_blank\"\u003eau Monde qui a consacré un article à l’amitié entre les deux hommes.\u003c/a\u003e\n\n« J’ai réalisé qu’il ne s’était pas reconnu »\n\n« Je ne sais pas s’il me reconnaît, j’en ressors moralement épuisé, ça me fait mal de le voir comme ça, mais j’ai la faiblesse de penser que ma présence lui fait du bien », a déclaré l’ancien président du Conseil constitutionnel, ajoutant : « J’ai tellement d’affection pour lui, je serai là jusqu’au bout ».\n\nEt le récit de Jean-Louis Debré en dit long sur \u003ca href=\"https://www.20minutes.fr/societe/2158995-20171027-chirac-amuserait-jouer-seniles-debarrasser-casse-pieds\"\u003el’état de santé de l’ancien chef d’Etat\u003c/a\u003e, âgé de 86 ans. Il y a plusieurs mois, \n\u003ca href=\"https://www.20minutes.fr/elections/2048547-20170412-presidentielle-chiraquien-jean-louis-debre-votera-emmanuel-macron\"\u003eles deux hommes\u003c/a\u003e ont regardé ensemble un documentaire sur Georges Pompidou, dans lequel \n\u003ca href=\"https://www.20minutes.fr/politiqu (...) \u0026lt;br/\u0026gt;\u0026lt;a href=\"\u003eLire la suite sur 20minutes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eÀ lire aussi :\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/politique/2239551-20180318-jacques-chirac-forme-aussi-bonne-possible-selon-villepin\"\u003eJacques Chirac «dans une forme aussi bonne que possible», selon Villepin\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/insolite/2239235-20180317-heritage-johnny-hallyday-avocat-laeticia-hallyday-sosie-vocal-jacques-chirac\"\u003eHéritage de Johnny Hallyday: L’avocat de Laeticia Hallyday est LE sosie vocal de Jacques Chirac\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/societe/2286651-20180609-correze-brive-inaugure-avenue-jacques-bernadette-chirac-premiere-france\"\u003eCorrèze: Brive inaugure une avenue «Jacques et Bernadette Chirac», une première en France\u003c/a\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.20minutes.fr/politique/2464635-20190304-dialogue-devenu-peu-peu-impossible-jean-louis-debre-donne-nouvelles-jacques-chirac?xtor=RSS-176"
+    },
+    "request_path": "requests",
+    "title": "«Le dialogue est devenu peu à peu impossible»... Jean-Louis Debré donne des nouvelles de Jacques Chirac",
+    "uuid": "0038f294-852a-30e6-9e9c-703be86199ca"
+}

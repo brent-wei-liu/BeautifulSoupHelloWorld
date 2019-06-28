@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:50:56Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKari-Pekka Kyrö latasi Ylellä: Seefeldin dopingvyyhti oli teatteria – veritankkaus on yhä ”helppoa ja riskitöntä”\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eKari-Pekka Kyrö ei säästellyt sanojaan puhuessaan Seefeldin MM-hiihtojen dopingtapauksesta Ylen Urheiluhullut-ohjelmassa.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/maastohiihto/art-2000006023474.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Kari-Pekka Kyrö latasi Ylellä: Seefeldin dopingvyyhti oli teatteria – veritankkaus on yhä ”helppoa ja riskitöntä”",
+    "uuid": "0c591acf-c0b4-31e6-8989-a69811238dfa"
+}

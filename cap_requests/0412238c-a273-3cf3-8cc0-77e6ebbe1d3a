@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:32:02Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEstonie: Les libéraux remportent les législatives, nette percée de l\u0026#39;extrême droite\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cstrong\u003eESTONIE - La Réforme, le principal parti libéral estonien, actuellement dans l’opposition, a remporté les législatives de dimanche\u003c/strong\u003e\nLa Réforme, le principal parti libéral estonien, actuellement dans l’opposition, a remporté les législatives de dimanche, marquées par une nette percée de l’extrême droite, selon des résultats complets rendus publics par la commission électorale.\n\nLa formation d’\u003ca href=\"https://www.20minutes.fr/dossier/extreme_droite\"\u003eextrême droite\u003c/a\u003e eurosceptique EKRE parvient à presque tripler son score d’il y a quatre ans, surfant sur le mécontentement des zones rurales. Mais son entrée dans une coalition gouvernementale paraît improbable, faute de partenaires.\n\nDes divergences entre les libéraux et le Centre\n\nD’après la commission électorale, la Réforme, conduite par l’ancienne députée européenne Kaja Kallas et créditée de près de 29 % des voix, devrait occuper 34 des 101 sièges que compte le parlement, soit quatre de plus que dans la chambre sortante. Le Centre du Premier ministre sortant Juri Ratas, arrivé deuxième avec 23 %, en aurait 26 (-1) et EKRE 19 (+12), avec 17,8 % des suffrages.\n\nSoulignant que « EKRE n’est pas un choix pour nous », Kaja Kallas a déclaré à la télévision publique ETV que la Réforme « garderait sur la table toutes les options en vue d’une coalition », tout en rappelant que son parti et le Centre « divergent fortement dans trois domaines : la fiscalité, la citoyenneté et l’éducation ».\nDe son côté, Juri Ratas, interrogé pour savoir s’il pourrait entrer dans une coalition menée par les libéraux, a répondu « bien sûr », sans vouloir en dire davantage.\n\nUne élection dans le calme\n\nLes conservateurs de Pro Patria (Isamaa) devraient avoir 12 députés (-2) et le Parti social-démocrate 10 (-5). Ces deux formations font partie de la coalition sortante. Ils pourraient s’allier avec l’un ou l’autre grand parti. D’après les résultats définitifs, les autres partis ne franchissent pas le seuil d’éligibil (...) \u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/monde/2464295-20190304-estonie-liberaux-remportent-legislatives-nette-percee-extreme-droite?xtor=RSS-176\"\u003eLire la suite sur 20minutes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eÀ lire aussi :\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/societe/2435219-20190124-calais-mur-anti-migrants-construit-autour-station-service\"\u003eCalais: Un mur anti-migrants construit autour d’une station-service\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/justice/2438935-20190129-hautes-alpes-apres-operation-anti-migrants-militants-generation-identitaire-garde-vue\"\u003eHautes-Alpes: Après leur opération «anti-migrants», des militants de Génération identitaire en garde à vue\u003c/a\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.20minutes.fr/monde/2464295-20190304-estonie-liberaux-remportent-legislatives-nette-percee-extreme-droite?xtor=RSS-176"
+    },
+    "request_path": "requests",
+    "title": "Estonie: Les libéraux remportent les législatives, nette percée de l\u0026#39;extrême droite",
+    "uuid": "0412238c-a273-3cf3-8cc0-77e6ebbe1d3a"
+}

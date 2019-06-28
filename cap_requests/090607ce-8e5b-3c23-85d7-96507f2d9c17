@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:26:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEl FSLN domina las elecciones del Caribe de Nicaragua entre las denuncias de anomalías\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eManagua, 4 mar (EFE).- El oficialista Frente Sandinista de Liberación Nacional (FSLN) se erigió como partido dominante de las elecciones de ayer domingo en la zona Caribe de Nicaragua, al obtener el 61,11 % de los votos con el 59,54 % de las urnas escrutadas, informó este lunes el Consejo Supremo Electoral (CSE), en medio de denuncias de anomalías.\nEl presidente del CSE, Lumberto Campbell, informó que hasta anoche se habían escrutado 1.137 Juntas Receptoras de Votos, y quedaban pendientes 460, tanto en la Región Autónoma Caribe Norte (RACN), como en la Región Autónoma Caribe Sur (RACS).\nDe acuerdo con el informe preliminar presentado por Campbell, el porcentaje de participación ciudadana fue del 45,4 por ciento, en unos comicios en los que la población del este de Nicaragua, en su mayoría de cultura indígena y afrodescendiente, debía elegir a 45 consejeros en la RACN y otros 45 en la RACS.\n\u0026quot;Nos parece que para unas elecciones regionales es una participación excelente y las proyecciones que vemos es que va a ser unas elecciones más concurridas en el Caribe\u0026quot;, afirmó el presidente del CSJ.\nLos resultados preliminares ubicaron al partido Yatama (\u0026quot;hijos de la madre tierra\u0026quot; en lengua miskita), en una lejana segunda posición, con el 16,89 % de los votos, seguido del Partido Liberal Constitucionalista (PLC) con 12,67 %, de Ciudadanos por la Libertad (CxL) con el 4,58 %, y del Partido Indígena Multiétnico (PIM) con 1,12 %, mientras que otras ocho organizaciones políticas no alcanzaron un dígito.\nTanto CxL como el PLC denunciaron anomalías en el proceso electoral.\nCxL resaltó que las elecciones no fueron tan concurridas, especialmente en las zonas rurales.\nAsimismo denunció que el FSLN utilizó recursos del Estado para ganar votos, y sus miembros impidieron el derecho a votar de algunas personas, ambos casos reconocidos como delitos en la legislación de Nicaragua.\nEl PLC realizó denuncias similares, incluyendo el doble voto de personas que supuestamente eran afines al FSLN, y una agresión violenta contra un grupo de simpatizantes que dejó al menos una persona herida de gravedad.\nPor su parte, Campbell insistió en que el \u0026quot;proceso se desarrolló con mucha calma, con mucha tranquilidad, con mucha madurez de todos los participantes\u0026quot;.\nEl oficialismo era el favorito en estas elecciones, en las que no hubo presencia de observadores independientes.\nPartidos como Yatama y CxL ya habían divulgado su escepticismo con la transparencia de dichas elecciones, que se desarrollaron en medio de la peor crisis sociopolítica del país en décadas.\nLa crisis en Nicaragua ha dejado decenas de muertos, presos y desaparecidos, así como miles de heridos y decena de miles de personas en el exilio.\nLumberto Campbell, presidente del Consejo Supremo Electoral (CSE). EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "El FSLN domina las elecciones del Caribe de Nicaragua entre las denuncias de anomalías",
+    "uuid": "090607ce-8e5b-3c23-85d7-96507f2d9c17"
+}

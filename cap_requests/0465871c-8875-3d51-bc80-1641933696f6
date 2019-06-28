@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:31:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e國發會：108年1月份景氣燈號轉黃藍燈 (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e國發會4日公布今年1月景氣燈號轉為代表景氣「趨弱」的黃藍燈，綜合判斷分數增加4分、升至20分，主因是貨幣總計數M1B從黃藍燈轉呈綠燈、機械及電機設備進口值由綠燈轉呈黃紅燈，批發、零售及餐飲營業額則從藍燈轉呈綠燈所致。\u003c/p\u003e\n\u003cp\u003e中央社記者張皓安攝　108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/0855a9b7a1159af82eb3be1220722163\" width=\"630\" height=\"443\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "國發會：108年1月份景氣燈號轉黃藍燈 (圖)",
+    "uuid": "0465871c-8875-3d51-bc80-1641933696f6"
+}

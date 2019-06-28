@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:31:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e内银股走强 交通银行(03328)升5.28%领涨\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/973929b94770abe4110c7e023601ba1a\" border=\"0\" alt=\"K\u0026#x0056fe; 03328_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e内银股今日集体走强，截至发稿，交通银行(03328)涨5.28%，重庆农商行(03618)、天津银行(01578)涨超3%，郑州银行(06196)、重庆银行(01963)、招商银行(03968)涨超2%。\u003c/p\u003e\u003cp\u003e分析人士表示，银行业净利增速平稳但拨备提升，业绩较为平稳。宽信用政策逐步发挥效果，社融增速迎来拐点。在利率维持低位叠加政策驱动下，有望迎来投资机会，但趋势性向上机会仍需等待国内经济数据印证。\u003c/p\u003e\u003cp\u003e（文章来源：智通财经网）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000888.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000888.shtml"
+    },
+    "request_path": "requests",
+    "title": "内银股走强 交通银行(03328)升5.28%领涨",
+    "uuid": "0756cfd8-5fb7-3e64-b3e7-75569d9eb3bd"
+}

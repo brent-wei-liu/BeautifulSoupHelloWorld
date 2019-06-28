@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:00:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePuerto Rico celebrará primera convención dedicada a hospitalidad y turismo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSan Juan, 4 mar (EFEUSA).- La directora ejecutiva de la Compañía de Turismo de Puerto Rico (CTPR), Carla Campos, anunció hoy que el 13 y 14 de marzo próximos se llevará a cabo el \u0026quot;Puerto Rico HotelierCon\u0026quot;, la primera convención educativa dedicada a los temas de hospitalidad y turismo en la isla.\nSegún se explicó en un comunicado de prensa, el \u0026quot;Puerto Rico HotelierCon\u0026quot; se creó con miras a mejorar la competitividad de la industria turística y elevar los estándares de calidad para proveer, tanto a residentes como visitantes, una experiencia de excelencia al disfrutar de los atractivos de la isla caribeña.\nEl evento, que se llevará a cabo en el Centro de Convenciones de Cabo Rojo (suroeste), constará de 36 conferencias y sobre 30 exhibidores con productos, servicios y tecnología moderna, dirigidos al desarrollo del talento local dentro de la industria de la hospitalidad y el turismo.\nDentro de dicha industria se incluyen hoteles, restaurantes, agentes de viajes, transportistas, municipios, agencias gubernamentales, organizaciones que proveen servicios turísticos y toda persona interesada en los ofrecimientos y oportunidades de la economía del visitante.\n\u0026quot;La educación continua es clave para el crecimiento profesional de todo el que forma parte de la cadena de valor del turismo. Conocer sobre nuevas tendencias e informarse sobre lo último en la innovación turística, es importante para posicionarnos como destino de vanguardia internacionalmente\u0026quot;, dijo Campos.\nPor su parte, el organizador del evento, Xavier Ramírez, de XJTT Hospitality, destacó que con esta convención, \u0026quot;hemos querido contribuir a acelerar el crecimiento profesional de nuestros empresarios y mejorar la competitividad de todos los sectores de nuestra industria\u0026quot;.\nImagen de la playa de Luquillo (Puerto Rico) al atardecer. EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Puerto Rico celebrará primera convención dedicada a hospitalidad y turismo",
+    "uuid": "00d3d500-557c-3780-a49b-52679134e0d0"
+}

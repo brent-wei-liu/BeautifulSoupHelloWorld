@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T21:31:50Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFidel Kuri regala cervezas a aficionados de Veracruz\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eCIUDAD DE MÉXICO, marzo 3 (EL UNIVERSAL).- Fidel Kuri sabe que su equipo está descendido, pero eso no le quita que siga ejerciendo actitudes populistas con la afición. En pleno juego contra el Toluca, el dueño del Veracruz se dedicó a \u0026quot;dispararle las chelas\u0026quot; a los jarochos que fueron al Nemesio Díez a ver a los Tiburones.\n\u0026quot;Cervezas para todos\u0026quot;, gritaba el cubetero, y otra voz rezaba, \u0026quot;se las mandó Kuri, gracias señor Kuri\u0026quot;. El partido terminó 3-1 a favor de los Diablos Rojos y el descenso de los escualos está muy cerca de consumarse.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Fidel Kuri regala cervezas a aficionados de Veracruz",
+    "uuid": "0328f853-d558-32bf-b734-7db6db55a519"
+}

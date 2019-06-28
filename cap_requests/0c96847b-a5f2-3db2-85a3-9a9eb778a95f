@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:52:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTelefónica y Hutchison sellan una alianza para ofrecer servicios a empresas\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- Telefónica y el grupo de empresas del conglomerado Hutchison Holdings (CKHH) han suscrito una alianza comercial para ofrecer comunicaciones fijas, móviles y otros servicios de comunicación digital a grandes empresas y multinacionales, un acuerdo que no se extenderá al Reino Unido.\nEn este sentido, Telefónica y CKHH han acordado no colaborar \u0026quot;de ninguna manera\u0026quot; en Reino Unido, donde continúan operando y compitiendo de forma independiente.\nComo parte del acuerdo, 3 Group Europe de CKHH se unirá a otros 10 operadores que ya son socios de Telefónica dentro de su programa de socios \u0026quot;Partners Program\u0026quot;, operadores presentes en 65 países y que cuentan con un total de 1.800 millones de clientes.\nEl acuerdo se desplegará inicialmente en Italia a través de Wind Tre, a lo que le seguirán las operaciones de telecomunicaciones de 3 Group en Austria, Dinamarca, Irlanda y Suecia.\nAmbas operadoras han puesto el foco en dar servicio a las multinacionales y las grandes empresas en sus respectivas zonas geográficas y ofrecerles apoyo en sus iniciativas de transformación digital.\nAdemás, ambas partes aprovecharán su oferta de productos y sus equipos de ventas para mejorar su capacidad conjunta de ofrecer soluciones punteras en estos mercados, según han indicado en un comunicado.\nSegún ha señalado el director de Alianzas Estratégicas de Telefónica, Jacobo García-Palencia, la alianza con CK Hutchison aportará grandes beneficios a ambos grupos y ayudará a mejorar la red de socios de telecomunicaciones a nivel internacional.\nPor su parte, la directiva de Hutchison Susan Buttsworth ha indicado que esta alianza con Telefónica es clave para su estrategia de crecimiento y permite mejorar su servicio, al tiempo que da acceso a otras soluciones digitales a través de la red de Telefónica en el resto de Europa y Latinoamérica.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Telefónica y Hutchison sellan una alianza para ofrecer servicios a empresas",
+    "uuid": "0c96847b-a5f2-3db2-85a3-9a9eb778a95f"
+}

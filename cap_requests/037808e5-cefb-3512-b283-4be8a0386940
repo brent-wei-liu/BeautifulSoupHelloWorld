@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:57:47Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFacebook Messenger: un simple emoji permet d’activer le mode sombre\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eSi des “easter eggs” - des fonctions cachées que l’utilisateur doit découvrir - sont régulièrement dévoilés sur les voitures Tesla, d’autres entreprises de la Silicon Valley en sont friandes. C’est le cas de Facebook, qui a discrètement activé le mode sombre sur son application Messenger… mais à une condition: que l’utilisateur envoie l’emoji “croissant de Lune” dans une conversation. La fonction a été découverte par un membre du forum Reddit.\u003c/p\u003e\n\u003cp\u003eUne fois l’emoji envoyé, un message apparaît dans la partie supérieure de la conversation. Il redirige vers la page dédiée aux paramètres de l’application, qui permet alors d’activer le mode sombre. Ce dernier place alors l’ensemble des conversations et des menus de Facebook Messenger sur fond noir.\u003c/p\u003e\n\u003ch3 style=\"color:#333;font-family:arial, helvetica, sans-serif;font-size:23px;font-weight:700;\"\u003eLes avantages du mode sombre\u003c/h3\u003e\n\n\u003cp\u003eSi le mode sombre a un intérêt d’ordre esthétique aux yeux de certains, il a également pour avantage de diminuer la quantité de lumière émise par le smartphone lorsque l’application est active. Ce qui a pour effet de diminuer la fatigue oculaire. La fonction est également bénéfique à la “santé” du smartphone.\u003c/p\u003e\n\u003cp\u003eDe plus en plus fréquents ces dernières années, les smartphones équipés d’un écran OLED affichent des noirs absolus, bénéficiant d’un taux de contraste infini. Une qualité liée à la technologie OLED, qui, pour produire la couleur noire, “désactive” les pixels de la...\u003c/p\u003e\u003ca href=\"https://www.bfmtv.com/tech/facebook-messenger-un-simple-emoji-permet-d-activer-le-mode-sombre-1645221.html#xtor=AL-68\"\u003eLire la suite sur BFMTV.com\u003c/a\u003e\u003cbr /\u003e\u003ch3\u003eA lire aussi\u003c/h3\u003e\u003cul\u003e\u003cli\u003e\u003ca href=\"https://www.bfmtv.com/societe/le-grand-debat-national-se-deplace-sur-la-messagerie-instantanee-de-facebook-1637993.html#xtor=AL-68\"\u003eLe grand débat national se déplace sur la messagerie instantanée de Facebook\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.bfmtv.com/tech/facebook-messenger-un-simple-emoji-permet-d-activer-le-mode-sombre-1645221.html"
+    },
+    "request_path": "requests",
+    "title": "Facebook Messenger: un simple emoji permet d’activer le mode sombre",
+    "uuid": "037808e5-cefb-3512-b283-4be8a0386940"
+}

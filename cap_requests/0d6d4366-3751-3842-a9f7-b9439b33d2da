@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 431\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, episode final Spesial Akhir Tahun ditayangkan. Tim So Min kembali ke Korea setelah gagal menyelesaikan misi selagi dua tim lainnya sukses. Setelah itu, lomba baru untuk merayakan Natal siap dilaksanakan. Bintang tamu spesial, Soo Young, Sung Hoon, Seon Hwa, Hye Bin, Chi Yeul, dan Ha Na bergabung untuk berpartisipasi di lomba baru, Spesial Hari Natal.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 431",
+    "uuid": "0d6d4366-3751-3842-a9f7-b9439b33d2da"
+}

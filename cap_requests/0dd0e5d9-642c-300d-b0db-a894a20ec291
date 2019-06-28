@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:16:38Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJadwal Pertandingan Grup E Piala Presiden 2019, Senin 4 Maret\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv id=\"page-1\"\u003e\u003cp\u003e\u003cb\u003eBola.com, Jakarta -\u003c/b\u003e Setelah Grup A dan Grup B melakoni laga pertama di penyisihan \u003cstrong\u003e\u003ca href=\"https://www.bola.com/tag/piala-presiden-2019\" target=\"_blank\"\u003ePiala Presiden 2019\u003c/a\u003e\u003c/strong\u003e yang ditayangkan di Indosiar, giliran tim-tim yang berada di Grup E yang bertanding, pada hari ini, Senin (4/3/2/2019).\u003c/p\u003e\n\u003cp\u003eEmpat tim yang tergabung di Grup E adalah Arema sebagai tuan rumah, Barito Putera, Persela Lamongan, dan klub undangan dari Liga 2 2019, Persita Tangerang.\u003c/p\u003e\n\u003cp\u003eSeluruh pertandingan di Grup E digelar di Stadion Kanjuruhan, Kabupaten Malang.\u003c/p\u003e\n\u003cp\u003eDuel seru langsung tersaji di partai perdana Grup E, menyajikan laga Arema kontra Barito Putera. Arema ingin menuai hasil bagus di \u003ca href=\"https://www.bola.com/indonesia/read/3908425/melvin-platje-sebut-bek-timnas-indonesia-pemain-terbaik-duel-bali-united-vs-mitra-kukar\" title=\"Piala Presiden 2019\"\u003e\u003cstrong\u003ePiala Presiden 2019\u003c/strong\u003e\u003c/a\u003e setelah gagal di Piala Indonesia 2018. \u003c/p\u003e\n\u003cp\u003eDengan raihan apik itu, tim Singo Edan ingin mengembalikan kepercayaan suporter setia yang kecewa atas kegagalan dini di Piala Indonesia. Caranya, tentu dimulai dengan mengalahkan Barito Putera agar jalan melaju ke fase selanjutnya menjadi terbuka.\u003c/p\u003e\n\u003cp\u003eHanya, Arema lagi-lagi tak bisa menyajikan komposisi terbaik saat melawan Barito Putera. Ada pemain yang absen karena cedera. Sebaliknya, dalam dua pekan terakhir, Barito intens menggelar persiapan di Kota Batu, sehingga tim asuhan pelatih Jacksen F. Tiago ini cukup percaya diri meladeni tuan rumah.\u003c/p\u003e\n\u003cp\u003ePada laga lain tersaji duel Persita versus Persela. Pertandingan ini layak dilabeli duel sesama tim kuda hitam menyusul status dua tim itu, yang merupakan non-unggulan di Grup E.\u003c/p\u003e\n\u003cp\u003eDi sisi lain, dua pertandingan di Grup E \u003ca href=\"https://www.bola.com/indonesia/read/3906539/ditayangkan-di-indosiar-berikut-ini-jadwal-piala-presiden-2019-selengkapnya\" title=\"Piala Presiden 2019\"\u003e\u003cstrong\u003ePiala Presiden 2019\u003c/strong\u003e\u003c/a\u003e pada Senin hari ini akan ditayangkan oleh Indosiar. Pencinta sepak bola Indonesia bisa melihat jadwal selengkapnya, di bawah ini.\u003c/p\u003e\n\u003cdiv\u003e\u003ciframe class=\"vidio-embed \" width=\"0\" height=\"0\" frameborder=\"0\" scrolling allowfullscreen\u003e\u003c/iframe\u003e\u003c/div\u003e\u003c/div\u003e\n\u003c!-- pagebreak --\u003e\n\u003cdiv id=\"page-2\"\u003e\u003ch2 class=\"multipage\"\u003eJadwal Grup E Piala Presiden 2019\u003c/h2\u003e\n\u003cp\u003e\u003cstrong\u003eSenin (4/3/2019)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eJam 15.30 WIB, Persita Tangerang vs Persela Lamongan\u003c/p\u003e\n\u003cp\u003eJam 18.30 WIB, Arema FC vs Barito Putera\u003c/p\u003e\n\u003cp\u003eStadion: Kanjuruhan, Malang\u003c/p\u003e\n\u003cp\u003eLive: Indosiar\u003c/p\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.bola.com/indonesia/read/3908436/jadwal-pertandingan-grup-e-piala-presiden-2019-senin-4-maret?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Jadwal Pertandingan Grup E Piala Presiden 2019, Senin 4 Maret",
+    "uuid": "0dd0e5d9-642c-300d-b0db-a894a20ec291"
+}

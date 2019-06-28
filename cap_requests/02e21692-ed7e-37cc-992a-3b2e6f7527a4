@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:22:51Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 362\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, Park Seo Joon dan Kang Ha Neul bergabung dengan anggota Running Man. Ada beberapa penjahat, petugas polisi, seorang agen rahasia, dan seorang bos. Polisi harus menemukan identitas bosnya dan penjahat harus menemukan koper berisi uang. Siapakah yang akan menang dan siapakah bosnya?\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 362",
+    "uuid": "02e21692-ed7e-37cc-992a-3b2e6f7527a4"
+}

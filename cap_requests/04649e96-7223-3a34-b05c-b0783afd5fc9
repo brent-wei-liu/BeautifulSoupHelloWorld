@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:55:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNoticia Goal: Milán, dispuesto a poner toda la carne en el asador por Cucurella\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eSin duda, es uno de los grandes nombres de esta Liga. \u003ca href=\"https://www.goal.com/es/noticias/quien-es-marc-cucurella-la-pesadilla-del-real-madrid-en/1k3od60wywrbx1r525akcjmz4c\"\u003e\u003cstrong\u003eMarc Cucurella,\u003c/strong\u003e\u003c/a\u003e volante del SD Eibar, está en la agenda de los grandes clubes europeos. Según ha podido saber \u003cem\u003e\u003cstrong\u003eGoal,\u003c/strong\u003e\u003c/em\u003e cuenta con varias ofertas importantes para este verano. Producto de La Masia azulgrana, Marc ha despuntado a las órdenes de \u003ca href=\"https://www.goal.com/es/partido/eibar-v-celta-de-vigo/cr%C3%B3nica/9jusqds9b31o4ofvczt2u88dm\"\u003e\u003cstrong\u003eJosé Luis Mendilíbar, \u003c/strong\u003e\u003c/a\u003ecuajando una temporada excelente con el conjunto armero. Sus prestaciones, goles y condiciones no han pasado inadvertidas para varios clubes potentes del Viejo Continente. Según fuentes consultadas por\u003cem\u003e\u003cstrong\u003e Goal, \u003c/strong\u003e\u003c/em\u003eel club más interesado en hacerse con los servicios de Cucurella es el \u003cstrong\u003eAC Milan\u003c/strong\u003e, que ya ha enviado varios emisarios para ver sus partidos en directo y que está dispuesto a entrar en la puja por el futbolista este mismo verano.\u003c/p\u003e\n\n\u003cp\u003e\u003cstrong\u003eHace unas semanas, el club de San Siro sondeó el fichaje de Cucurella\u003c/strong\u003e. Eso sí, en el futuro de \u0026quot;\u003cstrong\u003eCucu\u0026quot;\u003c/strong\u003e existen varios condicionantes: el club que quiera comprar sus derechos económicos tiene que hablar antes con FC Barcelona y SD Eibar. El conjunto armero tiene una opción de compra de dos millones que podrían ejecutar visto el rendimiento del jugador, aunque el Barça también podría activar su cláusula de recompra, que asciende a cuatro \u0026quot;kilos\u0026quot;. El \u003ca href=\"https://www.goal.com/es/equipo/milan/9dntj5dioj5ex52yrgwzxrq9l\"\u003e\u003cstrong\u003eAC Milan\u003c/strong\u003e\u003c/a\u003e está dispuesto a poner toda la carne en el asador por Cucurella y estaría dispuesto a ofrecer una suculenta suma de dinero por él, tanto al SD Eibar como al FC Barcelona. De hecho, parece dispuesto a alcanzar las dos cifras por su traspaso y podría ofrecer hasta 10-11 millones por el jugador.\u003c/p\u003e\n\n\u003cp\u003eNo es el único club interesado en Marc Cucurella. También está en la órbita de dos \u0026quot;grandes\u0026quot; de la Bundesliga alemana. Según le consta a Goal, tanto el \u003cstrong\u003eBorussia de Dortmund \u003c/strong\u003ecomo el \u003cstrong\u003eBorussia Mönchengladbach\u003c/strong\u003e están siguiendo los pasos del canteran azulgrana y verían con buenos ojos la posibilidad de activar un traspaso este verano. \u0026quot;Novias\u0026quot; no le faltan a \u0026quot;Cucu\u0026quot;.\u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Noticia Goal: Milán, dispuesto a poner toda la carne en el asador por Cucurella",
+    "uuid": "04649e96-7223-3a34-b05c-b0783afd5fc9"
+}

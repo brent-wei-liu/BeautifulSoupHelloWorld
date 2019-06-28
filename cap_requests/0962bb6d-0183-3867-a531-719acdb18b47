@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:26:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e冬季風暴襲美多地 暴雪下8000萬人受影響\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【星島日報報道】（星島日報報道）受冬季風暴影響，美國西部至東北部氣溫驟降，預料積雪可厚達十吋，風雪橫掃科羅拉多州至緬因州，超過八千萬人受到影響。部分市鎮宣布進入降雪緊急狀態，天氣或將導致航班延誤，紐約市所有公立學校停課。\n\n　　氣象預報網站AccuWeather高級氣象學家里珀特表示，今次冬季風暴威力強大，並逐步向西推進，預料低溫將持續一段時間。紐約、費城和波士頓周日迎來大雪，氣象部門警告雨雪天氣令地面濕滑，建議市民外出時提防「危險情況」。受惡劣天氣影響，紐約市及波士頓所有公立學校周一停課。\n\n　　各州政府在暴風雪來臨前做好準備，新澤西州州長墨菲周日宣布進入緊急狀態，並啟動國家緊急行動中心監測風暴，交通部門派出二千五百多架鏟雪車候命，以保持道路暢通。氣象局預測，風暴系統將由東北部向大西洋移動。賓夕凡尼亞州、新英格蘭部分地區會有一呎厚積雪，冬季風暴同樣為東南部帶來大雨，並可能出現龍捲風、洪水氾濫。風雪雖然為居民生活帶來不便，但也紓緩了加州的乾旱。\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://hd.stheadline.com/news/daily/wo/\" target=\"_blank\"\u003e睇更多\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "冬季風暴襲美多地 暴雪下8000萬人受影響",
+    "uuid": "0962bb6d-0183-3867-a531-719acdb18b47"
+}

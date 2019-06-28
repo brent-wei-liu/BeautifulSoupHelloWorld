@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:35:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNBA／楊恩遭驅逐　裁判解釋原因\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e體育中心／綜合報導\u003c/p\u003e\n\n\u003cp\u003e亞特蘭大老鷹菜鳥控衛楊恩（Trae Young）今（4日）在作客芝加哥公牛的比賽因進球後給了對手一個「死之注視」而遭到驅逐出場，不過被他瞪的公牛後衛Kris Dunn賽後表示不認為此事有嚴重到要驅逐的地步，裁判也特別為此說明。\u003c/p\u003e\n\n\u003cp\u003e\u003cimg src='http://media.zenfs.com/zh-Hant-HK/homerun/setn_com_683/c4ce4ae26223b07f8f517f01d044f9c2' width='510' height='287' align='middle' class='editorial'/\u003e\u003c/p\u003e\n\n\u003cp\u003e▲亞特蘭大老鷹菜鳥控衛Trae Young。（圖／翻攝自推特）\u003c/p\u003e\n\n\u003cp\u003eYoung在此役第3節的一次快攻中，帶球到三分線外兩大步就突然拔起跳投，籃球也應聲入網，投進大號三分球的Young隨後注視著對位防守自己的公牛後衛Kris Dunn，頗有挑釁意味，接著就收到了2次技術犯規，遭受到驅逐出場的命運。\u003c/p\u003e\n\n\u003cp\u003e「在我看來，我不認為他（Trae Young）該被驅逐出場。」Dunn賽後受訪時表示。\u003c/p\u003e\n\n\u003cp\u003eNBA裁判組的官方推特也在賽後公布了此判決的報告書，表示Young的第一次技術犯規是他在暫停時間和Dunn有肢體接觸，是一個雙重技術犯規，而他的第二次技術犯規則是因為瞪對手具有挑釁、嘲諷意味，單場2次技術犯規得驅逐。\u003c/p\u003e\n\n\u003cp\u003eYoung此役在遭到驅逐之前，留下出賽18分鐘3秒，9投6中、三分球投4中3、罰球3罰全中，得到18分、2籃板、5助攻數據，終場老鷹123：118勝出，報前場被公牛攻破主場之仇。\u003c/p\u003e\n\n\u003cp\u003e\u0026#160; \u0026#160;APP用戶觀看Trae Young怒瞪對手影片請點此》\u003ca href=\"https://goo.gl/eSHuAk\" target=\"_blank\"\u003ehttps://goo.gl/eSHuAk\u003c/a\u003e\u003c/p\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多三立新聞網報導\u003c/span\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=506847\u0026#38;from=y\"\u003e影／太囂張？老鷹楊恩進球瞪對手遭驅逐\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=506568\u0026#38;from=y\"\u003e影／輸到心累了？詹皇超離譜失誤…不忍看\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=506593\u0026#38;from=y\"\u003e加州警誤殺黑人爸逃責　暖心表弟這樣做\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.setn.com/News.aspx?NewsID=506808\u0026#38;from=y\"\u003e影／豪手感冷！可愛休兵　暴龍延長不敵活塞\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.setn.com/News.aspx?NewsID=506962"
+    },
+    "request_path": "requests",
+    "title": "NBA／楊恩遭驅逐　裁判解釋原因",
+    "uuid": "0359f998-0c5e-3484-a1af-f85a55a64898"
+}

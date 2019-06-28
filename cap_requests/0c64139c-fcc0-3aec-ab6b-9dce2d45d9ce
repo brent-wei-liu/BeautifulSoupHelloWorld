@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:10:47Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《股利-資訊服務》凌網科技擬配息1.5元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報-台北電】凌網科技 (5212) 董事會決議配息1.5元，6月12日股東會，地點:新竹縣竹北市台元一街N棟會館2樓(台元科技園區第三期多功能會議室)。(編輯整理：莊雅珍)\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《股利-資訊服務》凌網科技擬配息1.5元",
+    "uuid": "0c64139c-fcc0-3aec-ab6b-9dce2d45d9ce"
+}

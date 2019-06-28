@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:50:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBorrell: \u0026quot;La igualdad entre hombres y mujeres es una cosa de hombres\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"https://media.zenfs.com/es/huffpost_es_19/ec57698152c36c82628e06f0192bf87e\" alt=\"EFE\"/\u003e\u003cp\u003eEl ministro de Asuntos Exteriores, \u003ca href=\"https://www.huffingtonpost.es/author/josep-borrell/\" target=\"_blank\"\u003eJosep Borrell\u003c/a\u003e, ha asegurado este lunes estar convencido de que \u0026quot;la igualdad entre hombres y mujeres es una cosa de hombres\u0026quot;, y un asunto en el que los hombres \u0026quot;se deben comprometer\u0026quot;.\u003c/p\u003e\u003cp\u003eSubido en un pequeño escenario en la Plaza de Santa Cruz, frente a la sede del Ministerio, rodeado de altos cargos de su departamento y bajo un enorme cartel con el lema \u0026quot;8 de marzo, día internacional de la mujer\u0026quot;, Borrell ha querido así comprometer a todos en la lucha por la igualdad tanto en España como en el extranjero, a través de la cooperación al desarrollo.\u003c/p\u003e\u003cp\u003eSegún Borrell, la igualdad \u0026quot;debe estar por encima de la contienda\u0026quot; política, partidista y electoral, ya que \u0026quot;no es un problema de mujeres que piden sus derechos, sino de hombres que se comprometen con ellos, y hasta que no cambie nuestro esquema mental y asumamos que eso es una exigencia de ciudadanía plena, esa batalla no se va a ganar\u0026quot;.\u003c/p\u003e\u003cp\u003ePor eso ha agradecido a un buen número de embajadoras acreditadas en España que se hayan acercad a compartir este acto con Exteriores y ha \u0026quot;lamentado que no haya más embajadores presentes\u0026quot;.\u003c/p\u003e\u003cp\u003eAsí, ha señalado que las políticas de igualdad deben estar \u0026quot;plenamente asumidas por todos, y en particular por la política exterior de España\u0026quot;.\u003c/p\u003e\u003cp\u003ePor ello, buena parte de la política de cooperación española está centrada en contribuir a resolver los problemas de la igualdad porque las ideas de superioridad del hombre \u0026quot;están profundamente ancladas en las dimensiones culturales antropológicas de buena parte de la humanidad\u0026quot;.\u003c/p\u003e\u003cp\u003eBorrell ha señalado que, en esta materia, \u0026quot;todavía queda un larguísimo trecho por hacer, y el ministerio quiere contribuir a ello\u0026quot;; no solo en el extranjero, sino también en España e incluso en el Ministerio de Exteriores, \u0026quot;donde hay cosas que parecerían fáciles pero luego resulta que no lo son, como conseguir una presencia paritaria en el cuerpo diplomático\u0026quot;.\u003c/p\u003e\u003cp\u003eTambién la directora general de la Agencia Española...\u003c/p\u003e\u003ca href=\"https://www.huffingtonpost.es/2019/03/04/borrell-la-igualdad-entre-hombres-y-mujeres-es-una-cosa-de-hombres_a_23683640/?ncid=yhpf\"\u003eSigue leyendo en El HuffPost\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.huffingtonpost.es/2019/03/04/borrell-la-igualdad-entre-hombres-y-mujeres-es-una-cosa-de-hombres_a_23683640/?ncid=yhpf"
+    },
+    "request_path": "requests",
+    "title": "Borrell: \u0026quot;La igualdad entre hombres y mujeres es una cosa de hombres\u0026quot;",
+    "uuid": "0a813758-f8e3-3f79-9d61-ee9a490a64ac"
+}

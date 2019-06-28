@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:06:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中鋼3/5參加元富證舉辦之法說會\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e公開資訊觀測站重大訊息公告\u003cbr\u003e\u003cbr\u003e(2002)中鋼-本公司將於108年3月5日參加元富證券於台北舉辦之「2019年春季元富投資論壇」法人說明會\u003cbr\u003e\u003cbr\u003e符合條款第四條第XX款：12\u003cbr\u003e事實發生日：108/03/05\u003cbr\u003e\u003cbr\u003e1.召開法人說明會之日期：108/03/05\u003cbr\u003e2.召開法人說明會之時間：14 時 30 分 \u003cbr\u003e3.召開法人說明會之地點：台北市敦化南路二段95號B2(敦南大樓)\u003cbr\u003e4.法人說明會擇要訊息：本公司業務及財務相關資訊 (含部分截至108年01月份之自結財務資訊)\u003cbr\u003e5.其他應敘明事項：無\u003cbr\u003e完整財務業務資訊請至公開資訊觀測站之法人說明會一覽表或法說會項目下查閱。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "中鋼3/5參加元富證舉辦之法說會",
+    "uuid": "023b4521-cdca-3106-8aba-338e07d2a628"
+}

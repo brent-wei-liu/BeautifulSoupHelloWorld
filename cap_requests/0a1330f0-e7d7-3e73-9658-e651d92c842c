@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:20:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eProgramação esportiva de terça-feira\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eGLOBO\n12h52 Globo Esporte\n\nGAZETA\n18h00 Gazeta Esportiva\n\nBAND\n11h00 Jogo Aberto\n13h00 Os Donos da Bola\n01h00 Que Fim Levou?\n03h00 Jogo Aberto\n04h30 Os Donos da Bola\n\nESPN BRASIL\n07h00 Linha de Passe: Mesa Redonda\n09h00 ESPN Bom Dia - Ao Vivo\n12h00 ESPN AGORA - Ao Vivo\n12h30 Bate-Bola Debate - Ao Vivo\n15h30 Futebol No Mundo - Ao Vivo\n16h30 ESPN AGORA - Ao Vivo\n18h00 Futebol Na Veia - Ao Vivo\n20h00 Sportscenter - Ao Vivo\n21h00 Linha de Passeh Mesa Redonda - Ao Vivo\n22h00 Bola da Vezh José Carlos Araújo\n23h30 Sportscenter - Ao Vivo\n\nSPORTV\n07h45 Giro da Rodada\n08h45 SporTV News - Ao Vivo\n09h45 Redação SporTV - Ao Vivo\n12h30 Seleção SporTV - Vivo\n16h00 Globo Esporte\n16h20 Tá na Área - Ao Vivo\n18h30 Pré Jogo - Ao Vivo\n19h15 Melgar (PER) x San Lorenzo (ARG) - Ao Vivo\n21h15 Pré Jogo - Ao Vivo\n22h00 Torneio Internacional de Futebol Femininoh Eua x Brasil - Ao Vivo\n\nFOX SPORTS\n07h00 Infocomercial\n08h00 Visão Fox\n08h30 Central Fox\n09h00 Bom Dia Fox - Ao Vivo\n11h15 Central Fox - Ao Vivo\n12h00 Giro FOX - Ao Vivo\n12h45 Fox Sports Rádio - Ao Vivo\n15h30 Tarde Redonda - Ao Vivo\n17h00 Expediente Futebol - Ao Vivo\n18h30 Pré Jogo - Ao Vivo\n19h10 San Jose x Flamengo - Ao Vivo\n21h15 Pré Jogo - Ao Vivo\n21h25 Tolima x Athletico PR - Ao Vivo\n23h30 Central Fox - Ao Vivo\n\n*Programação sujeita a alterações\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://folhapress.folha.com.br/texto/1517157"
+    },
+    "request_path": "requests",
+    "title": "Programação esportiva de terça-feira",
+    "uuid": "0a1330f0-e7d7-3e73-9658-e651d92c842c"
+}

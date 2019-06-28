@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:49:46Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGriechenland legt erstmals seit 2010 zehnjährige Anleihe auf\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cfigure\u003e\n       \u003cimg class=\"editorial\" src=\"http://media.zenfs.com/de-DE/homerun/dpa_665/33248668daff61e42f9736bf556703d9\" alt=\"Erst im Sommer 2008 ist das dritte und letzte internationale Hilfsprogramm f\u0026#xfc;r Griechenland ausgelaufen. Seither muss sich Athen wieder aus eigener Kraft Geld beschaffen. Foto: Uli Deck\"/\u003e\n       \u003cfigcaption\u003e\u003cspan\u003eErst im Sommer 2008 ist das dritte und letzte internationale Hilfsprogramm für Griechenland ausgelaufen. Seither muss sich Athen wieder aus eigener Kraft Geld beschaffen. Foto: Uli Deck\u003c/span\u003e\u003c/figcaption\u003e\n      \u003c/figure\u003e\n \u003cp\u003eAthen (dpa) – Griechenland hat erstmals seit Beginn der Finanzkrise den Verkauf einer zehnjährigen Staatsanleihe in die Wege geleitet. \u003c/p\u003e\n              \n\n\u003cp\u003eDies berichtete das Staatsfernsehen (ERT) unter Berufung auf die griechische Schuldenagentur PDMA. Auf diesem Weg sollten etwa zwei bis drei Milliarden Euro am Kapitalmarkt aufgenommen werden. \u003c/p\u003e\n              \n\n\u003cp\u003eSeit März 2010 hatte es keine griechischen Staatsanleihen mit zehnjähriger Laufzeit mehr gegeben. Damals hatte sich das Land fünf Milliarden Euro zu einem Zinssatz von 6,25 Prozent geliehen. Allerdings musste Athen nur wenige Wochen später internationale Hilfe beantragen, um sich vor der Pleite zu retten. \u003c/p\u003e\n              \n\n\u003cp\u003eErst im Sommer 2008 ist das dritte und letzte internationale Hilfsprogramm für Griechenland ausgelaufen. Seither muss sich Athen wieder aus eigener Kraft Geld beschaffen.\u003c/p\u003e\n              \n\n\u003cp\u003eDie Rendite für die aktuellen Staatsanleihen war auf etwa 3,6 Prozent gefallen. Dies ist der niedrigste Stand seit mehr als zwölf Jahren. Langfristige Staatsanleihen sowie ihre Rendite gelten als Maßstab für die Kreditwürdigkeit eines Landes. Zum Vergleich: Deutschland genießt an den Finanzmärkten viel mehr Vertrauen - der Bund kann sich schon für deutlich unter einem Prozent Geld besorgen. \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Griechenland legt erstmals seit 2010 zehnjährige Anleihe auf",
+    "uuid": "0a182f1b-d41c-3f46-b87c-1da85a3d5da6"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:35:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e百仕达控股(01168)预期年度由盈转亏 股东应占亏损逾2.5亿港元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/ce3fd73edeb23319281cc8b937c8a92f\" border=\"0\" alt=\"K\u0026#x0056fe; 01168_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e百仕达控股(01168)发布公告，该集团预期于截至2018年12月31日止年内取得该公司拥有人应占综合亏损不少于2.5亿港元，同比2017年12月31日止年内取得公司拥有人应占综合溢利1.1亿港元。\u003cbr /\u003e\u003c/p\u003e \u003cp\u003e基于公司目前可用相关资料，董事会认为公司拥有人应占款项预期亏损主要由于下列因素：\u003c/p\u003e \u003cp\u003e由截至2017年12月31日止年度的分占联营公司溢利9500万港元转为截至2018年12月 \u003c/p\u003e \u003cp\u003e31日止年内的分占联营公司亏损(主要来自汇兑亏损、投资物业估值及前期成本)不少于2.25亿港元；及\u003c/p\u003e \u003cp\u003e应收联营公司贷款(用于拨付上海一个房地产发展及房地产投资项目所需投资资金)的公平值减少不少于1.58亿港元(根据新订香港财务报告准则第9号“金融工具”评估公平值时已计及估计未来现金流量及按市场利率贴现的有关现金流量的时间计算)。\u003c/p\u003e\u003cp\u003e（文章来源：智通财经网）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001094.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001094.shtml"
+    },
+    "request_path": "requests",
+    "title": "百仕达控股(01168)预期年度由盈转亏 股东应占亏损逾2.5亿港元",
+    "uuid": "08f6190a-ffdc-375e-8c06-6fbb89c16cf8"
+}

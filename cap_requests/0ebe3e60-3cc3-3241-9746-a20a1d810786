@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-01T01:56:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e瑞士小廠推出價格僅 AirPods 一半的 ZePods 藍牙耳機\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e在 MWC 上，除了世界知名的大品牌爭奇鬥艷，會場也有許多小廠牌展出自家產品，譬如 MyKronoz 是一間過去是做智慧手錶的廠商，台灣也能買到他們家的產品。該公司今年打算推出全新產品 ZePods 真無線藍牙耳機，外型激似蘋果的 iPods，其中較貴的版本支援無線充電。\u003c/p\u003e \u003cp\u003e[[MORE]]\u003c/p\u003e \u003cp\u003e\u003cimg class='editorial' class=\"alignnone size-full wp-image-2021\" src=\"http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/e841af99d562cad867b8cdec422fcc30\" alt=\"IMG_20190226_114428\" width=\"1000\" height=\"802\"\u003e\u003c/p\u003e \u003cp\u003e\u003cspan id=\"more-2020\"\u003e\u003c/span\u003e\u003c/p\u003e \u003cp\u003eZePods 採用藍牙 5.0 規格，具有 IPX6 認證。官方宣稱單耳機續航可達 5 小時，搭配充電盒可替耳機充滿 3 次，共有 20 / 15 小時的續航（依照版本不同）。此外，它擁有降噪功能，內建的感測器可以實現 AirPods 實用的小功能，當耳機從耳朵取出會自動暫停音樂。\u003c/p\u003e \u003cp\u003e\u003cimg class='editorial' class=\"alignnone size-full wp-image-2023\" src=\"http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/3b0578bb0c9c674047603601769f953a\" alt=\"IMG_20190226_114543\" width=\"1000\" height=\"750\"\u003e\u003c/p\u003e \u003cp\u003e耳機共有兩個版本，方形的充電盒為 ZePods，售價 79 歐元，約台幣 2,700 元；較圓潤的為  ZePods+，支援無線充電，續航也較長，售價為 99 歐元，約台幣 3,400 元。兩款真無線藍牙耳機預計今年下半年上市。\u003c/p\u003e \u003ch3\u003e\u003cstrong\u003e\u003ca href=\"https://saydigi-tech.com/tag/mwc2019\"\u003e更多 MWC 2019 消息\u003c/a\u003e\u003c/strong\u003e\u003c/h3\u003e \u003cp\u003e看更多 點子生活 的相關文章：\u003cbr /\u003e \u003ca rel=\"nofollow\" href=\"https://www.facebook.com/iamKisplay/videos/583683035441062\" target=\"_blank\"\u003e摺疊螢幕手機動手玩\u003c/a\u003e\u003cbr /\u003e \u003ca rel=\"nofollow\" href=\"https://saydigi-tech.com/tag/mwc2019\" target=\"_blank\"\u003e各家摺疊螢幕手機都來了！\u003c/a\u003e\u003cbr /\u003e \u003ca rel=\"nofollow\" href=\"https://saydigi-tech.com/2019/02/1609.html\" target=\"_blank\"\u003e10倍光學變焦手機來了？\u003c/a\u003e\u003c/p\u003e \u003cp\u003e來源出處：\u003cbr /\u003e \u003ca rel=\"nofollow\" href=\"https://www.saydigi.com/2019/03/429736.html\" target=\"_blank\"\u003eSource\u003c/a\u003e\u003cbr /\u003e \u003ca rel=\"nofollow\" href=\"https://www.facebook.com/isaydigi\" target=\"_blank\"\u003e點子生活\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "瑞士小廠推出價格僅 AirPods 一半的 ZePods 藍牙耳機",
+    "uuid": "0ebe3e60-3cc3-3241-9746-a20a1d810786"
+}

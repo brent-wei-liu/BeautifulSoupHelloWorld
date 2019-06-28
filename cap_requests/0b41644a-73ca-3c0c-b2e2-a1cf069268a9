@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:44:54Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e無視當局逮捕威脅 委內瑞拉反對派領袖出訪歸國\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e自立為臨時總統的委內瑞拉反對派領袖瓜伊多，不理會執政者的威脅，結束出訪回國，受到幾萬名支持者熱烈歡迎，他因為違反限制住居令，有可能會被捕，不過，今天他回國時，美國與歐盟國家的外交官都到機場迎接，他被簇擁離開，他號召民眾繼續上街抗爭，要逼總統馬杜洛下台。（夏明珠報導）\u003c/p\u003e\u003cp\u003e瓜伊多已經獲得五十多國承認，他以爭取國際援助的理由出國，不過在當政者眼裡，這個舉動，充滿了挑釁的意味，四面楚歌、已經民心盡失的總統馬杜洛，揚言要逮捕他。總統鬧雙包的歹戲，已經持續一個多月，四面楚歌的馬杜洛，堅持自己是民選，也是唯一合法的總統，仗著俄羅斯以及中國撐腰，他拒絕辭職。\u003c/p\u003e\u003cp\u003e這場政治危機肇因於經濟崩潰，超高通膨，讓小老百姓生活過不下去，被迫離鄉背井去謀生路。馬杜洛去年卻在充滿了爭議的選舉中連任，今年一月，瓜伊多自立為臨時總統，效忠馬杜洛的最高法院，隨即對瓜伊多發出禁止出國的命令，不過瓜伊多有美國幫著壯膽，完全不理會馬杜洛政府的威脅。\u003c/p\u003e\u003cp\u003e面對國內外日益升高的壓力，馬杜洛還在硬撐，軍方的支持，非常關鍵，不過有未經證實的報導說，過去幾個禮拜，有五百多個軍人逃兵，跡象顯示，軍中基層已經開始鬆動，不過目前為止還沒有高級將領叛變。\u003c/p\u003e\n    \u003cp\u003e\n      \u003cimg align=\"middle\" class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/bcc.com.tw/b97f2c15f25b316774bb19b5827ed00d\" width=\"510\"/\u003e\n    \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "無視當局逮捕威脅 委內瑞拉反對派領袖出訪歸國",
+    "uuid": "0b41644a-73ca-3c0c-b2e2-a1cf069268a9"
+}

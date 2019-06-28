@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:49:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGold: Kaufzone definiert!\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eDer Goldpreis konsolidiert quasi mit Ansage. Der Bereich von 1.300 Dollar hat den Bullen keine Unterstützung bekommen. Doch die technischen Indikatoren haben sich mittlerweile deutlich abgekühlt. Die Terminmarktdaten von Mitte Februar, dem höchsten Stand bei Gold in dieser Bewegung, geben keinen Anlass zur Sorge. Es wird Zeit wieder aktiv nach Einstiegschancen zu suchen.\u003c/p\u003e\n\n\u003cp\u003eDie wichtigste Unterstützung liegt sicherlich im Bereich von 1.280/1.275 Dollar. Aber streng genommen muss auch ein Rücksetzer auf die 200-Tage-Linie, die aktuell im Bereich von 1.250 Dollar verläuft und gerade nach oben dreht, mit einkalkuliert werden. Mit anderen Worten: Anleger können auf diesem Niveau wieder damit beginnen, Positionen aufzubauen, sollten jedoch noch nicht das komplette Kapital, das sie einsetzen wollen, investieren, sondern sollten noch eine Reserve vorhalten, sollte Gold tatsächlich noch einmal einen Rücksetzer in Richtung der 200-Tage-Linie vollziehen.\u003c/p\u003e\n\n\u003cp\u003eAn dieser Stelle ein Blick auf den Goldpreis in Euro. Für Minenanleger spielt der Goldpreis in Euro kaum eine Rolle. Es gibt ganz wenige Gesellschaften, die sowohl ihre Kosten in Euro haben als auch ihre Einnahmen in Euro generieren. Der Goldpreis in Euro, der eigentlich nur ein Konstrukt aus dem Goldpreis in Dollar und dem Euro/Dollar-Wechselkurs ist, spielt vor allem bei dem Kauf und Verkauf von physischen Edelmetallen in Form von Münzen und Barren eine Rolle. Da sich Gold lange Zeit mit einem festen Dollar nach oben gearbeitet hat, hat der Goldpreis in Euro zuletzt besser performt. Doch auch hier hat der Rücksetzer der letzten Woche deutlich Spuren hinterlassen. Dennoch: Auch das war überfällig, da die technischen Indikatoren in den überkauften Bereich gedreht waren. Das Ganze hat sich mittlerweile deutlich abgekühlt. Auch hier lässt sich mittlerweile eine Kaufzone ausmachen. Diese beginnt praktisch auf dem aktuellen Niveau oder genauer im Bereich von 1.130 Euro je Unze und reicht hinunter bis zur 200-Tage-Linie, die bei 1.085 Dollar liegt.\u003c/p\u003e\n\n\u003cp\u003e\u003cimg alt=\"\" class=\"extern\" height=\"1\" src=\"https://media.zenfs.com/de/der_aktion_r_640/91c71e119f835b4888d6695a786cabdc\" width=\"1\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.deraktionaer.de/aktie/gold--kaufzone-definiert--451070.htm?ref=yf"
+    },
+    "request_path": "requests",
+    "title": "Gold: Kaufzone definiert!",
+    "uuid": "0197134e-e38e-38ff-8897-a1dad27f9360"
+}

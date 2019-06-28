@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:37:52Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中油氣價算錯　出包4天才發現　瓦斯多收可退費\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e▲台灣中油原3月1日公布國內家用液化石油氣（桶裝瓦斯）、工業用丙烷、丁烷及混合丙丁烷每公斤各調漲2.1元，不料經過4天後才發現出包。(圖／NOWnews資料庫)                                                 台灣中油原3月1日公布國內家用液化石油氣（桶裝瓦斯）、工業用丙烷、丁烷及混合丙丁烷每公斤各調漲2.1元，不料經過4天後才發現出包。中油今（4）日晚間表示，因作業人員疏失，將國際液化石油氣合約價誤植...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30317320.html"
+    },
+    "request_path": "requests",
+    "title": "中油氣價算錯　出包4天才發現　瓦斯多收可退費",
+    "uuid": "014f57db-650a-3b56-b29d-f58d2601906d"
+}

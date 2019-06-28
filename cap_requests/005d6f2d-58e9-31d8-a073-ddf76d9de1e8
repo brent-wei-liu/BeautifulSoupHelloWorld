@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:10:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLekue se incorpora al grupo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eBilbao, 4 mar (EFE).- Iñigo Lekue se ejercitó este lunes junto al resto de sus compañeros en el entrenamiento del Athletic Club en Lezama y podría regresar en breve a los terrenos de juego tras haberse pasado lesionado lo que va de temporada.\nLekue trabajó con aparente normalidad en la habitual sesión de recuperación tras partido, menos exigente para los titulares del domingo en Mestalla y más para el resto.\nEsa incorporación al grupo confirma la mejoría del jugador de Deusto, ya apuntada el jueves pasado por el club bilbaíno, de la \u0026quot;fractura del maléolo peroneo derecho\u0026quot; que sufrió el 23 de agosto de 2018 y le obligó a pasar por el quirófano cuatro días más tarde.\nCon la recuperación del lateral-extremo vizcaíno, los únicos lesionados en el Athletic son Aritz Aduriz, que será baja todavía unas semanas más por el esguince de rodilla que le tiene apartado de los terrenos de juego desde el 10 de enero, y Ander Capa, quien sufrió una lesión muscular el pasado jueves que le impidió jugar el domingo en Valencia y posiblemente también al menos este viernes frente al Espanyol en San Mamés (21.00 horas).\nEn la sesión de este lunes no salieron a los campos exteriores de Lezama cuatro de los titulares en Mestalla, los defensas Yeray Álvarez, Iñigo Martínez y Yuri Berchiche, y el centrocampista Beñat Etxebarria.\nSí participó en el entrenamiento el \u0026#39;cachorro\u0026#39; Jesús Areso, jugador de banda derecha como Capa, al que el Athletic echó en falta junto a Oscar de Marcos contra el Valencia.\nLa primera plantilla rojiblanca se tomará el martes jornada de descanso para volver el miércoles a los entrenamientos y empezar a preparar el choque frente al Espanyol.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Lekue se incorpora al grupo",
+    "uuid": "005d6f2d-58e9-31d8-a073-ddf76d9de1e8"
+}

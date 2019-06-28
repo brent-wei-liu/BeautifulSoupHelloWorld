@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:47:33Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e特朗普希望美元走软 新兴市场套利交易获亮“绿灯”\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e【彭博】-- 美国总统特朗普希望美元汇率走弱一些，这可能有助于将新兴市场货币的波动率维持在较低水平，延长发展中国家套利交易的坚持时间。\u003c/p\u003e\u003cp\u003e在特朗普称强势美元正在损害美国与其他国家做生意的能力之后，一项衡量美元兑10种主要全球货币的指数在周一止步于三连涨。新兴市场货币隐含波动率已跌至10个月低点，降低了套利交易的风险，因为剧烈波动可能会抹去从低息国家借钱投资高息国家的利润。\u003c/p\u003e\u003cp\u003e“这为新兴市场投资者继续增持新兴市场资产亮起绿灯，尽管这种交易已经很火了，”Ensemble Capital驻新加坡的首席投资官Damien Loh称。“发达市场--不仅仅是美元，仍将是上好的融资货币。”\u003c/p\u003e\u003cp\u003e随着包括美联储在内的主要央行转鸽，套利交易正在卷土重来、声势浩大，彭博一项衡量八种新兴市场货币套利策略回报的指数自9月低点以来上涨了9%。 \u003c/p\u003e\u003cp\u003e然而SBI证券驻东京的投资信托和固定收益部门总经理相马勉称，特朗普言论对美元的影响可能是短暂的。\u003c/p\u003e\u003cp\u003e“这不是特朗普头一次抱怨强势美元和批评美联储，因此对汇率的影响可能很短暂，”他说。“不会有人猜测美联储将受到特朗普言论的影响，而且潜在的强势美元趋势可能不会有任何变化。”\u003c/p\u003e\u003cp\u003e原文标题EM Carry Trades Get ‘Green Light’ as Trump Prefers Weaker Dollar\u003c/p\u003e\u003cp\u003e--联合报道 Yumi Teso.\u003c/p\u003e\u003cp\u003e欲联系记者请洽：Lilian Karunungan 新加坡 lkarunungan@bloomberg.net\u003c/p\u003e\u003cp\u003e欲联系英文编辑请洽：Tomoko Yamazaki tyamazaki@bloomberg.net, Karl Lester M. Yap\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "特朗普希望美元走软 新兴市场套利交易获亮“绿灯”",
+    "uuid": "09f1c85e-f08c-30e0-a58b-c76ff40c0245"
+}

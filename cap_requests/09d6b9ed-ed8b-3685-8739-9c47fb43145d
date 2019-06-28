@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:00:05Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePoliisilta lisätietoja Sipoon veriteosta – tutkitaan rikosnimikkeellä tappo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003ePoliisi kertoo saaneensa hälytyksen tehtävälle sunnuntaiaamuna.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/kotimaa/art-2000006022677.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Poliisilta lisätietoja Sipoon veriteosta – tutkitaan rikosnimikkeellä tappo",
+    "uuid": "09d6b9ed-ed8b-3685-8739-9c47fb43145d"
+}

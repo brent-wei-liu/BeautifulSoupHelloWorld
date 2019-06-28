@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:11:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEEUU despliega un escudo antimisiles en Israel un en ejercicio conjunto\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eJerusalén, 4 mar (EFE).- El Ejército de Estados Unidos comenzó hoy el despliegue de su escudo antimisiles de Defensa Terminal Áerea a Gran Altitud (THAAD) en Israel, en un ejercicio militar conjunto con las tropas israelíes que se realiza por primera vez en el país.\n\u0026quot;El despliegue de este sistema estadounidense en Israel enfatiza el compromiso de los Estados Unidos con la defensa y la seguridad israelí\u0026quot;, celebró el teniente coronel Jonathan Conricus, portavoz militar, en una rueda de prensa telefónica en la que informó de la activación, que pretende \u0026quot;mejorar la cooperación con los sistemas de defensa aérea\u0026quot; de la aviación israelí.\nConricus matizó que el ejercicio no tiene relación con ningún suceso o incidente militar en la región, y destacó que el sistema estadounidense THAAD \u0026quot;se une a las capacidades de defensa aérea del Ejército israelí contra los misiles balísticos de largo alcance, y es considerado como uno de los más avanzados de su tipo en el mundo\u0026quot;.\nCon el despliegue del Thaad \u0026quot;tenemos aún más poder para hacer frente las amenazas cercanas y lejanas de todo Oriente Medio\u0026quot;, declaró el primer ministro israelí, Benjamín Netanyahu, que agregó, supone \u0026quot;una prueba más del compromiso de Estados Unidos con la seguridad de Israel\u0026quot;, cuando la cooperación entre ambos países \u0026quot;nunca ha sido más fuerte\u0026quot;.\nLa batería antimisiles, que consta de al menos seis lanzaderas, será puesta en marcha por el Comando para Europa de EE.UU. (USEUCOM).\nLa operación durará varias semanas, involucrará a alrededor de 200 efectivos militares y se realizará en el sur de Israel, en un punto que el Ejército no ha determinado por motivos de seguridad, y pretende optimizar las capacidades de despliegue rápido de sistemas militares complejos de las fuerzas estadounidenses \u0026quot;por todo el mundo\u0026quot;.\nDurante el despliegue, además, los soldados estadounidenses \u0026quot;trabajarán en varias ubicaciones en todo Israel y practicarán procedimientos operativos para mejorar la arquitectura defensiva\u0026quot; en el aire, constató la Embajada de EE.UU. ante Israel en un comunicado.\n\u0026quot;Estas acciones hacen que nuestras actividades sean impredecibles para los adversarios, al tiempo que mantenemos la previsión estratégica para nuestros aliados\u0026quot;, concluyó la máxima legación diplomática estadounidense en el país.\nIsrael y Estados Unidos realizan cada año la Operación Juniper Cobra, un ciclo de maniobras militares con miles de efectivos que supone el mayor ejercicio militar conjunto entre ambos países. EFE\njma/mss/jmc\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "EEUU despliega un escudo antimisiles en Israel un en ejercicio conjunto",
+    "uuid": "08e69f20-dcdd-36d1-b1a2-02d1767daabf"
+}

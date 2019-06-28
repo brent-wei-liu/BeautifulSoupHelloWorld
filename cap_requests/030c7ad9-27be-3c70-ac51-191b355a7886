@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:54:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eIndonesia amplía una semana las operaciones de rescate de mineros sepultados\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eYakarta, 4 mar (EFE).-Las autoridades indonesias anunciaron hoy que ampliarán durante una semana las operaciones de rescate de decenas de mineros que quedaron sepultados el 26 de febrero tras el hundimiento de una explotación ilegal de oro en la isla de Célebes.\nHasta el momento, hay 9 muertos confirmados como consecuencia del accidente y 19 personas han sido rescatadas con vida, si bien no ha se ha producido ningún rescate desde el 1 de marzo, según informó en un comunicado el portavoz de la Agencia Nacional de Gestión de Desastres (BNPB, siglas en indonesio), Sutopo Purwo Nugroho.\nLa BNPB no ha podido confirmar el número exacto de mineros que fueron sepultados, que al principio calculó en torno a 60, debido a las informaciones contradictorias de familiares y residentes de la zona.\nEn la noche del 26 de febrero, un corrimiento de tierra provocó el colapso de las estructuras de madera que sustentaban la explotación ilegal, situada en el montañoso municipio de Bolaang Mongondow, en la provincia de Célebes del Norte.\n\u0026quot;La evacuación se ve dificultada por las condiciones de los estrechos agujeros que ponen en peligro a los miembros del SAR (equipos de búsqueda y rescate), así como por los accidentes del terreno, situado en laderas escarpadas\u0026quot;, explicó Sutopo.\nEl pasado 1 de marzo, la BNPB y la agencia de búsqueda y rescate (Basarnas) comenzaron a emplear maquinaria pesada para abrirse paso hacia los mineros, de quienes no se había detectado signo de vida alguno desde la tarde del día anterior.\nEn junio del año pasado, seis mineros que trabajaban bajo la lluvia en otra mina ilegal de oro perdieron la vida en la misma zona cuando fueron sepultados por una avalancha.\nLa minería ilegal es un fenómeno común en Indonesia debido a la permisividad de las autoridades y los accidentes ocurren de forma frecuente por la falta de medidas de seguridad.EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Indonesia amplía una semana las operaciones de rescate de mineros sepultados",
+    "uuid": "030c7ad9-27be-3c70-ac51-191b355a7886"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:16:48Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e打造亞洲第一個智慧化高齡醫院  成大開設跨領域AI課程\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg src=\"https://media.zenfs.com/no/ner.gov.tw/2ef6b1ce01cc01ba0640087cf5afda82\" style=\"height:300px;width:300px;\"\u003e\n            \u003cp\u003e\u003cspan style=\"font-size:18px;\"\u003e\u003cspan style=\"font-family:Arial, Helvetica, sans-serif;\"\u003e國立成功大學108年型將開設「人工智慧於醫療應用與服務」系列課程，這項課程由成大醫學中心教授及醫師聯手電資學院共同開課，希望共同打造亞洲第一個智慧化高齡醫院。\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cspan style=\"font-size:18px;\"\u003e\u003cspan style=\"font-family:Arial, Helvetica, sans-serif;\"\u003e成功大學醫學中心與電資學院首次破天荒大規模合作開課，在蘇慧貞校長的推動下，10餘位成大醫學中心的教授及醫師聯手開設「人工智慧於醫療應用與服務」系列課程，將於108學年度進駐電資學院，。蘇慧貞校長表示，這是為亞洲即將啟動的第一個智慧化高齡醫院作前期的準備。\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\n\n\u003cp\u003e\u003cspan style=\"font-size:18px;\"\u003e\u003cspan style=\"font-family:Arial, Helvetica, sans-serif;\"\u003e電資學院院長許渭州表示，此次合作可望加強培育工程跨醫學人才，為台灣AI醫療科技發展播下種子，加速實現智慧醫療。成大醫院沈孟儒副院長表示，「人工智慧於醫療應用與服務」系列課程的授課，是專門為電資學院大三學生設計，期盼擁有工程設計基礎及工程背景的學生，在臨床醫師的引領下，解讀人工智慧帶來的醫療革命，並一同探索人工智慧醫療應用的無限可能。\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\n\u003cp\u003e\u0026nbsp;\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.ner.gov.tw/news/5c7c9264e150450007e9804d"
+    },
+    "request_path": "requests",
+    "title": "打造亞洲第一個智慧化高齡醫院  成大開設跨領域AI課程",
+    "uuid": "0d2f9497-636d-323b-832f-5b7942c102ec"
+}

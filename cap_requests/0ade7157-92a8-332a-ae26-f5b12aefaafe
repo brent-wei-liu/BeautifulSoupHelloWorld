@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:19:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCondenan a 12 años de prisión a hombre acusado de intento de homicidio\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSanto Domingo, 4 mar (EFE).- El Tercer Tribunal Colegiado de Santo Domingo Oeste dictó 12 de prisión contra un hombre que fue acusado por el Ministerio Público de incurrir en intento de homicidio con un arma de fuego en perjuicio de dos personas en el municipio de Pedro Brand.\nLa sentencia condenatoria fue dictada en contra de Johan Manuel Sandoval, de 19 años, por la agresión cometida contra Reynaldo Antonio González Ogando y Lisandro Junior Santana.\nA través de un comunicado de prensa, el Ministerio Público destacó que recabó diversas pruebas testimoniales, documentales, materiales, periciales e ilustrativas, las cuales demostraron ante el tribunal la culpabilidad del acusado en los condenables hechos.\nEl cuanto al suceso, la acusación destaca que ocurrió la noche del 24 de julio de 2016 cuando Johan Manuel Sandoval junto a otro hombre identificado como \u0026quot;Cara de Muñeca\u0026quot;, agredieron a las víctimas Reynaldo Antonio González Ogando y Lisandro Junior Santana, propinándole al primero una bofetada y realizando disparos a ambos, logrando impactarlos.EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Condenan a 12 años de prisión a hombre acusado de intento de homicidio",
+    "uuid": "0ade7157-92a8-332a-ae26-f5b12aefaafe"
+}

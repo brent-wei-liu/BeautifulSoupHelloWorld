@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:17:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHasil Undian Piala AFF U-19 2019: Timnas Indonesia Terhindar dari Grup Neraka\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv id=\"page-1\"\u003e\u003cp\u003e\u003cb\u003eJakarta -\u003c/b\u003e \u003ca href=\"https://www.bola.com/\"\u003e\u003cstrong\u003eTimnas Indonesia U-19\u003c/strong\u003e \u003c/a\u003etergabung di Grup A dalam Piala AFF U-19 2019. Vietnam ditunjuk sebagai tuan rumah turnamen yang berlangsung 5-19 Agustus 2019.\u003c/p\u003e\n\u003cp\u003eUndian Piala AFF U-19 2019 terbagi dalam dua grup. Masing-masing grup Piala AFF U-19 2019 diisi enam tim.\u003c/p\u003e\n\u003cp\u003eYang menarik, Australia kembali ambil bagian dalam Piala AFF U-19 tahun ini. Pada penyelenggaraan tahun lalu, Australia sempat memilih untuk absen.\u003c/p\u003e\n\u003cp\u003eSelain \u003ca href=\"https://www.bola.com/\"\u003e\u003cstrong\u003eTimnas Indonesia U-19\u003c/strong\u003e\u003c/a\u003e, Grup A diisi Myanmar, Laos, Timor-Leste, Filipina, dan Brunei Darussalam. Timnas Indonesia U-19 diunggulkan untuk lolos dari fase grup.\u003c/p\u003e\n\u003cp\u003eSementara itu, Grup B Piala AFF U-19 2019 dinilai lebih berat. Selain tuan rumah Vietnam, Malaysia, Thailand, Kamboja, Singapura, dan Australia berada di grup ini.\u003c/p\u003e\n\u003cp\u003eLaga perdana Timnas Indonesia U-19 berlangsung 5 Agustus mendatang. Filipina akan menjadi lawan pertama bagi tim berjulukan Garuda Nusantara tersebut.\u003c/p\u003e\n\u003cp\u003eMalaysia merupakan juara Piala AFF U-19 tahun lalu. Tapi, kali ini mereka tidak difavoritkan untuk mempertahankan gelarnya.  \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\u003c/div\u003e\n\u003c!-- pagebreak --\u003e\n\u003cdiv id=\"page-2\"\u003e\u003ch2 class=\"multipage\"\u003eHasil Undian\u003c/h2\u003e\n\u003cimg src=\"https://media.zenfs.com/id/liputan6_949/fd1299addeffbb980453d69515b50016\" title=\"Timnas Malaysia U-19\" alt=\"Timnas Malaysia U-19 kala meraih juara Piala AFF U-19 2018 setelah mengalahkan Myanmar. (Bola.com/Aditya Wany)\"\u003e\u003cp\u003e\u003cstrong\u003eBerikut undian Piala AFF U-19 2019\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGrup A:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIndonesia, Myanmar, Filipina, Laos, Timor Leste, Brunei Darussalam\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGrup B:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eVietnam (Host), Thailand, Malaysia, Singapura, Kamboja, Australia\u003c/p\u003e\n\u003cdiv\u003e\u003ciframe class=\"vidio-embed \" width=\"0\" height=\"0\" frameborder=\"0\" scrolling allowfullscreen\u003e\u003c/iframe\u003e\u003c/div\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.bola.com/indonesia/read/3909183/hasil-undian-piala-aff-u-19-2019-timnas-indonesia-terhindar-dari-grup-neraka?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Hasil Undian Piala AFF U-19 2019: Timnas Indonesia Terhindar dari Grup Neraka",
+    "uuid": "05631f95-06a7-3484-ac2c-dccb746b43d8"
+}

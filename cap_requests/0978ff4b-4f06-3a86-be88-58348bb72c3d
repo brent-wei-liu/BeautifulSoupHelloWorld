@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T22:10:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e分手後發伴侶豔照 紐約最高可囚一年\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e紐約州參、眾兩會日前通過提案，將分手後傳播伴侶不雅照片、視頻定為刑事罪，最高可面臨一年監禁，同時給予法官權力，可下令發布的平台在受害者的要求下刪除這些照片和視頻。\u003c/p\u003e\n\u003cp\u003e紐約州五年前首度提案，將散布伴侶不雅照片、視頻入罪，當時在全美各州中屬於走在前沿的立法；但提案此後一直在州參、眾議會無疾而終，而在此期間，全美已有包括華府在內的41個州立法將該行為刑事罪化。\u003c/p\u003e\n\u003cp\u003e紐約州參、眾兩會2月28日終於通過此提案，而州長葛謨(Andrew Cuomo)此前已表態支持此提案，預計將可很快簽署成法。\u003c/p\u003e\n\u003cp\u003e根據此法，在對方不知情的情況下，散布、傳播其不雅視頻、圖片者，將可面臨刑事控罪，最高面臨一年監禁；而受害者還可就此提起民事求償，要求散布者就造成的精神傷害、名譽損失等進行賠償。\u003c/p\u003e\n\u003cp\u003e此法還將給予法官權力，可在受害者的要求下，下令發布、上傳這些不雅圖片和視頻的社交媒體、網站、論壇等刪除相關內容。\u003c/p\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多世界日報報導\u003c/span\u003e\u003cbr /\u003e\u003ca href=\"https://www.worldjournal.com/6160473/article-%e7%a9%86%e5%8b%92%e8%aa%bf%e6%9f%a5%e5%b0%87%e7%b5%90%e6%9d%9f-%e3%80%8c%e5%bd%88%e5%8a%be%e3%80%8d%e6%83%a1%e9%ac%a5%e6%ad%a3%e9%96%8b%e5%a7%8b/\"\u003e穆勒調查將結束 「彈劾」惡鬥正開始\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://www.worldjournal.com/6160791/article-2020%e7%b8%bd%e7%b5%b1%e5%a4%a7%e9%81%b8-%e5%9c%8b%e6%b0%91%e9%bb%a8%e3%80%8c3%e5%a4%a7%e5%8d%b1%e6%a9%9f%e3%80%8d%e9%a0%88%e5%85%88%e8%a7%a3/\"\u003e2020總統大選 國民黨「3大危機」須先解\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://www.worldjournal.com/6150749/article-%e6%b5%b7%e9%a2%a8%e5%90%b9%e9%81%8e%e4%bc%91%e5%a3%ab%e9%a0%93%ef%bc%88%e4%ba%8c%e4%ba%94%ef%bc%89/\"\u003e海風吹過休士頓（二五）\u003c/a\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.worldjournal.com/6160190/article-%e5%88%86%e6%89%8b%e5%be%8c%e7%99%bc%e4%bc%b4%e4%be%b6%e8%b1%94%e7%85%a7-%e7%b4%90%e7%b4%84%e6%9c%80%e9%ab%98%e5%8f%af%e5%9b%9a%e4%b8%80%e5%b9%b4/"
+    },
+    "request_path": "requests",
+    "title": "分手後發伴侶豔照 紐約最高可囚一年",
+    "uuid": "0978ff4b-4f06-3a86-be88-58348bb72c3d"
+}

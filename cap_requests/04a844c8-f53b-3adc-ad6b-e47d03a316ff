@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:06:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e張育成手感火燙　朱立人提點奏效\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e克里夫蘭印第安人內野手張育成近況火熱，春訓目前出賽7場，手感逐漸加溫，他歸功於隊友「小朱」朱立人的從旁提點。今天（4日）對上堪薩斯皇家的主場比賽則是3打席1安打，帶有1分打點。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e張育成延續去年秋季聯盟的好手感，截至今日為止，張育成繳出打擊率2成86、長打率6成43，2支二壘安打、1發全壘打和2分打點的成績。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e「因為小朱有（在比賽時）在旁邊看我打擊，他會跟我討論哪裡錯。小朱跟我說，重心是有點（留在）太後面，前幾場有點猶豫不敢出棒。」張育成說。「這幾天有做一些（調整），打擊上把重心留在中間。還有更積極出棒。」\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e張育成在2日與洛杉磯道奇的比賽中，從中繼投手Dylan Floro手中敲出中外野深遠的全壘打。「打到的時候就知道已經是全壘打，感覺還滿爽的。」張育成回憶前1場的表現時說到。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e張育成目前被定位為主要工具人，總教練Terry Francona在受訪時表示會盡可能讓張育成先發上場，鎮守二壘、三壘以及游擊，在春訓比賽中提升球隊調度上的彈性，並且讓張育成在固定出賽下習慣不同守位。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://news.tsna.com.tw/tw/news/show.php?num=25487%26c=1"
+    },
+    "request_path": "requests",
+    "title": "張育成手感火燙　朱立人提點奏效",
+    "uuid": "04a844c8-f53b-3adc-ad6b-e47d03a316ff"
+}

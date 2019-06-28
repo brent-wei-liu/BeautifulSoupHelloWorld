@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:12:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTaller general de Libros de Texto Gratuitos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/es-US/homerun/notimex.com.mx/93cc12f31a682a540f7566cc6a1b5940\" border=\"0\" hspace=\"5\" vspace=\"5\" alt=\"90304007.jpg\"\n title=\"Taller general de Libros de Texto Gratuitos\"\u003e\u003cbr\u003e\u003ca href=\"/es/descargarFoto/503340\" class=\"btn btn-primary\"\u003eDescargar\u003c/a\u003e\u003cbr\u003e90304007. Querétaro, 4 Mar 2019 (Notimex- Jessica Espinosa).-  La Comisión Nacional de Libros de Texto Gratuitos, trabaja a marchas forzadas para poner en manos de cada niño que llega a su nuevo ciclo escolar, el paquete de libros que lo acompañará durante un año. NOTIMEX/FOTO/JESSICA ESPINOSA/JES/EBF/\u003cp\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.notimex.gob.mx/ntxfotos/503340"
+    },
+    "request_path": "requests",
+    "title": "Taller general de Libros de Texto Gratuitos",
+    "uuid": "0d9fe39a-94d3-3c37-bd3e-7b72c2539019"
+}

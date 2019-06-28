@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-02T05:52:51Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e香港泰拳代表尖沙咀遭斬傷　反黑拘3男\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cfigure\u003e\u003cimg class='editorial' class=\"alignnone size-full wp-image-4339852\" src=\"http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/c5bfe2b9e0abf7f15166cd27c8d4805f\" alt=\"\" width=\"900\" height=\"500\"/\u003e\u003cfigcaption\u003e遇襲24歲男子王康達為泰拳拳手\u003c/figcaption\u003e\u003c/figure\u003e \u003cp\u003e\u003cspan\u003e【21：10】尖沙咀警區反黑組經深入調查後，以涉嫌傷人及刑事毀壞，在多區拘捕3名男子，稍後交代案情。\u003c/span\u003e\u003c/p\u003e \u003cp\u003e\u003cspan\u003e尖沙咀鬧市昨晚(1日)發生黑幫行刑式斬人血案，遇襲24歲男子王康達為泰拳高手，曾於去年代表香港出戰「東亞泰拳錦標賽2018」，他經留醫治理後，目前在深切治療部留醫，情況嚴重，案件交由油尖警區反三合會行動組跟進。今午12時許，數名反黑組探員到病房擬為王錄取口供，初步不排除案件涉及黑社會尋仇。\u003c/span\u003e\u003c/p\u003e \u003cp\u003e\u003cspan\u003e香港泰拳理事會主席冼林沃表示，從新聞得知王康達遇襲，仍未有空到醫院探望，但從王的師傅鄭家明口中得知他的情況。據了解，他腳部被斬傷，但無生命危險，至於傷勢會否影響日後打拳，則暫時未知。\u003c/span\u003e\u003c/p\u003e \u003cp\u003e\u003cspan\u003e冼稱，王是其師弟鄭家明的徒弟，叫冼做「師伯」。王大概4、5年前跟師傅學打拳，成績非常不錯，「佢由新手賽打起，再升上B Grade 、A Grade」，去年更在泰拳會年度大賽中取得冠軍，代表香港出戰「東亞泰拳錦標賽2018」，但今年的賽事則沒有上榜。冼又表示不了解王的家庭背景，但印象中他「比較少出聲，人哋講完嘢，佢都係笑一笑，份人比較沉默」，因此對他被人追斬感到莫名其妙。\u003c/span\u003e\u003c/p\u003e \u003cp\u003e\u003cspan\u003e事發昨晚9時許，王駕駛私家車停泊在金馬倫道坐於車上休息，期間突然遭6名刀手拖出車外狂斬，以致腳部中刀，逃入30米外一間店舖不支倒地，刀手傷人後，跳上接應汽車逃去。警員到場調查，發現事主的座駕亦被人以鐵錘砸毀，案件列作傷人及刑事毀壞案處理。\u003c/span\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "香港泰拳代表尖沙咀遭斬傷　反黑拘3男",
+    "uuid": "04457ca3-f5dd-309a-b2db-35643a7cc9fa"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:29:52Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e高市兩岸小組首次開會 韓國瑜宣布3/22訪中港\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e高雄市長韓國瑜上任後，今天首次召開「高雄市府兩岸工作小組」會議，宣布3月22日到28日訪香港、澳門與深圳、廈門，強調是城市間的經濟文化交流，直接喊話要「請陸委會放心。」，議員陳致中也列席旁聽，直言中國不是吃素的，韓國瑜也承諾，半年將會到議會報告一次。\u003c/p\u003e\u003cp\u003e上任後首次召開高雄市府兩岸工作小組會議，高雄市長韓國瑜精神不錯，和與會的局處首長以及台商們握手，但上台後，開口宣布三月將出訪中港澳，語氣有點重，直接對陸委會來喊話。\u003c/p\u003e\u003cp\u003e韓國瑜說：「3月22日到28日，將出訪香港澳門深圳及廈門，爭取更多的可能合作機會，本人再一次重申市政府去中國行程，會遵照中央現行的相關法令規定，請陸委會放心。」\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/dc5f7076849bf7734cf17e64d858133f\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e兩岸小組會議先以農業局觀光局經發局報告，兩岸城市分享經驗，以推動兩岸城市農產品行銷平台，以及有相關配套帶動中國客來高雄觀光，開放媒體拍攝十分鐘後，就閉門會議，就有議員在臉書上po文。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/d61524666a081676cd9642a01fc95340\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e高雄市議員（民）陳致中說：「中國不是吃素的中國不是塑膠做的，他在經濟的事務上面，會不會把政治的議題，把它置入在經濟交流上面。」\u003c/p\u003e\u003cp\u003e市議員（民）林智鴻則表示：「兩岸小組將來對話的開始，我們希望說議會扮演的腳色，應該是再強化未來市府都要，公開透明把資訊對全市民來交代。」\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/3f1183b8186254323d7664dc66524a3d\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e韓國瑜說：「企業家也提出這個問題，如果說今天不直播，他什麼話都願意告訴我們，如果直播他可能有曝光危險，他講話都會遮遮掩掩，許崑源議長也交代高雄市政府兩岸小組，未來希望每半年都能夠到議會報告一下，高雄市政府的兩岸交流狀態，我也欣然接受。」\u003c/p\u003e\u003cp\u003e韓國瑜強調，拚經濟為主軸，將不觸及中央權責，只是，韓國瑜頻被點名，是2020總統大選熱門人選，這次還是遇上兩岸議題，要淡化政治味，恐怕難上加難。\u003c/p\u003e\u003cp\u003e（民視新聞／曾依翔、陳家祥、廖錦雄 高雄市報導）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304U06M1"
+    },
+    "request_path": "requests",
+    "title": "高市兩岸小組首次開會 韓國瑜宣布3/22訪中港",
+    "uuid": "04d83dab-034d-33d2-b7b5-85a1ee84f8a6"
+}

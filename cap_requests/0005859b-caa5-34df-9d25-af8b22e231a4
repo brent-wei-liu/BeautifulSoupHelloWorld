@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:16:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEscalade - ChF - Fanny Gibert et Jérémy Bonder, champions de France d\u0026apos;escalade de bloc 2019\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eFanny Gibert et Jérémy Bonder se sont  imposés ce dimanche en Mayenne au plus haut niveau national, respectivement pour la 4e et la 3e fois de leur carrière. «\u003ci\u003eL\u0026#39;enjeu pour moi, c\u0026#39;est d\u0026#39;assumer mon statut de favorite et de gagner ce titre national pour la 4e fois. Pas facile d\u0026#39;arriver sur une compétition en tant que vainqueur désignée, mais j\u0026#39;adore le challenge\u003c/i\u003e», annonçait Fanny Gibert à la veille de la compétition. Dès les qualifications, ce samedi, la Réunionnaise a pris les choses en main, décrochant la tête des classements provisoires des deux premiers tours. En finale, elle devait faire face à la relève. \u003ca href=\"https://www.ffme.fr/uploads/escalade/bloc/2019/bloc-france/res-vf.pdf\" shape=\"rect\" target=\"_blank\"\u003eTous les résultats\u003c/a\u003e Cadette première année et pour sa première participation à un Championnat de France senior, Naile Meignan a marqué les esprits en finale, en étant la seule à enchaîner les deux premiers blocs à son premier essai. Le bloc 3 a pourtant permis à Fanny Gibert de reprendre la tête du classement : elle q été la seule à arriver à son sommet. Au final, la leader de l\u0026#39;équipe de France de bloc a totalisé un bloc de plus que Naile Meignan et a décroché une nouvelle médaille d\u0026#39;or nationale. Dans la finale masculine, tout s\u0026#39;est joué sur un premier bloc réussi, avec deux essais pour Manu Cornu (un des leaders de l\u0026#39;équipe de France qui a terminé en bronze), quatre pour l\u0026#39;outsider de cette finale, Arthur Ternant (en argent à l\u0026#39;issue de la compétition) et trois pour Jérémy Bonder. Compte-tenu de la grande difficulté du circuit concocté par les ouvreurs, la suite a été plus laborieuse pour les six finalistes, avec une bagarre aux points bonus pour répartir les métaux. «\u003ci\u003eC\u0026#39;est complètement dingue ce scénario. Je reviens de tellement loin\u003c/i\u003e (Jérémy Bonder avait arrêté sa préparation spécifique bloc pour se concentrer sur la difficulté la saison dernière, ndlr). \u003ci\u003eJamais, je n\u0026#39;aurais cru que je prendrai, ce week-end, mon troisième titre de champion de France.\u003c/i\u003e» \u003cb\u003ePodium femme\u003c/b\u003e \u003cbr/\u003e1. Fanny Gibert \u003cbr/\u003e2. Naile Meignan\u003cbr/\u003e3. Hélène Janicot \u003cb\u003ePodium homme\u003c/b\u003e\u003cbr/\u003e1. Jérémy Bonder\u003cbr/\u003e2. Arthur Ternant\u003cbr/\u003e3. Manu Cornu\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Adrenaline/Escalade/Actualites/Fanny-gibert-et-jeremy-bonder-champions-de-france-d-escalade-de-bloc-2019/994946"
+    },
+    "request_path": "requests",
+    "title": "Escalade - ChF - Fanny Gibert et Jérémy Bonder, champions de France d\u0026apos;escalade de bloc 2019",
+    "uuid": "0005859b-caa5-34df-9d25-af8b22e231a4"
+}

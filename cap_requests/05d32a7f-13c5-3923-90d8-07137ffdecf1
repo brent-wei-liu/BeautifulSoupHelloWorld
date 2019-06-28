@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:26:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e豬公撲滿來助學 囝仔讀冊足安心\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e新學期開學了，許多弱勢家庭為籌措孩子學費著急煩惱，雲林家扶中心今天（4日）收到包括匿名善心人士寄來的多隻裝滿零錢的豬公撲滿，特別指定做為貧苦學童助學金。社工人員「剖開豬公」忙著清點，加上虎尾萊莫咖啡館、出櫃飲料店等多方愛心零錢捐款，總計收到2萬4千多元。\u003c/p\u003e\u003cp\u003e　　雲林家扶表示，捐款人用豬公撲滿展現愛心，社工們面對這些「重量級」的零錢捐款，內心充滿感謝。眾人將零錢倒出，開心的慢慢分類計算，莫不期望學子能帶著這些愛心持續努力學業，翻轉生命。\u003c/p\u003e\u003cp\u003e　　特地前來幫忙算零錢的出櫃手搖飲料店李哲丞店長說，教育是翻轉生命的重要捷徑，他的店裡都有擺放愛心零錢箱，希望集結眾人小小力量，幫助弱勢孩子。\u003c/p\u003e\u003cp\u003e　　雲林家扶中心目前扶助約500位青年學子，新學期預計頒發500萬元助學金，但截至目前為止，僅募集到281萬餘元，仍有二百多萬元缺口，呼籲善心人士發揮愛心，讓孩子能安心繼續上學念書。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "豬公撲滿來助學 囝仔讀冊足安心",
+    "uuid": "05d32a7f-13c5-3923-90d8-07137ffdecf1"
+}

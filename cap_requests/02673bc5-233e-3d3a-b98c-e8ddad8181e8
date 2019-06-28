@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:28:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【1561】萬輝化工斥7.9億元購網上支付業務\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【星島日報報道】萬輝化工(01561)宣布，以7.9億元收購Man Hong Information Technology的51%權益，後者將就控制營運公司上海懋宏業務及營運訂立合約安排。\n\n　　上海懋宏為中國第三方支付業務供應商，持有支付牌照及網絡內容服務商牌照，主要從事發行及管理預付卡、提供網上支付服務以及其他有關業務活動之業務。\n\n　　集團將於簽訂協議後三日支付2000萬元訂金，約7.7億元將以發行兩年期承兌票據支付。(nc)\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://pop.stheadline.com/section.php?cat=d\" target=\"_blank\"\u003e睇更多\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "【1561】萬輝化工斥7.9億元購網上支付業務",
+    "uuid": "02673bc5-233e-3d3a-b98c-e8ddad8181e8"
+}

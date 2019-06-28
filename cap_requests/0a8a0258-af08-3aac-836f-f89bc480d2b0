@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:04:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e哥迪奧拿：若失冠也無憾\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv style=\"text-align:justify;vertical-align:top;\"\u003e\u003ctable border=\"0\" cellspacing=\"0\" cellpadding=\"5\"\u003e\u003ctr\u003e\u003ctd width=\"95%\" style=\"text-align:justify;\"\u003e【now.com體育】曼城領隊哥迪奧拿認為球隊比去季更出色，即使最終失去聯賽錦標了無遺憾。\u003cp\u003e「以踢法而言，我們（比去季）好得多，好得多。」哥迪奧拿受訪時說：「所有人都知必需要做甚麼，彼此協助，當這情況發生，我們就具競爭力，而如果我們輸掉、輸掉，也沒遺憾。」\n\n經過今輪比賽，曼城以1:0力克般尼茅夫而利物浦在默西賽德打吡只能與宿敵愛華頓悶和後，曼城29戰得71分，以1分之微力壓近期強勢略為消減的利物浦。\n\n「我知在這個社會，只有第1名才得到獎賞，而第2名是絕對的輸家，但決不能這樣去想自己的球員。」這位前巴塞隆拿主帥續說：「我們當然希望贏英超，球員每一天都向我展示，他們想贏取它。」\u003cp\u003e更多now.com體育新聞及英超、西甲精華，\u003ca href=\"http://sports.now.com/site/app/soccer.jsp\"\u003e請按此\u003c/a\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "哥迪奧拿：若失冠也無憾",
+    "uuid": "0a8a0258-af08-3aac-836f-f89bc480d2b0"
+}

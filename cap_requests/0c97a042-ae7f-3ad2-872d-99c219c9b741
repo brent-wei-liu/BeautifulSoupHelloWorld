@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:11:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e警方觀塘檢1.7萬隻色情光碟拉3漢\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【星島日報報道】警方觀塘警區特別職務隊人員根據線報及經深入調查，下午約三時在區內展開代號「犁庭掃穴」（LEVINGTON）的反淫褻物品行動，突擊搜查開源道68號的3間店鋪，拘捕3名年齡介乎36至66歲的本地男子，涉嫌「發布淫褻物品」及「管有淫褻物品以供發布用途」。3名被捕男子現正被扣留調查。\n\n　　行動中，警員共檢獲約1.7萬隻懷疑色情光碟，總值約51萬元。\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://hd.stheadline.com/news/daily/hk/\" target=\"_blank\"\u003e睇更多\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "警方觀塘檢1.7萬隻色情光碟拉3漢",
+    "uuid": "0c97a042-ae7f-3ad2-872d-99c219c9b741"
+}

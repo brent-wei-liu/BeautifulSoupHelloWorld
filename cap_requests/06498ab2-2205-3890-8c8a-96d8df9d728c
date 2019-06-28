@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:21:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e向堂弟王賢誌取經 王賢訊接任仁濟主席無壓力\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【星島日報報道】仁濟醫院董事局副主席王賢訊暨慈善餐舞會主席、總理羅穎怡及陳豪等出席《仁濟醫院週年慈善餐舞會2019》，對於今年大會以龍作為主題，王賢訊表示很喜歡龍，加上今年中國國慶70周年，故想增加中國文化氣息。身穿龍圖案黑西裝的他，笑言有問及太太朱穎詩意見，原本覺得自己穿著龍圖案服裝，太太可以穿著鳳圖案，不過太太試過幾套服裝，最終選擇旗袍造型。將於4月擔任主席的王賢訊，直言心情不會緊張，最緊要盡量做好自己本份，又指會向即將卸任東華主席的堂弟王賢誌取經，對方亦應承會為擔任司儀。問到可擔任做得出色，令下屆主席增加壓力，他說：「不會，每屆主席都做得出色，我覺得最緊要貢獻自己叻的地方。」談到上任後會著重那個範疇，他坦言公共醫療壓力大，希望做到幫助前線人員關懷他們，另外義工發展方面，因兒時做義工會特別有興趣，希望會有新改革。\u003cbr/\u003e\u003cbr/\u003e\u003ca href=\"http://hd.stheadline.com/news/daily/ent/\" target=\"_blank\"\u003e睇更多\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "向堂弟王賢誌取經 王賢訊接任仁濟主席無壓力",
+    "uuid": "06498ab2-2205-3890-8c8a-96d8df9d728c"
+}

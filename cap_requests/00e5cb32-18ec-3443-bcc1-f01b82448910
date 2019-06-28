@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:30:20Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eROUNDUP: DGB fordert deutliche Verbesserungen für Beamte nach Tarifabschluss\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBERLIN (dpa-AFX) - Nach dem Tarifabschluss f\u0026#252;r den \u0026#246;ffentlichen Dienst der L\u0026#228;nder hat der Deutsche Gewerkschaftsbund (DGB) weitergehende Verbesserung f\u0026#252;r die Beamten gefordert. Es reiche nicht, das Tarifergebnis auf die Beamten zu \u0026#252;bertragen, sagte die stellvertretende DGB-Vorsitzende Elke Hannack der Deutschen Presse-Agentur in Berlin. So eine \u0026#220;bertragung des Tarifabschlusses ist \u0026#252;blich.\u003c/p\u003e\n              \n\n\u003cp\u003eAm Wochenende hatten die Gewerkschaften Verdi und Beamtenbund dbb mit den Bundesl\u0026#228;ndern eine Tarifeinigung f\u0026#252;r die rund eine Million Angestellte der Bundesl\u0026#228;nder erzielt. Sie bekommen stufenweise acht Prozent mehr Lohn bei einer Laufzeit von 33 Monaten. Der Abschluss soll nach dem Willen von dbb und Verdi auf rund 2,3 Millionen Beamte und Versorgungsempf\u0026#228;nger \u0026#252;bertragen werden. DGB-Vize Hannack aber h\u0026#228;lt nach eigenen Worten eine zeit- und wirkungsgleiche \u0026#220;bertragung auf die Beamten bei der bevorstehenden Besoldungsrunde f\u0026#252;r unzureichend.\u003c/p\u003e\n              \n\n\u003cp\u003eHintergrund sind die deutlichen Einkommensunterschiede der Beamten zwischen den Bundesl\u0026#228;ndern - sowie Zweifel an der Verfassungsm\u0026#228;\u0026#223;igkeit der Beamtenbesoldung in ihrer heutigen Form. Wie aus dem DGB-Besoldungsreports 2019 hervorgeht, der der Deutschen Presse-Agentur vorliegt, gibt es erhebliche Differenzen zwischen den L\u0026#228;ndern. So verdient eine neuverbeamtete Lehrkraft in Rheinland-Pfalz demnach j\u0026#228;hrlich \u0026#252;ber 8300 Euro brutto weniger als ihre Kollegen in Bayern.\u003c/p\u003e\n              \n\n\u003cp\u003eBeamte gingen inzwischen vielfach bis vor die Gerichte, weil sie davon ausgingen, dass ihre Bezahlung nicht angemessen sei, so der DGB. Dem Bundesverfassungsgericht liegen laut DGB-Report aktuell Besoldungsregelungen der L\u0026#228;nder Berlin, Brandenburg, Bremen, Niedersachsen, des Saarlandes sowie Sachsen-Anhalts zur Pr\u0026#252;fung vor. \u0026quot;Ausl\u0026#246;ser dieser Flut an Verfahren war die \u0026#252;ber Jahre andauernde Sparpolitik der Gesetzgeber\u0026quot;, so der Report.\u003c/p\u003e\n              \n\n\u003cp\u003eDer Bund der Steuerzahler forderte angesichts des Tarifabschlusses f\u0026#252;r die L\u0026#228;nder unterdessen eine \u0026quot;Priorit\u0026#228;tensetzung\u0026quot; in den \u0026#246;ffentlichen Haushalten. Pr\u0026#228;sident Reiner Holznagel sagte in der \u0026quot;Passauer Neuen Presse\u0026quot; (Montag), der Abschluss werde \u0026quot;f\u0026#252;r die Steuerzahler teuer\u0026quot;. Langfristig w\u0026#252;rden die \u0026#246;ffentlichen Kassen Probleme bekommen. Die Tarifgemeinschaft deutscher L\u0026#228;nder, die mit den Gewerkschaften verhandelt hatte, hatte die Kosten f\u0026#252;r den Abschluss auf mehr als sieben Milliarden Euro beziffert. Hessen geh\u0026#246;rt seit Anfang der 2000er Jahre der Tarifgemeinschaft deutscher L\u0026#228;nder nicht mehr an.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "ROUNDUP: DGB fordert deutliche Verbesserungen für Beamte nach Tarifabschluss",
+    "uuid": "00e5cb32-18ec-3443-bcc1-f01b82448910"
+}

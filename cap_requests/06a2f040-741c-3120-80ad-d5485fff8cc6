@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 421\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Lomba belum berakhir! Untuk menyelesaikan misi 100 mereka, Jae Seok dan Seok Jin melakukan beragam pekerjaan paruh waktu acak seperti bersepeda dan membersihkan kaca tembus pandang. Kali ini, mereka memancing dengan jaring dan Kwang Soo juga ikut. Sementara itu, Tim Seoul kesulitan menyelesaikan rencana liburan mereka.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 421",
+    "uuid": "06a2f040-741c-3120-80ad-d5485fff8cc6"
+}

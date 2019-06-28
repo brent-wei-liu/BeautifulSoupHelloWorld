@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:14:19Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e利多推升陸股走強 上證開盤攻破3000點 去年6月以來首見\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e陸股今 (4 日) 全線高開，上證指數開盤漲 0.73%，突破 3000 點大關，為去年 6 月以來首次；深證指數漲 1.23%，創業板指數漲 1.83%。\u003c/p\u003e  \u003cfigure\u003e\u003cimg alt=\"\u0026#x004e0a;\u0026#x008b49;\u0026#x006307;\u0026#x006578;\u0026#x0065e5;\u0026#x007dda;\u0026#x008d70;\u0026#x0052e2;\u0026#x005716;\u0026#x003000;\u0026#x005716;\u0026#x007247;\u0026#x004f86;\u0026#x006e90;\u0026#x00ff1a;investing.com\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cnyes.com/4ab4949ad9ef92b84d95de08a4f1c511\"\u003e \u003cfigcaption\u003e上證指數日線走勢圖　圖片來源：investing.com\u003c/figcaption\u003e \u003c/figure\u003e  \u003cp\u003e科創板具體落實政策出爐，助創投股全線走高，電廣傳媒 (000917-CN) 開盤漲 7.28%，大眾公用 (600635-CN) 漲 6%。4K 超高清視頻產業規劃出爐，海信電器 (6000609-CN)、數碼科技 (300079-CN) 等個股漲停。科技類股成為領漲的主角。\u003c/p\u003e  \u003cp\u003e上週大漲的券商信託、釀酒、貴金屬板塊領跌，券商類股跌幅近 1%，類股成交量超 1100 萬，成交額近人民幣 120 億元。\u003c/p\u003e  \u003cp\u003e中原證券指出，當前基本面出現結構性改善信號；流動性維持充裕，年內寬鬆格局無虞；風險偏好繼續抬升，利好政策預期較高。因此本週及 3 月份股市料將延續強勢表現。\u003c/p\u003e  \u003cp\u003e中信證券卻認為，A 股趨勢性反彈接近尾聲，預計市場將從爆發期進入平靜期：政策預期趨於理性，業績周期確認向下，放量快漲後的資金博弈下，行情趨於分化。預計 3 月上證指數在 2800-3200 點區間震盪，業績是最重要的主線。\u003c/p\u003e  \u003cp\u003e華泰證券分析，科創板正式稿落地，節奏速度略超預期，制度細節更加優化，推動投行向現代化投行轉型。預期本週市場交投活躍度升溫、兩融規模上行，證券板塊進入正向循環周期。政策和市場利好催化持續，重視板塊高彈性。監管政策向優質券商傾斜，優質券商綜合實力優勢顯著，盈利和抗風險能力凸顯。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.cnyes.com/news/id/4285093"
+    },
+    "request_path": "requests",
+    "title": "利多推升陸股走強 上證開盤攻破3000點 去年6月以來首見",
+    "uuid": "05bc269d-066a-37c4-958e-daf4cfde5864"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eПочему Индия и Пакистан не перешли за красную черту\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eНи Индии, ни Пакистану не нужна масштабная война. Пакистан слабее соседа и в случае масштабного конфликта быстро применит ядерное оружие. А вот локальные стычки позволяют многим по обе стороны границы набирать политические очки\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.rbc.ru/newspaper/2019/03/05/5c7bac769a794723a818a963"
+    },
+    "request_path": "requests",
+    "title": "Почему Индия и Пакистан не перешли за красную черту",
+    "uuid": "008c067b-719d-3d1b-95bd-f06e8151e30b"
+}

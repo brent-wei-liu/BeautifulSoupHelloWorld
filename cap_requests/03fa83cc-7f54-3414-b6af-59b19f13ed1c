@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:33:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTischtennis: Als Berlinerin zum ersten Meistertitel\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n        Lesen Sie hier weiter!\u0026#39;, presentationElement=null, invalid=false}\n}]\u0026quot;/\u0026gt;\n        \n    \n\u003cp class=\"p_1\"\u003e\u003cspan class=\"article__location\"\u003eBerlin.\u003c/span\u003e\u0026nbsp; Am Tag danach war Nina Mittelham noch immer ein wenig sprachlos über ihre Leistung. „Sehr schön“ sei der Titel, sagte die frisch gekürte deutsche Meisterin im Tischtennis auf die Frage nach ihrer persönlichen Einordnung. „Ziemlich wichtig“, fügte die 22 Jahre alte Spielerin des TTC Eastside nach kurzem Nachdenken hinzu, um mit den Worten zu schließen: „Einer der wichtigsten meiner Karriere.“ \u003c/p\u003e\u003c!-- Ende Absatz 0 --\u003e\n    \u003ch2\u003eSolja und Lang jeweils mit 4:1 ausgeschaltet\u003c/h2\u003e\u003c!-- Ende Absatz -1 --\u003e\n    \u003cp class=\"p_2\"\u003eAm Tag danach war sich die junge Frau vermutlich selbst noch nicht so im Klaren, was ihr da gelungen war. Nicht nur im Doppel mit Franziska Schreiner hatte sie den nationalen Titel geholt, danach auch noch diese Premiere im Einzel. Als Außenseiterin war sie bei den Meisterschaften in Wetzlar ins Finale gegen Petrissa Solja, aktuell auf Rang 24 beste Deutsche in der Weltrangliste, gegangen. „Ich habe nichts zu verlieren und gehe ohne Druck in das Spiel“, sagte sie sich. Und trumpfte dann in 4:1 Sätzen so auf, wie ihr das nur wenige zugetraut hätten. Schon in der Vorschlussrunde hatte sie in Kristin Lang eine erfahrene Kontrahentin in fünf Sätzen aus dem Wettbewerb geworfen.\u003c/p\u003e\u003c!-- Ende Absatz 1 --\u003e\n    \u003cp class=\"p_3\"\u003eAllerdings mochte die junge Rheinländerin ihre Leistung nicht überbewerten. Glücklich sei sie, „und in den engen Situationen im Finale hatte ich auch ein bisschen Glück“. Zum Beispiel im mit 16:14 gewonnenen dritten Satz. „Wenn man gut ins Spiel kommt, dann wächst auch das Selbstvertrauen“, versuchte sie eine Erklärung, „dann spielt man noch besser, und das Selbstvertrauen wird ...\u003c/p\u003e\u003c!-- Ende Absatz 2 --\u003e\n    \u003cp class=\"p_5\"\u003e\u003ca href=\"https://www.morgenpost.de/sport/berlin-sport/article216584833/Als-Berlinerin-zum-ersten-Meistertitel.html\"\u003eLesen Sie hier weiter!\u003c/a\u003e\u003c/p\u003e\u003c!-- Ende Absatz 4 --\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.morgenpost.de/sport/berlin-sport/article216584833/Als-Berlinerin-zum-ersten-Meistertitel.html"
+    },
+    "request_path": "requests",
+    "title": "Tischtennis: Als Berlinerin zum ersten Meistertitel",
+    "uuid": "03fa83cc-7f54-3414-b6af-59b19f13ed1c"
+}

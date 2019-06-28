@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:28:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eROUNDUP: Bundesregierung prüft Rückforderungsansprüche gegen Airbus\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBERLIN (dpa-AFX) - Die Bundesregierung pr\u0026#252;ft angesichts des angek\u0026#252;ndigten Produktionsstopps f\u0026#252;r das Gro\u0026#223;raumflugzeug A380 m\u0026#246;gliche R\u0026#252;ckforderungen gegen Airbus \u0026lt;NL0000235190\u0026gt;. Die Auswirkungen w\u0026#252;rden nun analysiert und gemeinsam mit dem Unternehmen er\u0026#246;rtert, sagte eine Sprecherin des Wirtschaftsministeriums am Montag in Berlin. \u0026#220;ber etwaige weitere R\u0026#252;ckforderungsanspr\u0026#252;che k\u0026#246;nnten noch keine Ausk\u0026#252;nfte gegeben werden.\u003c/p\u003e\n              \n\n\u003cp\u003eDas Ministerium bekr\u0026#228;ftigte, dass ein seinerzeit f\u0026#252;r die Entwicklung des A380 gew\u0026#228;hrtes Darlehen von 942 Millionen Euro bisher zu rund einem Drittel zur\u0026#252;ckgezahlt wurde. Dar\u0026#252;ber berichteten auch die Zeitungen der Funke Mediengruppe (Montag). Die R\u0026#252;ckzahlungen des Kredits erfolgten laufend - gekoppelt an die Auslieferung des A380.\u003c/p\u003e\n              \n\n\u003cp\u003eFDP-Fraktionsvize Christian D\u0026#252;rr warf der Regierung Ratlosigkeit vor. \u0026quot;Statt klarer Ansagen, wie sie den gew\u0026#228;hrten Kredit zur\u0026#252;ckverlangen kann, ist sie nun darauf angewiesen, mit Airbus hinter verschlossenen T\u0026#252;ren zu verhandeln.\u0026quot; Das sei wieder einmal ein Beispiel daf\u0026#252;r, was passiere, wenn der Staat ins Spielgeschehen der Wirtschaft eingreife.\u003c/p\u003e\n              \n\n\u003cp\u003eDer europ\u0026#228;ische Flugzeugbauer Airbus hatte Mitte Februar angek\u0026#252;ndigt, die Produktion des Riesenjets mangels Nachfrage einzustellen. Die letzte Auslieferung ist f\u0026#252;r 2021 geplant. Das Ende des A380 betrifft auch die Steuerzahler. In die Entwicklung flossen \u0026#246;ffentliche Gelder vor allem aus Frankreich, Deutschland und Spanien. Airbus hatte betont, dass das Projekt A380 nicht beendet sei - schlie\u0026#223;lich wolle man die vorhandene Flotte weiterhin unterst\u0026#252;tzen.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "ROUNDUP: Bundesregierung prüft Rückforderungsansprüche gegen Airbus",
+    "uuid": "070149fa-40ef-3fea-9a57-af5759057005"
+}

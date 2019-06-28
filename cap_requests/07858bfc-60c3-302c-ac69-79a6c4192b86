@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:51:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e锦胜集团(控股)(00794.HK)3月4日耗资23.2万港元回购29万股\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/7652be1cf9e4dfc2ef6e90acf43acaa3\" border=\"0\" alt=\"K\u0026#x0056fe; 00794_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e3月4日丨锦胜集团(控股)(00794.HK)公布，2019年3月4日，公司按每股0.80港元，耗资23.2万港元回购29万股，占现有已发行股份的0.08%。\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e（文章来源：格隆汇）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001211.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001211.shtml"
+    },
+    "request_path": "requests",
+    "title": "锦胜集团(控股)(00794.HK)3月4日耗资23.2万港元回购29万股",
+    "uuid": "07858bfc-60c3-302c-ac69-79a6c4192b86"
+}

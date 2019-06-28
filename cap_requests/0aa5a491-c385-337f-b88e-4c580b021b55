@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:15:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSarri Sebut Jorginho Jadi Kunci Permainan Chelsea\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eJakarta\u003c/b\u003e Manajer \u003ca href=\"https://www.liputan6.com/bola/read/3908319/diejek-suporter-chelsea-jorginho-fokus-penampilan\" title=\"Chelsea\"\u003eChelsea\u003c/a\u003e, Maurizio Sarri, mengungkapkan bahwa Jorginho adalah kunci permainan timnya. Menurutnya, The Blues akan bermain efektif jika skuatnya bisa mendukung permainan gelandang Italia tersebut. \u003c/p\u003e\n\u003cp\u003e\u0026quot;Jorginho adalah pemain yang memiliki karakter kuat. Ia tak akan mudah digoyangkan hanya karena ejekan suporter,\u0026quot; ujar Sarri.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Jorginho tak akan kesulitan bermain di dalam tekanan. Ia menunjukkan performa bagus saat kami berhadapan dengan Tottenham.\u0026quot;\u003c/p\u003e\n\u003cp\u003e\u0026quot;Ia selalu menganggap setiap pertandingan adalah laga final. Ia masih bisa mengembangkan permainannya.\u0026quot;\u003c/p\u003e\n\u003cp\u003e\u0026quot;Ia hanya membutuhkan rekan-rekannya untuk bisa memainkan strategi saya. Jika hal itu sudah terjadi, kami bisa meraih hasil yang lebih positif,\u0026quot; ungkap Sarri.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eJorginho menjadi bahan ejekan suporter \u003ca href=\"https://www.liputan6.com/tag/chelsea\"\u003eChelsea\u003c/a\u003e. Mereka menilai kalau Jorginho terlalu dianakemaskan oleh Sarri.\u003c/p\u003e\n\u003cp\u003eHal itu bisa dipahami karena ia adalah pemain yang diboyong dari Napoli, klub yang ditangani Sarri sebelum bergabung ke Chelsea. Faktor itu membuat Sarri menilai Jorginho sebagai pemain yang paling memahami strateginya.\u003c/p\u003e\n\u003cp\u003eNamun, Sarri mendapat resistensi dari beberapa pemain \u003ca href=\"https://www.liputan6.com/bola/read/3908319/diejek-suporter-chelsea-jorginho-fokus-penampilan\" title=\"Chelsea\"\u003eChelsea\u003c/a\u003eyang tak bisa memahami strategi terapannya. Karena itu, Sarri memberikan dukungan kepada Jorginho agar bisa menjadi inspirasi rekan-rekannya dan juga untuk permainan Chelsea.\u003c/p\u003e\n\u003cp\u003eSumber: Football Italia\u003c/p\u003e\n\u003cdiv\u003e\u003ciframe class=\"vidio-embed \" width=\"0\" height=\"0\" frameborder=\"0\" scrolling allowfullscreen\u003e\u003c/iframe\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/bola/read/3908501/sarri-sebut-jorginho-jadi-kunci-permainan-chelsea?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Sarri Sebut Jorginho Jadi Kunci Permainan Chelsea",
+    "uuid": "0aa5a491-c385-337f-b88e-4c580b021b55"
+}

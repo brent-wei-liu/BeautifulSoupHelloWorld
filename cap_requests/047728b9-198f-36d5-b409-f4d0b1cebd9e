@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T19:02:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePrincipal partido opositor salvadoreño propone reducir gastos de autoridades\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSan Salvador, 4 mar (EFE).- El principal partido de oposición en El Salvador, la Alianza Republicana Nacionalista (Arena, derecha), propuso este lunes al Congreso reducir los gastos administrativos y la remuneraciones de las autoridades de los tres órganos de Estado.\nEl presidente del Congreso y diputado de Arena, Norman Quijano, encabezó un grupo de legisladores de su partido para presentar la propuesta, con la que buscan \u0026quot;implementar medidas concretas de ahorro y austeridad\u0026quot;.\nLa iniciativa establece que los fondos ahorrados serán destinados para \u0026quot;atender diversas necesidades de la población\u0026quot; en áreas de salud, educación y seguridad.\nEl documento, que deberá ser enviado por el Pleno Legislativo a una comisión para su estudio, establece que se debe \u0026quot;reducir la discrecionalidad\u0026quot; en las remuneraciones, gastos de comunicación, transporte, seguros privados, viajes aéreos y viáticos de las autoridades de los órganos Ejecutivo, Legislativo y Judicial.\nLos diputados de Arena, que no dieron a conocer las medidas concretas de ahorro, pretenden que se reforme la Ley Especial de Remuneraciones y Beneficios para los Funcionarios Públicos.\nPara que dicha iniciativa prospere se necesitan al menos 43 votos de los 84 diputados que forman el Congreso, de los que Arena posee 37.\nEsta propuesta se da después de que la mayoría de los legisladores de Arena recibieran varias críticas por no respaldar una iniciativa del presidente electo, Nayib Bukele, de reorientar el 50 % de un préstamo de 32 millones de dólares, destinado a la construcción de una nueva sede del Congreso, para edificar escuelas y bibliotecas.\nLa propuesta de Bukele fue presentada ante dicho órgano por diputados de su partido, la Gran Alianza por la Unidad Nacional (GANA), que posee 10 votos de los 84 legisladores.\nAl menos dos diputadas de Arena apoyaron públicamente la propuesta de Bukele, entre ellas Felissa Cristales, quien el sábado pasado denunció que fue excluida de las reuniones de trabajo de la fracción legislativa de su partido.\nLa diputada manifestó su \u0026quot;preocupación\u0026quot; ante estas acciones, porque la propuesta de su \u0026quot;exclusión\u0026quot; fue presentada en su ausencia, sin el \u0026quot;debido proceso\u0026quot; y sin permitirle el \u0026quot;derecho a defensa\u0026quot;.\nEl holgado triunfo de Bukele del pasado 3 de marzo representa el fin del bipartidismo instalado durante décadas en el Gobierno con Arena y el Frente Farabundo Martí para la Liberación Nacional (FMLN, izquierda), que se repartieron las últimas cinco Administraciones. EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Principal partido opositor salvadoreño propone reducir gastos de autoridades",
+    "uuid": "047728b9-198f-36d5-b409-f4d0b1cebd9e"
+}

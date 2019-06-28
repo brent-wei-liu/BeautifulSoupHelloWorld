@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:55:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePresidente Cámara baja de P.Rico respalda alquiler embarcaciones para Vieques\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSan Juan, 4 mar (EFEUSA).- El presidente de la Cámara de Representantes de Puerto Rico, Carlos Méndez, le dio la bienvenida a la iniciativa del gobernador, Ricardo Rossello, de dar una solución al problema del transporte marítimo hacia Vieques y Culebra alquilando, de primera instancia, embarcaciones adicionales.\n\u0026quot;Es tiempo que se solucione el problema de transporte marítimo hacia Vieques y Culebra de una buena vez. Basta ya de remedios que no tienen oportunidad de ser exitosos. Agradezco que el gobernador escuchara nuestro pedido de aumentar la flota de lanchas, como medida temporera hasta que se logre una solución final, para así garantizar el flujo de pasajeros como carga\u0026quot;, dijo méndez en un comunicado.\n\u0026quot;Este \u0026#39;puente\u0026#39; no debe ser solamente con miras al transporte de turistas o visitantes a las islas municipios, se debe hacer con el único norte de garantizar a los viequenses y culebrenses que tendrán embarcaciones disponibles en todo momento\u0026quot;, añadió Méndez.\nEl líder legislativo insistió que se debe agilizar el proceso de adjudicación de una Alianza Público Privada (APP) para suplir las necesidades de transporte, tanto de pasajeros como de carga, de una manera permanente.\n\u0026quot;Reitero que se tiene que mover con más rapidez el proceso de evaluación y adjudicación de una APP para el transporte marítimo. Esto no puede esperar más. Espero que la Administración haga de esto una de sus prioridades en los próximos días y que el mismo se finalice antes del mes de agosto\u0026quot;. EFEUSA\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Presidente Cámara baja de P.Rico respalda alquiler embarcaciones para Vieques",
+    "uuid": "06430315-094c-3429-8c09-61d74743ab52"
+}

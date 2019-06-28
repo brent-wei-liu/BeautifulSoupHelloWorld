@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:42:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【公告】華邦電高雄廠廠房興建工程\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e日　　期：2019年03月04日\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e公司名稱：華邦電 (2344)\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e主　　旨：華邦電高雄廠廠房興建工程\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e發言人：黃求己\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e說　　明：\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e1.契約種類:新建工程合約\u003c/p\u003e\u003cp\u003e2.事實發生日:108/3/4~108/3/4\u003c/p\u003e\u003cp\u003e3.契約相對人及其與公司之關係:\u003c/p\u003e\u003cp\u003e大三億營造股份有限公司；與公司關係：無。\u003c/p\u003e\u003cp\u003e4.契約主要內容（含契約總金額、預計參與投入之金額及契約起迄日期）\u003c/p\u003e\u003cp\u003e、限制條款及其他重要約定事項:\u003c/p\u003e\u003cp\u003e高雄廠廠房興建相關工程﹔累計交易總金額為新台幣2,017,400,000元整。\u003c/p\u003e\u003cp\u003e限制條款及其他重要約定事項:無\u003c/p\u003e\u003cp\u003e5.專業估價者事務所或公司名稱及其估價結果:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e6.不動產估價師姓名:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e7.不動產估價師開業證書字號:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e8.取得之具體目的:\u003c/p\u003e\u003cp\u003e供辦公/生產使用\u003c/p\u003e\u003cp\u003e9.本次交易表示異議之董事意見:\u003c/p\u003e\u003cp\u003e無\u003c/p\u003e\u003cp\u003e10.本次交易為關係人交易:否\u003c/p\u003e\u003cp\u003e11.董事會通過日期:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e12.監察人承認或審計委員會同意日期:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e13.估價報告是否為限定價格、特定價格或特殊價格:否或不適用\u003c/p\u003e\u003cp\u003e14.是否尚未取得估價報告:否或不適用\u003c/p\u003e\u003cp\u003e15.尚未取得估價報告之原因:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e16.估價結果有重大差異時，其差異原因及會計師意見:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e17.會計師事務所名稱:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e18.會計師姓名:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e19.會計師開業證書字號:\u003c/p\u003e\u003cp\u003e不適用\u003c/p\u003e\u003cp\u003e20.其他敘明事項:\u003c/p\u003e\u003cp\u003e本案已於107年8月17日董事會通過，\u003c/p\u003e\u003cp\u003e並於會後當日發布資本支出重大訊息\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "【公告】華邦電高雄廠廠房興建工程",
+    "uuid": "0246dd8d-1d4e-3a99-b50d-24b214cd34eb"
+}

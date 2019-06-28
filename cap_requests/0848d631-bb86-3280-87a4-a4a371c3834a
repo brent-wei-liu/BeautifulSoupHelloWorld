@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:59:44Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJean-Pierre Raffarin annonce son soutien à Emmanuel Macron\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003ePARIS (Reuters) - L\u0026#39;ex-Premier ministre Jean-Pierre Raffarin a annoncé lundi son soutien \u0026quot;sans aucune hésitation\u0026quot; à Emmanuel Macron en vue des élections européennes du 26 mai, un choix qui le place de facto à la marge de son parti d\u0026#39;origine, Les Républicains (LR).\u003c/p\u003e\n\u003cp\u003eCette décision, annoncée dans une interview publiée sur le site internet du Figaro, n\u0026#39;est qu\u0026#39;une demi-surprise tant l\u0026#39;ancien sénateur a multiplié depuis 2017 les déclarations bienveillantes à l\u0026#39;égard du chef de l\u0026#39;Etat et parallèlement les mises en garde adressées au président de LR, Laurent Wauquiez.\u003c/p\u003e\n\u003cp\u003eJean-Pierre Raffarin, aujourd\u0026#39;hui retiré de la vie politique active, dit s\u0026#39;être décidé à la lecture de la tribune aux accents de manifeste pro-européen que le chef de l\u0026#39;Etat publie ce lundi dans la presse des 28 pays membres. \u003c/p\u003e\n\u003cp\u003e\u0026quot;J\u0026#39;adhère au constat, à la vision et au projet\u0026quot;, explique l\u0026#39;ancien chef du gouvernement dans Le Figaro. \u0026quot;C’est donc le projet du président que je soutiendrai sans aucune hésitation.\u0026quot;\u003c/p\u003e\n\u003cp\u003e\u0026quot;Aujourd’hui, affaiblir le président français, c’est affaiblir la France\u0026quot;, répond-il par ailleurs lorsqu\u0026#39;on lui demande pourquoi il n\u0026#39;opte pas pour la liste de LR.\u003c/p\u003e\n\u003cp\u003eL\u0026#39;ancien dirigeant chiraquien dit s\u0026#39;inscrire dans une logique non pas de ralliement mais de \u0026quot;coalition\u0026quot; avec le parti présidentiel, La République en marche (LaRem), qu\u0026#39;il dit n\u0026#39;avoir aucune intention de rejoindre.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Nous avons, sur la politique intérieure, un certain nombre de divergences avec le chef de l’État, comme sur les questions de décentralisation ou de fiscalité\u0026quot;, prend-il soin de préciser. \u003c/p\u003e\n\u003cp\u003eDans un courrier du 1er mars adressé à Jean-Pierre Raffarin et révélé par le journal L\u0026#39;Opinion, Laurent Wauquiez l\u0026#39;avait pressé de venir faire connaître son choix lors d\u0026#39;une réunion du bureau politique, prévue le 12 mars.\u003c/p\u003e\n\u003cp\u003eDans l\u0026#39;entourage de Laurent Wauquiez, on dit regretter \u0026quot;qu\u0026#39;il n\u0026#39;ait pas eu le courage de venir s\u0026#39;en expliquer\u0026quot;. \u0026quot;Cette clarification est la bienvenue même si nous regrettons qu\u0026#39;elle soit tardive\u0026quot;, ajoute-t-on.\u003c/p\u003e\n\u003cp\u003e\u0026quot;On comprend très bien qu\u0026#39;ils veulent tous les deux (Emmanuel Macron et Jean-Pierre Raffarin-NDLR) d\u0026#39;une Europe qui persiste dans ses erreurs et qui continue à s\u0026#39;éloigner des Français\u0026quot;, juge pour sa part Laurence Sailliet, porte-parole de LR, jointe par Reuters.\u003c/p\u003e\n\u003cp\u003eCe départ désormais quasiment acté de LR s\u0026#39;ajoute notamment à celui d\u0026#39;Alain Juppé, autre ancien Premier ministre et représentant de la droite pro-européenne, qui a formellement cessé d\u0026#39;appartenir à LR en début d\u0026#39;année. \u003c/p\u003e\n\u003cp/\u003e\n\u003cp\u003e (Simon Carraud, édité par Marine Pennetier)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Jean-Pierre Raffarin annonce son soutien à Emmanuel Macron",
+    "uuid": "0848d631-bb86-3280-87a4-a4a371c3834a"
+}

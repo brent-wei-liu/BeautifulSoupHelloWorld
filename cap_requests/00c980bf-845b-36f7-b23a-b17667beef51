@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:38:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePiden parar importación de fructosa para equilibrar mercado de azúcar\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eCIUDAD DE MÉXICO, marzo 4 (EL UNIVERSAL).- Para lograr el equilibrio del mercado azucarero es necesario que el gobierno federal frene las importaciones de fructosa de Estados Unidos y se pida a los productores de azúcar aceleren el ritmo de las exportaciones del endulzante, dijo la firma consultora de la industria azucarera Zafranet.\nActualmente se importa un millón de toneladas de fructosa a un precio entre 20% a 30% menor al del azúcar que se vende en el país, comentó que la entrada de fructosa  estadounidense que afecta el equilibrio del mercado mexicano, ya que suben los excedentes de azúcar qué hay en el país y que es de 2.6 millones de toneladas que deberán de exportarse.\nEl director de Zafranet, Alfredo Pacheco, dijo que hasta el 24 de febrero del 2014  se exportaron 576 mil 775 toneladas, aproximadamente el 22% del total de las exportaciones que supuestamente deberán salir durante el ciclo octubre 2018-septiembre 2019, lo que significa que deberán salir mensualmente 290 mil toneladas de azúcar a precios de 300 pesos el bulto, cuando en México está a 727 el bulto de 50 kilos.\nA Estados Unidos deberán de exportarse aproximadamente 1.1 millones de toneladas, aunque se venderán a un precio de aproximadamente 450 pesos el bulto; y al resto del mundo 1.5 millones de toneladas a un precio de aproximadamente 300 pesos el bulto.\nEl presidente de Sucroliq, Enrique Bojórquez  dijo que el gobierno debe intervenir en esta problemática de la industria porque  si no se hace nada los productores cañeros endurecerán su postura y pedirán que se aumenten los precios de la caña o se les en subsidios.\nRecordó que desde hace 45 días en 51 ingenios los cañeros bloquean los almacenes para pedir que el azúcar no se venda por debajo de 750 pesos para mantener el precio promedio del azúcar en un nivel que les permita un pago de su caña a un precio similar al del ciclo pasado.\nPor lo que para lograr un equilibrio en el mercado será necesario frenar las importaciones de fructosa, de no hacerse seguirán registrándose pérdidas a los cañeros y exportadores de azúcar.\nDijo que las pérdidas para la industria azucarera por el desequilibrio en el mercado podrían ascender a entre 18 mil millones y 20 mil millones de dólares, por los bajos precios del mercado internacional.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Piden parar importación de fructosa para equilibrar mercado de azúcar",
+    "uuid": "00c980bf-845b-36f7-b23a-b17667beef51"
+}

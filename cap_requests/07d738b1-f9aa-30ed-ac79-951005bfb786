@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:17:31Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eZone euro: Hausse plus forte que prévu des prix producteurs\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBRUXELLES (Reuters) - Les prix à la production ont augmenté un peu plus que prévu en janvier, portés par l'énergie, les biens d'équipement et les biens intermédiaires.\u003c/p\u003e\n              \u003cp\u003eLeur hausse est de 0,4% d'un mois sur l'autre et de 3,0% en glissement annuel, a annoncé Eurostat lundi. \u003c/p\u003e\n              \u003cp\u003eLes économistes interrogés par Reuters anticipaient en moyenne une hausse mensuelle de 0,3% et annuelle de 2,9%.\u003c/p\u003e\n              \u003cp\u003eLes prix de l'énergie ont augmenté de 0,4% en janvier, après une baisse de 2,7% en décembre, tandis que ceux des biens intermédiaires ont progressé de 0,3% (-0,4% en décembre) et ceux des biens d'équipement ont augmenté de 0,6% alors qu'ils n'avaient pas varié en décembre.\u003c/p\u003e\n              \u003cp\u003eLes prix à la production donnent une première indication de la tendance prévisible des prix de détail car leurs variations sont répercutées sur le consommateur, à moins qu'elles ne soient absorbées par les intermédiaires et les distributeurs.\u003c/p\u003e\n              \u003cp\u003eLes prix de détail ont augmenté de 1,5% annuel en février après 1,4% en janvier. Hors énergie, leur hausse n'est que de 1,2% en février, la même que celle des prix à la production hors énergie en janvier.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n              \u003cp/\u003e\n              \u003cp\u003e (Service économique)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Zone euro: Hausse plus forte que prévu des prix producteurs",
+    "uuid": "07d738b1-f9aa-30ed-ac79-951005bfb786"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e\u0026quot;Gómez Urrutia está detrás de huelgas\u0026quot;, asegura el PAN\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSuzzete Alcántara\nCIUDAD DE MÉXICO, marzo 4 (EL UNIVERSAL).- El Partido Acción Nacional (PAN) responsabilizó al senador de Morena, Napoleón Gómez Urrutia, por las huelgas promovidas en Matamoros, Tamaulipas, por la caída del pronóstico de crecimiento del PIB y la baja generación de empleos en la entidad.\nSeñaló que respaldará al gobernador de Tamaulipas, el panista Francisco García Cabeza de Vaca, en la denuncia que interpondrá contra el líder minero por desestabilizar a los sindicatos en Matamoros.\n\u0026quot;Desafortunadamente, es insuficiente el crecimiento económico de 1.6% que prevé el Banco de México para este año. En buena medida, esto es producto de los paros laborales y huelgas promovidas por el senador de Morena Napoleón Gómez Urrutia. Es lamentable que el gobierno federal no esté generando certeza para las inversiones y estabilidad laboral en las empresas\u0026quot;, expresó.\nEl presidente nacional del PAN, Marko Cortés, indicó que las acciones de Gómez Urrutia son \u0026quot;graves y delicadas\u0026quot;, porque a partir de lo que pasó en Matamoros, la inestabilidad laboral y económica puede repetirse en todas las ciudades fronterizas, por lo que Acción Nacional exige al gobierno frenar los actos \u0026quot;irresponsables\u0026quot; del dirigente minero.\nExigió a la Secretaría del Trabajo anular los paros activos y los más de 380 emplazamientos a huelga registrados con el fin de evitar manifestaciones laborales y afectaciones a la planta productiva en el país. \nMarko Cortés dijo que la inestabilidad laboral que hay en México no tiene precedente en los años recientes, y responsabilizó al gobierno federal de los conflictos laborales y pérdidas económicas que se deriven de la inacción de las autoridades laborales.\nDesde el pasado 24 de enero, sindicatos anunciaron que se irían a huelga 45 maquiladoras, en las que laboran 60 mil obreros. Esto porque los trabajadores exigen un aumento de 20% al salario, prestaciones económicas y un bono por 32 mil pesos, mientras que los empresarios ofrecen un aumento de 8.5% y un bono de 4 mil pesos.\nPor la caída del PIB y los empleos, Marko Cortés hizo un llamado urgente al gobierno federal para que \u0026quot;corrija sus errores, improvisaciones y ocurrencias\u0026quot; con el fin de impedir que sigan en caída libre el pronóstico de crecimiento y la generación de fuentes de trabajo durante 2019.\nAgregó que el recorte de Banxico a la proyección de este año para ubicarla en un rango de entre 1.1 y 2.1% —con un punto medio de 1.6%— y la generación de entre 620 y 720 mil empleos confirman previsiones hechas con anterioridad por Acción Nacional, calificadoras y organismos internacionales en el sentido de que las políticas seguidas por el gobierno de Morena no son las correctas para impulsar la economía.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "\u0026quot;Gómez Urrutia está detrás de huelgas\u0026quot;, asegura el PAN",
+    "uuid": "047ca1b2-f6f6-3311-a1d3-4edb49338ffa"
+}

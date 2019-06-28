@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:09:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e李小加：對內地推出科創板感高興　不擔心與香港競爭\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e中國證監會和上交所發布實施科創板試點註冊制相關業務和配套指引。港交所（0388）行政總裁、全國政協委員李小加在北京出席兩會時稱，很高興科創板規則落地，不擔心與香港資本市場競爭。\u003c/p\u003e\u003cp\u003e他表示，推出科創板對中國資本市場來說是一件大事，希望未來國際資金亦能參與。\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.hk01.com/sns/article/301753?utm_campaign=yahooexchange2018\u0026#38;utm_source=contentlink\u0026#38;utm_medium=referral\"\u003e點擊瀏覽《香港01》更多內容和圖集\u003c/a\u003e\u003cbr /\u003e\u003cbr /\u003e你可能感興趣： \u003cbr /\u003e\u003ca href=\"https://www.hk01.com/sns/article/302187?utm_campaign=yahooexchange2018\u0026#38;utm_source=relatedlink\u0026#38;utm_medium=referral\"\u003e【2019兩會】易會滿︰科創板有利於中港市場合作與發展\u003c/a\u003e\u003cbr /\u003e\u003ca href=\"https://www.hk01.com/sns/article/302178?utm_campaign=yahooexchange2018\u0026#38;utm_source=relatedlink\u0026#38;utm_medium=referral\"\u003eA股是否牛市重臨？　中證監易會滿﹕股市升乃市場行為　不評論\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.hk01.com/sns/article/301753?utm_campaign=yahooexchange2018\u0026utm_source=contentlink\u0026utm_medium=referral"
+    },
+    "request_path": "requests",
+    "title": "李小加：對內地推出科創板感高興　不擔心與香港競爭",
+    "uuid": "074f073e-7188-386d-a170-e6c3ad14d548"
+}

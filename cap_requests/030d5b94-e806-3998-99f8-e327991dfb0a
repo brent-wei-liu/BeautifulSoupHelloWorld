@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:22:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【公告】其陽108年第一次現金增資私募普通股收足股款暨增資基準日\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e日　　期：2019年03月04日\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e公司名稱：其陽 (3564)\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e主　　旨：其陽108年第一次現金增資私募普通股收足股款暨增資基準日\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e發言人：辜宏義\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e說　　明：\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e1.事實發生日:108/03/04\u003c/p\u003e\u003cp\u003e2.公司名稱:其陽科技股份有限公司\u003c/p\u003e\u003cp\u003e3.與公司關係(請輸入本公司或子公司):本公司\u003c/p\u003e\u003cp\u003e4.相互持股比例:不適用\u003c/p\u003e\u003cp\u003e5.發生緣由:\u003c/p\u003e\u003cp\u003e本公司107年12月14日第一次股東臨時會決議通過現金增資私募普通股案，\u003c/p\u003e\u003cp\u003e並授權董事會於決議日起一年內辦理。\u003c/p\u003e\u003cp\u003e6.因應措施:\u003c/p\u003e\u003cp\u003e(1)本公司108年度第一次私募普通股增資發行新股30,000,000股，每股\u003c/p\u003e\u003cp\u003e認購價格新台幣18.5元，合計新台幣555,000,000元整，已於108年3月4日\u003c/p\u003e\u003cp\u003e收足股款。\u003c/p\u003e\u003cp\u003e(2)增資基準日為108年03月04日。\u003c/p\u003e\u003cp\u003e7.其他應敘明事項:\u003c/p\u003e\u003cp\u003e本次私募對象及與本公司之關係等重要說明事項，請至公開資訊觀測站\u003c/p\u003e\u003cp\u003e之私募專區查詢。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "【公告】其陽108年第一次現金增資私募普通股收足股款暨增資基準日",
+    "uuid": "030d5b94-e806-3998-99f8-e327991dfb0a"
+}

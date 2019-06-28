@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:45:47Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJanji Prabowo Hentikan Kebocoran Anggaran\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eLiputan6.com, Jakarta -\u003c/b\u003e Calon Presiden nomor 02 \u003ca href=\"https://www.liputan6.com/pilpres/read/3908468/selain-kebocoran-prabowo-sebut-kondisi-indonesia-sedang-berdarah\" title=\"Prabowo Subianto\"\u003ePrabowo Subianto\u003c/a\u003e menghadiri konsolidasi nasional Aliansi Pencerah Indonesia di salah satu hotel di Jakarta.\u003c/p\u003e\n\u003cp\u003eSeperti ditayangkan \u003cem\u003eLiputan6 SCTV\u003c/em\u003e, Senin (4/3/2019), di hadapan ratusan relawan Aliansi Pencerah Indonesia, \u003ca href=\"https://www.liputan6.com/tag/prabowo-subianto\"\u003ePrabowo\u003c/a\u003e membahas soal kebocoran anggaran.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://www.liputan6.com/pilpres/read/3908273/ini-keberhasilan-orde-baru-versi-prabowo-subianto\" title=\"Prabowo\"\u003ePrabowo\u003c/a\u003e menegaskan, tugas eksekutif yang berkuasa untuk membuktikan dan menghentikan kebocoran yang ada. Prabowo berjanji jika terpilih menjadi presiden akan berjuang sesuai dengan amanat rakyat untuk menghentikan kebocoran.\u003c/p\u003e\n\u003cp\u003e\u0026quot;Kebocoran kita adalah sekitar 1.000 triliun setiap tahun, jika terpilih saya akan buktikan, tugas eksekutif sekarang menghentikan kebocoran tersebut, bukan tugas saya, tapi kalau saya diberi amanat saya akan berjuang untuk menghentikan ini,\u0026quot; ujar Calon Presiden Prabowo Subianto.\u003c/p\u003e\n\u003cp\u003eKehadiran Prabowo dalam acara ini disambut antusias ratusan relawan yang hadir dalam konsolidasi nasional Aliansi Pencerah Indonesia dan silaturrahmi warga muhammadiyah. Mereka yakin Prabowo-Sandi sukses dalam pemilihan presiden 2019. (Muhammad Gustirha Yunas)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/pilpres/read/3908496/janji-prabowo-hentikan-kebocoran-anggaran?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Janji Prabowo Hentikan Kebocoran Anggaran",
+    "uuid": "0a18d382-1b25-3aba-a17b-295d6de72907"
+}

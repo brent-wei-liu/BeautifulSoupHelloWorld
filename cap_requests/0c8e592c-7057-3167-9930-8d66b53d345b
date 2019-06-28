@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e«Billig» og «pulbar» – #metoo kom aldri til skolegården\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSi ;D-innlegg: For oss spiller det ingen rolle hva de voksne mener guttene legger i disse kommentarene.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.aftenposten.no/meninger/sid/i/e1VOPQ/Billig-og-pulbar--metoo-kom-aldri-til-skolegarden#xtor=RSS-3"
+    },
+    "request_path": "requests",
+    "title": "«Billig» og «pulbar» – #metoo kom aldri til skolegården",
+    "uuid": "0c8e592c-7057-3167-9930-8d66b53d345b"
+}

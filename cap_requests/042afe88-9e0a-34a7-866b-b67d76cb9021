@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:28:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eViime vuonna sähkölaite aiheutti 2500 tulipaloa – suurin syy huolimattomuus keittiössä\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSähköpaloissa menehtyi viime vuonna 11 ihmistä, mikä on vähiten viiteen vuoteen, kertoo Turvallisuus- ja kemikaalivirasto Tukes tiedotteessaan.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/kotimaa/art-2000006022573.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Viime vuonna sähkölaite aiheutti 2500 tulipaloa – suurin syy huolimattomuus keittiössä",
+    "uuid": "042afe88-9e0a-34a7-866b-b67d76cb9021"
+}

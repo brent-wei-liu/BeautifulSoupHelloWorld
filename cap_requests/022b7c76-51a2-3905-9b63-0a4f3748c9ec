@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:36:12Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCristal viaja a Chile con toda su artillería para afrontar la Libertadores\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eLima, 4 mar (EFE).- El Sporting Cristal viajó este lunes a Chile con todo su artillería al completo para visitar a la Universidad de Concepción en la primera jornada de la fase de grupos de la Copa Libertadores.\nEl técnico argentino de Cristal, Claudio Vivas, definió una lista de diecinueve jugadores, en un grupo donde no está el joven delantero Alexander Succar, cedido desde este lunes al Huachipato chileno por un año.\nEn la lista de convocados están el delantero argentino Emanuel Herrera, máximo goleador del torneo local el año pasado con 40, y el uruguayo Cristian Palacios, que el sábado marcó su primer gol con la camiseta de Cristal.\nEl club celeste afrontará su primer partido en la Libertadores tras haber firmado un inicio redondo en la liga peruana, en la que marcha segundo tras haber ganado sus tres primeros partidos, con seis goles a favor y ninguno en contra.\nLuego de golear este sábado por 0-3 al Sport Boys del Callao, Vivas advirtió que \u0026quot;la Universidad de Concepción es un equipo que juega bien al fútbol y es ofensivo\u0026quot;.\n\u0026quot;Va a venir a jugar y trataremos de hacer un buen partido\u0026quot;, dijo Vivas, que llegó al banquillo de Cristal a pocos días de comenzar la temporada en sustitución del colombiano Alexis Mendoza.\nEl argentino reconoció que los clubes peruanos están en desventaja en los torneos internacionales respecto a los equipos brasileños y argentinos, \u0026quot;que invierten mucho dinero para poder ganar el torneo\u0026quot;.\n\u0026quot;Quiero competir de igual a igual pero hay que saber ubicarse en el escenario. Tenemos que tratar de aprovechar nuestros tres partidos de local y sacar ventaja en todo lo que podamos como en nuestro primer partido en Chile\u0026quot;, indicó Vivas.\nEn este partido el plantel de Sporting Cristal se reencontrará con el experimentado centrocampista peruano Josepmir Ballón, quien jugó durante cuatro años en el club celeste y ahora milita en la Universidad de Concepción.\nEl posible once titular que presentará el conjunto celeste estará formado por Patricio Álvarez; Edinson Chávez, Gianfranco Chávez, Omar Merlo, Jair Céspedes; Fernando Pacheco, Jorge Cazulo, Horacio Calcaterra, Patricio Arce; Cristian Palacios y Emanuel Herrera.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Cristal viaja a Chile con toda su artillería para afrontar la Libertadores",
+    "uuid": "022b7c76-51a2-3905-9b63-0a4f3748c9ec"
+}

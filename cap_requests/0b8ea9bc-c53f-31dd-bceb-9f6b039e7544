@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:21:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVIDEO: Dramatis, Arema FC Bungkam Barito Putera 3-2\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eLiputan6.com, Jakarta\u003c/b\u003e Arema FC menang heroik atas Barito Putera dengan skor 3-2 di Stadion Kanjuruhan, Malang.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/bola/read/3909354/video-dramatis-arema-fc-bungkam-barito-putera-3-2?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "VIDEO: Dramatis, Arema FC Bungkam Barito Putera 3-2",
+    "uuid": "0b8ea9bc-c53f-31dd-bceb-9f6b039e7544"
+}

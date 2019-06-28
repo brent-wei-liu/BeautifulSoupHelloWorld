@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:26:12Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e228連假後台股雖小跌 但成交量增至近1400億\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e儘管市場樂觀看待美中貿易戰發展，美股上週五也以上漲作收，不過，台北股市在228連假後開市，一早開高之後，卻因為權值股台積電股價震盪下跌，拖累大盤表現，終場指數小跌39點，跌幅0.38%，收10349點，不過，成交量擴增至新台幣近1,400億，顯示市場換手活躍。匯市部分，新台幣兌美元匯價收盤30.830元，小貶5.5分。#請聽記者陳林幸虹報導#\u003c/p\u003e  \u003cp\u003e華爾街日報3日報導指出，美國和中國很快將完成重大貿易協議，兩邊都願意各退一步，取消去年宣布要向對方加徵的某些關稅，北京方面則願意為美...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30314256.html"
+    },
+    "request_path": "requests",
+    "title": "228連假後台股雖小跌 但成交量增至近1400億",
+    "uuid": "07f5b907-1f62-305d-b3e8-073c372d611b"
+}

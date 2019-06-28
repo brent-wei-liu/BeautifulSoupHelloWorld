@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:00:09Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJohn Hickenlooper, exgobernador de Colorado, irá por la candidatura demócrata\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eWashington, 4 mar (EFE).- El exgobernador de Colorado John Hickenlooper anunció que optará por la candidatura presidencial demócrata de cara a las elecciones de 2020, con lo que se une a un ya nutrido de grupo de aspirantes.\n\u0026quot;Presento mi candidatura a presidente porque necesitamos soñadores en Washington pero también necesitamos que se hagan las cosas\u0026quot;, afirmó Hickenlooper en el video de lanzamiento de su campaña.\nEl exalcalde de Denver destacó como credenciales \u0026quot;el haber probado una y otra vez que se puede juntar a la gente para producir el cambio progresista que Washington ha fracasado a la hora de ofrecer\u0026quot;.\nEn su mensaje mostró imágenes del actual presidente, Donald Trump, a quien calificó de \u0026quot;bravucón\u0026quot; y señaló que \u0026quot;el país encara una crisis que amenaza\u0026quot; sus valores básicos.\nHickenlooper, de 67 años y geólogo de formación, fue gobernador de Colorado entre 2011 y 2019.\nCon él son ya 14 los aspirantes a la candidatura de cara a 2020.\nEste fin de semana, el senador Bernie Sanders, quien disputó ya la candidatura a Hillary Clinton en 2016, anunció su intención de competir de nuevo.\nLa nutrida contienda por la candidatura demócrata a las presidenciales de 2020 cuenta entre los aspirantes las senadoras, Kamala Harris, Elizabeth Warren y Kirsten Gillibrand,así como con el exsecretario de Vivienda Julián Castro, entre otros.\nOtras figuras demócratas sobre las que se especula su posible candidatura son el exvicepresidente de EE.UU Joe Biden, y el popular excongresista estatal de Texas Beto O\u0026#39;Rourke.\nJohn Hickenlooper, exgobernador de Colorado (EE.UU.) EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "John Hickenlooper, exgobernador de Colorado, irá por la candidatura demócrata",
+    "uuid": "0c43705d-03f8-3d4c-ace0-35c3c4c61e51"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:10:20Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e未能參加北京疫苗會議 吳釗燮：非常的遺憾 (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e外交部長吳釗燮（圖）4日上午赴立法院業務報告，會前受訪表示，對於WHO的行政作業必須透過北京，讓台灣無法參加，且直到最後一刻才知道是否能參加，感到非常的遺憾。\u003c/p\u003e\n\u003cp\u003e中央社記者郭日曉攝  108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/f6f22e9fb71716824210849f06c35b85\" width=\"630\" height=\"508\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "未能參加北京疫苗會議 吳釗燮：非常的遺憾 (圖)",
+    "uuid": "01cac714-5068-3544-80fb-337c380b1c6c"
+}

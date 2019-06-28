@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:55:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKaum Hoffnung für vermisste Kumpel in Indonesien\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eSechs Tage nach dem Einsturz einer illegalen Goldmine in Indonesien sind immer noch bis zu hundert Bergleute unter Tage eingeschlossen. Die Retter suchen auf der Insel Sulawesi weiter fieberhaft nach den Vermissten, wie die Behörden mitteilten.\u003c/b\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Kaum Hoffnung für vermisste Kumpel in Indonesien",
+    "uuid": "0759b6e1-0309-3563-8c66-9fa7ba9251cc"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:56:57Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEurizon：若中国经济持续减速 欧元兑美元可能跌至1.05\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e【彭博】-- Eurizon SLJ Capital的首席执行官Stephen Jen表示，如果中国经济持续放缓，欧元就可能跌至2017年初以来低点。\u003c/p\u003e\u003cp\u003eJen表示，如果来自中国的压力进一步在欧洲扩散，并阻止欧洲央行恢复政策正常化，同时美国“继续优于其它地区”，那么欧元可能在今年晚些时候跌到1欧元兑1.05美元。Jen认为，中国实施财政刺激政策和放慢结构性改革步伐，可能都不足以推动经济在2019年上半年实现“V型反弹”。\u003c/p\u003e\u003cp\u003e欧洲“制造业和贸易部门明显有承压迹象，部分来自于中国的冲击，”这位驻伦敦的对冲基金经理在周五报告中写道。“如果我对中国经济保持疲软的猜测是对的，欧洲和欧洲央行都将继续承受压力。”\u003c/p\u003e\u003cp\u003e与彭博调查相比，Jen对欧元的预测比当中最看空的分析师还要悲观。彭博调查得到的预估中值显示，欧元兑美元料在四季度达到1.19美元，最低预测为1.10美元。欧元兑美元在纽约时间周一上午报1.1325美元，过去一年下跌约8%。\u003c/p\u003e\u003cp\u003eJen认为，美元可能会保持近来的韧性。由于美联储承诺将对利率调整保持耐心，预计美国国债收益率将随时间推移而下跌，为海外债券买家带来“甜蜜点”。Jen还表示，围绕全球经济的疑虑升温应该会持续利好美元。\u003c/p\u003e\u003cp\u003e“鉴于美联储持鸽派立场且股市上涨，美元一直出乎意料的强劲，”Jen写道。“美元得到支撑恰恰是因为人们对经济前景变得更不确定了。”\u003c/p\u003e\u003cp\u003e原文标题Euro Could Plunge to $1.05 If Chinese Gloom Grows, Jen Says\u003c/p\u003e\u003cp\u003e欲联系记者请洽：Katherine Greifeld New York kgreifeld@bloomberg.net\u003c/p\u003e\u003cp\u003e欲联系英文编辑请洽：Benjamin Purvis bpurvis@bloomberg.net, Greg Chang、Boris Korby\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Eurizon：若中国经济持续减速 欧元兑美元可能跌至1.05",
+    "uuid": "04dce90f-2182-3bef-802f-a012c80369ea"
+}

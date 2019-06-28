@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:49:46Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNach Sieg in Neapel: Juventus Turin stellt neuen Auswärtsrekord auf\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eDer amtierende italienische Meister \u003ca href=\"https://www.goal.com/de/team/juventus-turin/bqbbqm98ud8obe45ds9ohgyrd\" target=\"_blank\"\u003eJuventus Turin\u003c/a\u003e ist nach dem 2:1-Sieg bei Verfolger \u003ca href=\"https://www.goal.com/de/team/ssc-neapel/gi0l1habji5hpgar77dl5jqe\" target=\"_blank\"\u003eNapoli\u003c/a\u003e mittlerweile seit 26 Auswärtsspielen ungeschlagen und hat damit einen neuen vereinsinternen Rekord aufgestellt.\u003c/p\u003e\n\n\n\u003cp\u003eDas Team von Trainer Massimiliano Allegri bezwang Napoli am Sonntagabend \u003ca href=\"https://www.goal.com/de/meldungen/video-highlights-serie-a-ssc-neapel-juventus-turin-12/136ljochmwo5f152dfxmut3e4j\" target=\"_blank\"\u003edurch Tore von Miralem Pjanic und Emre Can\u003c/a\u003e und erhöhte den Vorsprung auf den Tabellenzweiten damit auf 16 Punkte.\u003c/p\u003e\n\n\u003ch2\u003eSerie A: Juventus Turin weiterhin ungeschlagen\u003c/h2\u003e\n\n\u003cp\u003eDarüber hinaus knackten die Bianconeri auch noch einen Serie-A-Rekord: Nach 26 Spielen hat Juve bereits 72 Punkte auf dem Konto - keiner Mannschaft war dies zuvor gelungen.\u003c/p\u003e\n\n\u003cp\u003eZudem sind Cristiano Ronaldo, Paulo Dybala und Co. in der Liga weiterhin ungeschlagen. Damit ist Juventus das einzige Team aller europäischen Top-Ligen, das noch keine Niederlage einstecken musste.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Nach Sieg in Neapel: Juventus Turin stellt neuen Auswärtsrekord auf",
+    "uuid": "08587307-c289-3375-bec4-4a45323c1cbf"
+}

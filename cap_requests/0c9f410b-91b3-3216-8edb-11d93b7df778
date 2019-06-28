@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:04:19Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e11\u0026#39;ler belli oldu!\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSpor Toto Süper Lig\u0026#39;in 24. haftasında Kasımpaşa ile Trabzonspor karşılaşıyor. Ligde çıktığı son 6 maçtan puansız ayrılan Kasımpaşa, Trabzonspor\u0026#39;u mağlup ederek kötü gidişe son vermeyi hedefliyor. Trabzonspor ise bu sezon İstanbul\u0026#39;da ilk 3 puanını alarak Avrupa kupalarına katılma yolunda bir engeli aşmak istiyor\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.haberturk.com/kasimpasa-trabzonspor-canli-yayin-2392393-spor"
+    },
+    "request_path": "requests",
+    "title": "11\u0026#39;ler belli oldu!",
+    "uuid": "0c9f410b-91b3-3216-8edb-11d93b7df778"
+}

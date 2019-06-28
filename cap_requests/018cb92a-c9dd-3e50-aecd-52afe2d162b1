@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:13:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKlasemen Liga Italia: AC Milan Salip Inter\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv id=\"page-1\"\u003e\u003cp\u003e\u003cb\u003eLiputan6.com, Milan -\u003c/b\u003e Setelah mencatatkan empat kemenangan beruntun, AC Milan akhirnya berhasil menyalip rival sekota mereka, Inter Milan di \u003ca href=\"https://www.liputan6.com/bola/read/3906663/mulai-disingkirkan-pelatih-inter-milan-mauro-icardi-buka-suara\" title=\"klasemen Liga Italia\"\u003eklasemen Liga Italia\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eDalam \u003ca href=\"https://www.liputan6.com/tag/klasemen-liga-italia\" target=\"_blank\"\u003eklasemen Liga Italia\u003c/a\u003e, AC Milan berada di posisi ketiga dengan raihan 48 poin. Pada pekan ke-26, AC Milan menang 1-0 atas Sassuolo di San Siro Stadium.\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003e\u003c/p\u003e\n\u003cp\u003eSementara Inter Milan menelan kekalahan 1-2 dari Cagliari di Sardegna Arena. Dua gol Cagliari dicetak oleh Ivan Rakitic (bunuh diri) dan Pavoletti. Sedangkan gol balasan Inter Milan dicatatkan oleh Lautaro Martinez.\u003c/p\u003e\n\u003cp\u003eKekalahan tersebut membuat Inter Milan turun ke posisi empat dengan raihan 47 poin. Tim asuhan Luciano Spalletti itu tertinggal satu angka dari AC Milan.\u003c/p\u003e\n\u003cp\u003eDi sisi lain, posisi puncak klasemen Liga Italia masih menjadi milik Juventus. Si Nyonya Tua baru saja menumbangkan rival terdekatnya, Napoli dengan skor 2-1.\u003c/p\u003e\n\u003cp\u003eLihat \u003ca href=\"https://www.liputan6.com/bola/read/3908339/ac-milan-jual-pemain-dulu-demi-permanenkan-bakayoko\" title=\"klasemen Liga Italia\"\u003eklasemen Liga Italia\u003c/a\u003e di halaman selanjutnya.\u003c/p\u003e\u003c/div\u003e\n\u003c!-- pagebreak --\u003e\n\u003cdiv id=\"page-2\"\u003e\u003ch2 class=\"multipage\"\u003eKlasemen Liga Italia\u003c/h2\u003e\n\u003cp\u003e\u003ciframe width=\"520\" height=\"700\" frameborder=\"0\" scrolling=\"no\"\u003e\u003c/iframe\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSaksikan video menarik berikut ini:\u003c/strong\u003e\u003c/p\u003e\n\u003cdiv\u003e\u003ciframe class=\"vidio-embed \" width=\"0\" height=\"0\" frameborder=\"0\" scrolling allowfullscreen\u003e\u003c/iframe\u003e\u003c/div\u003e\u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/bola/read/3908480/klasemen-liga-italia-ac-milan-salip-inter?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Klasemen Liga Italia: AC Milan Salip Inter",
+    "uuid": "018cb92a-c9dd-3e50-aecd-52afe2d162b1"
+}

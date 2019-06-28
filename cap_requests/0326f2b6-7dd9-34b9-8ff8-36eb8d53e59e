@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:13:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e半日深股通錄29.36億人幣淨流入 南向淨流入6.74億人幣\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e半日深股通交易額度剩餘490.64億元人民幣(下同)，即淨流入29.36億元。\u003c/p\u003e\u003cp\u003e港股通交易額度剩餘413.26億元，即淨流入6.74億元。(da/u)~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "半日深股通錄29.36億人幣淨流入 南向淨流入6.74億人幣",
+    "uuid": "0326f2b6-7dd9-34b9-8ff8-36eb8d53e59e"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:16:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eInsulto ai napoletani, bufera su Treviglio\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSconcertante scivolata social del direttore sportivo della Blu Basket, Massimo Gritti.\n\nA margine della gara del campionato di serie A di calcio tra il Napoli e la Juventus sul profilo Facebook del dirigente della società di Treviglio è stato utilizzato un termine offensivo (m...a, ndr) nei confronti dei napoletani.\n\nFrasi che non sono passate inosservate al popolo del web: si è scatenata un’autentica bufera e c’è chi ha chiesto al club lombardo di prendere le distanze.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.sportal.it/articoli/basket/legadue/insulto-ai-napoletani-bufera-su-treviglio/1130853/"
+    },
+    "request_path": "requests",
+    "title": "Insulto ai napoletani, bufera su Treviglio",
+    "uuid": "045f7658-b2a9-3127-8409-2d967155cf32"
+}

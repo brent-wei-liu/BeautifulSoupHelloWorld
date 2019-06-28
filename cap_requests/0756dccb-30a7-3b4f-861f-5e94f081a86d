@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:12:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中国奥园(03883.HK)2月合同销售额升39%至56.3亿元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/d4ed0978cf613cec4022e712b0fa2961\" border=\"0\" alt=\"K\u0026#x0056fe; 03883_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e格隆汇3月4日丨中国奥园(03883.HK)公告，于2019年2月，集团实现未经审核合同销售金额约人民币56.3亿元，同比增长约39%。2019年1月至2月集团的未经审核合同销售额累计约人民币112.3亿元，较2018年同期增长约39%。 \u003c/p\u003e\u003cp\u003e（文章来源：格隆汇）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000414.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000414.shtml"
+    },
+    "request_path": "requests",
+    "title": "中国奥园(03883.HK)2月合同销售额升39%至56.3亿元",
+    "uuid": "0756dccb-30a7-3b4f-861f-5e94f081a86d"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:04:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e亚洲美元债经历七年来最佳年度开局后 逐渐失去动能\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e【彭博】-- 亚洲美元债今年以来一直走强，但有迹象表明，在经过七年来最佳年度开局后，市场正逐渐失去动能。\u003c/p\u003e\u003cp\u003e今年以来，亚洲公司债的回报率为2.8%，投资人抢购去年遭逢卖压的证券。虽然市场依然火热，但从某些指标来看，最近几周市场热度略微下滑。\u003c/p\u003e\u003cp\u003e根据一项ICE美银美林指数，截至2月底亚洲美元公司债的利差与前一周的水平相同。亚洲美元债的主要发行人是中国企业。2月份利差下降了23个基点，但跌幅不及1月份的31个基点。\u003c/p\u003e\u003cp\u003e“随着利差回到更正常的水平，亚洲美元债进一步上涨的空间有限，”摩根大通亚洲私人银行的固定收益、货币和大宗商品主管Ben Sy说。“投资人将持续买进，但买气可能不会像前两个月一样积极。”\u003c/p\u003e\u003cp\u003e美联储转趋鸽派，加上美中或达成贸易协议的乐观情绪，引爆从中国股票到全球债券等风险资产的一波强劲涨势。巴克莱上周警告，虽然美国和中国达成贸易协议的预期升温，让已经紧缩的亚洲美元债利差进一步收窄，但是美中积极的谈判结果可能反倒会让市场参与者重新评估对美联储“保持耐心”立场的看法。\u003c/p\u003e\u003cp\u003e面对经济相互矛盾的信号和通胀疲软的情况，美联储主席鲍威尔上周重申最近所言耐心以对的承诺。美国总统特朗普周六暗批鲍威尔是一个“喜欢加息”的人，不过他没有直接点名是鲍威尔。\u003c/p\u003e\u003cp\u003e巴克莱指出，债券供给增加，其中包括中国地产商发行的高收益债，可能也会减缓涨势。\u003c/p\u003e\u003cp\u003e(增加最后两段内容)\u003c/p\u003e\u003cp\u003e原文标题Best Asian Dollar Bond Rally in Seven Years Is Losing Steam\u003c/p\u003e\u003cp\u003e欲聯繫中文編輯請洽: Jiayan Lou jlou30@bloomberg.net\u003c/p\u003e\u003cp\u003e欲聯繫記者請洽：Denise Wee 香港 dwee10@bloomberg.net\u003c/p\u003e\u003cp\u003e欲聯繫英文編輯請洽：Andrew Monahan amonahan@bloomberg.net, Finbarr Flynn\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "亚洲美元债经历七年来最佳年度开局后 逐渐失去动能",
+    "uuid": "0de2cf8e-1b00-32c7-9462-911e689e5ad2"
+}

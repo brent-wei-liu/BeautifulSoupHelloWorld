@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:36:44Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAerolínea LATAM anuncia expansión en Colombia con USD 300 millones\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eLATAM Airlines anunció este lunes un plan de expansión en Colombia que incluye una inversión de 300 millones de dólares para duplicar sus operaciones en ese país en los próximos tres años, anunció un comunicado de la empresa chileno-brasileña.\nLa compañía aérea, la mayor de América Latina, busca un crecimiento sostenido de las operaciones de su filial LATAM Airlines Colombia, cuya participación alcanza al 23% del mercado, el segundo en importancia de Sudamérica y dominado hoy por la aerolínea local Avianca.\n\u0026quot;El plan expansión Colombia tiene como objetivo estimular la demanda para darle equilibrio al mercado local y con esto diversificar la industria aérea colombiana promoviendo mayores niveles de competencia\u0026quot;, indicó Roberto Alvo, vicepresidente comercial de LATAM, en el comunicado difundido en Santiago de Chile.\nEl crecimiento de las operaciones se desarrollará principalmente en las rutas entre Bogotá, Cali, Medellín y Bucaramanga, en las que se incrementarán 36 vuelos diarios en total. También se renovará la flota de la filial en Colombia, mejorará el programa de pasajero frecuente y se dará mayor acceso a la red de destinos que tiene LATAM.\nAdicionalmente, se generarán alrededor de 100 empleos derivados de la contratación de pilotos, tripulantes de cabina y técnicos de mantenimiento.\nEl plan, que comenzará a ejecutarse a partir del 1 de julio, es el emprendimiento más agresivo de una filial del Grupo LATAM desde que la aerolínea LAN se fusionó en el 2015 con la brasileña TAM para crear LATAM.\nLATAM tiene filiales en Argentina, Brasil, Chile, Colombia, Ecuador, Paraguay y Perú. Vuela a 140 destinos en 24 países, con una flota de 318 aviones y más de 53.000 empleados.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Aerolínea LATAM anuncia expansión en Colombia con USD 300 millones",
+    "uuid": "06040b79-9cc3-3202-90f7-8862e89c19b2"
+}

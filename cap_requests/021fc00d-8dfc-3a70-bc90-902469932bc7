@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:02:41Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eJaguar I-Pace årets bil 2019 – efter stort drama\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eGENÈVE. En hisnande nervös final där Jaguar I-Pace först fick lika många poäng som sportbilen Alpine A110 men sedan kunde koras till vinnare. Men trots att många elbilar lanserats under året kom bara en till final. \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.svd.se/jaguars-i-pace-arets-bil-2019--efter-tre-omrakningar"
+    },
+    "request_path": "requests",
+    "title": "Jaguar I-Pace årets bil 2019 – efter stort drama",
+    "uuid": "021fc00d-8dfc-3a70-bc90-902469932bc7"
+}

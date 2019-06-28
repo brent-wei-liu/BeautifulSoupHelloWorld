@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:17:25Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e雲林宣傳婦女節活動　婦女朋友擺攤吸人氣 (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e雲林縣政府4日在縣府親民廣場舉辦「她可以．女也可以：雲林女力上場」108年婦女節活動宣傳記者會，並邀請婦女團體設攤呈現手工藝品及美味料理，吸引不少民眾前往參觀。\u003c/p\u003e\n\u003cp\u003e中央社記者葉子綱攝  108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/8527468e7ecd2e76bd83a007e18514e2\" width=\"630\" height=\"435\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "雲林宣傳婦女節活動　婦女朋友擺攤吸人氣 (圖)",
+    "uuid": "00ee20f4-21d9-322e-a8d4-08bdf8d8a2a4"
+}

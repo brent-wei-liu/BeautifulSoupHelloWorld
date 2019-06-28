@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:34:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eВ Подмосковье самолет Ан-26 выкатился за пределы взлетной полосы\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eПри посадке на аэродром в Московской области самолет Минобороны выкатился за пределы взлетно-посадочной полосы\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.rbc.ru/rbcfreenews/5c7d4d479a794791f5732bc0"
+    },
+    "request_path": "requests",
+    "title": "В Подмосковье самолет Ан-26 выкатился за пределы взлетной полосы",
+    "uuid": "059fb1b4-0d67-3960-b5ed-c45b576557fc"
+}

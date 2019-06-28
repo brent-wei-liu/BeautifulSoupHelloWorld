@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:34:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMaría Jesús Montero dice que \u0026quot;las palabras feminismo y liberal no cuadran\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- La Ministra de Hacienda, María Jesús Montero, ha asegurado que hay juegos de palabras, como es feminismo liberal, que \u0026quot;no cuadran\u0026quot; y que las usan los que \u0026quot;no se atreven a pronunciarse sobre una materia tan clara\u0026quot;.\nAsí lo ha dicho la ministra este lunes al término del acto institucional en conmemoración del Día de las Mujeres, en el que el Ministerio de Igualdad ha hecho entrega de los Reconocimientos a la Igualdad 2019.\nDe esta manera se refería Montero al decálogo \u0026quot;Feminismo Liberal\u0026quot; presentado este fin de semana por Ciudadanos, en el que la formación naranja exponía su visión del feminismo \u0026quot;inclusivo, plural y abierto\u0026quot;.\nMontero ha asegurado que en la definición de Ciudadanos \u0026quot;el sustantivo y el adjetivo no cuadran\u0026quot; y ha destacado que \u0026quot;en lo que si hay unanimidad es en que el mundo tiene que ser feminista y tiene que avanzar para que todas las mujeres aprovechen su potencialidad, porque evidentemente son necesarias\u0026quot;.\nTambién se ha referido a las declaraciones de VOX de que el 8M \u0026quot;supone un desprecio a la mujer\u0026quot; y ha dicho que este partido \u0026quot;se descalifica solo\u0026quot; y permanentemente está mandando \u0026quot;un discurso ofensivo\u0026quot;.\nTras asegurar que \u0026quot;no merece la pena en estos días decir nada sobre ellos\u0026quot;, ha apostado por hablar de las mujeres que están luchan.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "María Jesús Montero dice que \u0026quot;las palabras feminismo y liberal no cuadran\u0026quot;",
+    "uuid": "071b9fea-e3dd-3ca1-9a4f-e976536d66f5"
+}

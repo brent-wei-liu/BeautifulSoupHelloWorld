@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:24:58Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAvec son entretien à la télévision italienne, Emmanuel Macron lance mollement sa campagne en Europe et tente de rassembler les europhiles\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eL’interview d’Emmanuel Macron par Fabio Fazio, animateur de l’émission dominicale, \u003cem\u003eChe Tempo Che Fa\u003c/em\u003e, de la première chaîne de la télévision publique italienne (RAI), ne restera sans doute pas dans les annales, ni pour l’audace des questions posées, ni pour l’originalité des réponses données. Plutôt qu’un entretien contradictoire, c’est surtout une tribune qui lui était ainsi offerte pour mieux se faire connaître du grand public italien et pour réaffirmer ses positions en matière de politique européenne. Il devrait d’ailleurs publier une tribune dans la presse européenne ce mardi.\u003c/p\u003e\n\n\u003cp\u003eL’entretien a été filmé dans une des antichambres du palais de l’Elysée, probablement pour lui donner une tonalité plus informelle et directe. Emmanuel Macron semble avoir voulu apaiser les choses en ne citant nommément aucun de ses adversaires politiques italiens (Matteo Salvini ou Luigi di Maio en particulier). Les récents événements (dont la visite de Luigi di Maio à des « gilets jaunes et le rappel de l’Ambassadeur de France à Rome qui s’en est suivi)  ont été renvoyés d’un revers de main au statut de péripéties d’une relation franco-italienne fondamentalement positive et émotionnellement forte.\u003c/p\u003e\n\n\u003cp\u003eFort classiquement pour un responsable français voulant se faire apprécier en Italie, il s’est ainsi montré féru de culture italienne et des villes et régions les plus remarquables du « Bel Paese » (Naples en l’occurrence). Il n’a pas négligé de rappeler l’apport des Italiens à la construction européenne (avec Altiero Spinelli). Il a annoncé avoir décidé avec le Président de la République italienne, Sergio Mattarella, une rencontre sous leur patronage le 2 mai prochain de jeunes italiens et français à l’occasion des célébrations des cinq cents ans de la mort de Leonard de Vinci. Il a admis que l’Italie avait été laissée seule par l’Europe à affronter les migrations en Méditerranée. Il a souligné que le sort des migrants était lié à l’existence de maffias les incitant à tenter la traversée. Il (...)\u003ca rel=\"nofollow\" href=\"https://www.atlantico.fr/decryptage/3567340/avec-son-entretien-a-la-television-italienne-emmanuel-macron-lance-mollement-sa-campagne-en-europe-et-tente-de-rassembler-les-europhiles-christophe-bouillaud?yahoo=1\"\u003e\u003cstrong\u003elire la suite sur Atlantico\u003c/strong\u003e\u003cbr/\u003e\u003c/a\u003e\u003c/p\u003e  \u003cbr/\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Avec son entretien à la télévision italienne, Emmanuel Macron lance mollement sa campagne en Europe et tente de rassembler les europhiles",
+    "uuid": "065c561e-9ee1-314c-8ad3-05947e784a46"
+}

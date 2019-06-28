@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:45:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e沖壓件廠佳穎去年財報EPS 4.64元 擬配發5元現金股利\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e沖壓件廠佳穎精密 (3310-TW) 今 (4) 日董事會通過去年財報，稅後純益 2.72 億元，每股純益 4.64 元，佳穎董事會並決議，擬配發每股 5 元現金股利，以今天佳穎收盤價 52 元計算，其股利現金殖利率為 9.61%。\u003c/p\u003e  \u003cp\u003e佳穎去年的股利分配案，擬於 6 月 12 日召開的股東會決議。\u003c/p\u003e  \u003cp\u003e佳穎去年財報營收 27.42 億元，毛利率為 17.75%，年減 3.59 個百分點，稅後純益 2.72 億元，年增 3.69 倍，每股稅後純益為 4.64 元。\u003c/p\u003e  \u003cp\u003e在已發布去年財報股利政策的公司中，除佳穎股利配發率超過 100% 外，生產商用置物設備的開發商益張 (8342-TW)，表現亦十分亮眼。\u003c/p\u003e  \u003cp\u003e受惠於去年獲利回升、今年接單結構轉佳，益張董事會通過，對去年盈餘每股擬配 3.5 元現金股利，以去年每股純益 3.43 元計算，益張盈餘配發率高達 102%。\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.cnyes.com/news/id/4285433"
+    },
+    "request_path": "requests",
+    "title": "沖壓件廠佳穎去年財報EPS 4.64元 擬配發5元現金股利",
+    "uuid": "09306ecf-4eaa-3ee3-aa13-553d4a509966"
+}

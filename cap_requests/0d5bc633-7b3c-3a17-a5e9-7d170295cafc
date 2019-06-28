@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:39:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKatar S-400 masasında: Müzakereler devam ediyor\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eKatar Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani, Rusya\u0026#39;dan S-400 hava savunma sistemi alımı konusunda müzakerelerin sürdüğünü, henüz nihai anlaşmaya varmadıklarını belirtti\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.haberturk.com/katar-s-400-masasinda-muzakereler-devam-ediyor-2392228"
+    },
+    "request_path": "requests",
+    "title": "Katar S-400 masasında: Müzakereler devam ediyor",
+    "uuid": "0d5bc633-7b3c-3a17-a5e9-7d170295cafc"
+}

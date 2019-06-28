@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:21:50Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa startup Hosman ouvre 30 postes en 2019\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp class=\"hugin\"\u003e Hosman, la start-up qui s\u0026apos;est fixée pour mission de réinventer l\u0026apos;agence immobilière, lance une vaste campagne de recrutement pour s\u0026apos;entourer de nouveaux talents et déployer sa stratégie commerciale à grande échelle en Ile-de-France, une région stratégique pour la société.Hosman recherche des talents exigeants, pleins d\u0026apos;audace et prêts à challenger le statu-quo, capables de penser out-of-the-box et passionnés à l\u0026apos;idée de révolutionner la vente immobilière. Quels que soient les profils chez Hosman, leur mission les fédère : réinventer le métier d\u0026apos;agent immobilier pour offrir une expérience client exceptionnelle et un service irréprochable. \u003c/p\u003e\n  \u003cp class=\"hugin\"\u003e\n   Quelques opportunités chez \n   \u003ca class=\"hugin\" href=\"https://www.hosman.co/\" target=\"_blank\"\u003eHosman\u003c/a\u003e\n    :\n   \u003cbr class=\"hugin\"/\u003e\n   \u003cbr class=\"hugin\"/\u003e\n   - Business Developer Junior \u0026amp; Senior\n   \u003cbr class=\"hugin\"/\u003e\n   \u003cbr class=\"hugin\"/\u003e\n   - Developper Full Stack Junior \u0026amp; Senior \n  \u003c/p\u003e\n  \u003cbr /\u003e\n  \u003chr /\u003e\n  \u003cbr /\u003e\n  \u003cdiv style=\"font-size:10px;\" id=\"div_with_disclaimer_id\"\u003e\n   \u003ci style=\"font-size:10px;\"\u003e\n    This announcement is distributed by West Corporation on behalf of West Corporation clients.\n    \u003cbr /\u003e\n    \u003cbr /\u003e\n    The issuer of this announcement warrants that they are solely responsible for the content, accuracy and originality of the information contained therein.\n    \u003cbr /\u003e\n    \u003cbr /\u003e\n    Source: Hosman via GlobeNewswire\n   \u003c/i\u003e\n   \u003cbr /\u003e\n  \u003c/div\u003e\n  \u003cdiv\u003e\n   \u003ci style=\"color:#E8E8E8;font-size:8px;\"\u003eHUG#2237198\u003c/i\u003e\n   \u003cbr /\u003e\n  \u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "La startup Hosman ouvre 30 postes en 2019",
+    "uuid": "0e70915f-658d-3ead-8ca5-5a8111c4e779"
+}

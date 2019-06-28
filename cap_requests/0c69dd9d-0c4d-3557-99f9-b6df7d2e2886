@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:21:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中信兄弟啦啦隊練舞（1） (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e迎接中華職棒30年，中信兄弟專屬啦啦隊Passion Sisters（熱情姐妹）日前展開春訓，新加入的學妹粿粿（前右起）、松鼠與學姊們一起在舞蹈教室中練舞。\u003c/p\u003e\n\u003cp\u003e中央社記者張新偉攝　108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/e0325990b6772423401696a32233bd3c\" width=\"630\" height=\"436\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "中信兄弟啦啦隊練舞（1） (圖)",
+    "uuid": "0c69dd9d-0c4d-3557-99f9-b6df7d2e2886"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-02-27T14:45:45Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEintracht mit 13.500 Fans zum Europa-League-Spiel in Mailand\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eBundesligist Eintracht Frankfurt wird auf seiner n\u0026auml;chsten Reise in der Europa League erneut von beeindruckenden Fanmassen begleitet. Wie die Hessen am Mittwoch mitteilten, wurde f\u0026uuml;r das Achtelfinal-R\u0026uuml;ckspiel am 14. M\u0026auml;rz bei Inter Mailand das volle Ausw\u0026auml;rts-Kontingent von 13.500 Tickets abgesetzt.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDas ist einer Europa-Rekord! Schon zum letzten Gruppenspiel der Eintracht bei Lazio Rom waren im Dezember fast 10.000 Frankfurter Anh\u0026auml;nger gereist, die bisherige Bestmarke stammt aus dem Jahr 2013, als 12.000 SGE-Anh\u0026auml;nger nach Bordeaux fuhren.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDie Top-Verdiener im Fu\u0026szlig;ball:\u0026nbsp;\u003ca href=\"https://de.sports.yahoo.com/fotos/top-verdiener-fu%C3%9Fball-weltfu%C3%9Fballer-dabei-slideshow-wp-102730157/\" target=\"_blank\"\u003eDer Weltfu\u0026szlig;baller ist nicht dabei!\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eInsgesamt seien binnen der 24-st\u0026uuml;ndigen Verkaufsphase rund 20.000 Ticketbestellungen eingegangen, teilte die Eintracht mit. Das festgeschriebene Ticketkontingent f\u0026uuml;r G\u0026auml;ste-Fans betr\u0026auml;gt laut UEFA-Reglement \u0026uuml;blicherweise nur f\u0026uuml;nf Prozent der Gesamtkapazit\u0026auml;t des Stadions. Nach \u0026quot;guten und konstruktiven Gespr\u0026auml;chen\u0026quot; mit den Gastgebern und den zust\u0026auml;ndigen Sicherheitsbeh\u0026ouml;rden in Mailand habe man sich allerdings auf eine Erh\u0026ouml;hung einigen k\u0026ouml;nnen.\u003c/p\u003e\n\u003cp\u003e\u0026quot;F\u0026uuml;r unsere Fans geht mit dem Spiel im altehrw\u0026uuml;rdigen San Siro ein Traum in Erf\u0026uuml;llung\u0026quot;, sagte Eintracht-Vorstandsmitglied Axel Hellmann: \u0026quot;Eine ganze Region freut sich \u0026uuml;ber die Spiele gegen einen der klangvollsten Namen des europ\u0026auml;ischen Klubfu\u0026szlig;balls Wir freuen uns auf zwei friedliche und sportlich spannende Fu\u0026szlig;ballfeste.\u0026quot; Das Hinspiel in Frankfurt steigt am kommenden Donnerstag.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIm Video:\u0026nbsp;EL-Achtelfinale: Hammer-Los f\u0026uuml;r Frankfurt\u003c/strong\u003e\u003c/p\u003e\n\u003ciframe src=\"https://www.yahoo.com/el-achtelfinale-hammer-los-f\u0026uuml;r-130111902.html?format=embed\u0026amp;region=DE\u0026amp;lang=de-DE\u0026amp;site=sports\u0026amp;player_autoplay=false\" width=\"640\" height=\"360\" frameborder=\"0\" data-yom-embed-source=\"{media_id_1:90c9fcae-dcaa-3159-ba69-8b2679320fd3}\"\u003e\u003c/iframe\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Eintracht mit 13.500 Fans zum Europa-League-Spiel in Mailand",
+    "uuid": "0d206e2f-6b9f-3bdf-a1bc-6db7c21842c8"
+}

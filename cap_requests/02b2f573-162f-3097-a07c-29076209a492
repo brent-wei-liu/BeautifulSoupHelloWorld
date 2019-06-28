@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:22:37Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 370\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, para anggota memainkan Permainan Kejujuran Tur Ngengat Harimau. Para anggota harus memilih siapa yang berkata jujur di antara Kwang Soo atau So Min mengenai perjalanan keduanya ke Indonesia. Yang kalah akan selangkah lebih dekat untuk merasakan pengalaman menaiki Ayunan Nevis.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 370",
+    "uuid": "02b2f573-162f-3097-a07c-29076209a492"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:08:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《亞洲經濟》日本2月基礎貨幣年升續略放緩至4.6%\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e日本央行數據顯示，日本今年2月基礎貨幣同比升幅繼續略放緩至4.6%(屢創至少逾五年低)，報493.098萬億日圓；但經季調後基礎貨幣同比急彈6.5%(前值續降0.4%)，報503.4657萬億日圓，結束連降兩個月。(sz/t)~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《亞洲經濟》日本2月基礎貨幣年升續略放緩至4.6%",
+    "uuid": "049fb740-e840-33bb-9cb1-58b71f9b2c1e"
+}

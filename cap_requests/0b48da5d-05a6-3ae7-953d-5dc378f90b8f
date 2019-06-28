@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:49:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e富驛-KY自結1月底合併流動比209.15%、速動比120.10%、負債比97.82%\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e公開資訊觀測站重大訊息公告\u003cbr\u003e\u003cbr\u003e(2724)富驛-KY-公告本公司108年01月份自結合併財務報告之負債比率流動比率及速動比率\u003cbr\u003e\u003cbr\u003e1.事實發生日:108/02/27\u003cbr\u003e2.發生緣由:依據櫃買中心證櫃監字第1030200252號函辦理。\u003cbr\u003e3.財務資訊年度月份:108/01\u003cbr\u003e4.自結流動比率:209.15%\u003cbr\u003e5.自結速動比率:120.10%\u003cbr\u003e6.自結負債比率:97.82%\u003cbr\u003e7.因應措施:於每月底前公告本公司上月份自結合併財務報告之負債比率、流動比率及速動比率資訊。\u003cbr\u003e8.其他應敘明事項:無。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "富驛-KY自結1月底合併流動比209.15%、速動比120.10%、負債比97.82%",
+    "uuid": "0b48da5d-05a6-3ae7-953d-5dc378f90b8f"
+}

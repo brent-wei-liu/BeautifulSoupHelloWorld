@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-02-28T11:46:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLas enfermedades más raras del mundo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAbul Bajandar tiene 28 años pero pocos lo conocen por su nombre. En Bangladesh, donde vive, lo llaman “el hombre árbol”, debido al aspecto de sus manos y pies. Después de 24 operaciones y de que los médicos lo declararan curado, en febrero de 2018 sus verrugas volvieron a aparecer.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://holadoctor.com/es/%C3%A1lbum-de-fotos/las-enfermedades-m%C3%A1s-raras-del-mundo?utm_source=referrals\u0026utm_medium=feed\u0026utm_campaign=flipboard"
+    },
+    "request_path": "requests",
+    "title": "Las enfermedades más raras del mundo",
+    "uuid": "057f0ae5-5082-3c21-b637-68853b26f0e9"
+}

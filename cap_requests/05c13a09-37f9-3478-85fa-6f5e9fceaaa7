@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:40:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e因加大5G研发投入年度业绩预盈转亏 京信通信(02342)低开4.17%\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/06d88733fa0d4ecd794abec24b01de89\" border=\"0\" alt=\"K\u0026#x0056fe; 02342_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e京信通信(02342)上周五晚间公告称，因加大5G研发投入等原因，预计年度业绩由盈转亏。截至9时20分，跌4.17%，报价2.07港元，成交额387万。\u003cbr /\u003e\u003c/p\u003e \u003cp\u003e公告显示，集团本年度综合净亏损主要是由于以下因素所致：为即将推出的5G网络作充足的准备，集团加大了相关研发投入，从而导致研发成本增加；集团在本年度进行了内部架构重组及员工优化，以致产生一次性重组及优化费用；由于公司非全资附属公司ETL \u003c/p\u003e \u003cp\u003eCOMPANY LIMITED正在积极铺设老挝当地4G网络，以致相关投资及费用增加。\u003c/p\u003e\u003cp\u003e（文章来源：智通财经）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000596.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000596.shtml"
+    },
+    "request_path": "requests",
+    "title": "因加大5G研发投入年度业绩预盈转亏 京信通信(02342)低开4.17%",
+    "uuid": "05c13a09-37f9-3478-85fa-6f5e9fceaaa7"
+}

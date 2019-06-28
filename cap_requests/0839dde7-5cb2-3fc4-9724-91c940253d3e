@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:08:21Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e建築業數據疲軟 美股走低\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e（中央社紐約4日綜合外電報導）由於美國建築業數據 疲軟，華爾街股市今天走低。此時投資人正等候美國與 中國是否能達成貿易協議的進一步詳情。      道瓊工業指數重挫206.67點或0.79%，以25819.65 點作收。      標準普爾指數小跌10.88點或0.39%，收在2792.81 點；科技股那斯達克指數跌17.79點或0.23%，收 7577.57點。（譯者：張佑之）...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190305/30319970.html"
+    },
+    "request_path": "requests",
+    "title": "建築業數據疲軟 美股走低",
+    "uuid": "0839dde7-5cb2-3fc4-9724-91c940253d3e"
+}

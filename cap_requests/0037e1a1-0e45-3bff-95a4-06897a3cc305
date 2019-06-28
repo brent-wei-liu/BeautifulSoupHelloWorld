@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:37:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《美洲經濟》巴西2月製造業PMI續升至53.4 創十一個月高\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003eIHS Markit數據顯示，經季節調整後，巴西今年2月製造業採購經理人指數(PMI)創十一個月高，由1月52.7，續升至53.4，且已連續第八個月擴張。\u003c/p\u003e\u003cp\u003e期內，產出增長再度顯著加速至去年3月以來第二快，且已連續八個月擴張；新訂單繼續增加，但新出口訂單連續第三個月收縮；採購增速為11個月來最快，原材料和半成品庫存錄得逾九年最大擴張；就業人數增幅進一步加快至2010年4月以來最大；投入成本通脹相對過去三年而言仍屬溫和。商業信心維持高企。(sz/t)~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《美洲經濟》巴西2月製造業PMI續升至53.4 創十一個月高",
+    "uuid": "0037e1a1-0e45-3bff-95a4-06897a3cc305"
+}

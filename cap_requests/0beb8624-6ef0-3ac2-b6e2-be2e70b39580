@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:52:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e奥美医疗(002950.SZ)网上最终发行数量为4320万股\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp\u003e奥美医疗(002950.SZ)宣布，回拨机制启动前，网下初始发行数量为3360万股，占此次发行总量的70%；网上初始发行数量为1440万股，占此次发行总量的30%。\u003c/p\u003e\u003cp\u003e回拨机制启动后，网下最终发行数量为480万股，占此次发行数量的10%；网上最终发行数量为4320万股，占此次发行数量的90%。\u003c/p\u003e\u003cp\u003e此次发行的网上、网下认购缴款工作已于2019年3月1日(T+2日)结束。\u003c/p\u003e\u003cp\u003e（文章来源：格隆汇）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030500000030.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030500000030.shtml"
+    },
+    "request_path": "requests",
+    "title": "奥美医疗(002950.SZ)网上最终发行数量为4320万股",
+    "uuid": "0beb8624-6ef0-3ac2-b6e2-be2e70b39580"
+}

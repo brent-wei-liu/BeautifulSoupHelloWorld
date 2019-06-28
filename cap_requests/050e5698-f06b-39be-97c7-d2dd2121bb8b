@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:27:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFirenze, maestra obbliga bambini a picchiare i compagni\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg width=\"1212\" height=\"848\" src=\"http://media.zenfs.com/it-IT/homerun/notizie_it_154/0259b3260986f4fee01d645c85e0ffe4\" align=\"middle\" alt=\"bimbo maestra picchiare compagno\"/\u003e\u003c/p\u003e\u003cp\u003eI genitori di un bambino che frequenta una scuola di\u003cstrong\u003e Firenze\u003c/strong\u003e sono andati dai carabinieri della città toscana per \u003cstrong\u003edenunciare\u003c/strong\u003e la maestra del figlio. L\u0026#8217;accusa sembra davvero inconcepibile: la maestra avrebbe spinto a terra il loro bambino e costretto un suo compagno a colpirlo \u0026#8216;per vendetta\u0026#8217;.\u003c/p\u003e\n\u003cp\u003eSecondo una \u003cstrong\u003eprima ricostruzione\u003c/strong\u003e dei fatti, qualche giorno prima, in base a quanto riportato nella querela effettuata dai genitori,  un bambino sarebbe caduto a terra subito dopo il termine della ricreazione. I compagni che passavano di lì, vedendolo in quelle condizioni, hanno iniziato a tirargli dei calci nel sedere, probabilmente per scherzo.\u003c/p\u003e\n\u003ch2\u003eOcchio per occhio, dente per dente\u003c/h2\u003e\n\u003cp\u003eLa maestra in questione avrebbe assistito a tutta la scena: per dare \u003cstrong\u003egiustizia\u003c/strong\u003e al bimbo, avrebbe quindi obbligato i compagni del bambino a sdraiarsi a terra e a farsi colpire dal bambino. Occhio per occhio e dente per dente, insomma. Sembra, inoltre, che la \u0026#8216;vendetta\u0026#8217; sia stata compiuta per ben tre volte perchè, secondo la maestra, il bimbo non colpiva con la forza necessaria i suoi compagni.\u003c/p\u003e\n\u003cp\u003eAl termine della scena, l\u0026#8217;insegnante avrebbe chiesto ai suoi alunni di non dire niente a nessuno, neanche ai genitori. Evidentemente non è stata ascoltata. Tornato a casa, il bambino ha raccontato quanto successo a mamma e papà. Portato in ospedale, al bambino è stato diagnosticato un \u003cstrong\u003etrauma cranico lieve.\u003c/strong\u003e Anche la scuola vuole vederci chiaro e capire l\u0026#8217;esatta dinamica dell\u0026#8217;episodio. Per questo motivo ha iniziato una procedura di verifica interna per ricostruire l\u0026#8217;accaduto.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.notizie.it/cronaca/2019/03/04/firenze-maestra-obbliga-picchiare-compagni/"
+    },
+    "request_path": "requests",
+    "title": "Firenze, maestra obbliga bambini a picchiare i compagni",
+    "uuid": "050e5698-f06b-39be-97c7-d2dd2121bb8b"
+}

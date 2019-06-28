@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:05:27Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSpanien und Großbritannien unterzeichnen vor Brexit Steuervertrag zu Gibraltar\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eWeniger als vier Wochen vor dem geplanten Brexit hat Spanien mit Großbritannien einen Vertrag unterzeichnet, der Steuerbetrug und Geldwäsche im britischen Überseeterritorium Gibraltar im Süden Spaniens verhindern soll. Das Abkommen wurde am Montag vom spanischen Außenminister Josep Borrell und dem britischen Vize-Premierminister David Lidington unterschrieben. Das spanische Kabinett muss noch zustimmen, die Parlamente beider Länder müssen das Abkommen ratifizieren.   \u003c/b\u003e\u003c/p\u003e\n\u003cp\u003eNach Angaben des spanischen Außenministeriums sieht der Text vor, dass Personen und Körperschaften in Gibraltar ihre Steuern in Spanien entrichten müssen, wenn sie dort die meisten Einnahmen erzielen, die meisten Vermögenswerte besitzen oder wenn dort die Mehrheit ihre Eigentümer oder Manager leben.\u003c/p\u003e\n\u003cp\u003eDer Vertrag sowie weitere bilaterale Abkommen zu Gibraltar (betreffend Bürgerrechte, Tabak, Zusammenarbeit   in Umwelt-, Polizei- und Zollfragen) sind Teil der im vergangenen November erzielten Einigung zwischen der EU und London über den Brexit.\u003c/p\u003e\n\u003cp\u003eSpanien, das seit Langem am Niedrigsteuersystem in Gibraltar Anstoß nimmt, begrüßte den Vertrag. Gibraltars Regierungschef Fabian Picardo sagte, der Vertrag sei von \u0026quot;sehr großer Bedeutung\u0026quot;. Er ermögliche Gibraltar, von \u0026quot;Spaniens schwarzer Liste der Steuerparadiese\u0026quot; gestrichen zu werden.\u003c/p\u003e\n\u003cp\u003eDie Halbinsel Gibraltar im Süden Spaniens gehört seit 1713 zu Großbritannien, wird aber von Madrid bis heute zurückgefordert. Viele Spanier pendeln zu der Halbinsel, um dort zu arbeiten. Das Territorium ist unter anderem für seine zahlreichen Kasinos und Online-Wettbüros bekannt.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Spanien und Großbritannien unterzeichnen vor Brexit Steuervertrag zu Gibraltar",
+    "uuid": "0b3ffdd3-e962-3c5d-a6c8-742df8a48b3a"
+}

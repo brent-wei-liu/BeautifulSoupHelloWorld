@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:24:33Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《電機股》開放信用交易，全球傳動戰年線\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報記者莊丙農台北報導】全球傳動 (4540) 今天開放融資券交易，開盤量能較上周三擴增，盤中漲幅最大來到3.2％，再次挑戰年線。\u003c/p\u003e\n\u003cp\u003e　台灣證券交易所依據「有價證券得為融資融券標準」第2條及「證券商辦理有價證券買賣融資融券業務操作辦法」第21條規定，重新審查全球傳動融資融券標準，在符合相關規定後，今天起開放信用交易。\u003c/p\u003e\n\u003cp\u003e　全球傳動1月營收1.54億元，月減27.9％，年減34.9％，持續低迷。由於美中貿易戰，造成接單金額下滑，經銷商也出現延遲交貨情況，供需吃緊狀況已經不再，目前訂單能見度約一個季度。\u003c/p\u003e\n\n\u003cp\u003e　不過，由於美中貿易戰火農曆年前露出曙光，市場預期有望改善接下來接單低迷情況，今年農曆年後全球傳動股價走揚，從低點64.5元位置反彈到上周的74.6元，上漲幅度達到15％。\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《電機股》開放信用交易，全球傳動戰年線",
+    "uuid": "0485448b-fe8f-3808-9faf-d736b54fd5cc"
+}

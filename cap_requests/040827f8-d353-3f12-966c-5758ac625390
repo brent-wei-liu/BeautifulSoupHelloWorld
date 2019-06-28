@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:03:43Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eYeni albüm geliyor!\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eHer albümüyle dinlenme ve satış rekorları kıran Pop Müziğin kraliçesi Demet Akalın yeni albümü için geri sayıma başladı. Akalın, kariyerinin 11\u0026#39;nci albümünü doğum günü olan 23 Nisan’da çıkaracak\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.haberturk.com/demet-akalin-dan-yeni-album-mujdesi-magazin-haberleri-2391799-magazin"
+    },
+    "request_path": "requests",
+    "title": "Yeni albüm geliyor!",
+    "uuid": "040827f8-d353-3f12-966c-5758ac625390"
+}

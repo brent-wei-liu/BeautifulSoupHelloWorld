@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:58:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eUsa: spese per costruzioni in calo, fortemente deluse le attese\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eIn calo a dicembre 2018 le spese per costruzioni negli Stati Uniti in flessione dello 0,6% sul mese precedente e contro le attese che avevano previsto invece un incremento dello 0,2%.  Il dato di novembre e\u0026#39; stato confermato a un +0,8% Considerando il 2018 nel suo complesso, la spesa è aumentata del 4,1%, la crescita più lenta degli ultimi sette anni. L\u0026#39;edilizia residenziale privata è aumentata del 3,3% nell\u0026#39;anno, dopo un aumento del 10% per sei anni consecutivi.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.finanza.com/Finanza/Dati_Macroeconomici/Nord_America/notizia/Usa_spese_per_costruzioni_in_calo_fortemente_deluse_le_att-503520"
+    },
+    "request_path": "requests",
+    "title": "Usa: spese per costruzioni in calo, fortemente deluse le attese",
+    "uuid": "04044ba4-cb33-3654-a905-bfd407e3ee53"
+}

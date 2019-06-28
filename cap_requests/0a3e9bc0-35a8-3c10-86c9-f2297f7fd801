@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:36:08Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLíderes en la NBA\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e^Al 3 de marzo=\u003c/p\u003e\u003cp\u003e^Anotaciones\u0026lt;\u003c/p\u003e\u003cp\u003e† P CAN TL PTS PROM\u003c/p\u003e\u003cp\u003e†Harden, HOU 59 639 595 2164 36.7\u003c/p\u003e\u003cp\u003e†George, OKC 59 557 347 1689 28.6\u003c/p\u003e\u003cp\u003e†Curry, GOL 52 497 215 1478 28.4\u003c/p\u003e\u003cp\u003e†Durant, GOL 62 602 391 1713 27.6\u003c/p\u003e\u003cp\u003e†Davis, NOR 49 482 332 1338 27.3\u003c/p\u003e\u003cp\u003e†Embiid, PHL 54 483 443 1473 27.3\u003c/p\u003e\u003cp\u003e†Antetokounmpo, MIL 58 580 378 1573 27.1\u003c/p\u003e\u003cp\u003e†Leonard, TOR 46 429 305 1243 27.0\u003c/p\u003e\u003cp\u003e†James, LAL 45 446 228 1215 27.0\u003c/p\u003e\u003cp\u003e†Lillard, POR 62 532 363 1605 25.9\u003c/p\u003e\u003cp\u003e†Beal, WAS 63 594 272 1621 25.7\u003c/p\u003e\u003cp\u003e†Griffin, DET 60 520 341 1531 25.5\u003c/p\u003e\u003cp\u003e†Walker, CHA 63 550 276 1582 25.1\u003c/p\u003e\u003cp\u003e†Booker, PHX 49 419 270 1208 24.7\u003c/p\u003e\u003cp\u003e†Towns, MIN 61 531 285 1460 23.9\u003c/p\u003e\u003cp\u003e†LaVine, CHI 57 476 276 1336 23.4\u003c/p\u003e\u003cp\u003e†Irving, BOS 53 473 162 1242 23.4\u003c/p\u003e\u003cp\u003e†Mitchell, UTA 58 491 239 1354 23.3\u003c/p\u003e\u003cp\u003e†Westbrook, OKC 55 462 233 1233 22.4\u003c/p\u003e\u003cp\u003e†Thompson, GOL 61 525 110 1345 22.0\u003c/p\u003e\u003cp\u003e\u0026lt;\u003c/p\u003e\u003cp\u003e^Porcentaje de Canastas\u0026lt;\u003c/p\u003e\u003cp\u003e† CAN PCAN PCT\u003c/p\u003e\u003cp\u003e†Jordan, NYK 243 375 .648\u003c/p\u003e\u003cp\u003e†Gobert, UTA 346 535 .647\u003c/p\u003e\u003cp\u003e†Capela, HOU 346 546 .634\u003c/p\u003e\u003cp\u003e†Harrell, LAC 427 684 .624\u003c/p\u003e\u003cp\u003e†McGee, LAL 274 445 .616\u003c/p\u003e\u003cp\u003e†Sabonis, IND 333 546 .610\u003c/p\u003e\u003cp\u003e†Adams, OKC 381 631 .604\u003c/p\u003e\u003cp\u003e†Ayton, PHX 419 707 .593\u003c/p\u003e\u003cp\u003e†Antetokounmpo, MIL 580 1001 .579\u003c/p\u003e\u003cp\u003e†Allen, BRO 271 469 .578\u003c/p\u003e\u003cp\u003e\u0026lt;\u003c/p\u003e\u003cp\u003e^Rebotes\u0026lt;\u003c/p\u003e\u003cp\u003e† P OFE DEF TOT PROM\u003c/p\u003e\u003cp\u003e†Drummond, DET 59 299 591 890 15.1\u003c/p\u003e\u003cp\u003e†Jordan, NYK 58 189 593 782 13.5\u003c/p\u003e\u003cp\u003e†Embiid, PHL 54 134 594 728 13.5\u003c/p\u003e\u003cp\u003e†Gobert, UTA 62 235 557 792 12.8\u003c/p\u003e\u003cp\u003e†Antetokounmpo, MIL 58 133 599 732 12.6\u003c/p\u003e\u003cp\u003e†Capela, HOU 48 224 375 599 12.5\u003c/p\u003e\u003cp\u003e†Davis, NOR 49 154 455 609 12.4\u003c/p\u003e\u003cp\u003e†Towns, MIN 61 208 544 752 12.3\u003c/p\u003e\u003cp\u003e†Whiteside, MIA 53 200 450 650 12.3\u003c/p\u003e\u003cp\u003e†Vucevic, ORL 64 174 595 769 12.0\u003c/p\u003e\u003cp\u003e\u0026lt;\u003c/p\u003e\u003cp\u003e^Asistencias\u0026lt;\u003c/p\u003e\u003cp\u003e† P AST PROM\u003c/p\u003e\u003cp\u003e†Westbrook, OKC 55 593 10.8\u003c/p\u003e\u003cp\u003e†Lowry, TOR 52 473 9.1\u003c/p\u003e\u003cp\u003e†James, LAL 45 363 8.1\u003c/p\u003e\u003cp\u003e†Simmons, PHL 62 488 7.9\u003c/p\u003e\u003cp\u003e†Holiday, NOR 65 511 7.9\u003c/p\u003e\u003cp\u003e†Young, ATL 64 499 7.8\u003c/p\u003e\u003cp\u003e†Jokic, DEN 61 468 7.7\u003c/p\u003e\u003cp\u003e†Harden, HOU 59 448 7.6\u003c/p\u003e\u003cp\u003e†Fox, SAC 61 444 7.3\u003c/p\u003e\u003cp\u003e†Green, GOL 48 343 7.1\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Líderes en la NBA",
+    "uuid": "0a3e9bc0-35a8-3c10-86c9-f2297f7fd801"
+}

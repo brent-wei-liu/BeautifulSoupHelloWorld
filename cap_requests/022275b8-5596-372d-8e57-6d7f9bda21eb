@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-02T08:40:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e腿部血管阻塞　抽菸誘發\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/healthnews.tw/d7f468cd93c61eefba9f04b5c94962f3\" align=\"middle\"/\u003e\u003cp style=\"font-size:16px;\"\u003e【健康醫療網／編輯部整理】65歲廖先生是長年在國外奔波的商務人士，身體狀況良好也沒有慢性疾病，唯獨因業務抽菸與喝酒，長期以來無法有效戒除。1年前開始發現以前能輕易登上的小山丘，需要花更多時間且休息次數變多才能攻克。原本可以輕鬆走完的路，開始覺得腳步變沉重且小腿痠痛。最後走路的距離已經無法超過100公尺，造成生活上非常不便而就醫。\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003cp style=\"color:rgb(227, 108, 9);\"\u003e\u003cstrong\u003e兩側大腿血管都阻塞　走不動小腿痛\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e心臟內科安排廖先生接受血管電腦斷層檢查及口服抗凝血劑的治療。電腦斷層檢查中發現，廖先生大腿兩側血管完全阻塞，往小腿的血流都是靠細小的血管從別的地方接通下來，這些血流無法供應小腿運動時足夠的養分與氧氣，才會無法走遠。\u003c/p\u003e\u003cp\u003e塞住血管的血栓非常厚實，不易穿透並去除，會同心臟外科醫師一同手術。將頑固的硬血栓逐一取出，成功貫通雙側血管，病人也不需要額外接受人工血管繞道手術。手術完成當晚，廖先生已可自行散步超過100公尺，後續門診追蹤也能像過去一樣活動，不會有走不動、小腿痠痛的問題。\u003c/p\u003e\u003cp\u003e\u003cp style=\"color:rgb(227, 108, 9);\"\u003e\u003cstrong\u003e抽菸引發血管發炎　堆積成血栓造成阻塞\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e大千綜合醫院心臟外科醫師李俊毅說明，腿部的血管栓塞常發生在小腿，但雙側同時發生的機率非常少。若會發生雙側的血管栓塞，大多是因為心臟裡有大型血塊產生，心臟跳動的過程中掉下來，隨著血液流到腳上而卡住。且這類型病人大多有心律不整的問題，同時血栓掉落及症狀的出現是很快速的。\u003c/p\u003e\u003cp\u003e大千綜合醫院心臟內科醫師江佳鴻表示，上述病例中，慢性的血管阻塞來自慢性的血管發炎及多次長時間搭乘飛機，由於病人本身有抽菸習慣，香菸中的有害物質滲透到血液裡引起血管發炎，造成血管表面出現不平滑坑洞及突起，加上血管發炎時會聚集許多細胞及血小板的堆積，越積越多，血管就會完全被堵塞住。雖然血管阻塞的原因很多，但菸害是最重要的因子此建議民眾盡早戒除菸癮，保障自身健康。（文章授權提供／優活健康網）\u003c/p\u003e\u003cp\u003e資料來源：\u003ca href=\"http://www.uho.com.tw/hotnews.asp\"\u003ehttp://www.uho.com.tw/hotnews.asp\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cbr/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.healthnews.com.tw/readnews.php?id=41360"
+    },
+    "request_path": "requests",
+    "title": "腿部血管阻塞　抽菸誘發",
+    "uuid": "022275b8-5596-372d-8e57-6d7f9bda21eb"
+}

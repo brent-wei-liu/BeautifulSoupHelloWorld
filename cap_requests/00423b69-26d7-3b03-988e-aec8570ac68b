@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:20:08Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFamiglia Orlandi chiede di aprire tomba del cimitero teutonico, Vaticano studia richiesta\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eSu Emanuela Orlandi \u0026quot;si è\u0026nbsp;detto di tutto e di più. Manca solo una storia sui marziani...\u0026quot;. Così\u0026nbsp;l\u0026#39;avvocato Laura Sgrò, legale della famiglia Orlandi, contattata dall\u0026#39;AGI. Un\u0026#39;istanza è\u0026nbsp;stata presentata al segretario di Stato vaticano, il cardinale Pietro Parolin, per avere informazioni su una tomba del cimitero teutonico all\u0026#39;interno della Città\u0026nbsp;del Vaticano. \u0026quot;Il desiderio di chiarezza\u0026quot; della famiglia Orlandi\u0026nbsp;è\u0026nbsp;più\u0026nbsp;che legittimo, \u0026quot;è\u0026nbsp;giusto fare delle verifiche. La famiglia aspetta da 36 anni delle risposte e lo Stato gliele deve dare. Occorre togliere i coni d\u0026#39;ombra\u0026quot;.\u003c/p\u003e \n\u003cp\u003eAlla tomba del cimitero teutonico si è\u0026nbsp;arrivati \u0026quot;dopo una segnalazione anonima dell\u0026#39;estate scorsa - racconta Sgrò\u0026nbsp;- Subito ci siamo mossi e abbiamo constatato che quotidianamente su quella lapide vengono deposti fiori e accesi lumini in segno di pietà\u0026nbsp;nei confronti di Emanuela Orlandi. Possibile che una tomba del 1857 sia oggi meta di devozione?\u0026quot;. Ecco perchè\u0026nbsp;nell\u0026#39;istanza si reputa \u0026quot;opportuna una ricerca negli archivi di ogni documento relativo a tale loculo per individuare chi vi risulti essere stato sepolto. In ogni caso si chiede l\u0026#39;apertura della tomba\u0026quot; per fugare ogni dubbio sulla vicenda.\u003c/p\u003e \n\u003cp\u003e\u0026nbsp; \u0026nbsp;\u0026quot;Posso confermare che la lettera della famiglia di Emanuela Orlandi\u0026nbsp;è\u0026nbsp;stata ricevuta dal Cardinale Pietro Parolin e che verranno ora studiate le richieste rivolte nella lettera\u0026quot; ha affermato il direttore \u0026quot;ad interim\u0026quot; della Sala Stampa della Santa Sede, Alessandro Gisotti, rispondendo alle domande dei giornalisti.\u0026nbsp;\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.agi.it/cronaca/caso_orlandi_vaticano-5089009/news/2019-03-04/"
+    },
+    "request_path": "requests",
+    "title": "Famiglia Orlandi chiede di aprire tomba del cimitero teutonico, Vaticano studia richiesta",
+    "uuid": "00423b69-26d7-3b03-988e-aec8570ac68b"
+}

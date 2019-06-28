@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:05:07Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e三大法人買超台股11.6億元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社台北4日電）台股今天跌39.29點，收在10349.88點，成交值新台幣1373.12億元。三大法人外資及陸資賣超、投信賣超、自營商買超，合計買超新台幣11.6億元。\u003c/p\u003e\n\u003cp\u003e    自營商買超21.85億元，投信賣超4.74億元，外資及陸資賣超5.51億元。三大法人合計買超11.6億元。\u003c/p\u003e\n\u003cp\u003e    股市資深分析師林成蔭表示，若國際局勢穩定下來，在資金面和信心面提升下，若是景氣能跟上，至少可保持不錯的經濟表現，但若是先前看弱的景氣未能跟上，未來的台股行情就只能以反彈視之。1080304\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "三大法人買超台股11.6億元",
+    "uuid": "01603107-d910-3621-ac7c-52076da22c14"
+}

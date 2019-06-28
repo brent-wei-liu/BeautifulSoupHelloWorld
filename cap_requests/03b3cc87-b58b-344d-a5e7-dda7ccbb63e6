@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:24:56Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRoma, spari a distributore di benzina: un ferito\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eSpari dopo la tentata rapina. E\u0026#39; successo alle 12, in zona Arco di Travertino. Un uomo, al momento ricercato, ha ferito al collo un uomo in un distributore di benzina in zona Arco di Travertino con una pistola e si è poi dato alla fuga. La vittima è stata portata al pronto soccorso dell\u0026#39;ospedale Vannini, in codice giallo, mentre il rapinatore, tuttora ricercato dalle volanti, è fuggito a bordo di una macchina che è stata ritrovata dai poliziotti in via Filippo Mengaroni, all\u0026#39;altezza del civico 11, a Torre Gaia. Sul posto gli agenti della polizia scientifica.  \u003c/p\u003e\u003cp\u003eL\u0026#39;uomo ferito, un italiano di 55 anni, è tuttora ricoverato in ospedale. Stava facendo benzina nel distributore in via Santa Maria del Buon Consiglio quando il bandito armato lo ha aggredito per portargli via il motorino. E\u0026#39; stato colpito prima alla fronte con il calcio della pistola e poi ferito di striscio al collo da un proiettile partito nella colluttazione.  \u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.adnkronos.com/fatti/cronaca/2019/03/04/roma-spari-distributore-benzina-ferito_uSvEm1IGOF4MPz04mRrZSK.html"
+    },
+    "request_path": "requests",
+    "title": "Roma, spari a distributore di benzina: un ferito",
+    "uuid": "03b3cc87-b58b-344d-a5e7-dda7ccbb63e6"
+}

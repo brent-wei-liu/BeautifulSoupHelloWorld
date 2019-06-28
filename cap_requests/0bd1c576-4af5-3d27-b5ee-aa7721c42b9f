@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:24:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDirectora financiera de Huawei demanda a Canadá por su detención\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eToronto (Canadá), 4 mar (EFEUSA).- La directora financiera de Huawei, Megn Wanzhou, ha presentado una demanda contra las autoridades canadienses a raíz de su detención el 1 de diciembre de 2018.\nLa demanda fue presentada por Meng el viernes, el mismo día que el Ministerio de Justicia de Canadá aprobó la tramitación de su proceso de extradición a Estados Unidos, según informan hoy medios de comunicación canadienses.\nLas autoridades estadounidenses acusan a Huawei, dos compañías afiliadas y a Meng Wanzhou, de trece cargos de fraude y conspiración para saltarse las sanciones a Irán.\nMeng, que es la hija del fundador de Huawei, alega en su demanda que la Agencia de Servicios Fronterizos de Canadá, la Policía Montada y el Gobierno canadiense violaron sus derechos constitucionales cuando fue arrestada e interrogada en Vancouver el 1 de diciembre.\nMeng fue detenida cuando hizo escala en Vancouver de camino a México.\nLos abogados de la ejecutiva china señalan que sufrió \u0026quot;angustia mental, ansiedad y pérdida de libertad\u0026quot; al ser retenida en el aeropuerto de Vancouver durante tres horas sin ninguna explicación ni acceso a sus abogados.\nLa demanda explica que Meng fue retenida de forma intencionada con la excusa de una comprobación rutinaria \u0026quot;con el propósito expreso de obtener información que la Policía Montada, o el Departamento de Justicia de EE.UU., no creían que sería obtenida si la demandante fuese detenida de forma inmediata\u0026quot;.\nLa Policía canadiense se apropió de dos teléfonos móviles, un iPad y un ordenador de Meng y solicitó las contraseñas con las que accedieron a su contenido.\nEl viernes, el Ministerio de Justicia de Canadá autorizó el inicio de los procedimientos de extradición de Meng a Estados Unidos.\nWanzhou, que se encuentra en libertad bajo fianza y tiene prohibido abandonar su mansión en Vancouver, tiene previsto comparecer el próximo 6 de marzo ante el Tribunal Supremo de la provincia de Columbia Británica para iniciar el proceso de extradición.\nEl arresto de Meng ha causado una grave crisis en las relaciones entre Canadá y China.\nTras el arresto de Wanzhou en Canadá, China detuvo el 10 de diciembre de 2018 a dos canadienses, el diplomático Michael Kovrig y el empresario Michael Spavor, bajo la acusación de poner en peligro la seguridad nacional china.\nHoy, la agencia oficial de noticias de China, Xinhua, señaló que las autoridades chinas consideran que Kovrig robó secretos estatales con la ayuda de Spavor.\nLa directora financiera de Huawei, Megn Wanzhou, ha presentado una demanda contra las autoridades canadienses a raíz de su detención el 1 de diciembre de 2018. EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Directora financiera de Huawei demanda a Canadá por su detención",
+    "uuid": "0bd1c576-4af5-3d27-b5ee-aa7721c42b9f"
+}

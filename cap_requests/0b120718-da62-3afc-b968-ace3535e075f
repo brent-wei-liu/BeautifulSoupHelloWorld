@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:39:21Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e台北國際工具機展 蔡總統參觀上銀展區\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cbr /\u003e\u003cbr /\u003e2019年台北國際工具機展4日登場，總統蔡英文（左1） 參觀上銀展區，與上銀董事長卓永財（左2）合影。 中央社記者鍾榮峰攝 108年3月4日...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30311210.html"
+    },
+    "request_path": "requests",
+    "title": "台北國際工具機展 蔡總統參觀上銀展區",
+    "uuid": "0b120718-da62-3afc-b968-ace3535e075f"
+}

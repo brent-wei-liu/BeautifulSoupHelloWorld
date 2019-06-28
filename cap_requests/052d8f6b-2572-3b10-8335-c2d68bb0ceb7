@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:28:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAuto - 24h du Mans - Deux anciens soldats anglais, handicapés après des blessures de guerre, veulent participer aux 24 Heures du Mans\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eAsh Hall et Martyn Compton sont deux anciens soldats anglais mutilés de guerre. Désormais pilotes de course, ils envisagent de prendre part aux 24 Heures du Mans. Ash Hall et Martyn Compton étaient tous deux soldats au sein de l\u0026#39;armée britannique et engagés sur le terrain en Afghanistan. Le premier a eu les deux jambes arrachées et le second a été brûlé à 75 %. Les deux hommes sont désormais membres de la «British Racing Injured Troops» (BRIT). Ils pilotent une Aston Martin équipée de commandes manuelles de haute technologie pour rivaliser à égalité avec les pilotes valides. Hall et Compton ont pour objectif de participer aux prestigieuses 24 Heures du Mans, probablement lors de l\u0026#39;édition 2021. En 2016, Frédéric Sausset, quadruple amputé avait terminé les 24 Heures, en compagnie de deux valides. « \u003ci\u003eSe rendre au Mans n\u0026#39;est pas une question de savoir « si », c\u0026#39;est une question de « quand »\u003c/i\u003e », a déclaré Ash Hall, lundi lors du lancement d\u0026#39;une académie de course BRIT pour pilotes handicapés. Pour 2020, l\u0026#39;ACO (Automobile Club de l\u0026#39;Ouest) a d\u0026#39;ores et déjà accepté l\u0026#39;engagement de l\u0026#39;écurie de Sausset qui fera courir trois handicapés (un Français, un Belge et un Japonais). Cet équipage court déjà depuis un an dans des Championnats préparatoires.\u003cbr/\u003e L\u0026#39;année dernière, l\u0026#39;équipe BRIT avait pris part à une course GT4 au Mans, finissant 9e sur 24 participants. C\u0026#39;était la première fois qu\u0026#39;une équipe composée de pilotes handicapés évoluait sur le mythique circuit de la Sarthe. « \u003ci\u003eLes 24 Heures du Mans représentent l\u0026#39;apogée des courses d\u0026#39;endurance\u003c/i\u003e, a déclaré Dave Player, le fondateur de la BRIT. \u003ci\u003ePenser à y participer est un défi de taille, nous le savons bien.\u003c/i\u003e [...] \u003ci\u003eNous devons prouver que c\u0026#39;est possible. Ce n\u0026#39;est pas facile.\u003c/i\u003e (Mais) \u003ci\u003ecela arrivera.\u003c/i\u003e » \u003ca href=\"https://www.lequipe.fr/Sport-auto/Actualites/Nicolas-hamilton-le-demi-frere-de-lewis-hamilton-va-disputer-a-nouveau-le-btcc-malgre-une-maladie-cerebrale/994954\" shape=\"rect\" target=\"_blank\"\u003eNicolas Hamilton, atteint de paralysie cérébrale et pilote de BTCC\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Sport-auto/Actualites/Deux-anciens-soldats-anglais-handicapes-apres-des-blessures-de-guerre-veulent-participer-aux-24-heures-du-mans/994977"
+    },
+    "request_path": "requests",
+    "title": "Auto - 24h du Mans - Deux anciens soldats anglais, handicapés après des blessures de guerre, veulent participer aux 24 Heures du Mans",
+    "uuid": "052d8f6b-2572-3b10-8335-c2d68bb0ceb7"
+}

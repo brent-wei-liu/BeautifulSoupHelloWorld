@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:52:43Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFuerzas israelíes matan a dos \u0026quot;asaltantes\u0026quot; palestinos en Cisjordania\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eLas fuerzas israelíes mataron el lunes a dos palestinos después de que su vehículo arrollara a un grupo de soldados israelíes en Cisjordania ocupada, hiriendo a un soldado y a un policía, según el ejército y la policía israelí.\nSegún el ejército, las fuerzas de seguridad dispararon contra tres \u0026quot;asaltantes\u0026quot; palestinos, dos de los cuales fueron \u0026quot;neutralizados y un tercero levemente herido\u0026quot;.\n\u0026quot;Los asaltantes han golpeado a un grupo de soldados que se habían detenido a un costado de la ruta luego de salir de la aldea\u0026quot; de Kafr Nama, en el noroeste de Ramala, informó el ejército en un comunicado.\nSegún esa fuente, \u0026quot;un oficial del ejército ha sido gravemente herido y un guardia de frontera recibió heridas menores\u0026quot;. De acuerdo con la nota, \u0026quot;los primeros elementos de análisis ponen de relieve que se trató de un ataque terrorista\u0026quot;.\nEl portavoz de la policía Micky Rosenfeld señaló por su parte que dos palestinos fueron abatidos. Rosenfeld añadió que el policía herido ya había dejado el hospital.\nEl ministerio palestino de Salud identificó a los dos palestinos asesinados como Amir Mahmud Darraj y Yusef Anqwawi, ambos de 20 años de edad.\nEl alcalde de Kafr Nama declaró que el incidente ocurrió cuando los soldados salían de la aldea después de un operativo para arrestar a un joven palestino.\nEl ejército israelí indicó haber arrestado en la noche a 11 activistas del movimiento islamista Hamas en ese sector de Ramala.\nLos dos palestinos asesinados eran considerados sospechosos de haber lanzado artefactos explosivos en la noche del domingo, apuntó el ejército israelí. Esos dispositivos fueron hallados en un vehículo.\nPor su parte, en un comunicado el primer ministro de Israel, Benjamin Netanyahu, dijo haber dado instrucciones para acelerar el proceso de demolición de las viviendas de los dos palestinos abatidos.\nIsrael demuele regularmente las casas de los ciudadanos palestinos autores de ataques contra fuerzas israelíes.\nEl gobierno israelí defiende el efecto disuasivo de esas operaciones de demolición para aquellas personas que tengan la intención de realizar ataques.\nEn tanto, los detractores de esa práctica la señalan como una de las causas de la indignación colectiva y que afecta a un creciente número de familias que son forzadas a vivir en las calles.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Fuerzas israelíes matan a dos \u0026quot;asaltantes\u0026quot; palestinos en Cisjordania",
+    "uuid": "03fec203-840d-3022-b6d6-599f29782622"
+}

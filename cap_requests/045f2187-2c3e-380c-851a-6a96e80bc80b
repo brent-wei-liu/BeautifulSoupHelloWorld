@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:30:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e色斑有救！終極去斑方案揭盅\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg src=\"https://media.zenfs.com/ca/hkysmfeedonnews.com/a9e27b2b73901cba1fe5884414e74cc7\"/\u003e\u003c/p\u003e\u003cp\u003e為您搜羅最新熱門搜尋資訊，立即查看！\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://hk.promotions.yahoo.com/ysm/unified/?fr=strm\u0026p=%E6%BF%80%E5%85%89%E5%8E%BB%E6%96%91\u0026type=celebn_mfp_00107_desc\u0026ct=04\u0026kg=101\u0026date=20190304\" target=\"_blank\"\u003e即睇熱門搜尋結果\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://hk.promotions.yahoo.com/ysm/unified/?fr=strm\u0026p=%E6%BF%80%E5%85%89%E5%8E%BB%E6%96%91\u0026type=celebn_mfp_00107\u0026ct=04\u0026kg=101\u0026date=20190304\u0026date=201903041630"
+    },
+    "request_path": "requests",
+    "title": "色斑有救！終極去斑方案揭盅",
+    "uuid": "045f2187-2c3e-380c-851a-6a96e80bc80b"
+}

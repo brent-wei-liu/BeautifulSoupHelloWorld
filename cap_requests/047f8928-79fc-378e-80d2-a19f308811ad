@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:40:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eStade Rennais ou Arsenal : Qui a le propriétaire le plus riche ?\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp class=\"wp-caption-text\"\u003eStan Kroenke (Arsenal, à gauche) et François-Henri Pinault (Stade Rennais) sont deux des hommes les plus riches de la planète.\u003c/p\u003e\n\u003cp\u003eAinsi l\u0026#8217;a voulu le hasard du tirage : \u003cstrong\u003ele Stade Rennais affrontera Arsenal\u003c/strong\u003e, pour une place en huitièmes de finale de la Ligue Europa. Cette opposition des Bretons et du club londonien est celui de deux des personnalités les plus riches de la planète. A droite, dans le camp du Stade Rennais, \u003cstrong\u003ecommande la famille Pinault\u003c/strong\u003e ; anciennement François, le patriarche mais depuis plusieurs années, son fils François-Henri chargé de veiller sur le business. Principalement celui du luxe via la holding (Balenciaga, Gucci, Yves Saint-Laurent, Alexander McQueen\u0026#8230;).\u003c/p\u003e\n\u003ch3\u003eStade Rennais \u0026#8211; Arsenal où l\u0026#8217;affrontement de deux des plus grosses fortunes mondiales\u003c/h3\u003e\n\u003cp\u003eA gauche, le clan des Gunners \u003cstrong\u003eavec l\u0026#8217;homme d\u0026#8217;affaire Stanley Kroenke\u003c/strong\u003e seul propriétaire majoritaire depuis qu\u0026#8217;il a racheté la part d’Alicher Ousmanov, dans le courant de l\u0026#8217;été dernier. Kroenke a fait diversement fortune dans l\u0026#8217;immobilier et dans le sport. Outre Arsenal, il est le propriétaire des Nuggets de Denver en NBA, de l\u0026#8217;Avalanche du Colorado (NHL) et des Rapids du Colorado (MLS), plus la franchise des Rams de Los Angeles, en NFL. Selon le magazine économique Forbes qui classe chaque année les plus grandes fortunes de la planète, celle de Stan Kroenke est estimée à 8,3 milliards de dollars (7,3 milliards d\u0026#8217;euros), en 2018.\u003c/p\u003e\n\u003ch3\u003e8,3 millards de dollars estimés pour Korenke et 27 milliards pour la famille Pinault\u003c/h3\u003e\n\u003cp\u003eLe businessman de 71 ans est la 183e personnalité la plus fortunée sur toute la surface du globe, au classement de \u003ca rel=\"nofollow\" href=\"http://forbes.com\" target=\"_blank\"\u003eForbes\u003c/a\u003e. Il n\u0026#8217;y en a pas beaucoup de plus riches que lui, mais il y a les Pinault au Stade Rennais. Eux ont plus du double, selon les estimations du magazine américain, ils avoisinent les 27 milliards de dollars (23,7 milliards d\u0026#8217;euros). Si la puissance se mesure au volume du compte en banque, alors François-Henri (...)  \u003ca rel=\"nofollow\" href=\"https://www.sportune.fr/business/stade-rennais-ou-arsenal-qui-a-le-proprietaire-le-plus-riche-206613\"\u003e\u003cstrong\u003eLire la suite sur sportune.fr\u003c/strong\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/a\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Stade Rennais ou Arsenal : Qui a le propriétaire le plus riche ?",
+    "uuid": "047f8928-79fc-378e-80d2-a19f308811ad"
+}

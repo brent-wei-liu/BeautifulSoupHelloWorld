@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:28:12Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFord prevé un ERTE de 6 días entre marzo y mayo por la caída de la demanda\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eValencia, 4 mar (EFE).- La dirección de Ford Almussafes prevé un nuevo Expediente de Regulación Temporal de Empleo (ERTE) de seis días entre los meses de marzo y mayo por la caída de la demanda de vehículos.\nEste lunes se ha celebrado la comisión consultiva que tenía como finalidad constituir la que será la Comisión Negociadora del ERTE, en la que han participado representantes de la dirección y de los sindicatos.\nSegún han informado a EFE fuentes de la dirección de Ford, se ha comunicado a los trabajadores que el ERTE será un día en marzo, dos en abril y tres en mayo, aunque las fechas definitivas podrían concretarse en una nueva reunión que se celebrará este jueves.\nLa parada de producción afectará las operaciones de vehículos y a la línea de montaje de motores, y se excluye a Mecanizados, según las fuentes de la dirección.\nPor su parte, el secretario general de UGT-Ford, Carlos Faubel, ha informado a EFE de que la dirección ha ajustado el nuevo ERTE en seis días, y aunque las fechas se concretarán en la reunión del jueves, ha propuesto como fechas el 15 de marzo, 29 y 30 de abril y 2, 3 y 31 de mayo.\nEl ERTE afectará a la práctica totalidad de la plantilla de Motores y Vehículos, aunque no a Mecanizados de la planta de motores, según Faubel, quien ha añadido: \u0026quot;Son unos 6.000 trabajadores susceptibles de ser afectados y luego se irá al detalle\u0026quot;.\nPor su parte, fuentes de STM-Intersindical  ha informado en un comunicado de que en la planta de Motores la afección será solo para la línea de Montaje y por la misma cantidad de días, así como que Mecanizados no se verá afectado por este ERTE.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Ford prevé un ERTE de 6 días entre marzo y mayo por la caída de la demanda",
+    "uuid": "05ee0e97-3fe7-3c87-92f0-279c7df2c4b9"
+}

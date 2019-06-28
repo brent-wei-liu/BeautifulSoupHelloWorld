@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:41:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e◆外資連續5日賣超個股\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e外資連續 5 日賣超個股\u003c/p\u003e  \u003cp\u003e1. 外資連續賣超 5 日的股票\u003cbr\u003e (00677U) 富邦 VIX、 (1605) 華新 、 (1101) 台泥 、 (2881) 富邦金、 (2882) 國泰金\u003c/p\u003e  \u003cp\u003e2. 外資連續賣超 4 日的股票\u003cbr\u003e (00677U) 富邦 VIX、 (1605) 華新 、 (2337) 旺宏 、 (2882) 國泰金、 (2881) 富邦金\u003c/p\u003e  \u003cp\u003e3. 外資連續賣超 3 日的股票\u003cbr\u003e (00677U) 富邦 VIX、 (1605) 華新 、 (2337) 旺宏 、 (2882) 國泰金、 (2317) 鴻海\u003c/p\u003e  \u003cp\u003e4. 外資連續賣超 2 日的股票\u003cbr\u003e (1605) 華新、 (00677U) 富邦 VIX、 (2337) 旺宏 、 (2882) 國泰金、 (2408) 南亞科\u003c/p\u003e  \u003cp\u003e5. 外資當日 (04) 賣超的股票\u003cbr\u003e (00677U) 富邦 VIX、 (2408) 南亞科、 (1605) 華新、 (2882) 國泰金、 (2317) 鴻海\u003cbr\u003e \u0026#160;\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.cnyes.com/news/id/4285388"
+    },
+    "request_path": "requests",
+    "title": "◆外資連續5日賣超個股",
+    "uuid": "0d4d3e88-0fa8-3ab5-a642-c9a95ae61ebc"
+}

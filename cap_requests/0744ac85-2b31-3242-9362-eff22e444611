@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:05:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVent violent: 44 départements en vigilance orange\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eParis (AFP) - Quarante-quatre départements de la moitié nord du pays, du centre et du nord-ouest sont désormais lundi en vigilance orange en raison d\u0026#39;un fort coup de vent en marge de la tempête Freya qui touche les îles britanniques.\u003c/p\u003e\u003cp\u003eDans son bulletin de 6H00, Météo-France a ajouté l\u0026#39;Allier à sa liste des départements concernés, situés essentiellement dans la moitié nord du pays, ainsi que quelques départements du centre et du nord-ouest de la France.\u003c/p\u003e\u003cp\u003eTous les départements des Hauts-de-France, de la Haute-Normandie, de l\u0026#39;Ile-de-France, du Grand-est et de la Bourgogne Franche-Comté sont donc en vigilance orange, plus le Loiret, l\u0026#39;Eure-et-Loir, le Cher, l\u0026#39;Indre, l\u0026#39;Indre-et-Loire, le Loir-et-Cher, la Loire-Atlantique, le Maine-et-Loire, le Morbihan, la Vendée, et l\u0026#39;Allier.\u003c/p\u003e\u003cp\u003eL\u0026#39;événement devrait prendre fin mardi à 6H00.\u003c/p\u003e\u003cp\u003eCette \u0026quot;tempête commune\u0026quot; nécessite \u0026quot;une vigilance particulière\u0026quot; en raison des vents forts qui vont perdurer pendant une dizaine d\u0026#39;heures, avertit Météo France.\u003c/p\u003e\u003cp\u003eEn fin de nuit, le vent Sud-Ouest s\u0026#39;est renforcé, accompagné de rafales entre 80 et 100 km/h dans l\u0026#39;intérieur, localement un peu plus. Sur les côtes du Morbihan à la Vendée, les rafales sont comprises entre 110 km/h et 130 km/h, localement plus sur les Iles. \u003c/p\u003e\u003cp\u003eA 05H00, Météo-France relevait un peu plus de 100 km/h à Lorient et Vannes, 150 km/h à Belle île, 100 km/h à Creil, 90 km/h à Orly et 94 km/h à Blois.\u003c/p\u003e\u003cp\u003eDans l\u0026#39;intérieur des terres, les vents les plus forts seront observés dans l\u0026#39;après midi avec des rafales voisines de 100 km/h généralisées, ponctuellement jusqu\u0026#39;à 110km/h. \u003c/p\u003e\u003cp\u003eCe vent fort faiblira en première partie d\u0026#39;après-midi, sur les départements les plus à l\u0026#39;ouest; en toute fin d\u0026#39;après-midi pour les autres. \u003c/p\u003e\u003cp\u003eDe fortes vagues sont attendues sur la façade atlantique encore demain.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Vent violent: 44 départements en vigilance orange",
+    "uuid": "0744ac85-2b31-3242-9362-eff22e444611"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:28Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 413\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Untuk pekan ini, para anggota Running Man pergi berlibur. Namun, ini bukan sekadar liburan melainkan \u0026#39;Liburan Sial\u0026#39;. Para anggota dibagi menjadi dua tim dan di antara mereka, yang sial dan beruntung dipasangkan. Setiap kali tim menang, mereka mendapat satu poin dan juga hak memilih hukuman untuk tim yang kalah. Akankah anggota beruntung sungguh beruntung? Atau anggota sial akan mendapatkan kehormatan mereka kembali?\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 413",
+    "uuid": "06e4ec32-f2e7-31c7-a4d1-f2a5745c57dd"
+}

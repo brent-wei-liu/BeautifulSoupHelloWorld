@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:09:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSepakat IA-CEPA, Ekspor RI ke Australia Bakal Naik Tahun Depan\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Menteri Perdagangan, Enggartiasto Lukita memastikan, melalui perjanjian Indonesia-Australia \u003cem\u003eComprehensive Economic Partnership Agreement\u003c/em\u003e atau IA-CEPA, yang ditandatangani kedua belah pihak hari ini, hal itu akan mampu meningkatkan ekspor Indonesia ke Negeri Kanguru tersebut\u003c/p\u003e\n\n\u003cp\u003eMeski tak menyebut angka pastinya secara nominal, namun Enggar menegaskan, Indonesia akan melakukan ekspor sebanyak mungkin ke Australia, memanfaatkan segala kemudahan perdagangan yang termaktub di dalam IA-CEPA tersebut\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Sebanyak mungkin (kita akan ekspor). Karena kan, kita enggak bisa bilang bahwa ini akan naik seperak atau dua perak misalnya,\u0026quot; kata Enggar di kawasan Kuningan, Jakarta Selatan, Senin 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eEnggar menjelaskan, setelah penandatanganan perjanjian hari ini, kedua negara akan memulai proses ratifikasi yang dipercepat guna menuju berlakunya klausul-klausul di dalam perjanjian\u003c/p\u003e\n\n\u003cp\u003eSehingga, lanjut Enggar, kegiatan bisnis dari kedua negara atas perjanjian ini akan dapat menghasilkan manfaat, meskipun diprediksi baru benar-benar akan mulai efektif tahun depan.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Ini akan efektif (menaikkan ekspor Indonesia) tahun depan,\u0026quot; kata Enggar.\u003c/p\u003e\n\n\u003cp\u003eEnggar menjelaskan, fitur unik yang mencerminkan tekad kuat kedua negara untuk membangun kemitraan sejati melalui IA-CEPA ini, adalah kerja sama ekonomi yang akan mendorong pengembangan sumber daya manusia, memfasilitasi inovasi, dan mendorong integrasi ke dalam rantai nilai global.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kita juga sepakat, meningkatkan kerja sama di sektor pembangkit tenaga listrik, misalnya dengan cara membangun keterampilan, program pertukaran, pelatihan berbasis tempat kerja, dan upaya pengakuan bersama dalam profesi teknik,\u0026quot; ujarnya.\u003c/p\u003e\n\n\u003cp\u003eDiketahui, pada 2018 lalu, total perdagangan bilateral antara Indonesia dan Australia, mencapai US$8,6 miliar, dengan ekspor utama Indonesia ke Australia, mencakup minyak bumi, furnitur, ban, panel layar, dan alas kaki. \u003c/p\u003e\n\n\u003cp\u003eSedangkan komoditas impor utama Indonesia dari Australia, mencakup gandum, minyak bumi, ternak hidup, batu bara, dan gula mentah.\u003c/p\u003e\n\n\u003cp\u003eBadan Koordinasi Penanaman Modal juga melaporkan investasi dari Australia ke Indonesia pada tahun lalu, mencapai US$597 juta. Angka-angka ini diharapkan, akan terus meningkat, begitu perjanjian IA-CEPA ini mulai berlaku. (asp)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/bisnis/1126775-sepakat-ia-cepa-ekspor-ri-ke-australia-bakal-naik-tahun-depan"
+    },
+    "request_path": "requests",
+    "title": "Sepakat IA-CEPA, Ekspor RI ke Australia Bakal Naik Tahun Depan",
+    "uuid": "03ebc537-2f41-3c98-812e-90bdbf56d7ed"
+}

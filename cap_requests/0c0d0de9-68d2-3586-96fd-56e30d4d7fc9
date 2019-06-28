@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:09:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRemember When\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eFreya menginginkan hidup yang baru, yang lebih seru, yang lebih warna-warni. Freya bosan dengan rutinitasnya yang begitu-begitu saja. Hubungannya bersama Moses yang semula seru, kini terasa begitu menjemukan. Freya ingin seperti Gia dan Adrian, pasangan paling populer di sekolah. Tidak jauh berbeda dengan Freya, Adrian sedang mengalami masalah yang sama. Adrian letih menghadapi Gia yang terlalu heboh. Adrian bosan bertengkar dengan Papa. Dan puncaknya Adrian tenggelam dalam duka berkepanjangan ketika Mama meninggal dunia dalam sebuah kecelakaan. Freya dan Adrian saling menemukan. Meski masing-masing telah memiliki pacar, keduanya tidak bisa memungkiri bahwa kebersamaan mereka terasa sangat menyenangkan. Pelan tapi pasti, kebersamaan Freya dan Adrian mengubah semuanya. Gia marah dan Moses terluka. Hubungan empat remaja ini menjadi berbeda. Setelah lulus SMA, Freya melanjutkan pendidikan ke luar negeri dan berupaya mengubur perasaannya ke Adrian. Di sisi lain, Adrian tetap melanjutkan hubungannya dengan Gia walaupun ia sadar hanya Freya yang ia cinta.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/media/1165523725\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Remember When",
+    "uuid": "0c0d0de9-68d2-3586-96fd-56e30d4d7fc9"
+}

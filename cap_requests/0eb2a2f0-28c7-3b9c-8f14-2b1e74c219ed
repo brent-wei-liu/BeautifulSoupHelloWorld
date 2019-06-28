@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:58:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eUna ciudad alemana confisca y vende una perra para saldar la deuda de una familia\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eLa ciudad alemana de Ahlen confiscÃ³ y luego vendiÃ³ en internet la perra de una familia que debÃ­a dinero al ayuntamiento, pero los compradores demandaron por fraude al municipio.\nEl caso empezÃ³ en diciembre cuando el ayuntamiento de esta ciudad mediana, situada en Renania del Norte-Westfalia, decidiÃ³ confiscar a Edda, una perra de raza pug, a causa de las deudas de sus amos.\nUn empleado del ayuntamiento puso en venta el animal en eBay, que fue comprado por 690 euros, una suma que fue a parar a la tesorerÃ­a municipal.\nPero la nueva propietaria descubriÃ³ que la perra, ahora llamada Wilma, y al contrario de lo que afirmaba el anuncio, no estaba vacunada ni tenÃ­a buena salud y tuvo que gastar casi 2.000 euros en veterinario.\nLa mujer se considerÃ³ engaÃ±ada por el ayuntamiento y decidiÃ³ denunciarle por fraude, indicÃ³ la agencia de noticias DPA.\nFrente al escÃ¡ndalo, el alcalde de la ciudad, Alexander Berger, atribuyÃ³ el lunes el error a un \u0026quot;miembro de la administraciÃ³n\u0026quot; de la ciudad. \nEn un mensaje en la web del ayuntamiento, el alcalde dijo estar dispuesto a devolver la mascota a la familia a condiciÃ³n de que \u0026quot;todas las partes estÃ©n de acuerdo\u0026quot;.\nEl caso dio lugar en Alemania a debates jurÃ­dicos entre profesores de derecho administrativo, que Ãºnicamente se pusieron de acuerdo sobre el hecho de que la venta de la perra tendrÃ­a que haber sido en una subasta pÃºblica y no una venta privada en internet.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Una ciudad alemana confisca y vende una perra para saldar la deuda de una familia",
+    "uuid": "0eb2a2f0-28c7-3b9c-8f14-2b1e74c219ed"
+}

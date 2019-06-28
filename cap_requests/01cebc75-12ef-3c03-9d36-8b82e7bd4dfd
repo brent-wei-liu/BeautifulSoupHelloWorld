@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:49:08Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFIFA recomienda uso del VAR en Mundial femenino\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eZÚRICH (Reuters) - La FIFA recomendó el uso de la tecnología de árbitro asistente de video (VAR) para la Copa Mundial femenina de este año en Francia.\u003c/p\u003e\n\u003cp\u003eEl comité organizador del organismo rector del fútbol mundial se reunió el lunes y respaldó el uso de VAR en el torneo, que ya se había probado en la Copa del Mundo masculina de Rusia.\u003c/p\u003e\n\u003cp\u003eLa decisión final la tomará el consejo de la FIFA en su reunión a fines de este mes en Miami. El Mundial femenino se  realizará entre el 7 de junio y el 7 de julio.\u003c/p\u003e\n\u003cp\u003e\u0026quot;No se me ocurre que no tengamos (VAR); creo que sería un poco insultante si no tuviéramos la misma oportunidad (que los hombres)\u0026quot;, había dicho en julio la entrenadora estadounidense Jill Ellis.\u003c/p\u003e\n\u003cp\u003eLa tecnología, que se usa en varias de las principales ligas de fútbol europeas, ha estado presente en la fase eliminatoria de la Liga de Campeones por primera vez esta temporada.\u003c/p\u003e\n\u003cp\u003eLa Premier League inglesa planea usar VAR el próximo campeonato.\u003c/p\u003e\n\u003cp/\u003e\n\u003cp\u003e (Reporte de Rik Sharma en Madrid; Editado en español por Javier López de Lérida)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "FIFA recomienda uso del VAR en Mundial femenino",
+    "uuid": "01cebc75-12ef-3c03-9d36-8b82e7bd4dfd"
+}

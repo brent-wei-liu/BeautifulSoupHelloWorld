@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:06:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eInterpretes boleros respaldan proyecto para reconocerlos como valor cultural\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSan Juan, 4 mar (EFEUSA).- Intérpretes de boleros respaldaron hoy el Proyecto 1966 de la Cámara de Representantes de Puerto Rico que se propone reconocer el género del bolero y la música de Trío, a voces y guitarras, como valores culturales de la isla, para lograr así que el mismo sea perpetuado para futuras generaciones.\nEl autor de la medida y presidente de la Comisión de Educación, Arte y Cultura, Guillermo Miranda, lamentó ante cantantes jóvenes y habituales de este género musical, durante la primera vista pública sobre la medida, que no se le haya dado el lugar que merece dentro del aspecto cultural.\n\u0026quot;Ha llegado el momento en que Puerto Rico culturalmente se levante y empiece a reconocer su esencia como pueblo. Parte de nuestra esencia es el bolero. Sobretodo cantado a trío, tres voces, que nos identifica como músicos y pueblo\u0026quot;, señaló.\n\u0026quot;Entiendo que el proyecto es más que necesario y que ustedes, los intérpretes y músicos, puedan tener el empuje y apoyo del gobierno para tenerles su espacio dentro de los espectáculos y que continúe tan hermoso legado musical para ser apreciado por todas las edades\u0026quot;, sostuvo.\nComo dato histórico mencionó que el Trío Vegabajeño fue conocido como nuestro trío nacional y, como embajadores, lograron gloria y fama, poniendo el nombre de Puerto Rico en alto.\nInclusive, fueron los primeros en instituir la modalidad de cantar a tres voces en la isla, participaron en películas e interpretaron canciones que marcaron importantes acontecimientos verídicos que impactaron a Puerto Rico.\nTambién, resaltó la aportación puertorriqueña en el catálogo musical del género del bolero de grandes compositores como Mirta Silva, Bobby Capó, Sylvia Rexach, Tite Curet, Felipe Rosario Goyco, Edmundo Disdier, Tito Henríquez y Pedro Flores, entre otros. Pero de manera especial, destacó a Rafael Hernández, considerado como uno de los autores que más composiciones de boleros ha dejado al género en el mundo hispano.\nFotografía de archivo del cantante puertorriqueño Andy Montañez.  EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Interpretes boleros respaldan proyecto para reconocerlos como valor cultural",
+    "uuid": "0e1df5bf-9f2d-33a0-b4ba-ba585b0dc96c"
+}

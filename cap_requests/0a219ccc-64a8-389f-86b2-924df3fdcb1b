@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:38:51Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKiitotie suljettu Porin lentokentällä – Ilmavoimien Pilatuksesta puhkesi rengas\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eKiitotie Porin lentokentällä on maanantaina iltapäivällä jouduttu sulkemaan poikkeustilanteen vuoksi.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/kotimaa/art-2000006023289.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Kiitotie suljettu Porin lentokentällä – Ilmavoimien Pilatuksesta puhkesi rengas",
+    "uuid": "0a219ccc-64a8-389f-86b2-924df3fdcb1b"
+}

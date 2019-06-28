@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:52:29Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCon gol del arquero Vargas, Cali empata 1-1 con Millonarios\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBOGOTÁ (AP) — Con un gol de cabeza del arquero Camilo Vargas en tiempo de descuento, el local Deportivo Cali igualó 1-1 el domingo ante el líder Millonarios en la octava jornada de la liga colombiana.\u003c/p\u003e\u003cp\u003eVargas, libre de marca, convirtió luego de un tiro de esquina que ejecutó Deiber Caicedo. El guardameta repitió así la hazaña de 2011 cuando jugaba con Santa Fe de Bogotá y también frente a Millonarios.\u003c/p\u003e\u003cp\u003eMillonarios tenía cinco victorias en línea y, con 19 puntos, quedó solo adelante, mientras que Cali completó 13 unidades.\u003c/p\u003e\u003cp\u003eEnvigado goleó 4-1 al América de Cali, con el aporte de un doblete del volante Alexis Zapata.\u003c/p\u003e\u003cp\u003eUnión Magdalena superó 1-0 al visitante Deportivo Pasto y abandonó la zona de descenso, mientras que Santa Fe y el visitante Rionegro empataron 2-2.\u003c/p\u003e\u003cp\u003eAtlético Bucaramanga perdió 1-0 el sábado con el visitante Alianza Petrolera, Once Caldas cayó por el mismo resultado contra Atlético Junior, Jaguares fue goleado 4-0 por Deportes Tolima y La Equidad ganó 2-1 a Cúcuta Deportivo.\u003c/p\u003e\u003cp\u003eEl partido Atlético Huila-Alianza Petrolera se efectuará el lunes y el choque Atlético Nacional-Independiente fue aplazado.\u003c/p\u003e\u003cp\u003ePosiciones: Millonarios 19 puntos; Atlético Junior 18 ; Cúcuta Deportivo 17; América de Cali 14 ; Deportes Tolima y Deportivo Cali 13; Patriotas 12; Unión Magdalena y Once Caldas 11; Envigado y La Equidad 10; Atlético Nacional 9; Jaguares 8; Atlético Bucaramanga 7; Deportivo Pasto, Atlético Huila, Independiente Medellín, Alianza Petrolera y Santa Fe 6 y Rionegro 5.\u003c/p\u003e\u003cp\u003eLa novena jornada comenzará el viernes con el encuentro Deportes Tolima-Atlético Huila, seguirá el sábado con los duelos Rionegro-Envigado, Millonarios-Atlético Nacional, Alianza Petrolera-La Equidad y Atlético Junior- Atlético Bucaramanga.\u003c/p\u003e\u003cp\u003eEl domingo se enfrentarán Deportivo Pasto-Deportivo Cali, Patriotas-Jaguares, Independiente Medellín-Santa Fe, Cúcuta Deportivo-Unión Magdalena y América de Cali-Once Caldas.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Con gol del arquero Vargas, Cali empata 1-1 con Millonarios",
+    "uuid": "0e7f954f-ea89-3020-a8aa-f5dfea52dd96"
+}

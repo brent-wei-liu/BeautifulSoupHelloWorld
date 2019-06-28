@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:42:33Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCom bons números, Cáceres se consolida na lateral do Vasco\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cbr\u003e\u003cp\u003eUma das posições de maior rotatividade no Vasco nos últimos anos, a lateral-direita parece que finalmente ganhou um novo titular. Contratado no início do ano, Raul Cáceres vem tendo um bom desempenho sob o comando de Alberto Valentim, inclusive dominando alguns números do time no Carioca.\u003cbr\u003e\u003cbr\u003eCom Cláudio Winck, outro contratado em janeiro, ainda se recuperando de dores no quadril, o paraguaio tem reinado sozinho na posição. Forte na defesa e consistente na saída de bola, Cáceres é o líder de desarmes da equipe no Estadual, com 13 roubos de bola corretos, e também o maior passador, com 324 passes certos, segundo dados do Footstats.\u003cbr\u003e\u003cbr\u003eMesmo não sendo um lateral prioritariamente ofensivo, o camisa 2 tem tido boas estatísticas também no ataque. Subindo sempre com segurança, Cáceres já deu nove assistências para finalização, a maior marca de um jogador da posição no Carioca, e uma para gol, além de outros dois cruzamentos para Pikachu que terminaram com a bola na rede: contra o Resende, onde a arbitragem marcou gol contra do zagueiro Lucão, e no clássico com o Botafogo, onde Yago parou em Gatito mas marcou no rebote.\u003c/p\u003e\u003cp\u003eCom desempenhos seguros na defesa e no ataque, Raul Cáceres tem sido um dos destaques do invicto Vasco na temporada 2019.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eCÁCERES NO CARIOCA 2019\u003cbr\u003e\u003c/b\u003e- Dados do Footstats\u003cbr\u003e\u003cbr\u003e8 jogos\u003cbr\u003e0 gols\u003cbr\u003e1 passe para gol\u003cbr\u003e9 assistências para finalização\u003cbr\u003e​324 passes certos\u003cbr\u003e40 passes errados\u003cbr\u003e7 cruzamentos certos\u003cbr\u003e22 cruzamentos errados\u003cbr\u003e13 desarmes certos\u003cbr\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.lance.com.br/numeros-da-bola/com-bons-numeros-caceres-consolida-lateral-vasco.html"
+    },
+    "request_path": "requests",
+    "title": "Com bons números, Cáceres se consolida na lateral do Vasco",
+    "uuid": "0c1107b1-06d3-380a-9426-3823280908ea"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:39:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e加速發展區塊鏈技術！巴林經濟發展局與印度展開合作\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e根據Bitcoin.com報導，針對區塊鏈等領域，巴林經濟發展局（EDB）已與印度展開合作，並已邀請印度公司在巴林設立基地。\u003c/p\u003e  \u003cp\u003e據悉，EDB將為印度金融科技公司提供銀行、區塊鏈、加密資產等領域的支持。\u003c/p\u003e  \u003cp\u003eEDB強調，已與印度政府就多個業務領域展開合作，且已在新德里和孟買設立辦事處。\u003c/p\u003e  立即下載KNOWING新聞APP，給你移動世代的閱讀體驗 ...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30312160.html"
+    },
+    "request_path": "requests",
+    "title": "加速發展區塊鏈技術！巴林經濟發展局與印度展開合作",
+    "uuid": "004d8fee-d83b-35ff-b911-b34b5f5ab284"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:10:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e小摩：升信义光能(00968)目标价至5港元 评级“增持”\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/830f24c6811f3c2d4a8d11e9ac7a208c\" border=\"0\" alt=\"K\u0026#x0056fe; 00968_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e \u003cp\u003e摩根大通发表研究报告，称信义光能(00968)管理层料太阳能玻璃售价上升，并增加其产能，自今年1月至明年6月将增加38%产能，高于过去介乎10%至15%的增长率，加上太阳能电场成本下降，自两年前之每瓦特5至6元人民币降至每瓦特4元人民币，并料至明年仍继续下降。\u003cstrong\u003e该行上调信义光能今明两年盈测，目标价相应自4.3港元上调至5港元，评级维持“增持”。\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e（文章来源：智通财经网）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000751.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000751.shtml"
+    },
+    "request_path": "requests",
+    "title": "小摩：升信义光能(00968)目标价至5港元 评级“增持”",
+    "uuid": "008edd52-38e4-3455-ab49-59cc6b317627"
+}

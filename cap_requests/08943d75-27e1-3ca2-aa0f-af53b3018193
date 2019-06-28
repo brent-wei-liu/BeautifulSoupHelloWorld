@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:09:15Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e達力集團(00029)委任陳永栽為主席\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026lt;匯港通訊\u0026gt;\t達力集團(00029)宣布，自3月4日(今日)起，陳永栽已獲委任為公司執行董事及董事會主席；TAN Carmen K.及 TAN Vivienne Khao 已獲委任為執行董事；執行董事趙少鴻已獲委任為公司代理行政總裁；及獨立非執行董事 TAN Kenway Hao 已獲委任為董事會提名委員會成員及主席。(WH)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://hkstock.infocastfn.com/stock/hong-kong-stock-news-article/3198689"
+    },
+    "request_path": "requests",
+    "title": "達力集團(00029)委任陳永栽為主席",
+    "uuid": "08943d75-27e1-3ca2-aa0f-af53b3018193"
+}

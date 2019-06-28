@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:10:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRosenheim rettet Last-Minute-Remis in Memmingen\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eDer FC Memmingen ist mit einer Enttäuschung ins Jahr 2019 gestartet. Gegen Abstiegskandidat TSV 1860 Rosenheim kamen die Hausherren am 23. Spieltag der Regionalliga Bayern nur zu einem 2:2-Remis.\u003c/p\u003e\u003cp\u003eStürmer Markus Einsiedler rettete den absiegsbedrohten Gästen mit seinem Kopfballtreffer in der Nachspielzeit immerhin einen Zähler.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003ch2\u003eDoppelschlag von Memmingen\u003c/h2\u003e\u003cp\u003eMario Jokic brachte die Gastgeber nach 27 Minuten in Front. Der Abwehrspieler verlängerte einen Freistoß mit dem Hinterkopf in die lange Ecke.\u003c/p\u003e\u003cp\u003eNur zwei Minuten später erhöhte Memmingen auf 2:0. Nach einer Linksflanke war Stürmer Furkan Kircicek zur Stelle und beförderte das Leder mit Hilfe des rechten Innenpfostens über die Linie.\u003c/p\u003e\u003cp\u003eAus heiterem Himmel gelang Rosenheim durch Danijel Majdancevic nach 83 Minuten der Anschlusstreffer, ehe Einsiedler für den Schlusspunkt sorgte.\u003c/p\u003e\u003cp\u003eWährend Memmingen mit 14 Punkten Rückstand auf Tabellenführer FC Bayern II auf Platz fünf liegt, verharrt Rosenheim auf einem Relegationsrang.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.sport1.de/fussball/regionalliga-bayern/2019/03/regionalliga-bayern-tsv-1860-rosenheim-rettet-remis-beim-fc-memmingen"
+    },
+    "request_path": "requests",
+    "title": "Rosenheim rettet Last-Minute-Remis in Memmingen",
+    "uuid": "0cdd618f-ca83-3f23-a7da-560ba9c38a15"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:36:14Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eWeir拿下金天鵝獎影帝　來過台灣的妹妹Yaya美翻拿影后\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/mirrormedia.mg/48778c9116c0d6b13846f4fd20fd4f02\" alt=\"\"/\u003e\u003cb\u003e\u003cp\u003e泰國電影獎最高榮譽金天鵝獎於2日舉行頒獎典禮，最大贏家為曾來過台灣參與金馬影展的《告別茉莉》，共拿下最佳導演、最佳影片、最佳男配角及最佳男主角等7個獎項，而女主角則由《把哥哥退貨可以嗎》的Yaya獲得。Bodyslam主唱Toon為公益義跑的紀錄片《2215》，則拿下最佳紀錄片獎。 \u003c/p\u003e\u003c/b\u003e\u003cdiv\u003e\u003cimg class=\"editorial\" alt=\"\u0026#x006027;\u0026#x00683c;\u0026#x007537;\u0026#x00661f;Weir\u0026#x0062ff;\u0026#x004e0b;\u0026#x0091d1;\u0026#x005929;\u0026#x009d5d;\u0026#x00734e;\u0026#x005f71;\u0026#x005e1d;\u0026#x003002;\u0026#x00ff08;\u0026#x007ffb;\u0026#x00651d;\u0026#x006cf0;\u0026#x00570b;\u0026#x00570b;\u0026#x005bb6;\u0026#x0096fb;\u0026#x005f71;\u0026#x005354;\u0026#x006703;\u0026#x0081c9;\u0026#x0066f8;\u0026#x00ff09;\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/mirrormedia.mg/0ff4aa7c68e18dde1707a32bb55a78e6\"\u003e \u003c/div\u003e\u003cp\u003e《告別茉莉》的導演Anucha Boonyawatana為跨性別者，本片有同志情節，不過她在受訪時曾說，她要說的不是性別議題，而是人與人之間的相遇。《告別茉莉》是一部詩意流動的電影，她在導演時，也選擇讓氛圍去自然流動，當中用茉莉花所做的儀式花飾，是本片的重點，因為它如此美，如此脆弱易凋，意寓人生也是如此。由於3月泰國將舉行久違的民主選舉，Anucha Boonyawatana在領獎時於是說，泰國政府對電影的支持並不足夠，希望接下來的新政府能對電影多點支持。\u003c/p\u003e\u003cdiv\u003e\u003cimg class=\"editorial\" alt=\"\u0026#x008a69;\u0026#x00610f;\u0026#x007684;\u0026#x00300a;\u0026#x00544a;\u0026#x005225;\u0026#x008309;\u0026#x008389;\u0026#x00300b;\u0026#x00ff0c;\u0026#x00662f;\u0026#x004eca;\u0026#x005e74;\u0026#x0091d1;\u0026#x005929;\u0026#x009d5d;\u0026#x00734e;\u0026#x006700;\u0026#x005927;\u0026#x008d0f;\u0026#x005bb6;\u0026#x003002;\u0026#x00ff08;\u0026#x007ffb;\u0026#x00651d;\u0026#x00300a;\u0026#x00544a;\u0026#x005225;\u0026#x008309;\u0026#x008389;\u0026#x00300b;\u0026#x0081c9;\u0026#x0066f8;\u0026#x00ff09;\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/mirrormedia.mg/3fc3f6149ada19eda69b91637a7ece9d\"\u003e \u003c/div\u003e\u003cp\u003e泰國紅星Weir突破自己形象，在《告別茉莉》中演出同志性愛情節，賣肌也賣得自然，讓一向演出電視劇為主的他，順利拿下金天鵝獎影帝。\u003c/p\u003e\u003cbr/\u003e\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多鏡週刊報導\u003c/span\u003e\u003cbr/\u003e\u003ca href=\"https://www.mirrormedia.mg/story/20180920ent005/index.html?utm_source=feed_related\u0026utm_medium=yahoo\"\u003e肌男Weir主演的《告別茉莉》　代表泰國角逐奧斯卡外語片\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.mirrormedia.mg/story/20171124ent002/index.html?utm_source=feed_related\u0026utm_medium=yahoo\"\u003e泰國紅星Weir激情露肌　最終要講的竟是人生無常\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.mirrormedia.mg/story/20180830ent001/index.html?utm_source=feed_related\u0026utm_medium=yahoo\"\u003e泰國金天鵝獎得主齊聚　詮釋生命中的最後一天\u003c/a\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.mirrormedia.mg/story/20190304ent019"
+    },
+    "request_path": "requests",
+    "title": "Weir拿下金天鵝獎影帝　來過台灣的妹妹Yaya美翻拿影后",
+    "uuid": "0677321a-2fa9-3d06-9a07-9358f6eeb565"
+}

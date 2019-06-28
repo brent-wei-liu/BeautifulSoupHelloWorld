@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:22:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEl dólar sube un 0,07 % con respecto al peso colombiano\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eBogotá, 4 mar (EFE).- El precio de venta del dólar estadounidense subió este lunes un 0,07 % con respecto al peso colombiano.\n\nCompra: 3.020,29 pesos\nVenta : 3.192,19 pesos\n\nFuente: casas de cambio. EFE\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "El dólar sube un 0,07 % con respecto al peso colombiano",
+    "uuid": "090743fc-f46d-3e2c-8aab-65bf4f1bb144"
+}

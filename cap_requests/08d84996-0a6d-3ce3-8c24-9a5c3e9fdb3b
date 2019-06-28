@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:11:43Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eOppositiojohtaja Guaido on palannut Venezuelaan, Yhdysvallat varoittaa Maduron hallintoa: ”Koko maailma seuraa”\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eVenezuelan oppositiojohtaja Juan Guaido on palannut kotimaahansa.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/ulkomaat/art-2000006023442.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Oppositiojohtaja Guaido on palannut Venezuelaan, Yhdysvallat varoittaa Maduron hallintoa: ”Koko maailma seuraa”",
+    "uuid": "08d84996-0a6d-3ce3-8c24-9a5c3e9fdb3b"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:37:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中移動(00941)及中國電信(00728)將換帥 走勢各異\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026lt;匯港通訊\u0026gt;    中國電信(00728)宣布，公司於3月4日接獲控股股東中國電信集團通知，楊杰不再擔任中國電信集團董事長職務，並出任中國移動通信集團董事長，同時，楊杰由於工作調動關係已辭任公司執行董事、董事長兼首席執行官職務，由2019年3月4日起生效。\u003cbr/\u003e\u003cbr/\u003e楊杰將接替退休的中移動集團董事長尚冰，尚冰已辭任中移動(00941)董事長一職，楊杰有望出任中移動董事長一職。\u003cbr/\u003e\u003cbr/\u003e中電信現價4.37元，升0.23%，中移動報82.4元，挫1.79%。\u003cbr/\u003e\u003cbr/\u003e(SY)\u003cbr/\u003e\u003cbr/\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://hkstock.infocastfn.com/stock/hong-kong-stock-news-article/3198463"
+    },
+    "request_path": "requests",
+    "title": "中移動(00941)及中國電信(00728)將換帥 走勢各異",
+    "uuid": "0e51b5db-5acc-3ea0-ad35-b4db349ca0a9"
+}

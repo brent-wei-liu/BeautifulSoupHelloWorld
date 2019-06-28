@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:49:24Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNapi Lapas Cipinang Ditemukan Tewas Gantung Diri\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Seorang narapidana Lembaga Pemasyarakatan Klas I Cipinang, Jakarta, Bong Sukinto (32) tewas gantung diri, di kamar mandi petugas blok tipe 7 lantai 2, Minggu, 3 Maret 2019 sore. \u003c/p\u003e\n\n\u003cp\u003eDalam kasus ini, menurut Kapolsek Jatinergara Komisaris Polisi Rudy Haryanto, polisi menemukan sejumlah barang bukti, di antaranya tali rafia dipilin di leher sepanjang 25 cm dengan simpul leher hidup. \u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kemudian ditemukan tali rafia terpilin tergantung di pipa atas kamar mandi 2 meter dengan tali simpul atas mati,\u0026quot; ujar Rudy saat dikonfirmasi wartawan, Senin, 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eBong merupakan warga binaan yang divonis 10 tahun penjara. Hingga kini, belum diketahui motif Bong nekat menghabisi nyawanya sendiri.\u003c/p\u003e\n\n\u003cp\u003eKejadian ini terungkap ketika petugas Lapas curiga Bong tak kunjung keluar dari kamar mandi. Setelah lima menit lamanya berada di dalam, petugas bertanya kepada Bong tapi tak ada jawaban. Petugas lantas membuka paksa pintu kamar mandi. \u003c/p\u003e\n\n\u003cp\u003eSaat pintu kamar mandi dibuka, korban sudah dalam posisi jatuh di lantai. Kemudian, terdapat tali rafia tergantung di atas pipa air. Pada korban terdapat potongan tali rafia menjerat lehernya.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Korban sudah tergeletak di lantai dengan kepala menghadap pintu serta terdapat tali rafia terpilin terputus dan sisa tali masih terikat di atas pipa kamar mandi,\u0026quot; ujarnya.\u003c/p\u003e\n\n\u003cp\u003eLebih lanjut, dia mengatakan, jasad Bong telah dibawa ke Rumah Sakit Cipto Mangunkusumo. Pihak keluarga juga sudah dihubungi atas kejadian ini. (dau)\u003cbr /\u003e\n \u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/metro/1126788-napi-lapas-cipinang-ditemukan-tewas-gantung-diri"
+    },
+    "request_path": "requests",
+    "title": "Napi Lapas Cipinang Ditemukan Tewas Gantung Diri",
+    "uuid": "0c2e7941-c0ac-3bb6-b0be-27c17b8800b6"
+}

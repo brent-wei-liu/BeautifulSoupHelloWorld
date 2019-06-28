@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:05:30Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCapello lembra \u0026quot;causo\u0026quot; do Real: \u0026quot;Suker e Mijatovic não passavam a bola para o Raul\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp style=\"text-align:justify;\"\u003eEm Entrevista à \u003cem\u003e Sky Sport \u003c/em\u003e , Fabio Capello comentou sobre a situação envolvendo Icardi e a Inter de Milão. O ex-treinador do Real lembrou uma ocasião quando comandava os espanhóis para comparar a relação do argentino com os companheiros de clube.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003e\u0026quot;Um treinador deve entender quando intervir. Eu tinha uma situação semelhante no Real Madrid. Suker e Mijatovic não passaram uma bola para Raul. Eu liguei para eles e mostrei algumas situações em que se comportaram daquele jeito e disse que se eles continuaram fazendo aquilo eles não voltariam a jogar mais. E isso não aconteceu mais\u0026quot;, relembra Capello.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003eO italiano treinou o Real Madrid pela primeira vez entre 96-97 e conquistou o Campeonato Espanhol com Raul sendo o artilheiro da competição. O jogador marcou 21 gols, Suker balançou as redes 24 vezes e Mijatovic fez outros 14 gols.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Capello lembra \u0026quot;causo\u0026quot; do Real: \u0026quot;Suker e Mijatovic não passavam a bola para o Raul\u0026quot;",
+    "uuid": "0a667529-21fb-3271-b823-a078240c2cb6"
+}

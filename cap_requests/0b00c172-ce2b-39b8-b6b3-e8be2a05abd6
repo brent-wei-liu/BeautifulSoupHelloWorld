@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:43:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGuguran Awan Panas Merapi Menurun, Warga Diminta Tetap Waspada\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eLiputan6.com, Magelang -\u003c/b\u003e Setelah terjadi guguran awan panas dan lava pada Sabtu pekan lalu, aktivitas \u003ca href=\"https://www.liputan6.com/news/read/3908008/waspada-luncuran-awan-panas-merapi-mengarah-ke-kali-gendol\" title=\"Gunung Merapi\"\u003eGunung Merapi\u003c/a\u003e mengalami penurunan.\u003c/p\u003e\n\u003cp\u003eSeperti ditayangkan\u003cem\u003e Liputan6 SCTV\u003c/em\u003e, Senin (4/3/2019), dari pantauan di pos pengamatan \u003ca href=\"https://www.liputan6.com/tag/gunung-merapi\"\u003eGunung Merapi\u003c/a\u003e di Ngepos, Desa Ngablak, Kecamatan Srumbung, Kabupaten Magelang, Jawa Tengah, aktivitas kegempaan guguran di Merapi tergolong landai.\u003c/p\u003e\n\u003cp\u003eSepanjang Minggu siang dan petang tidak ada guguran awan panas dan lava yang masif. Sedikitnya, hanya ada 13 kali gempa guguran dengan durasi singkat antara 12 detik hingga 65 detik.\u003c/p\u003e\n\u003cp\u003eMeski mengalami penurunan, warga yang tinggal di kawasan lereng Gunung \u003ca href=\"https://www.liputan6.com/regional/read/3903754/video-merapi-semburkan-awan-panas-warga-bersiap-mengungsi\" title=\"Merapi\"\u003eMerapi\u003c/a\u003e diminta untuk tetap meningkatkan kewaspadaan. Sebab, munculnya awan panas guguran dan lava dapat berakibat hujan abu vulkanik yang menyebar ke lereng Merapi. (Muhammad Gustirha Yunas)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/news/read/3908492/guguran-awan-panas-merapi-menurun-warga-diminta-tetap-waspada?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "Guguran Awan Panas Merapi Menurun, Warga Diminta Tetap Waspada",
+    "uuid": "0b00c172-ce2b-39b8-b6b3-e8be2a05abd6"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:22:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePo wyborach: Estonia jest kobiet�\u003c/title\u003e\u003c/head\u003e\u003cbody\u003ePo niedzielnych wyborach w najmniejszym z pa�stw ba�tyckich do fotela premiera przymierza si� szefowa zwyci�skiej Partii Reform Kaja Kallas.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.rp.pl/Polityka/190309768-Po-wyborach-Estonia-jest-kobieta.html "
+    },
+    "request_path": "requests",
+    "title": "Po wyborach: Estonia jest kobiet�",
+    "uuid": "0bef76fe-ebf0-3b66-ac88-c7bfc4a05412"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:59:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFoot - C1 - Real - Real Madrid : sans Sergio Ramos et Alvaro Odriozola face à l\u0026apos;Ajax Amsterdam en C1\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eAverti à l\u0026#39;aller (2-1), le capitaine madrilène Sergio Ramos est suspendu pour le huitième de finale retour de la Ligue des champions face à l\u0026#39;Ajax Amsterdam, mardi (21 heures). Sergio Ramos n\u0026#39;affrontera pas l\u0026#39;Ajax Amsterdam, en huitièmes de finale retour de la Ligue des champions, mardi (21 heures). Le capitaine madrilène a été \u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Ligue-des-champions-sergio-ramos-real-madrid-suspendu-deux-matches/993652\" shape=\"rect\" target=\"_blank\"\u003esuspendu deux matches\u003c/a\u003e par l\u0026#39;UEFA pour \u003ci\u003e« avoir fait exprès de recevoir un carton jaune »\u003c/i\u003e sur le terrain de l\u0026#39;\u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Ligue-des-champions-le-real-madrid-malmene-par-l-ajax-mais-victorieux/988631\" shape=\"rect\" target=\"_blank\"\u003eAjax Amsterdam (2-1)\u003c/a\u003e, le 13 février. Santiago Solari a convoqué un groupe de vingt-et-un joueurs, sans Alvaro Odriozola (choix de l\u0026#39;entraîneur) et avec Nacho, Raphaël Varane et Isco. \u003ca href=\"https://abonnes.lequipe.fr/Football/ligue-des-champions-resultats.html\" shape=\"rect\" target=\"_blank\"\u003eLe calendrier des 8es de finale retour de la Ligue des champions\u003c/a\u003e \u003cblockquote class=\"twitter-tweet\"\u003e\u003cp lang=\"fr\" dir=\"ltr\"\u003e? Les 21 convoqués pour le match face à l\u0026#39;Ajax!\u003ca href=\"https://twitter.com/hashtag/RMUCL?src=hash\u0026#38;ref_src=twsrc%5Etfw\"\u003e#RMUCL\u003c/a\u003e | \u003ca href=\"https://twitter.com/hashtag/HalaMadrid?src=hash\u0026#38;ref_src=twsrc%5Etfw\"\u003e#HalaMadrid\u003c/a\u003e \u003ca href=\"https://t.co/bUChBG3hxo\"\u003epic.twitter.com/bUChBG3hxo\u003c/a\u003e\u003c/p\u003e\u0026#8212; Real Madrid C.F. ?? (@realmadridfra) \u003ca href=\"https://twitter.com/realmadridfra/status/1102577607734906881?ref_src=twsrc%5Etfw\"\u003e4 mars 2019\u003c/a\u003e\u003c/blockquote\u003e\u003cbr /\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Football/Actualites/Real-madrid-sans-sergio-ramos-et-alvaro-odriozola-face-a-l-ajax-amsterdam-en-c1/994966"
+    },
+    "request_path": "requests",
+    "title": "Foot - C1 - Real - Real Madrid : sans Sergio Ramos et Alvaro Odriozola face à l\u0026apos;Ajax Amsterdam en C1",
+    "uuid": "07f57b30-0165-3020-938e-c58cca549670"
+}

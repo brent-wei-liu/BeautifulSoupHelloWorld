@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:47:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e\u0026quot;Sytuacja w Polsce zmieni si�, gdy zmieni si� UE\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e- Do tej pory system w�adzy na poziomie pa�stw w UE by� dosy� stabilny. By� motor francusko-niemiecki, Brytyjczycy odgrywali specjaln� rol� w powstrzymywaniu centralistycznych zap�d�w. Teraz to si� zaczyna zmienia� - m�wi \u0026quot;Rzeczpospolitej\u0026quot; wiceprzewodnicz�cy Parlamentu Europejskiego z PiS prof. Zdzis�aw Krasnod�bski.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.rp.pl/Wybory-do-PE/190309778-Prof-Zdzislaw-Krasnodebski-Sytuacja-w-Polsce-zmieni-sie-gdy-zmieni-sie-UE.html "
+    },
+    "request_path": "requests",
+    "title": "\u0026quot;Sytuacja w Polsce zmieni si�, gdy zmieni si� UE\u0026quot;",
+    "uuid": "0ac91b69-aa01-362d-9f57-5719675cba78"
+}

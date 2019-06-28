@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:12:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSusana Zabaleta la niña \u0026quot;tonta\u0026quot; que conquistó los grandes escenarios\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/es-US/homerun/notimex.com.mx/298ee18bd065766f983d5cae36fe173c\" border=\"0\" hspace=\"5\" vspace=\"5\" alt=\"90304040.jpg\"\n title=\"Susana Zabaleta la ni\u0026#xf1;a \"\u003e\u003cbr\u003e\u003ca href=\"/es/descargarFoto/503373\" class=\"btn btn-primary\"\u003eDescargar\u003c/a\u003e\u003cbr\u003e\u003cp\u003e90304040. México, 4 Mar 2019 (Notimex-Archivo).- De niña, Susana Zabaleta soñaba con formar parte de la escolta en la escuela a la que iba. Quería hacerlo para estar cerca de la bandera y para cantar el Himno Nacional Mexicano mientras marchaba por el patio, pero nunca sacó los dieces requeridos.\u003c/p\u003e\n\u003cp\u003eFOTO/NOTIMEX/ARCHIVO/COR/ACE\u003c/p\u003e\u003cp\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.notimex.gob.mx/ntxfotos/503373"
+    },
+    "request_path": "requests",
+    "title": "Susana Zabaleta la niña \u0026quot;tonta\u0026quot; que conquistó los grandes escenarios",
+    "uuid": "0a178430-c825-3317-973a-e83e51f595ed"
+}

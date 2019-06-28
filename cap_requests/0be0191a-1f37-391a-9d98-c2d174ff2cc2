@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:50:02Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e米歇爾奪PGA首冠 維傑辛無緣成最年長贏家\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e（法新社邁阿密3日電）    今天結束的本田菁英賽（Honda Classic），美國選手米歇爾拿下生涯首座美國職業高爾夫巡迴賽（US PGA Tour）金盃，斐濟名將維傑辛則無緣成為美巡最年長的贏家。 米歇爾（Keith Mitchell）今天在末輪開賽之初連吞兩個柏忌，但在最後7洞抓下4隻小鳥，交出單輪低於標準桿3桿的67桿的成績，最終以4輪總計低於標準桿9桿的271桿拿下冠軍。 米歇爾說：「我過去也有奪冠機會，卻讓情緒接管了比賽。我今天前兩洞吞了柏忌後，我告訴自己『不准再重蹈覆轍』。」 米歇爾表示：「我試著專注在判讀和速度，而我在推桿上也表現得很好。」 前3輪打完，以落後領先者1桿並列第2的56歲老將維傑辛（Vijay Singh），試著成為最年長的美巡賽冠軍得主，但今天在第17洞吞下吞噬他奪冠希望的柏忌。 維傑辛今天只交出平標準桿的70桿成績，最終以4輪總計低於標準桿6桿的274桿排在第6。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "米歇爾奪PGA首冠 維傑辛無緣成最年長贏家",
+    "uuid": "0be0191a-1f37-391a-9d98-c2d174ff2cc2"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:12:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa Bolsa de Madrid cierra plana con un descenso del 0,09 %\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- La Bolsa de Madrid cerró este lunes con un caída del 0,09 % con lo que registró la peor evolución de las grandes de Europa, sin apenas referencias y pendientes de las conversaciones entre EEUU y China sobre un posible acuerdo comercial. EFE\neb/son/ajs\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "La Bolsa de Madrid cierra plana con un descenso del 0,09 %",
+    "uuid": "04a7a662-4481-3701-9a51-f3432248e91e"
+}

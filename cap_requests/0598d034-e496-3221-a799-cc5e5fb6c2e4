@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T16:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e同婚專法明拚二讀 橘要求退回重提\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e立法院會五日將處理行政院所提同婚專法「司法院釋字第七四八號解釋施行法草案」，民進黨團主張直接逕付二讀，親民黨團總召李鴻鈞今天說，政院版本未經社會充分討論，應退回重提。\u003c/p\u003e\n\u003cp\u003e立法院程序委員會日前將行政院所提同婚專法「司法院釋字第七四八號解釋施行法草案」等案，排入五日立法院會報告事項的議程。\u003c/p\u003e\n\u003cp\u003e全案是否逕付二讀，民進黨立法院黨團書記長鄭運鵬表示，民進黨團會提案把司法院釋字第七四八號解釋施行法草案逕付二讀。\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e相關新聞影音\u003c/strong\u003e\u003ciframe src=\"https://tw.news.yahoo.com/video/\u0026#x00540c;\u0026#x005a5a;\u0026#x005c08;\u0026#x006cd5;\u0026#x00653f;\u0026#x009662;\u0026#x008349;\u0026#x006848;\u0026#x00660e;\u0026#x009015;\u0026#x004ed8;\u0026#x004e8c;\u0026#x008b80;-\u0026#x0053cd;\u0026#x00540c;\u0026#x005718;\u0026#x009ad4;\u0026#x0053cd;\u0026#x005236;-021147506.html?format=embed\u0026amp;region=TW\u0026amp;lang=zh-Hant-TW\u0026amp;site=news\u0026amp;player_autoplay=false\" width=\"630\" height=\"354\" frameborder=\"0\" data-yom-embed-source=\"{media_id_1:644bee2f-1709-3f11-9e21-1b7c8c1cfbdc}\"\u003e\u003c/iframe\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "同婚專法明拚二讀 橘要求退回重提",
+    "uuid": "0598d034-e496-3221-a799-cc5e5fb6c2e4"
+}

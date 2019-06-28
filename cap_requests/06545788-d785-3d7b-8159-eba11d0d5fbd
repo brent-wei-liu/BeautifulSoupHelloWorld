@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:03:42Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKalbinde yarım metre gazlı bez unutuldu! Gazlı bez çıkartıldı öldü!\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eZonguldak\u0026#39;ta, ameliyat sırasında aort damarının arkasında daha önceden olduğu bir ameliyatta unutulduğu tespit edilen yarım metre uzunluğunda gazlı bez çıkarılan Mehmet Demirci (65), yaşamını yitirdi. Babasının unutulan gazlı bez nedeniyle öldüğünü ileri süren Eray Demirci, \u0026quot;Gazlı bez, 3 yıl önce Antalya\u0026#39;da olduğu açık kalp ameliyatında da unutulmuş olabilir, 2 yıl önce Zonguldak\u0026#39;taki mide fıtığı ameliyatı sırasında da unutulmuş olabilir. Biz istiyoruz ki, unutulan tespit edilsin, sorumlular cezasını çeksin. Babam belki de 3 yıl boyunca bu gazlı bezle yaşadı\u0026quot; dedi\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.haberturk.com/aort-damarinda-gazli-bez-unuttular-hasta-ameliyat-sonrasi-oldu-2391859"
+    },
+    "request_path": "requests",
+    "title": "Kalbinde yarım metre gazlı bez unutuldu! Gazlı bez çıkartıldı öldü!",
+    "uuid": "06545788-d785-3d7b-8159-eba11d0d5fbd"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:41:55Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eKamar Andi Arief di Hotel Menara Peninsula Disterilkan\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Pihak pengelola hotel Menara Peninsula, tidak melakukan pemasangan garis polisi di lokasi kamar tempat Politikus Partai Demokrat, Andi Arief ditangkap. Tetapi, hanya dibersihkan saja tempat tersebut. \u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Kami tidak menaruh garis khususnya, yang jelas kami mensterilkan kamar tersebut,\u0026quot; ujar \u003cem\u003ePublic Relation Manager \u003c/em\u003eMenara Peninsula, Elizabeth Ratna Sari di lokasi, Senin 4 Maret 2019. \u003c/p\u003e\n\n\u003cp\u003eNamun, dia enggan berkomentar perihal adanya foto yang beredar soal kloset yang rusak di Hotel Menara Peninsula. \u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Saya sendiri, sebenarnya belum terima dan belum tahu seperti apa. Kalau teman-teman merasa dapat gambar itu bisa ditanyakan ke pihak Kepolisian,\u0026quot; ujarnya.\u003c/p\u003e\n\n\u003cp\u003eElizabeth juga tak mau menjelaskan lebih detail, perihal kerusakan apa saja yang ada di dalam kamar tempat Andi Arief menginap.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Sejauh ini, apa yang terjadi di dalam kami belum diizinkan dulu untuk memberikan keterangan lebih lanjut. Nanti saja, mungkin kalau pihak berwenang merilis, saya baru bisa sampaikan,\u0026quot; tuturnya. \u003c/p\u003e\n\n\u003cp\u003ePihak Kepolisian membenarkan, saat ditangkap Andi Arief tidak sendirian. Ia sedang bersama seorang perempuan yang identitasnya masih dirahasiakan.\u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Bersama dengan seorang wanita,\u0026quot; ucap Kabareskrim Polri, Komjen Pol Idham Azis, saat dikonfirmasi, Senin 4 Maret 2019.\u003c/p\u003e\n\n\u003cp\u003eBelum diketahui siapa sosok wanita itu. Dia ada di kamar hotel tempat Andi diciduk. Hingga kini, Andi sendiri masih ditahan. Dia masih diperiksa intensif. (asp)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/berita/metro/1126897-kamar-andi-arief-di-hotel-menara-peninsula-disterilkan"
+    },
+    "request_path": "requests",
+    "title": "Kamar Andi Arief di Hotel Menara Peninsula Disterilkan",
+    "uuid": "01181f53-cace-36ac-9c83-347569a063ba"
+}

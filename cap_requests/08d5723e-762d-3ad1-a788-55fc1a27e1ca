@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:40:44Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSote-valiokunta päätti julkistaa taustamuistion – mieli muuttui: asiantuntijoita kuullaan sittenkin\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAsiantuntijakuulemisia jatketaan.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/politiikka/art-2000006023543.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Sote-valiokunta päätti julkistaa taustamuistion – mieli muuttui: asiantuntijoita kuullaan sittenkin",
+    "uuid": "08d5723e-762d-3ad1-a788-55fc1a27e1ca"
+}

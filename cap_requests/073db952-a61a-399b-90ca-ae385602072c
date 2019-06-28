@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:56:16Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e女大生設計「多功能砧板」 遭網友踢爆抄襲德國產品\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e朝陽科技大學工業設計系一名大四女學生，上學期設計的「多功能砧板」，被網友發現抄襲德國一間設計公司的產品，砲轟太扯了。直到校方出面調查，女學生才承認部分結構是購買業者成品來製作，目前已經休學，倒是女學生的家長不捨女兒遭到網路霸凌，準備對網友提告。\u003c/p\u003e\u003cp\u003e來自德國的多功能砧板，切菜超方便，容易收納，還可以放平板電腦，邊看食譜邊作菜；沒想到台中朝陽科大設計系一名女大生，也製作了幾乎一樣的產品，這樣算不算抄襲？\u003c/p\u003e\u003cfigure\u003e\u003cfigure\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/bee145806814bc4886b2be2fcc4633cd\"\u003e\u003cfigcaption\u003e德國多功能砧板\u003c/figcaption\u003e\u003c/figure\u003e\u003c/figure\u003e\u003c/figure\u003e\u003cfigure\u003e\u003cfigure\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/8c41cc0b005e6c84c175485b7a7802d4\"\u003e\u003cfigcaption\u003e朝陽科大設計系女大生作品\u003c/figcaption\u003e\u003c/figure\u003e\u003c/figure\u003e\u003c/figure\u003e\u003cp\u003e果然，這個女學生「設計」出來的多功能砧板，引起網友群起砲轟，直說這根本是「抄的太誇張，這樣也能畢業？太扯了！」網友還把女學生的作品資訊傳給原創者，對方是說，只要不量產就不算抄襲。女學生也親自反擊，強調只是作品太像、問心無愧，直到校方調查才坦承，的確有部份是購買現成的。\u003c/p\u003e\u003cfigure\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/ftvn.com.tw/e514f5ad96b64e20296e531e2625bd81\" class=\"fr-fic fr-dib\"\u003e\u003c/figure\u003e\u003cp\u003e而朝陽科大祕書長潘吉齡則表示，「認定有部份抄襲的問題，所以道德上有瑕疵，成績需要調整，但是現在學生已經提出休學，她要再多花1年多的時間，才能取得畢業證書，對於學生來講已經是很嚴重的懲罰了」。\u003c/p\u003e\u003cp\u003e風波鬧大，女學生選擇休學，倒是女學生的家長不捨女兒在網路上被攻擊，認為遭到網路霸凌，打算蒐集證據提告；但律師表示，如果抄襲是事實的話，網友的攻擊就不構成網路霸凌。\u003c/p\u003e\u003cp\u003e（民視新聞／劉朝陽、葉晏昇 台中報導）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.ftv.com.tw/news/detail/2019304C03M1"
+    },
+    "request_path": "requests",
+    "title": "女大生設計「多功能砧板」 遭網友踢爆抄襲德國產品",
+    "uuid": "073db952-a61a-399b-90ca-ae385602072c"
+}

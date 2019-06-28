@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:07:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eMédias - Virginie Guilhaume animera « The Mud Day, la course dans la boue » sur la chaîne L\u0026apos;Équipe\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eÀ partir du mois d\u0026#39;avril, Virginie Guilhaume présentera \u003ci\u003eThe Mud Day, la course dans la boue\u003c/i\u003e aux côtés Yoann Riou sur la chaîne L\u0026#39;Équipe. \u003ci\u003eThe Mud Day, la course dans la boue\u003c/i\u003e, émission d\u0026#39;aventure produite par R\u0026#38;G Productions, arrive sur la chaîne L\u0026#39;Équipe en avril. Dans un communiqué, la chaîne précise que Virginie Guilhaume prendra l\u0026#39;animation de ce nouveau programme de prime time. L\u0026#39;animatrice, passée par France 2 et M6, sera par ailleurs accompagnée de Yoann Riou dans le rôle d\u0026#39;arbitre officiel. \u003ci\u003e« Virginie Guilhaume s\u0026#39;est imposée comme une figure incontournable de l\u0026#39;animation, grâce à une expertise acquise lors de grands rendez-vous de divertissement en prime time,\u003c/i\u003e déclare Jérôme Saporito, directeur du pôle TV de L\u0026#39;Équipe. \u003ci\u003eSon expérience ainsi que son style empathique et énergique sont des atouts formidables pour la chaine L\u0026#39;Équipe et ses téléspectateurs. »\u003c/i\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Medias/Actualites/Virginie-guilhaume-animera-the-mud-day-la-course-dans-la-boue-sur-la-chaine-l-equipe/994914"
+    },
+    "request_path": "requests",
+    "title": "Médias - Virginie Guilhaume animera « The Mud Day, la course dans la boue » sur la chaîne L\u0026apos;Équipe",
+    "uuid": "0ec006a0-faf6-31a4-be32-f22983ae305c"
+}

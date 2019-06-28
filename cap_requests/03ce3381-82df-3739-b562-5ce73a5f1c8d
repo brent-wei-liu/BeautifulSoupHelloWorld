@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:18:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEntregarán apoyos por 4 mil 700 mdp para reconstrucción en Oaxaca\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eOAXACA, Oax., marzo 4 (EL UNIVERSAL).- A casi año y medio de los sismos que devastaron regiones como el Istmo de Tehuantepec y la Mixteca, este lunes, la Secretaría de Desarrollo Agrario, Territorial y Urbano (Sedatu), anunció que se otorgarán apoyos por cuatro mil 700 millones de pesos en las zonas afectadas por los movimientos telúricos de septiembre de 2017.\nLo anterior se dio a conocer durante la firma del convenio en la que se estableció la Coordinación Estatal para la Reconstrucción, en el marco del Programa Nacional para la Reconstrucción, signado por el titular de Sedatu, Román Meyer Falcón, y el gobernador Alejandro Murat Hinojosa.\nEl responsable de la Secretaría apuntó que para una primera etapa de la reconstrucción, se autorizaron 90 millones de pesos, que se aplicará en dos municipios.\nAsimismo, precisó que por instrucciones del gobierno federal, los apoyos serán entregados directamente a los beneficiarios y no a las constructoras.\nDurante la pasada administración federal, se otorgaron subsidios, a través de una tarjeta Bansefi.\nEstos consistían en  120 mil pesos a quienes perdieron todo su patrimonio y de 15 mil pesos,  a quienes viven en una casa con daños, lo que los beneficiarios consideraron como insuficientes.\nEn el acto efectuado en el Palacio de Gobierno de la capital, el funcionario federal destacó que tras los terremotos, miles de familias resultaron afectadas. En un primer momento, el censo arrojó que fueron más de 65 mil viviendas con daños estructurales, no obstante, la actividad sísmica dañó 15 mil casas más.\nEn tanto, también se colaborará con la reconstrucción de las más de tres mil escuelas, 60 hospitales y 600 inmuebles considerados patrimonio cultural que sufrieron daños durante los meses en los que hubo temblores.\nPor su parte, el gobernador Alejandro Murat Hinojosa, celebró que se realice un convenio de colaboración en beneficio de las familias que hasta hoy no han podido recuperar su patrimonio. El proceso será diferente, anticipó, y resaltó que se contará con una carpeta con especificaciones técnicas para atender a las familias y sus viviendas, a fin de poder respetar la cultura y modo de vida de cada población.\nPrevio a ello, ambos firmaron un convenio de colaboración para la entrega de títulos en el marco, del Programa de Regularización y Registro de Actos Jurídicos Agrarios, con prioridad en núcleos ubicados en municipios de alta y muy alta marginación, en la que se prevé beneficiar a unas 18 mil familias.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Entregarán apoyos por 4 mil 700 mdp para reconstrucción en Oaxaca",
+    "uuid": "03ce3381-82df-3739-b562-5ce73a5f1c8d"
+}

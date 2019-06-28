@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:35:04Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLiverpool Digusur ManCity dari Puncak, Klopp Tetap Tenang\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eVIVA\u003c/strong\u003e – Manajer Liverpool, Juergen Klopp mengungkapkan, tidak ada alasan untuk panik usai ditahan imbang Everton 0-0, akhir pekan lalu.\u003c/p\u003e\n\n\u003cp\u003eHasil imbang ini membuat Liverpool gagal kembali memuncaki klasemen sementara Premier League yang kini dikuasai ManCity.\u003c/p\u003e\n\n\u003cp\u003eKemenangan 1-0 atas Bournemouth, Sabtu kemarin, membuat ManCity naik ke puncak klasemen sementara dengan koleksi total 71 poin.\u003c/p\u003e\n\n\u003cp\u003eManCity unggul satu poin dari Liverpool (70 poin) yang harus rela turun ke posisi dua usai ditahan Everton 0-0 di Goodison Park.\u003c/p\u003e\n\n\u003cp\u003eApa komentar Klopp? \u0026quot;Tetap tenang dalam situasi ini sangat mudah,\u0026quot; kata Klopp seperti dilansir \u003cem\u003eTribal Football,\u003c/em\u003e Senin 4 Maret 2019. \u003c/p\u003e\n\n\u003cp\u003e\u0026quot;Hal baiknya adalah, kami masih dalam persaingan gelar juara. Kami masih punya peluang (juara). Dan itu kabar yang bagus.\u0026quot; (mus)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viva.co.id/bola/liga-inggris/1126711-liverpool-digusur-mancity-dari-puncak-klopp-tetap-tenang"
+    },
+    "request_path": "requests",
+    "title": "Liverpool Digusur ManCity dari Puncak, Klopp Tetap Tenang",
+    "uuid": "0dbc930c-47dd-370b-8e33-8f4a4085a4cc"
+}

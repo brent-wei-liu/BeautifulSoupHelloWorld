@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:33:23Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e立積董事會通過107年度員工及董事酬勞分派情形\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e公開資訊觀測站重大訊息公告\u003cbr\u003e\u003cbr\u003e(4968)立積-公告本公司董事會決議通過107年度員工及董事酬勞分派情形\u003cbr\u003e\u003cbr\u003e1.事實發生日:108/02/27\u003cbr\u003e2.公司名稱:立積電子股份有限公司\u003cbr\u003e3.與公司關係(請輸入本公司或子公司):本公司\u003cbr\u003e4.相互持股比例:不適用\u003cbr\u003e5.傳播媒體名稱:不適用\u003cbr\u003e6.報導內容:不適用\u003cbr\u003e7.發生緣由:依據金融監督管理委員會105年1月30日金管證審字第1050001900號令規定辦理。\u003cbr\u003e8.因應措施:不適用\u003cbr\u003e9.其他應敘明事項:本公司108年2月27日董事會決議通過以現金方式發放107年度員工酬勞及董監事酬勞，分別為員工酬勞新台幣18,822,253元及董監事酬勞為2,352,781元，與107年度認列費用無差異。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "立積董事會通過107年度員工及董事酬勞分派情形",
+    "uuid": "0467c1f8-9091-3bb6-ad1b-93d276ee1e36"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:30:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e\u0026quot;La mano nera\u0026quot; per portare le storie di mafia fuori dall\u0026apos;oblio\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/it-IT/homerun/huffpost_italy_3rd_party_967/108ae7b18a7430a9dae172e3132b2536\" alt=\"\"/\u003e\u003cp\u003eIl \u003ca href=\"https://www.huffingtonpost.it/2019/03/01/denuncio-i-boss-mafiosi-ma-lo-stato-impose-linterdittiva-alla-sua-azienda-imprenditore-si-suicida-a-gela_a_23681286/\" target=\"_blank\"\u003esuicidio di Rocco Greco\u003c/a\u003e, imprenditore 57enne di Gela che aveva denunciato la mafia, è la più drammatica e viva testimonianza della necessità di non abbassare mai la guardia.\u003c/p\u003e\u003cp\u003eNon lo deve fare lo Stato, che a Greco doveva e deve delle scuse, non lo deve fare l\u0026#39;opinione pubblica. Ci sono, nel Paese, storie di uomini semplici e coraggiosi che sono diventati eroi.\u003c/p\u003e\u003cp\u003eLa lotta alla criminalità organizzata si declina sull\u0026#39;impegno insostituibile dei magistrati e delle forze di polizia e passa, senza nessun dubbio, per il racconto degli esempi, di buone pratiche da valorizzare e far conoscere. Una narrazione vincente, da contrapporre a chi pensa di consegnare le sole storie del male, rappresenta il percorso da incoraggiare.\u003c/p\u003e\u003cp\u003eIn questa direzione di marcia il lavoro de \u003ca href=\"https://www.youtube.com/watch?v=GgLderJdpzg\" target=\"_blank\"\u003e\u0026quot;La mano nera\u003c/a\u003e\u0026quot; rappresenta una felice intuizione. Sarò di parte ma ne ho ragione. L\u0026#39;obiettivo, lo hanno raccontato i protagonisti nel lancio, è dare voce a chi è costretto al silenzio. Le storie di uomini minacciati dalla mafia sono il punto di partenza della rivincita della legalità, quella inversione di rotta non più rinviabile.\u003c/p\u003e\u003cp\u003eLe caratteristiche diverse di Ambrogio Crespi, Klaus Davi e Luca Telese, che animeranno questa avventura, saranno la sintesi migliore e più originale per denunciare, raccontare ed esaltare gli esempi di quegli uomini semplici diventati eroi.\u003c/p\u003e\u003cp\u003eSaranno loro a sollecitare i protagonisti del film. Fra questi Michele Inserra, giornalista minacciato dalla ndrangheta, e Gaetano Saffioti, un imprenditore calabrese che ha subito minacce e intimidazioni. Una delle migliori testimoniane della sana imprenditoria del Sud. Poi ci sarà Benedetto Zoccola. È lui il protagonista delle prime scene girate al Villaggio Coppola nel casertano, un uomo che da sei anni vive sotto scorta perché ha denunciato la camorra. E non lo hanno fermato le bombe.\u003c/p\u003e\u003cp\u003e\u0026quot;La mano nera\u0026quot; porterà queste storie fuori dall\u0026#39;oblio, per consegnarle all\u0026#39;opinione pubblica, per ricordare allo Stato che il lavoro sarà vincente se il gioco sarà di squadra.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.huffingtonpost.it/luigi-crespi/la-mano-nera-per-portare-le-storie-di-mafia-fuori-dalloblio_a_23683375/"
+    },
+    "request_path": "requests",
+    "title": "\u0026quot;La mano nera\u0026quot; per portare le storie di mafia fuori dall\u0026apos;oblio",
+    "uuid": "01f0c9b1-5214-3dd4-ba2d-4b94bd1aa262"
+}

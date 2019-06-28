@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:07:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVIDEO: TOP 3 | Paris Hilton Beri Selamat ke Syahrini\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eLiputan6.com, Jakarta\u003c/b\u003e Top 3 hari ini datang dari tiga pendaki Gunung Tampomas tewas di dalam tenda, Paris Hilton yang memberikan selamat kepada Syahrini, serta peringatan 5 tahun hilangnya pesawat MH370.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.liputan6.com/citizen6/read/3909032/video-top-3-paris-hilton-beri-selamat-ke-syahrini?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "VIDEO: TOP 3 | Paris Hilton Beri Selamat ke Syahrini",
+    "uuid": "058c7b16-ca00-3f1c-997a-800b734bbd75"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:10:55Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCondusef registra menos de 250 quejas por pago de SSI\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eCIUDAD DE MÉXICO, marzo 4 (EL UNIVERSAL).- Óscar Rosado, presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de los Servicios Financieros (Condusef), informó que hasta el momento se han prestado solamente 220 quejas de burócratas por el pago del Seguro de Separación Individualizada (SSI).\nEsta prestación, que fue eliminada como parte de las medidas de austeridad del nuevo gobierno, permitía a los beneficiarios ahorrar hasta 10% de su salario y el gobierno aportaba una cantidad similar.\nA principios de febrero, la Secretaría de Hacienda y Crédito Público informó que los recursos ahorrados por los trabajadores de gobierno se les pagarán en parcialidades cada seis meses, con lo que será hasta en 2 años y medio que puedan recuperar en su totalidad sus ahorros.\n\u0026quot;Andamos en un rango menor a las 250 quejas en las 36 oficinas. Hay algunas donde no tenemos. El número no llega a 250 quejas en relación con el SSI\u0026quot;, dijo el funcionario.\nEntrevistado después de participar en la asamblea 2019 de Prodesarrollo, el funcionario añadió que el paro de labores que el sindicato de la Condusef inició la semana pasada, no se han registrado afectaciones en la operación de las 36 oficinas que tiene en el país el organismo.\nSegún Rosado, en el arranque de año el comportamiento de quejas por parte de los usuarios de servicios financieros es similar a otros años, con lo que el organismo prepara mayores herramientas digitales para mejorar la atención a usuarios.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Condusef registra menos de 250 quejas por pago de SSI",
+    "uuid": "07c5315d-c0d5-3a72-b035-ddf890d4f595"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:17:28Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eThüringens Finanzministerin will Tarifabschluss auf Beamte übertragen\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eERFURT (dpa-AFX) - Th\u0026#252;ringens Finanzministerin Heike Taubert (SPD) will den Tarifabschluss im \u0026#246;ffentlichen Dienst f\u0026#252;r die Beamten \u0026#252;bernehmen. \u0026quot;Wir werden den Abschluss 1 zu 1 auf die Beamten \u0026#252;bertragen, in derselben H\u0026#246;he und zum selben Zeitpunkt\u0026quot;, sagte sie der \u0026quot;Th\u0026#252;ringer Allgemeinen\u0026quot; (Montag). Die Entscheidung daf\u0026#252;r liege aber beim Kabinett und schlie\u0026#223;lich beim Landtag. Allerdings kann es laut Taubert beim \u0026#220;bertragen des Abschlusses auf die Beamten zu kleineren Abweichungen kommen, da sich das Tarif- vom Besoldungsrecht in Details unterscheide.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Thüringens Finanzministerin will Tarifabschluss auf Beamte übertragen",
+    "uuid": "04dbf8ba-646c-3238-8d4e-018a0e77b5d6"
+}

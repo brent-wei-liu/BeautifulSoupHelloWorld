@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:27:48Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAgente de Bale ataca torcedores do Real que o vaiaram: \u0026quot;São uma desgraça\u0026quot;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp style=\"text-align:justify;\"\u003eJonathan Barnett, agente de Gareth Bale, descartou uma transferência na próxima janela de negociações, mas criticou o tratamento que seu cliente tem recebido dos torcedores do Real Madrid.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003eApesar de ter conquistado títulos com os Merengues, Bale continua a ouvir vaias e críticas em Madrid. Em seis anos no Santiago Bernabéu, o jogador sofreu com problemas físicos, mas também vive alternando momentos de alta e baixa no clube.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003eEm entrevista à Sky Sports, Barnett ressaltou a importância de Bale ao Madrid nos últimos anos. \u0026quot;Essa geração de torcedores do Real Madrid vai falar dos gols de Bale por muitos anos. Francamente, deveriam ter vergonha de si mesmos\u0026quot;, disse.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003e\u0026quot;Bale merece o maior respeito. O modo como os torcedores têm o tratado não é nada menos que uma desgraça\u0026quot;, concluiu.\u003c/p\u003e\n\n\u003cp style=\"text-align:justify;\"\u003eBale se prepara junto com o elenco do Real Madrid para o jogo de volta contra o Ajax, no Santiago Bernabéu, pelas oitavas de final da Champions League. Na primeira partida, os Merengues venceram por 2 a 1 e têm a vantagem do empate.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Agente de Bale ataca torcedores do Real que o vaiaram: \u0026quot;São uma desgraça\u0026quot;",
+    "uuid": "09e1492a-42f4-3d7a-856f-8e29de9e0e42"
+}

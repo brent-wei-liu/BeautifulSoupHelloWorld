@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:22:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 386\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Para anggota berkesempatan melahap semua makanan yang mereka inginkan. Namun, mereka hanya diberikan 10 dolar. Mereka harus memilih menu dengan waktu terbatas dan jika tidak menghabiskan makanannya, mereka akan diberikan penalti. Seperti apa penaltinya? Akankah para anggota ini mampu menyelesaikan misi mereka?\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 386",
+    "uuid": "0e8ff4e3-07e1-3a67-a7f5-7ea7ad2dccd5"
+}

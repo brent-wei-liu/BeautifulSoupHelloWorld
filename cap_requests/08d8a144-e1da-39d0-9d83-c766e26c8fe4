@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:59:27Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePutin firma decreto que suspende el pacto nuclear INF: Kremlin\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eMOSCÚ (Reuters) - El presidente ruso Vladimir Putin firmó un decreto que suspende la participación de Rusia en el Tratado de Fuerzas Nucleares de Alcance Intermedio (INF, por su sigla en inglés) con Estados Unidos, dijo el lunes el Kremlin.\u003c/p\u003e\n\u003cp\u003eRusia anunció el mes pasado que suspendería el tratado después de que Estados Unidos dijo que se retiraría debido a violaciones cometidas por Moscú. Rusia niega haber incumplido el acuerdo y ha acusado a Washington de violarlo, acusaciones rechazadas por Estados Unidos.\u003c/p\u003e\n\u003cp\u003ePutin ordenó que el tratado fuera suspendido hasta que Washington deje de quebrantarlo y ha pedido al Ministerio de Relaciones Exteriores que informe a los signatarios del acuerdo sobre la decisión de Rusia de suspenderlo, mostró el texto del decreto.\u003c/p\u003e\n\u003cp/\u003e\n\u003cp/\u003e\n\u003cp\u003e (Reporte de Maria Tsvetkova; Escrito por Tom Balmforth; Editado en español por Natalia Ramos)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Putin firma decreto que suspende el pacto nuclear INF: Kremlin",
+    "uuid": "08d8a144-e1da-39d0-9d83-c766e26c8fe4"
+}

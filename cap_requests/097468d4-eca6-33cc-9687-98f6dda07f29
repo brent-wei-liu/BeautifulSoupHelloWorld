@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:09:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e「閱讀存摺神秘轉轉禮」　北市圖舊莊分館推自助借書\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"https://media.zenfs.com/ko/taiwanhot.net.tw/d603aee5c54a2176975a834f11d2c1b6?mode=yahoo\" width=\"630\" height=\"473\" align=\"middle\"/\u003e\u003c/p\u003e\u003cp\u003e為了持續推廣自助借書機的使用並宣傳北市圖「點閱成金─閱讀存摺」服務，臺北市立圖書館舊莊分館特別舉辦「閱讀存摺神秘轉轉禮」自助借書推廣活動。凡於活動期間內，持3張舊莊分館自助借書機收據，登入臺北市立圖書館「點閱成金-閱讀存摺」系統，以50點閱讀點數兌換「舊莊分館神秘轉轉禮」，即可選擇參加轉蛋抽好禮的遊戲，或是挑選好書1本帶回家。\u003c/p\u003e\n\u003cp\u003e「點閱成金─閱讀存摺」為臺北市立圖書館108年新推出之服務，讀者透過借書或參加活動完成任務即可獲得點數。民眾可至閱讀存摺系統內，查看自己擁有的閱讀點數、並依點數至北市圖各分館兌換豐富的獎品。北市圖期盼透過閱讀存摺提升全民閱讀風氣，並增進愛書人的閱讀樂趣。\u003c/p\u003e\n\u003cp\u003e「舊莊分館神秘轉轉禮」3月開放兌換，為期半年，活動提供多項精美獎品：造型印章、實用文具、可愛貼紙、書籤小卡以及豐富的好書等…。最終希望藉由活動，促進圖書館的資源使用，達到享受閱讀樂趣之目的，歡迎有興趣的民眾前往圖書館參加活動。更多活動資訊可至臺北市立圖書館網頁查看（https://tpml.gov.taipei/），或洽詢電話：02-27837212轉9。\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e更多新聞推薦\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e ● \u003ca href=\"https://www.taiwanhot.net/?p=684933\" target=\"_blank\" title=\"\u0026#x0053f0;\u0026#x0096fb;8/25\u0026#x0064ec;\u0026#x0065b0;\u0026#x0062db;700\u0026#x00540d;\u0026#x0054e1;\u0026#x005de5;\u0026#x003000;4/25\u0026#x00516c;\u0026#x00544a;\u0026#x007c21;\u0026#x007ae0;\"\u003e台電8/25擬新招700名員工　4/25公告簡章\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "「閱讀存摺神秘轉轉禮」　北市圖舊莊分館推自助借書",
+    "uuid": "097468d4-eca6-33cc-9687-98f6dda07f29"
+}

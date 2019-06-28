@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:40:23Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e法國外貿銀行指內地民企債務續升\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026lt;匯港通訊\u0026gt;   法國外貿銀行(Natixis)發表報告稱,去年是中國去槓桿的一年,但目前看來今年內地政策將有利經濟增長,意味著實體經濟的債務將會增加,特別是民營企業的債務將會再次上升,但該行不認為會構成危機。\u003cbr/\u003e\u003cbr/\u003e據該行計算,中國債務總額佔 GDP 比例,由2017年的246%上升至2018年的248%,增速較過去溫和,增長主要來自公共和家庭債務,企業則繼續去槓桿。企業債務佔 GDP 比例,由2017年的134%下降至去年的128%,主要因為民營企業剝離資產。至於家庭債務佔 GDP,則由2017年的49%升至去年的52%,上升主要來自按揭貸款及信用卡貸款。由於家庭收入及資產價值繼續上升,該行認為這方面的風險可控。 (BC)\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://hkstock.infocastfn.com/stock/hong-kong-stock-news-article/3198648"
+    },
+    "request_path": "requests",
+    "title": "法國外貿銀行指內地民企債務續升",
+    "uuid": "0897acd8-d1a4-3988-8bde-e29ac44feb4f"
+}

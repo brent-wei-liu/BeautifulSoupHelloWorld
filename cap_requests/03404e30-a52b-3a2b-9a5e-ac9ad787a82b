@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:58:51Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNBA／林書豪先發首秀只拿1分　暴龍延長賽慘遭逆轉\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e暴龍今(4)日在客場對戰活塞，由於本場比賽球星Kawhi Leonard輪休，因此林書豪也被安排以先發身份出賽，這是他來到多倫多之後首度先發。不過他此役手感冰冷，8投全部落空，三分線外5投也都沒進，最終只得到1分，暴龍在延長賽以107:112輸給活塞，本季兩次交手都輸球。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e林書豪今天一開賽就助攻給前鋒Pascal Siakam得分，但自己的手感卻十分冰冷，上半場6投盡墨，而暴龍也因為自己首節命中率不佳，而在兩節打完落後3分。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e易籃再戰後，暴龍靠著Kyle Lowry和Marc Gasol連續三分入網逆轉比數，三節打完取得78:73領先。但活塞決勝節在Luke Kennard和Glenn Robinson III聯手飆分下，打出9:0的高潮，再次要回領先。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e關鍵時刻，Lowry跳出來連拿5分，不過活塞這邊靠著Reggie Jackson漂亮的假傳真上以及拋投，在最後40秒取得兩分領先。暴龍的最後一波攻勢，OG Anunoby在籃下將球點進，兩隊得進入到延長賽來爭勝。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e死裡逃生的暴龍，在延長賽靠著兩次精彩的防守，以及Lowry個人獨拿7分，一度掌握了很好的優勢。但活塞靠著Jackson神奇的三分球，將比分追平，並且在Andre Drummond兩罰俱中下，反超取得領先，最後Lowry快攻上籃「放槍」，也把到手的勝利讓給對手。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e林書豪今天上場25分鐘，8投全部落空，只靠罰球拿到1分，傳出2次助攻、也發生1次失誤。儘管主控Lowry砍下了35分，另外還有7籃板和5助攻，但是仍無法幫助球隊贏球。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e活塞方面，「一哥」Blake Griffin全場21投9中，得到26分。中鋒Drummond得到15分、17籃板的「雙十」成績。而Jackson也貢獻了19分、4助攻。\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003ciframe width=\"100%\" height=\"auto\" src=\"https://www.youtube.com/embed/Vv92yuNzBSk\" frameborder=\"0\"\u003e\u003c/iframe\u003e\u003c/p\u003e\n                            \u003cdiv\u003e\n\t\t    \u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多 NOWnews 今日新聞報導\u003c/span\u003e\n\t\t    \t\t\t\u003cbr/\u003e\u003ca href=\"https://www.nownews.com/?p=3252701\u0026#38;utm_source=yahoo\u0026#38;utm_medium=rss\u0026#38;utm_campaign=20190304\"\u003e日職／火腿糟了！清宮受重傷　確定辭退日本隊\u003c/a\u003e\n\t\t    \t\t\t\u003cbr/\u003e\u003ca href=\"https://www.nownews.com/?p=3252654\u0026#38;utm_source=yahoo\u0026#38;utm_medium=rss\u0026#38;utm_campaign=20190304\"\u003eNBA／插腰也要被趕出場　老鷹超級新秀也無言\u003c/a\u003e\n\t\t    \t\t\t\u003cbr/\u003e\u003ca href=\"https://www.nownews.com/?p=3252652\u0026#38;utm_source=yahoo\u0026#38;utm_medium=rss\u0026#38;utm_campaign=20190304\"\u003eMLB／林子偉替補上場獲保送　快腿跑回1分\u003c/a\u003e\n\t\t    \t\t    \u003c/p\u003e\n                \u003c/div\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.nownews.com/?p=3252678"
+    },
+    "request_path": "requests",
+    "title": "NBA／林書豪先發首秀只拿1分　暴龍延長賽慘遭逆轉",
+    "uuid": "03404e30-a52b-3a2b-9a5e-ac9ad787a82b"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:59:09Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eDahlmeier führt DSV-Angebot für die WM an\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eMit Biathlon-Königin Laura Dahlmeier und Olympiasieger Arnd Peiffer an der Spitze geht der Deutsche Skiverband (DSV) bei der WM im schwedischen Östersund auf Medaillenjagd. Doch nach den \u0026quot;Festspielen\u0026quot; von Hochfilzen 2017 mit siebenmal Gold warnt der sportliche Leiter Björn Weisheit vor den Wettkämpfen vom 7. bis 17. März vor zu hohen Erwartungen an sein zwölfköpfiges Team.\u003c/p\u003e\u003cp\u003e\u0026quot;Wir können in Östersund selbstbewusst auftreten. Da Östersund an sich ein gutes Pflaster für uns ist, sollten wir an einem guten Tag sowohl bei den Damen als auch bei den Herren zu den Medaillenkandidaten gehören. Wir wollen diese Weltmeisterschaft jedoch bewusst nicht an der von Hochfilzen messen - wir wissen alle, dass die Erfolge von damals außergewöhnlich waren\u0026quot;, sagte Weisheit. In Hochfilzen war Dahlmeier mit fünf WM-Titeln der große Star.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003ch2\u003eDahlmeier peilt nächste Titel an \u003c/h2\u003e\u003cp\u003eDie 25-Jährige will trotz eines \u0026quot;schwierigen Jahres mit Höhen und Tiefen\u0026quot; auch in Östersund angreifen. Auch wenn sie wisse, \u0026quot;dass ich einfach nicht so belastungsverträglich wie sonst bin, fahre ich natürlich schon mit gewissen Zielen zur WM.\u0026quot; Man habe bei den wenigen Auftritten in dieser Saison \u0026quot;gesehen, dass ich durchaus um den Sieg oder ums Podium mitkämpfen kann\u0026quot;, sagte Dahlmeier, die in diesem Winter wiederholt mit gesundheitlichen Problemen zu kämpfen hatte.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003eDas DSV-Team erreichte in diesem Winter 13 Podestplatzierungen in den Einzelrennen. Neben Dahlmeier zählen besonders Peiffer und Sprint-Weltmeister Benedikt Doll zu den Medaillenkandidaten. Bei den Frauen haben aber auch Denise Herrmann, Franziska Preuß und Franziska Hildebrand Ambitionen.\u003c/p\u003e\u003ch2\u003eDas deutsche Aufgebot für Östersund:\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eFrauen:\u003c/strong\u003e Laura Dahlmeier (SC Partenkirchen), Denise Herrmann (WSC Erzgebirge Oberwiesenthal), Franziska Hildebrand (WSV Clausthal-Zellerfeld), Vanessa Hinz (SC Schliersee), Karolin Horchler (WSV Clausthal-Zellerfeld), Franziska Preuß (SC Haag)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMänner:\u003c/strong\u003e Benedikt Doll (SZ Breitnau), Johannes Kühn (WSV Reit im Winkl), Erik Lesser (SV Eintracht Frankenhain), Philipp Nawrath (SK Nesselwang), Arnd Peiffer (WSV Clausthal-Zellerfeld), Roman Rees (SV Schauinsland)\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.sport1.de/wintersport/biathlon/2019/03/biathlon-wm-deutsches-aufgebot-mit-dahlmeier-preuss-peiffer-lesser"
+    },
+    "request_path": "requests",
+    "title": "Dahlmeier führt DSV-Angebot für die WM an",
+    "uuid": "09ad74b5-fc2f-35bc-85cb-59c568a2fb45"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:22:10Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e燃煤未退場...台中電廠新增燃氣機組 環評補件再審\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/zh-Hant-TW/homerun/UDN.com/5be8c19ece0c34e34380da14d9c837a6'\u003e\u003c/p\u003e\u003cp\u003e台電公司為推動台中電廠能源轉型，擬新建兩部燃氣機組，但舊有的10部燃煤機組並非退役，而是只有4部機組陸續轉為備用。環保...\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://udn.com/news/story/7238/3677246"
+    },
+    "request_path": "requests",
+    "title": "燃煤未退場...台中電廠新增燃氣機組 環評補件再審",
+    "uuid": "0af1fc9a-3bb4-30fb-a1bb-a16d6e7e2032"
+}

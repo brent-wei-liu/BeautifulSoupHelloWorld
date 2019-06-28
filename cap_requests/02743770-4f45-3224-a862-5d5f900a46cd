@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T13:28:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e返國後神隱 韓國瑜自喻非鋼鐵俠也非林黛玉\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社記者程啟峰高雄3日電）高雄市長韓國瑜2月28日從新加坡返國後就相繼取消市府既定行程，今天透過官方LINE群組說明他沒有感冒，「雖不是鋼鐵俠，也不是林黛玉」，不會因密集工作就病倒。\u003c/p\u003e\n\u003cp\u003e韓國瑜在群組中寫道，謝謝好友的關心，請大家放心，他並沒有感冒；他說，自己雖不是鋼鐵俠（鋼鐵人），但也不是林黛玉，不會因為出國密集工作幾天就病倒，不過他說，星馬行程的確很緊湊，確實有補練一下龜息大法。\u003c/p\u003e\n\u003cp\u003e韓國瑜原訂出席2日的「台灣向陽盃明星公益棒球賽」活動，臨時改由副市長洪東煒出席，3日也擬出席「國際佛光會中華總會共修祈福法會」，後來也改由洪東煒代打，韓國瑜明天下午排訂出席在高市府舉行的兩岸小組會議。（編輯：陳清芳）1080303\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e相關新聞影音\u003c/strong\u003e\u003ciframe src=\"https://tw.news.yahoo.com/video/\u0026#x0053d6;\u0026#x006d88;\u0026#x00884c;\u0026#x007a0b;\u0026#x006f84;\u0026#x006e05;\u0026#x006c92;\u0026#x00611f;\u0026#x005192;-\u0026#x0097d3;\u0026#x00570b;\u0026#x00745c;-\u0026#x005728;\u0026#x005bb6;\u0026#x0088dc;\u0026#x007df4;\u0026#x009f9c;\u0026#x00606f;\u0026#x005927;\u0026#x006cd5;-135228821.html?format=embed\u0026amp;region=TW\u0026amp;lang=zh-Hant-TW\u0026amp;site=news\u0026amp;player_autoplay=false\" width=\"630\" height=\"354\" frameborder=\"0\" data-yom-embed-source=\"{media_id_1:1a92f065-1765-3428-95e4-9d949c1850f2}\"\u003e\u003c/iframe\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "返國後神隱 韓國瑜自喻非鋼鐵俠也非林黛玉",
+    "uuid": "02743770-4f45-3224-a862-5d5f900a46cd"
+}

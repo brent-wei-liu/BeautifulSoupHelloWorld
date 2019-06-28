@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:12:04Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e台股史上頭一遭 尚凡董事長將為PTT鄉民辦法說\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e（中央社記者江明晏台北4日電）交友網站業者尚凡， 近來股價節節高升，尚凡董事長張家銘出奇招，擬為 PTT鄉民辦法說會，今天也親自發文向鄉民調查意願， 獲網友熱烈迴響，有望成為台股史上頭一遭。      尚凡董事長今天凌晨在PTT股票版以chaming帳號發 文「有人想參加尚凡PTT股版第一次法說會嗎？」，打 算專門針對PTT股版鄉民辦法說會，並在PTT版上調查意 願，立刻獲得網友熱烈迴響。      他指出，因為這一年多來常常有尚凡新聞，推文常 說「出來辦法說會」，過去一年多還是兩年尚凡沒參加 ...\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30309516.html"
+    },
+    "request_path": "requests",
+    "title": "台股史上頭一遭 尚凡董事長將為PTT鄉民辦法說",
+    "uuid": "0ada771d-7658-37ba-83b5-ef0fc602f147"
+}

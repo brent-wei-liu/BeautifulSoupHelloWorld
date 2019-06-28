@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:18:11Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa Bolsa de Tokio sube un 0,95 % a la apertura, hasta 21.807,52 puntos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eTokio, 4 mar (EFE).- El índice Nikkei de la Bolsa de Tokio abrió hoy con un alza de 204,83 puntos o un 0,95 %, hasta situarse en 21.807,52 enteros.\nPor su parte, el segundo indicador, el Topix, que agrupa a los valores de la primera sección, avanzaba 12,51 puntos, un 0,77 %, hasta 1.628,33 unidades.\nUn hombre pasa delante de un panel con los datos de la Bolsa de Tokio, en Tokio, Japón. EFE/ Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "La Bolsa de Tokio sube un 0,95 % a la apertura, hasta 21.807,52 puntos",
+    "uuid": "0c675162-b394-333e-bd5a-ad090076f8f7"
+}

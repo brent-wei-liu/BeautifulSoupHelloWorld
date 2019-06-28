@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T19:40:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eLa oposición exige que se incapacite a Buteflika y se aplacen las elecciones\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eArgel, 4 mar (EFE).- Los principales partidos de la oposición argelina pidieron hoy la aplicación del artículo 102 de la Constitución que permite declarar incapacitado al presidente del país, Abdelaziz Buteflika, y el consiguiente aplazamiento de las presidenciales del 18 de abril.\nEn un comunicado conjunto, los líderes opositores rechazaron la carta atribuida ayer al enfermo mandatario, de 82 años y hospitalizado en Suiza, en la que prometía iniciar un proceso tras las elecciones para elegir un sucesor, y advirtieron de que la actual situación puede degenerar y \u0026quot;poner en peligro la estabilidad del país\u0026quot;.\n\u0026quot;Exigimos la aplicación del artículo 102 de la Constitución, que declara la vacante la presidencia debido al estado de salud del presidente y pospone las elecciones. Rechazamos un quinto mandato que podría causar otros dramas y peligros\u0026quot;, subrayaron.\nEn cuanto a la misiva atribuida al presidente, quien desde el pasado domingo se encuentra ingresado en un hospital suizo sin que se sepa cual es su verdadero estado de salud, consideraron que se trata de una treta de quienes rodean a Buteflika para tratar de ganar tiempo.\n\u0026quot;Es una maniobra para derrotar al movimiento popular y a sus objetivos, sus sacrificios y un intento de prolongar la vida de este sistema\u0026quot;, agregaron los firmantes, que instaron a continuar con las movilizaciones.\nLas protestas arrancaron el pasado 22 de febrero y desde entonces han ido creciendo de forma sostenida hasta desbordar el pasado viernes la capital, en la mayor manifestación que se recuerda en la última década.\nA pesar de ello, el domingo el ministro argelino de Transporte y jefe de la campaña de Buteflika, Abdelghani Zaalane, presentó en su nombre el acta de candidato ante el Tribunal Constitucional, que tiene diez días para examinar todas las candidaturas y validarlas.\nEn la presidencia desde el 27 de abril de 1999, el mandatario sufrió en 2013 un \u0026quot;derrame cerebral\u0026quot; que mermó sus facultades físicas y que ya le impidió hacer campaña en las presidenciales del año siguiente, pero no ganar los comicios.\nDesde entonces no habla en público, se mueve en una silla de ruedas empujada por su hermano Said y sus apariciones públicas son inusuales, reducidas a las imágenes grabadas por la cadena estatal con motivo del consejo de ministro o de visitas de altos dignatarios extranjeros.\nHace un lustro que no viaja al extranjero y en los dos últimos años ha cancelado en el último momento por \u0026quot;recaídas de salud\u0026quot; reuniones ya confirmadas con altos responsables como la canciller alemana, Angela Merkel, o el príncipe heredero de Arabia Saudí, Mohamad bin Salmán.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "La oposición exige que se incapacite a Buteflika y se aplacen las elecciones",
+    "uuid": "0b07f1aa-2b23-38fa-b475-64255d591148"
+}

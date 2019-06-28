@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T15:36:29Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVapaaottelutähti julkaisi korskean kuvan: Poseeraa yksityiskoneen edessä, vierellä oma poika – ”Kova työ toi meidät tänne”\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eVapaaottelutähti Conor McGregor antoi elämänohjeita pojalleen.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/muutlajit/art-2000006023385.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Vapaaottelutähti julkaisi korskean kuvan: Poseeraa yksityiskoneen edessä, vierellä oma poika – ”Kova työ toi meidät tänne”",
+    "uuid": "06790067-502e-3643-933a-4fe35308f61c"
+}

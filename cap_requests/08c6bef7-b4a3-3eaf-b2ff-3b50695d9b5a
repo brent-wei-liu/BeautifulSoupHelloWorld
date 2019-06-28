@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:23:03Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 355\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, babak baru telah dimulai. Aktris Jung Hye Sung bergabung dengan Jong Kook dan Kwang Soo. Para anggota dibagi menjadi tiga tim dan mereka diharuskan mencari tempat-tempat pertama di Jepang.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 355",
+    "uuid": "08c6bef7-b4a3-3eaf-b2ff-3b50695d9b5a"
+}

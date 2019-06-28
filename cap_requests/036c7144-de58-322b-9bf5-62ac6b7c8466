@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:09:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEl ranking de la ATP: Del Potro cae un puesto, Federer sube tres lugares y Pella ya está 34º\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg src=\"https://media.zenfs.com/es/lanacion.com.ar/37ecf8fbbbbe33d787f258661318bca8\"/\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"http://www.lanacion.com.ar/juan-martin-del-potro-t1178\" target=\"_blank\"\u003eJuan Martín del Potro\u003c/a\u003e se bajó del \u003ca href=\"http://www.lanacion.com.ar/masters-1000-de-indian-wells-t56049\" target=\"_blank\"\u003eMasters 1000 de Indian Wells\u003c/a\u003e , donde defendía el título, y regresó a la Argentina para someterse a un tratamiento de \u0026quot;terapia regenerativa\u0026quot; de la rodilla derecha, donde hace aproximadamente cuatro meses y medio sufrió la fractura de rótula. El tandilense, que también debía refrendar los puntos de Acapulco 2018, retrocedió del 4º al 5º puesto en el \u003ca href=\"http://www.lanacion.com.ar/ranking-de-la-atp-t49108\" target=\"_blank\"\u003eranking de la ATP,\u003c/a\u003e en tanto que \u003ca href=\"http://www.lanacion.com.ar/roger-federer-t517\" target=\"_blank\"\u003eRoger Federer\u003c/a\u003e escaló tres lugares y quedó 4º luego de la conquista en Dubai, la 100ª de su carrera.\u003c/p\u003e\u003cp\u003eAdemás, el bahiense \u003ca href=\"http://www.lanacion.com.ar/guido-pella-t49394\" target=\"_blank\"\u003eGuido Pella\u003c/a\u003e ganó 14 plazas y se sitúa 34º tras lograr su primer torneo el pasado domingo en el ATP 250 de San Paulo.\u003c/p\u003e\u003cp\u003eA pesar de la caída en el ATP 500 de Dubai frente a Federer, el griego \u003ca href=\"http://www.lanacion.com.ar/stefanos-tsitsipas-t65295\" target=\"_blank\"\u003eStefanos Tsitsipas,\u003c/a\u003e de 20 años, se metió en el selecto grupo de los mejores 10 jugadores, al desplazar del décimo puesto al croata Marin Cilic. Mientras, el serbio \u003ca href=\"http://www.lanacion.com.ar/novak-djokovic-t49428\" target=\"_blank\"\u003eNovak Djokovic\u003c/a\u003e continúa líder del ranking, seguido por el español \u003ca href=\"http://www.lanacion.com.ar/rafael-nadal-t783\" target=\"_blank\"\u003eRafael Nadal\u003c/a\u003e y el alemán \u003ca href=\"http://www.lanacion.com.ar/alexander-zverev-t54391\" target=\"_blank\"\u003eAlexander Zverev.\u003c/a\u003e\u003c/p\u003e\u003cp\u003eTambién, entre otras novedades, el australiano \u003ca href=\"http://www.lanacion.com.ar/nick-kyrgios-t52819\" target=\"_blank\"\u003eNick Kyrgios\u003c/a\u003e (33º) protagonizó el salto más importante entre los cien primeros del escalafón, trepando 39 posiciones, luego de conquistar el ATP 500 de Acapulco, México.\u003c/p\u003e\u003cp\u003eEl ranking ATP del 4 de marzo de 2019\u003c/p\u003e\u003cp\u003e1. (1) Novak Djokovic (SRB) 10.955 puntos.2. (2) Rafael Nadal (ESP) 8.365.3. (4) Alexander Zverev (ALE) 6.595.4. (7) Roger Federer (SUI) 4.600.5. (4) Juan Martín del Potro (ARG) 4.585.6. (5) Kevin Anderson (RSA) 4.295.7. (6) Kei Nishikori (JAP) 4.190.8. (8) Dominic Thiem (AUT) 3.800.9. (9) John Isner (USA) 3.40510. (11) Stefanos Tsitsipas (GRE) 3.175\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.lanacion.com.ar/2225404-el-ranking-atp-del-potro-cae-puesto"
+    },
+    "request_path": "requests",
+    "title": "El ranking de la ATP: Del Potro cae un puesto, Federer sube tres lugares y Pella ya está 34º",
+    "uuid": "036c7144-de58-322b-9bf5-62ac6b7c8466"
+}

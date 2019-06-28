@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:56:08Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《店頭市場》公勝保經6日登興櫃\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e【時報記者張漢綺台北報導】櫃檯買賣中心表示，3月4日到3月8日將有公勝保經 (6028) 上興櫃掛牌。\u003c/p\u003e\n\u003cp\u003e　由台新證券及新光證券推薦的公勝保經將於3月6日上興櫃掛牌。\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《店頭市場》公勝保經6日登興櫃",
+    "uuid": "0141bfd8-1c25-338d-aea9-aba376ba3498"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:52:41Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVeh vor Rücktritt? - FC-Manager prangert fehlendes Vertrauen an\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eBei Zweitliga-Tabellenführer 1. FC Köln droht der Abgang von Manager Armin Veh. \u0026quot;Es gibt für mich ein Problem innerhalb des Vereins. Das hat mit Vertrauen zu tun und ist wenig reparabel. Jetzt könnt ihr euch aussuchen, was ich damit meine\u0026quot;, sagte der 58-Jährige nach übereinstimmenden Medienberichten nach dem 2:1-Sieg am Sonntag beim FC Ingolstadt.\u003cbr\u003eOffensichtlich ist das Vertrauensverhältnis zu Klub-Präsident Werner Spinner (70) stark erschüttert. Dieser hatte angeblich die harsche Kritik von Veh an Trainer Markus Anfang nach dem 2:3 beim SC Paderborn kritisch aufgefasst und sich mehr Rückendeckung für den Coach gewünscht.\u003cbr\u003eSpinner befand sich am Sonntag noch im Ski-Urlaub und wird erst am Rosenmontag in Köln zurückerwartet. Laut Express wollte er sich nicht äußern und zunächst das Gespräch mit Veh suchen. Im Dezember 2017 hatte der einstige Bundesliga-Coach und Stuttgarter Meistertrainer Veh den Posten als Geschäftsführer Sport beim ersten Bundesliga-Champion angetreten; sein Vertrag mit den Rheinländern hat noch eine Laufzeit bis 30. Juni 2020.\u003cbr\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "#"
+    },
+    "request_path": "requests",
+    "title": "Veh vor Rücktritt? - FC-Manager prangert fehlendes Vertrauen an",
+    "uuid": "0a0a31e5-cd45-3a7c-9cc6-895faab8c74b"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:35:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e\u0026quot;Mamadou\u0026quot;, \u0026quot;tête de nègre\u0026quot;, \u0026quot;Bamboula\u0026quot; : ces gâteaux français accusés de véhiculer le racisme anti-noirs\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eLe dernier en date ? Un gâteau nommé “Mamadou\u0026quot;, vendu dans une pâtisserie près de Lyon mi-février. Depuis plusieurs années, des voix comme celle du Conseil représentatif des associations noires [le Cran] s’élèvent contre certains desserts français, accusés de caricaturer les traits physiques des personnes noires.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAvec le président du Cran, Ghyslain Vedeux, nous revenons dans notre émission sur les dernières polémiques en date. Il rappelle que la mode ou les traditions populaires peuvent également moquer la figure de l’homme africain, et demande des sanctions contre toutes ces formes de \u0026quot;déshumanisation\u0026quot;.\u003cbr/\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://observers.france24.com/fr/content/20190304-mamadou-tete-negre-bamboula-ces-gateaux-francais-accuses-vehiculer-racisme-anti-noi"
+    },
+    "request_path": "requests",
+    "title": "\u0026quot;Mamadou\u0026quot;, \u0026quot;tête de nègre\u0026quot;, \u0026quot;Bamboula\u0026quot; : ces gâteaux français accusés de véhiculer le racisme anti-noirs",
+    "uuid": "04b22374-3441-312f-bb75-c0c7e0e0bd32"
+}

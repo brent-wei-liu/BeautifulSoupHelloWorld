@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:12:32Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEgipto deja libre a conocido fotoperiodista tras 5 años\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eEL CAIRO (AP) — Un destacado fotoperiodista egipcio quedó libre tras cinco años en prisión, dijeron el lunes su familia y abogado.\u003c/p\u003e\u003cp\u003eMahmoud Abu Zaid, un fotoperiodista conocido como \u0026quot;Shawkan\u0026quot;, fue condenado por participar en una sentada de protesta de islamistas en 2013 que fue disuelta por las fuerzas de seguridad y dejó cientos de muertos.\u003c/p\u003e\u003cp\u003eSu abogado, Taher Abuel-Naser, dijo que fue liberado de una comisaría de policía en el vecindario de Giza, en El Cairo, el lunes en la mañana. Su familia confirmó la noticia.\u003c/p\u003e\u003cp\u003eDurante el mandato del general convertido en presidente Abdul Fatá el Sisi, Egipto ha lanzado una ofensiva sin precedentes contra periodistas, encarcelado a docenas y expulsando a algunos extranjeros.\u003c/p\u003e\u003cp\u003eUn tribunal ordenó la liberación de Shawkan en septiembre, tras cumplir cinco años, pero siguió retenido mientras las autoridades decían que su liberación estaba siendo tramitada.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Egipto deja libre a conocido fotoperiodista tras 5 años",
+    "uuid": "04067af1-af1e-3452-94b4-e9fd12b9a0f7"
+}

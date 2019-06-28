@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T02:10:26Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e海外資金匯回專法　優惠稅率有望再降？　財長這麼說\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e▲財政部長蘇建榮。（圖／NOWnews資料照）                                                 針對海外資金匯回專法有關優惠稅率部分，傳原先訂定第一年課稅8%、第二年10%，但仍有立委、台商向政院遊說，希望可降為4%至5%，對此，財政部長蘇建榮今（4）日表示，將在行政院指示的3大原則下進行跨部會協商，這3原則包括不可違反洗錢防制、對國內實質投資及就業有助益及不能引發國內廠商不公平待遇。\u003cbr /\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.sina.com.tw/article/20190304/30306432.html"
+    },
+    "request_path": "requests",
+    "title": "海外資金匯回專法　優惠稅率有望再降？　財長這麼說",
+    "uuid": "0e6bfc22-ff5e-3b08-8e5f-e09449e82077"
+}

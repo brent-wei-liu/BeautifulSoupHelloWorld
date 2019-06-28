@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:22:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eУмер звезда сериала «Беверли-Хиллз, 90210» Люк Перри\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eЛюку Перри, известному по роли Дилана Маккея в «Беверли-Хиллз, 90210», было 52 года. За несколько дней до смерти он перенес обширный инсульт\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.rbc.ru/society/04/03/2019/5c7d6c3b9a79479b74307ee5"
+    },
+    "request_path": "requests",
+    "title": "Умер звезда сериала «Беверли-Хиллз, 90210» Люк Перри",
+    "uuid": "08d40ecb-5b8c-3a5a-9cac-13a16202e0b1"
+}

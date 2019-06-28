@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:00:50Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e4Freaks 4Fam - Episode 5\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Kini Lingzhi diterima di rumah ini. Akan tetapi, tidak ada kamar kosong yang tersedia, dan ketiga bersaudara itu tidak mengizinkan dia menggunakan kamar mereka. Karena bingung, Truffle mengajukan cara yang disetujui semua orang. Mereka menggunakan cara ini untuk menemukan orang dengan kekuasaan paling besar untuk menyelesaikan masalah ini. Dengan bergabungnya Lingzhi, empat arah perang kekuasaan dimulai.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25881665\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "4Freaks 4Fam - Episode 5",
+    "uuid": "058776d6-a788-3000-be84-7f781f3b99bf"
+}

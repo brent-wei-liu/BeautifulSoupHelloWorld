@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:30:12Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHun satte Frankrike i brann og ble de gule vestenes helt. Nå har de gjort henne til et hatobjekt.\u003c/title\u003e\u003c/head\u003e\u003cbody\u003ePARIS (Aftenposten): Protestene i Frankrike har satt fyr på Europa. Problemene er nasjonale, men fem trender forener.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.aftenposten.no/verden/i/wEq6PP/Hun-satte-Frankrike-i-brann-og-ble-de-gule-vestenes-helt-Na-har-de-gjort-henne-til-et-hatobjekt#xtor=RSS-3"
+    },
+    "request_path": "requests",
+    "title": "Hun satte Frankrike i brann og ble de gule vestenes helt. Nå har de gjort henne til et hatobjekt.",
+    "uuid": "0123f827-9733-3125-bc5b-7055acf244b8"
+}

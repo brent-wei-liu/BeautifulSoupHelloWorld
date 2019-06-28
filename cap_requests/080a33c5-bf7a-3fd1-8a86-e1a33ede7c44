@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:34:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e劉炳章稱韓正會上提過港獨　主要重申國家安全立場\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e主管港澳事務的國務院副總理韓正出席港澳政協聯組會議，政協委員劉炳章在會後說，會上主要是討論粵港澳大灣區規劃。\n\n他說韓正在會上有提過港獨，但無詳細講，主要重申大家要維護國家安全、國家利益、領土完整。劉炳章認為這是國家一向政策，並非新鮮事物。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "劉炳章稱韓正會上提過港獨　主要重申國家安全立場",
+    "uuid": "080a33c5-bf7a-3fd1-8a86-e1a33ede7c44"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:08:28Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTécnico do Borussia Dortmund avisa: \u0026apos;Trabalho é 90%, talento apenas 10%\u0026apos;\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cbr\u003e\u003cp\u003eO Borussia Dortmund ainda é o líder do Campeonato Alemão. A derrota para o Augsburg, na última rodada da competição, porém, permitiu que o Bayern de Munique igualasse a pontuação. Em coletiva, o treinador da equipe Lucien Favre falou sobre o momento da equipe e também sobre um de seus principais jogadores, o jovem Jadon Sancho.\u003cbr\u003e\u003cbr\u003e- Ele é um grande jogador, muito talentoso. Tem 18 anos e, às vezes, tem altos e baixos. Ele tem muito a aprender, tem muito potencial. Mas não existe talento sem trabalho duro. O trabalho é 90%, enquanto talento é apenas 10% - disse o treinador\u003cbr\u003e\u003cbr\u003eO Dortmund vive fase ruim na temporada. Após a derrota para o Augsburg, por 2 a 1, o ex-jogador e ídolo do clube Matthias Sammer disse que a equipe é \u0026quot;imatura\u0026quot;. Favre comentou a declaração do alemão.\u003cbr\u003e\u003cbr\u003e- Eu converso com Sammer e nós nos entendemos. Mas ele foi jornalista nesta situação e nós vivemos uma democracia, todo mundo pode dar sua opinião. Na televisão, tem o direito de dizer o que quiser. Não é um problema - finalizou\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.lance.com.br/futebol-internacional/tecnico-borussia-dortmund-avisa-trabalho-talento-apenas.html"
+    },
+    "request_path": "requests",
+    "title": "Técnico do Borussia Dortmund avisa: \u0026apos;Trabalho é 90%, talento apenas 10%\u0026apos;",
+    "uuid": "004b7ce0-4966-3dfc-b454-067128b8cc61"
+}

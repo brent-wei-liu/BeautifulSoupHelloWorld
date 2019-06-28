@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:51:53Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePolicías que mataron a joven negro en California se salvan de la justicia\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eLos policías que mataron a tiros hace un año a un joven negro en California al confundir su celular con un arma de fuego no serán imputados por la justicia local, pero su familia apelará este lunes al fiscal del estado.\nLa fiscal del condado de Sacramento, Anne Marie Schubert, dijo el sábado que los dos oficiales que dispararon contra Stephon Clark en marzo de 2018 \u0026quot;tuvieron una honesta y razonable creencia de que estaban en peligro inminente de muerte o lesión\u0026quot; por lo que su reacción fue \u0026quot;legal\u0026quot;.\nActivistas y familiares entregarán una carta este lunes al fiscal del estado de California, Xavier Becerra, para que impute a los dos oficiales.\nClark, de 22 años y padre de dos niños, recibió 20 disparos en el patio trasero de su casa el 18 de marzo de 2018.\nLa policía respondía a una llamada a los servicios de emergencia 911 sobre un hombre que había roto ventanillas de vehículos en la zona y consideró a Clark como el principal sospechoso.\nEn videos grabados desde un helicóptero y a través de cámaras en los uniformes de los policías, se muestra al joven corriendo y buscando refugio en la casa de sus abuelos, donde residía.\nLos oficiales gritan: \u0026quot;¡Muestre sus manos!\u0026quot;, e inmediatamente siguen: \u0026quot;¡Arma, arma, arma!\u0026quot;. Ahí dispararon 20 veces. Al revisar el cuerpo, los agentes solo encontraron un celular iPhone.\nEl caso generó grandes protestas en Sacramento, que bloquearon avenidas, y al funeral acudieron unas 500 personas.\n\u0026quot;La muerte de Stephon Clark fue una tragedia que tuvo un impacto devastador en su familia y en nuestra comunidad\u0026quot;, dijo Schubert en su reporte. \u0026quot;Un joven perdió la vida\u0026quot; y \u0026quot;ninguna decisión o informe restaurará la vida de Stephon Clark\u0026quot;.\n\u0026quot;El hecho de que los cargos criminales no sean apropiados bajo la ley en este caso de ninguna manera disminuye las frustraciones y el enojo que muchos en nuestra comunidad han expresado desde su muerte. Los que han levantado la voz merecen ser escuchados\u0026quot;.\nPequeñas manifestaciones se registraron el fin de semana frente al departamento de policía y de un centro comercial, que cerró sus puertas por precaución.\nEl equipo de básquet de la capital californiana, los Kings de Sacramento, dijo que esperaba nuevas protestas durante el juego del lunes por la noche.\nLos alrededores del estadio fueron cerrados y solo se permitirá el paso de personas con entradas.\n\u0026quot;Sin justicia, no hay paz. Paren de proteger a cerdos\u0026quot;, \u0026quot;#YoSoyStephonClark\u0026quot;, \u0026quot;Imputen a los oficiales\u0026quot;, se leía en las pancartas del fin de semana.\nLos negros representan la inmensa mayoría de los civiles ultimados por oficiales de las fuerzas del orden, que muchas veces no son imputados por la justicia.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Policías que mataron a joven negro en California se salvan de la justicia",
+    "uuid": "065927f1-d5f7-3fd1-9f36-32e2d7a64b1b"
+}

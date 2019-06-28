@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:10:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHalustik - Episode 13\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSetelah memenuhi kebutuhan Princess dan membereskan masalah keuangannya, Kanti diperbolehkan kembali ke Villa. Ia tidak menyangka bahwa ibunya Niki yang penuh amarah sudah berada di villa dan akan menggagalkan praktek konseling Kanti. Niko, bekas tungangan Niki pun mendatangi villa, sehingga merek berdua terpojok. Niki dipaksa menjadwal ulang pesta akbar pernikahannya dengan Niko, sementara Kanti berpikir untuk kembali tinggal dengan Bapaknya karena ia sadar, uang dan kesuksesan bukanlah segalanya. Namun, Kanti tidak menyangka bahwa Indra sebenarnya masih menantikannya.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-25743743\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Halustik - Episode 13",
+    "uuid": "051c0f52-4b52-3c41-bdfb-02a8c4a441a3"
+}

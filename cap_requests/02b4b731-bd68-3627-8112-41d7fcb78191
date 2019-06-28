@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:40:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBobic bleibt im Jovic-Poker gelassen\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eSportvorstand Fredi Bobic von Eintracht Frankfurt lässt sich im Poker um Bundesliga-Toptorjäger Luka Jovic (21) nicht aus der Reserve locken. \u0026quot;Er hat sich entwickelt. Er macht das toll. Er macht viele Tore\u0026quot;, sagte der Ex-Nationalspieler bei \u003cem\u003eSky90\u003c/em\u003e.\u003c/p\u003e\u003cp\u003eBobic weiter: \u0026quot;Wo ist die Schmerzgrenze? Was weiß ich denn? Das werden wir sehen. Aber weder im Februar noch jetzt im März. Weil auch die großen Vereine müssen erstmal schauen: Werden sie Meister? Spielen sie Champions League? Die kaufen viel, viel später ein, wenn sie große Transfers machen.\u0026quot; Der 15-mal in der laufenden Saison in der Bundesliga erfolgreiche Serbe ist bei einigen internationalen Top-Klubs im Visier.\u003c/p\u003e\u003cp\u003eDer Eintracht-Stürmer ist noch bis Ende der Saison von Benfica Lissabon ausgeliehen. Bobic bestätigte nun die Höhe der Kaufoption. \u0026quot;Es ist weniger als sieben Millionen Euro. Das ist ein guter Deal gewesen.\u0026quot; Jovic hat aktuell einen Marktwert von 40 Millionen Euro. \u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003ch2\u003eKeinen Kontakt zum FC Bayern\u003c/h2\u003e\u003cp\u003eBobic betonte, dass er mit den Beratern von Jovic \u0026quot;im sehr guten Austausch\u0026quot; stehe. \u0026quot;Ich mache mir da gar keine Sorgen. Erstmal schauen wir, dass wir vielleicht etwas erreichen können diese Saison. Das ist das Wichtigste\u0026quot;, äußerte der einstige England-Legionär.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eJetzt das Trikot von Eintracht Frankurt kaufen - hier geht es zum Shop! \u003c/em\u003e| ANZEIGE\u003c/strong\u003e \u003c/p\u003e\u003cp\u003eAuf die Frage, ob auch Rekordmeister Bayern München bei Jovic angeklopft habe, sagte Bobic: \u0026quot;Das weiß ich ja nicht. Das kann ich nicht sagen. (...) Ich kann ja nicht wissen, was hinter meinem Rücken passiert. Ich kann nur sagen: Das ist offiziell und da gibt es keinen Kontakt (zwischen Bayern und Frankfurt, Anm. d. Red.).\u0026quot;\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.sport1.de/transfermarkt/2019/03/eintracht-frankfurt-fredi-bobic-nennt-preis-fuer-luka-jovic"
+    },
+    "request_path": "requests",
+    "title": "Bobic bleibt im Jovic-Poker gelassen",
+    "uuid": "02b4b731-bd68-3627-8112-41d7fcb78191"
+}

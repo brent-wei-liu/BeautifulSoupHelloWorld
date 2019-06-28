@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T19:29:56Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eNantes-Châteaubriant: Pourquoi la ligne de tram-train déçoit\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cstrong\u003eTRANSPORTS - La ligne ferroviaire, mise en service il y a 5 ans, est critiquée pour sa fiabilité et son confort\u003c/strong\u003e\nLa réouverture de la ligne Nantes-Châteaubriant, le 28 février 2014, avait été \u003ca href=\"https://www.20minutes.fr/nantes/1313854-20140304-ete-decus-voyage-tram-train\" rel=\"nofollow\"\u003edignement célebrée\u003c/a\u003e par les autorités. Le recours à un tram-train plutôt qu’à un classique TER avait également été salué comme une innovation pleine de promesses. Cinq ans plus tard, le bilan n’a pourtant rien de fantastique. Certes, la ligne de 64 km a permis à bon nombre d’habitants d’abandonner la voiture pour aller travailler à Nantes. Elle a aussi favorisé le développement urbain de plusieurs communes au nord de la Loire-Atlantique (Nort-sur-Erdre, Sucé, Abbaretz, Issé…). Mais les motifs de déception ne manquent pas.\n\nFréquentation loin des objectifs\n\nA commencer par la fréquentation. En 2015, 613.000 voyages ont été comptabilisés par la région des Pays-de-la-Loire. En 2016, 664.000. En 2017, 721.000, soit à peu près autant qu’en 2018. Loin, très loin de l’objectif initial d’au moins 2 millions de voyages annuels. « Oui, il y a un écart. Le début a été compliqué, les objectifs initiaux étaient peut-être trop optimistes », reconnaît \u003ca href=\"http://www.paysdelaloire.fr/conseil-regional/les-elus/les-elus/?tx_pdlcontacts_pi1%5Buid%5D=2308\u0026tx_pdlcontacts_pi1%5BbackPid%5D=182\" target=\"_blank\" rel=\"nofollow\"\u003eRoch Brancour\u003c/a\u003e, actuel vice-président LR du conseil régional [la majorité au conseil a changé fin 2015].\n\n« On n’a jamais vraiment compris les chiffres qui avaient été annoncés à l’époque », confirme Dominique Romann, secrétaire de la \u003ca href=\"http://www.fnaut-paysdelaloire.org/\" target=\"_blank\" rel=\"nofollow\"\u003eFédération nationale des associations d\u0026#39;usagers des transports (Fnaut)\u003c/a\u003e en Pays-de-la-Loire. Tous deux préfèrent retenir la « progression constante » de la fréquentation, seulement freinée par les grèves à la SNCF de 2018.\n\n\n        (...) \u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/nantes/2463851-20190304-nantes-chateaubriant-pourquoi-ligne-tram-train-decoit?xtor=RSS-176\"\u003eLire la suite sur 20minutes\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003eÀ lire aussi :\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/nantes/2449191-20190213-nantes-neustrie-vertou-zenith-ca-bouge-parkings-relais\"\u003eNantes : A Neustrie, Vertou, au Zénith… Ça bouge dans les parkings-relais\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/nantes/2412767-20190110-video-nantes-surprise-voix-annonce-stations-tram-change\"\u003eVIDEO. Nantes: Surprise! La voix qui annonce les stations de tram a changé\u003c/a\u003e\u003cbr/\u003e\u003ca href=\"https://www.20minutes.fr/nantes/2373871-20181116-nantes-apres-plusieurs-drames-sncf-alerte-dangers-intrusions\"\u003eNantes: Après plusieurs drames, la SNCF alerte sur les dangers des intrusions\u003c/a\u003e\u003cbr/\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.20minutes.fr/nantes/2463851-20190304-nantes-chateaubriant-pourquoi-ligne-tram-train-decoit?xtor=RSS-176"
+    },
+    "request_path": "requests",
+    "title": "Nantes-Châteaubriant: Pourquoi la ligne de tram-train déçoit",
+    "uuid": "0cd17f60-e4d3-3e9f-87a9-eeb78385da1f"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:20:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e花样年控股(01777)2月销售额同比下滑7.2%至13.03亿元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/4958d83907f9f53a2620e0a22fe14aad\" border=\"0\" alt=\"K\u0026#x0056fe; 01777_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e花样年控股(01777)发布公告，2019年2月，集团的销售额为约人民币13.03亿元，同比下滑7.2%。相应已售建筑面积为11.8万平方米。平均售价为每平方米约人民币1.1万元。\u003cbr /\u003e\u003c/p\u003e \u003cp\u003e2019年前2个月，集团已累积的销售额为人民币30.1亿元。相应已售建筑面积为28.19万平方米。平均售价为每平方米约人民币1.06万元。\u003c/p\u003e\u003cp\u003e（文章来源：智通财经）\u003c/p\u003e... [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000417.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400000417.shtml"
+    },
+    "request_path": "requests",
+    "title": "花样年控股(01777)2月销售额同比下滑7.2%至13.03亿元",
+    "uuid": "0df0a0cc-6bd5-337a-b123-34ebb3983d12"
+}

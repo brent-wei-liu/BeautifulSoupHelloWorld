@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:33:32Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVIDEO: David Beckham Diabadikan LA Galaxy dalam Wujud Patung\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e- David Beckham diabadikan oleh LA Galaxy dalam wujud sebuah patung dan diletakkan di depan markas LA Galaxy di Amerika Serikat. Momen ini pun dihadiri langsung oleh sang legenda pada hari Minggu (3/32019). Dalam acara tersebut Beckham ditemani oleh istrinya dan beberapa selebritas serta atlet dunia. \u003c/p\u003e\n\u003cp\u003eBeckham dianggap memberikan jasa untuk MLS (Major League Soccer). Hadirnya Beckham di skuad LA Galaxy pada tahun 2007-2012 membuat MLS menjadi populer di seluruh dunia. Menanggapi penghargaan tersebut, David Beckham mengucapkan terima kasihnya kepada LA Galaxy dan MLS serta menganggap bahwa mimpinya selama ini menjadi kenyataan.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.bola.com/dunia/read/3908656/video-david-beckham-diabadikan-la-galaxy-dalam-wujud-patung?utm_source=BD\u0026utm_medium=Partnership\u0026utm_campaign=yahoo"
+    },
+    "request_path": "requests",
+    "title": "VIDEO: David Beckham Diabadikan LA Galaxy dalam Wujud Patung",
+    "uuid": "04106a81-e565-3a8e-8cb0-ed2e99a700f0"
+}

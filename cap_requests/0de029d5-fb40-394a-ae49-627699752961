@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:50:06Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e熱門股－美律 Q1是今年營運谷底\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e工商時報【吳筱雯】\n美律（2439）在228連假前舉行法說會，美律認為首季是今年谷底，但兩大主力產品線娛樂耳機、揚聲器都有機會年增8成，兩大合資廠中，惠州廠可望持續獲利，美特則挑戰損益兩平。法人則估計美律第一季營收有機會上看75億元，比去年同期大增72％，而隨著營運達到規模經濟，第一季也能擺脫去年同期虧損的陰影。\n在第一季營運可望從去年同期的虧損、轉為獲利下，美律昨開高走高，終場攻上180.5元漲停板，創1年來新高，成交量爆增至2.3萬張之上，若能量縮續漲代表短線換手成功，有利後市。\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "熱門股－美律 Q1是今年營運谷底",
+    "uuid": "0de029d5-fb40-394a-ae49-627699752961"
+}

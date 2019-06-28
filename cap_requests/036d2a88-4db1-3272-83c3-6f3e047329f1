@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:45:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVenezuelas Oppositionschef Guaidó in Caracas gelandet\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cb\u003eVenezuelas selbsternannter Übergangspräsident Juan Guaidó ist am Montag in seine Heimat zurückgekehrt. Der Oppositionschef landete auf dem Flughafen der Hauptstadt Caracas, wie im Fernsehen zu sehen war. \u0026quot;Wir werden auf den Straßen weitermachen, die Mobilisierung dauert an\u0026quot;, rief er bei seiner Ankunft. Staatschef Nicolás Maduro hat mit seiner Festnahme gedroht, da Guaidó trotz eines Ausreiseverbotes Ende Februar das Land verlassen hatte.\u003c/b\u003e\u003c/p\u003e\n\u003cp\u003eNeben einer Gruppe von Anhängern des 35-Jährigen waren auch die Botschafter mehrerer EU-Länder, auch Deutschlands, am Flughafen zur Begrüßung Guaidós versammelt. Rund 50 Staaten haben den selbsternannten Übergangspräsidenten anerkannt. Die EU-Außenbeauftragte Federica Mogherini hatte die venezolanische Regierung davor gewarnt, Guaidó bei seiner Rückkehr festzunehmen. Er hat für Montag zu neuen Massenprotesten gegen Maduro aufgerufen.\u003c/p\u003e\n\u003cp\u003eGuaidó will Maduro aus dem Amt drängen und Neuwahlen organisieren. Am 23. Februar war der Oppositionsführer trotz eines Ausreiseverbots ins benachbarte Kolumbien gereist. Zudem besuchte er in den folgenden Tagen Brasilien, Paraguay, Argentinien und Ecuador. Maduro hat angekündigt, dass sich Guaidó wegen der unerlaubten Ausreise in Venezuela vor Gericht verantworten muss.\u003c/p\u003e\n\u003cp\u003eDie venezolanischen Behörden ermitteln gegen den Oppositionspolitiker und Parlamentspräsidenten, weil er sich am 23. Januar zum Interimsstaatschef erklärt und zu Maduros Sturz aufgerufen hatte. Die Behörden hatten Guaidó wegen der gegen ihn laufenden Ermittlungen die Ausreise aus Venezuela untersagt.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Venezuelas Oppositionschef Guaidó in Caracas gelandet",
+    "uuid": "036d2a88-4db1-3272-83c3-6f3e047329f1"
+}

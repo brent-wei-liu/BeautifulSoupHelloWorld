@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:35:20Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eWintersport: Millionen sahen Seefeld-Titelkämpfe im ORF\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eFür den ORF war die am Sonntag zu Ende gegangene Nordische Ski-WM in Seefeld ein großer Erfolg\u003c/p\u003e\u003cp\u003eInsgesamt 3,761 Millionen Österreicherinnen und Österreicher (weitester Seherkreis) bzw. 37 Prozent der heimischen TV-Bevölkerung ab zwölf Jahren haben ORF-Übertragungen gesehen, hieß es in einer Aussendung am Montag.\u003c/p\u003e\u003cp\u003eDen Topwert erreichten dabei die Kombinierer: 719.000 Wintersportfans bei 44 Prozent Marktanteil verfolgten am 24. Februar die Entscheidung im Teamsprint-Bewerb. Platz zwei belegte in diesem Ranking das am selben Tag ausgetragene Teamskispringen der Männer mit 718.000 Sehern bei 39 Prozent Marktanteil.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.spox.com/at/sport/mehrsport/wintersport/1903/Artikel/nordische-wm-2-8-millionen-sahen-seefeld-titelkaempfe-im-orf.html"
+    },
+    "request_path": "requests",
+    "title": "Wintersport: Millionen sahen Seefeld-Titelkämpfe im ORF",
+    "uuid": "0c1fa2f3-6ec6-3cc7-9b90-d12166c93cf4"
+}

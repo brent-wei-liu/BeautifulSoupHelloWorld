@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T13:56:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e金利通(08256)发布香港在线薪资指数 继续停牌\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026#160;\u0026#160;\u0026#160;\u0026#160;\u003cp style=\"text-align:center;\"\u003e\u003cimg src=\"http://media.zenfs.com/en-US/homerun/stockstar.com/bb16441030e314eddc1ef4507694a2cc\" border=\"0\" alt=\"K\u0026#x0056fe; 08256_21\" style=\"border:#d1d1d1 1px solid;\" width=\"578\" height=\"276\"/\u003e\u003c/p\u003e\u003cp\u003e金利通(08256)公告，集团一间附属公司金饭碗招聘网页有限公司已于2018年2月6日取得中国人力资源和社会保障部人力资源服务许可证。于2018年11月21日，公司宣布其中国在线薪资指数于中国发布。中国在线薪资指数利用集团大数据系统建立，并包含中国多个工作职位现行薪资水平有关数据，在线通过进一步地域分布组织而来。此后，每日均有数以千计的访客查看相关网页。\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e由于中国在线薪资指数成功，董事会宣布，集团今日于香港发布其香港在线薪资指数。香港在线薪资指数采用与中国在线薪资指数相同技术算法搭建。为确保功能可以最大化，集团已推出一款移动App，让兼职求职者可以使用定位技术寻找邻近地区的工作。\u003c/p\u003e\u003cp\u003e此外，集团正启动其菲律宾及新加坡的在线薪资指数。待成功发布后，金饭碗将成为一个覆盖亚太地区四个重要国家的大数据系统。这将进一步提高并加强集团于跨境招聘领域竞争力及集团业务组合，从而自集团业务获得更多溢利及为公司股东带来更多回报。与此同时，公司正就多个方面与有关政...\u003c/p\u003e [\u003ca href=\"redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001217.shtml\" target=\"_blank\"\u003e阅读全文\u003c/a\u003e]\u003c/body\u003e\u003c/html\u003e",
+        "url": "redirect.aspx?url=http%3A%2F%2Fhk.stockstar.com%2FIG2019030400001217.shtml"
+    },
+    "request_path": "requests",
+    "title": "金利通(08256)发布香港在线薪资指数 继续停牌",
+    "uuid": "01b5fe72-3d84-3893-8afd-033e816663b9"
+}

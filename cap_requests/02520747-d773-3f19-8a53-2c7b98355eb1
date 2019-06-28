@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:21:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 420\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan lalu, Jae Seok dan Seok Jin menerima Tiket Hukuman Kosong yang artinya mereka akan pergi melakukan perjalanan hukuman dan harus sukses menjalankan misi untuk bisa kembali. Sementara itu, mereka yang menang lomba pekan lalu diberikan kesempatan bepergian. Kejutan macam apa yang menanti para anggota pekan ini?\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 420",
+    "uuid": "02520747-d773-3f19-8a53-2c7b98355eb1"
+}

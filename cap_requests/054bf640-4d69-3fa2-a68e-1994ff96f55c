@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:22:19Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e沈榮津：國際油價便宜10元 無調漲電價的壓力\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/zh-Hant-TW/homerun/UDN.com/4036099b1691aff3b2eb02e44b72a88b'\u003e\u003c/p\u003e\u003cp\u003e經濟部長沈榮津上午在立法院經濟委員會備詢時，就新能源政策恐引發電價調漲一事表示，燃料成本是影響電價的主要因素，去年的油價...\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://udn.com/news/story/7238/3676093"
+    },
+    "request_path": "requests",
+    "title": "沈榮津：國際油價便宜10元 無調漲電價的壓力",
+    "uuid": "054bf640-4d69-3fa2-a68e-1994ff96f55c"
+}

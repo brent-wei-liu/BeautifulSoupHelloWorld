@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:12:05Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e宛如災難電影場景　十數個龍捲風襲美23死\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e美國東南部接連遭到10幾個龍捲風侵襲，出現宛如災難電影場面。許多住家被夷為平地，超過上萬戶斷電，死亡人數高達23人。另外美東又迎來一場冬季風暴。\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n\u003cimg width='100%' height='100%' align='middle' alt=\"\u0026#x005716;\u0026#x00ff0f;\u0026#x009054;\u0026#x005fd7;\u0026#x005f71;\u0026#x0050cf;\u0026#x007f8e;\u0026#x00806f;\u0026#x00793e;\" id=\"preview_img\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/news_tvbs_com_tw_938/3f9dd92f6ac4ab30232cbe5096856202\"/\u003e\u003c/p\u003e\u003cp\u003e\n警報聲響起，遠邊雲層聚成一團，龍捲風隱約成型。\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n民眾：「龍捲風上面有很多雲，不過漏斗的形狀不明顯。」\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n受到暴風系統影響，美國東南部遭遇了10多個龍捲風襲擊，其中阿拉巴馬州李郡，更直接受到侵襲。由於龍捲風行徑路線寬度大約400公尺，風速每小時高達264公里，因此破壞威力比一般龍捲風還要大。\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n氣象主播：「這不是傳統那種龍捲風，它的底部接觸面非常寬，所以破壞範圍也特別廣泛。」\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n這波風災已經傳出死傷，還有大約1萬戶沒電可用，不少住家被夷為平地，路邊樹木也被吹得東倒西歪，還有基地台倒在路中央。\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n倖存居民：「當我從那個角落過來，要離開38號道那邊時，這裡一整個區域，幾乎可以說被夷平了。」\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n另外在東北部地區，受到冬季風暴影響，預計將帶來大雪，部分市鎮已經先宣布進入緊急狀態，紐約市政府也準備好灑鹽車，就怕積雪影響道路交通。\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多 TVBS 報導\u003c/span\u003e\u003cbr/\u003e\u003ca href='https://news.tvbs.com.tw/world/1092700?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092744'\u003e香港電車當背景！　陸新人夯跨境街景婚攝 \u003c/a\u003e\u003cbr/\u003e  \n\u003ca href='https://news.tvbs.com.tw/world/1092655?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092744'\u003e日本三明治新吃法！　方塊蔬菜吐司狙擊女心\u003c/a\u003e\u003cbr/\u003e  \n\u003ca href='https://news.tvbs.com.tw/world/1092708?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092744'\u003e他幫大象洗澡滑一跤　被一屁股坐下「壓成爛泥」\u003c/a\u003e\u003cbr/\u003e  \n\u003ca href='https://news.tvbs.com.tw/world/1092707?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092744'\u003e離奇！超市飄超濃腐臭味　橇開石柱掉出人腿\u003c/a\u003e\u003cbr/\u003e  \n\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.tvbs.com.tw/world/1092744"
+    },
+    "request_path": "requests",
+    "title": "宛如災難電影場景　十數個龍捲風襲美23死",
+    "uuid": "0de783bb-391d-3a05-ad7c-1b788d7ae571"
+}

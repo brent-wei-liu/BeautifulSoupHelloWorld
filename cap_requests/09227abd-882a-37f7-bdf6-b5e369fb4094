@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:43:52Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eHelikopteri syöksyi maahan Turkana-järvellä – neljä amerikkalaista turistia kuoli\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eTurkana-järvellä tapahtuneessa helikopteriturmassa kuoli neljä Yhdysvalloista kotoisin olevaa matkailijaa sekä kenialainen lentäjä.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/ulkomaat/art-2000006022578.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Helikopteri syöksyi maahan Turkana-järvellä – neljä amerikkalaista turistia kuoli",
+    "uuid": "09227abd-882a-37f7-bdf6-b5e369fb4094"
+}

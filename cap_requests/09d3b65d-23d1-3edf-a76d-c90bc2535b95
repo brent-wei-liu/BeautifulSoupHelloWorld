@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:51:29Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e[MD PHOTO[ 韓國女團MOMOLAND任職業足球比賽特別嘉賓\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_1.jpg\" border=\"0\" width=\"500\" height=\"546\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_2.jpg\" border=\"0\" width=\"500\" height=\"359\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_3.jpg\" border=\"0\" width=\"500\" height=\"631\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_4.jpg\" border=\"0\" width=\"500\" height=\"790\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_5.jpg\" border=\"0\" width=\"500\" height=\"749\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_6.jpg\" border=\"0\" width=\"500\" height=\"724\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_7.jpg\" border=\"0\" width=\"500\" height=\"790\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_8.jpg\" border=\"0\" width=\"500\" height=\"730\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n\u003cdiv align=\"center\"\u003e\u003cimg src=\"http://media.zenfs.com/zh_Hant_TW/News/MyDaily/201903041051349939_9.jpg\" border=\"0\" width=\"500\" height=\"763\" align=\"center\" class=\"editorial\"\u003e\u003c/div\u003e\u003cbr /\u003e\n3月2日 下午，韓國女團MOMOLAND作為特別嘉賓亮相在仁川舉行的一場職業足球比賽，為現場觀眾獻上了精彩的歌舞。\u003cbr /\u003e\n\u003cbr\u003e劉進衡/圖 版權所有Mydaily禁止轉載\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "[MD PHOTO[ 韓國女團MOMOLAND任職業足球比賽特別嘉賓",
+    "uuid": "09d3b65d-23d1-3edf-a76d-c90bc2535b95"
+}

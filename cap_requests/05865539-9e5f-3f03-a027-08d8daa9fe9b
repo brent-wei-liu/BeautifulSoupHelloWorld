@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T10:58:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eCHECK24 Doppelpass mit neuem Saisonrekord\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cstrong\u003eSPORT1\u003c/strong\u003e hat mit der Ausgabe von \u003cstrong\u003eDer\u003c/strong\u003e\u003cstrong\u003eCHECK24 Doppelpass\u003c/strong\u003e am 3. März einen neuen Saisonrekord aufgestellt: Die von Thomas Helmer moderierte Talkrunde – unter anderem mit dem Trainer von Fortuna Düsseldorf, Friedhelm Funkel, und Hans Meyer, Präsidiumsmitglied von Borussia Mönchengladbach – verfolgten bis zu 1,39 Millionen Zuschauer ab 3 Jahren (Z3+) in der Spitze und 1,21 Millionen Zuschauer (Z3+) im Schnitt.\u003c/p\u003e\u003cp\u003eDiese Zahlen bedeuten für Deutschlands erfolgreichsten Fußballtalk neue Bestwerte seit der Ausgabe am 15. April 2018. Mit 600.000 Zuschauern bestand die Hälfte des TV-Publikums zudem aus der Kernzielgruppe der Männer 14-59 Jahre (M14-59), was einem zweistelligen Marktanteil von 13,9 Prozent entspricht. Der Gesamt-Marktanteil lag bei 8,4 Prozent.\u003c/p\u003e\u003cp\u003eNeben Helmer begleitete Ruth Hoffmann die gestrige Rekordsendung als Co-Moderatorin, weitere Gäste im Hilton Munich Airport Hotel waren \u003cstrong\u003eSPORT1-Experte\u003c/strong\u003e Stefan Effenberg, Matthias Brügelmann (BILD), Thomas Wagner (RTL) und Constantin Blass (Express).\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.sport1.de/fussball/bundesliga/2019/03/check24-doppelpass-mit-neuem-saisonrekord-bei-auftritt-von-friedhelm-funkel"
+    },
+    "request_path": "requests",
+    "title": "CHECK24 Doppelpass mit neuem Saisonrekord",
+    "uuid": "05865539-9e5f-3f03-a027-08d8daa9fe9b"
+}

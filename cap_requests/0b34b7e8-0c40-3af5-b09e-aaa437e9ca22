@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T22:18:43Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEntführungsdrama in Nigeria: Bordeaux-Profi Kalu bangt um seine Mutter\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eDer nigerianische Nationalspieler Samuel Kalu vom französischen Fußball-Erstligisten Girondins Bordeaux ist in großer Sorge um seine Mutter, die vergangene Woche entführt worden ist. Laut nigerianischer Polizei wurde Ozuruonye Juliet Kalu am Mittwoch auf dem Heimweg im Bundesstaat Abia im südlichen Nigeria aus dem Auto gekidnappt.\u003cbr\u003eDie Entführer verlangen vom 21-jährigen Kalu umgerechnet 36.600 Euro Lösegeld. In einem Interview mit der nigerianischen Sport-Zeitung Sporting Life berichtete der Fußballer unter Tränen, dass er bereits eine erste Zahlungsforderung in Höhe von umgerechnet 7320 Euro erfüllt habe, ohne dass seine Mutter freigelassen worden sei.\u003cbr\u003e\u0026quot;Wir haben die ganze Nacht gewartet, aber wir haben sie nicht gesehen. Am nächsten Morgen riefen sie wieder an und wollten mehr Geld\u0026quot;, sagte Kalu.\u003cbr\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "#"
+    },
+    "request_path": "requests",
+    "title": "Entführungsdrama in Nigeria: Bordeaux-Profi Kalu bangt um seine Mutter",
+    "uuid": "0b34b7e8-0c40-3af5-b09e-aaa437e9ca22"
+}

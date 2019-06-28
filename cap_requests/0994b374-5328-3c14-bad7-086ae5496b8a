@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:44:27Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e歐嘉瑞接任中油董事長 提三大努力方向\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/zh-Hant-TW/homerun/UDN.com/a623749167170aac10a442153b18af57'\u003e\u003c/p\u003e\u003cp\u003e國內油品龍頭中油昨（4）日舉行董事長交接，前董座戴謙請辭獲淮，由前能源局長歐嘉瑞正式成為中油新掌門，他昨天發表上任感言...\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://udn.com/news/story/7238/3676140"
+    },
+    "request_path": "requests",
+    "title": "歐嘉瑞接任中油董事長 提三大努力方向",
+    "uuid": "0994b374-5328-3c14-bad7-086ae5496b8a"
+}

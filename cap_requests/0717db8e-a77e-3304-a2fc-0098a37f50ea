@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T00:28:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eWashington devuelve el estatuto diplomático a la misión de la UE\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eWashington anuló la decisión de degradar el estatus diplomático de la misión de la Unión Europea (UE) en Estados Unidos, después que el bloque europeo escogiera un nuevo embajador, anunció este lunes la embajada estadounidense en Bruselas.\n\u0026quot;Con efecto inmediato, el Departamento de Estado reconocerá de nuevo la representación de la UE en Washington como equivalente a la de una misión bilateral en la orden de precedencia del cuerpo diplomático\u0026quot;, indicó en un comunicado la representación.\nLa portavoz de la diplomacia europea, Maja Kocijancic, celebró el anuncio tras recordar que la UE había pedido aclaraciones a Washington. \u0026quot;Nos complace que Estados Unidos haya tomado la decisión de volver a la práctica habitual\u0026quot;, apuntó en rueda de prensa.\nEl anuncio llega a dos días del inicio de conversaciones en Washington entre la comisaria europea de Comercio, Cecilia Malmström, y su par estadounidense, Robert Lighthizer, sobre un acuerdo de libre comercio de bienes industriales.\nA fines de 2018, Estados Unidos había rebajado el estatus diplomático de la misión de la UE a organización internacional. \nWashington da ahora marcha atrás después que la UE nombrara al griego Stavros Lambrinidis como jefe de su misión en Estados Unidos, una designación que la diplomacia norteamericana \u0026quot;acoge con gran satisfacción\u0026quot;.\n\u0026quot;La UE es una organización de importancia única y uno de los socios más valiosos de Estados Unidos para garantizar la seguridad y la prosperidad mundial\u0026quot;, subrayó en el comunicado el embajador de Estados Unidos ante la UE, Gordon Sondland.\nBajo el mandato de Trump en Estados Unidos, la relación con su tradicional aliado se ha deteriorado y el año pasado Washington aumentó los aranceles para el acero y el aluminio europeos y amenaza con hacer lo mismo para los vehículos del bloque.\nHasta el 28 de marzo, Lambrinidis ocupaba el cargo de representante especial de la UE para los Derechos Humanos, que asume ahora el irlandés Eamon Gilmore, el actual enviado especial para el proceso de paz en Colombia.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Washington devuelve el estatuto diplomático a la misión de la UE",
+    "uuid": "0717db8e-a77e-3304-a2fc-0098a37f50ea"
+}

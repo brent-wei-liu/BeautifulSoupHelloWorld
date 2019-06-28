@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T01:05:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e新台幣開盤貶2.5分 為30.80元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e（中央社台北4日電）台北外匯市場新台幣兌美元匯率今天以30.80元開盤，貶2.5分。\u003c/p\u003e\n\u003cp\u003e    新台幣兌美元開盤交易區間為30.795元至30.815元。1080304\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "新台幣開盤貶2.5分 為30.80元",
+    "uuid": "04590d26-9ce3-3e8f-a387-3bbff1a911b7"
+}

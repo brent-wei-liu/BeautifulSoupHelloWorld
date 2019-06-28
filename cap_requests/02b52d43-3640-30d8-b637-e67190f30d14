@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTyler se descubre con vivos y muertos\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAraceli García\nCIUDAD DE MÉXICO, marzo 4 (EL UNIVERSAL).- Artistas como Sofía Vergara,  Rebel Wilson y Carson Kressley se han puesto en las manos del medium Henry Tyler para conectar con seres del más allá.\nA través de lo que llama \u0026quot;lecturas\u0026quot;, Tyler comparte mensajes de los seres queridos que han dejado este mundo como parte del programa \u0026quot;Hollywood médium\u0026quot;, que estrena su cuarta temporada el 22 de marzo a las 22:00 horas por E!.\nEn entrevista, la celebridad relata cómo ha sido vivir con ese talento además de cómo sobrelleva las críticas de quienes permanecen escépticos sobre su trabajo.\n\u0026quot;En realidad no es una experiencia asustadiza para mí, es muy familiar. Cuando descubrí esta habilidad estaba un poco espantado al no entender lo que era diferente en mí, en realidad no entendía el contacto de las experiencias que estaba teniendo\u0026quot;, recuerda.\nEsa capacidad para entrar en  contacto con seres del más allá llegó a Tyler cuando tenía 10 años, después de la muerte de uno de sus familiares. Fue seis años después cuando comenzó a hacer lecturas de manera profesional y con el tiempo gente del medio artístico comenzó a contactarlo.\n\u0026quot;En el show he encontrado que hay mucha gente que espera no tener una experiencia real\u0026quot;, comparte.\n\u0026quot;Al final se van completamente en shock con lo que van escuchando. Lo que hago es darles detalles específicos e información que no hay forma que yo pudiera saber\u0026quot;, dice.\nLatoya Jackson y Ariana Grande  están entre la lista de personalidades que han acudido a él.\nPara esta nueva temporada, además de las lecturas tradicionales el público, se podrán ver los detrás de cámara y un escaneo al cerebro de Tyler para analizar sus reacciones.\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "Tyler se descubre con vivos y muertos",
+    "uuid": "02b52d43-3640-30d8-b637-e67190f30d14"
+}

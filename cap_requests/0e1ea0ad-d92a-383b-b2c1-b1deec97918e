@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T03:47:41Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e川普希望美元走軟 新興市場套利交易獲亮「綠燈」\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e【彭博】-- 美國總統川普希望美元匯率走弱一些，這可能有助於將新興市場貨幣的波動率維持在較低水平，延長開發中國家套利交易的堅持時間。\u003c/p\u003e\u003cp\u003e在川普稱強勢美元正在損害美國與其他國家做生意的能力之後，一項衡量美元兌10種主要全球貨幣的指數在周一止步於三連漲。新興市場貨幣隱含波動率已跌至10個月低點，降低了套利交易的風險，因為劇烈波動可能會抹去從低息國家借錢投資高息國家的利潤。\u003c/p\u003e\u003cp\u003e「這為新興市場投資者繼續增持新興市場資產亮起綠燈，儘管這種交易已經很火了，」Ensemble Capital駐新加坡的首席投資官Damien Loh稱。「已開發市場--不僅僅是美元，仍將是上好的融資貨幣。」\u003c/p\u003e\u003cp\u003e隨著包括聯儲會在內的主要央行轉鴿，套利交易正在卷土重來、聲勢浩大，彭博一項衡量八種新興市場貨幣套利策略回報的指數自9月低點以來上漲了9%。\u003c/p\u003e\u003cp\u003e然而SBI證券駐東京的投資信託和固定收益部門總經理相馬勉稱，川普言論對美元的影響可能是短暫的。\u003c/p\u003e\u003cp\u003e「這不是川普頭一次抱怨強勢美元和批評聯儲會，因此對匯率的影響可能很短暫，」他說。「不會有人猜測聯儲會將受到川普言論的影響，而且潛在的強勢美元趨勢可能不會有任何變化。」\u003c/p\u003e\u003cp\u003e原文標題EM Carry Trades Get ‘Green Light’ as Trump Prefers Weaker Dollar\u003c/p\u003e\u003cp\u003e--联合报道 Yumi Teso.\u003c/p\u003e\u003cp\u003e欲联系记者请洽：Lilian Karunungan 新加坡 lkarunungan@bloomberg.net\u003c/p\u003e\u003cp\u003e欲联系英文编辑请洽：Tomoko Yamazaki tyamazaki@bloomberg.net, Karl Lester M. Yap\u003c/p\u003e\u003cp\u003eFor more articles like this, please visit us at \u003ca href=\"https://www.bloomberg.com\"\u003ebloomberg.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e©2019 Bloomberg L.P.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "川普希望美元走軟 新興市場套利交易獲亮「綠燈」",
+    "uuid": "0e1ea0ad-d92a-383b-b2c1-b1deec97918e"
+}

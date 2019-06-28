@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:26:07Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003ePiazza Affari e Borse europee attese positive in avvio, attenzione a Fca\u003c/title\u003e\u003c/head\u003e\u003cbody\u003ePiazza Affari e le Borse europee dovrebbero aprire questa prima seduta settimanale con segno più, sulle speranze di un accordo commerciale più vicino tra Stati Uniti e Cina. Secondo il Wall Street Journal, Pechino sarebbe disposta ad abbassare i dazi doganali e altre restrizioni applicate sui prodotti agricoli, chimici, sulle auto e altri beni americani che importa. Washington, dal canto suo, sarebbe disposta a rimuovere quasi tutte le sanzioni che ha comminato contro i prodotti cinesi a partire dall\u0026#39;anno scorso. Tutti i listini asiatici hanno reagito all\u0026#39;indiscrezione in maniera positiva. Tokyo ha chiuso in rialzo di poco oltre l\u0026#39;1%.  \n\nOggi non sono previste indicazioni macro di rilievo l\u0026#39;attenzione degli operatori si rivolgerà su singole storie societarie. Tra quelle di Piazza Affari, da monitorare Fiat Chrysler dopo il dato sulle immatricolazioni in Italia, diffuso venerdì a mercato chiuso.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.finanza.com/Finanza/Indici_e_quotazioni/Italia/notizia/Piazza_Affari_e_Borse_europee_attese_positive_in_avvio_atte-503476"
+    },
+    "request_path": "requests",
+    "title": "Piazza Affari e Borse europee attese positive in avvio, attenzione a Fca",
+    "uuid": "0de58dc7-841f-3962-9825-a53170dee095"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T23:26:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFoot - L1 - OM - Rudi Garcia (OM) : «L\u0026apos;équipe a gagné à 14»\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eRudi Garcia, l\u0026#39;entraîneur de Marseille, vainqueur de Saint-Étienne (2-0), s\u0026#39;est réjoui de pouvoir compter sur un groupe élargi. \u003cb\u003eRudi Garcia (entraîneur de Marseille, \u003c/b\u003e\u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Marseille-double-saint-etienne-grace-a-balotelli-et-thauvin/994823\" shape=\"rect\" target=\"_blank\"\u003e\u003cb\u003evainqueur de Saint-Etienne\u003c/b\u003e\u003c/a\u003e) : « Je ne sais pas si ce sont des choix très forts \u003ci\u003e(avec Payet, Rami, Gustavo et Strootman sur le banc)\u003c/i\u003e, mais l\u0026#39;équipe a joué et gagné à 14 et pas à 11. J\u0026#39;avais un beau banc de touche, c\u0026#39;est sûr. Ce ne sera difficile pour personne, ni pour Payet ni pour d\u0026#39;autres. Pour l\u0026#39;instant, c\u0026#39;est tout bénéfice pour l\u0026#39;Olympique de Marseille. Aux remplaçants de pousser la porte de l\u0026#39;équipe. Mais que ce soit clair, ils n\u0026#39;ont pas perdu 1 % de leur importance dans le groupe, j\u0026#39;attends ça d\u0026#39;eux, de tous, de Dimitri, d\u0026#39;Adil, de Luiz, de Kevin. \u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Jean-louis-gasset-saint-etienne-balotelli-me-rappelle-ibrahimovic/994847\" shape=\"rect\" target=\"_blank\"\u003eJean-Louis Gasset (Saint-Étienne) : « Balotelli me rappelle Ibrahimovic »\u003c/a\u003e On a très bien entamé le match, et dans l\u0026#39;ensemble, on a fait une première mi-temps très aboutie. On a eu au moins sept occasions. Tactiquement, on a été très bon en première mi-temps, on avait bien analysé l\u0026#39;adversaire. On est encore à 5 points de Lyon, il était important de ne pas perdre de points ce soir, et on voulait aussi reprendre cette 4e place. On est à 13 points sur 15, c\u0026#39;est une série positive. On a vu du mouvement et de l\u0026#39;efficacité. Mario a mis un but difficile à mettre, après avoir raté une occasion plutôt facile, mais c\u0026#39;est la force des grands buteurs de ne pas douter. C\u0026#39;est un garçon qui a du caractère, du talent, mais qui est aussi intelligent. Il l\u0026#39;a démontré en laissant le tir du penalty à Florian Thauvin. Sa \u003ca href=\"https://abonnes.lequipe.fr/Football/Actualites/Mario-balotelli-marseille-j-avais-donne-mon-telephone-au-journaliste-de-l-om/994829\" shape=\"rect\" target=\"_blank\"\u003ecélébration sur son but\u003c/a\u003e \u003ci\u003e(le selfie vidéo signé Balotelli et posté en direct sur Instagram)\u003c/i\u003e ? Je n\u0026#39;ai rien à dire là-dessus. » \u003cb\u003eValère Germain (attaquant de Marseille)\u003c/b\u003e : « L\u0026#39;ambition est de continuer ce genre de série. On est bien depuis cinq matches, on aimerait qu\u0026#39;un des clubs devant ralentisse le pas, pour l\u0026#39;instant, ce n\u0026#39;est pas le cas, mais nous, on tient la cadence. S\u0026#39;enflammer ? Non, on a un groupe avec assez d\u0026#39;expérience pour ne pas se relâcher, un coach et un staff derrière nous. On sait que tout va très vite, mais on a envie de finir la saison en boulet de canon, si on repense à cette mauvaise période. On ne va pas se relâcher. »\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Football/Actualites/Rudi-garcia-om-l-equipe-a-gagne-a-14/994856"
+    },
+    "request_path": "requests",
+    "title": "Foot - L1 - OM - Rudi Garcia (OM) : «L\u0026apos;équipe a gagné à 14»",
+    "uuid": "0bf0586b-05e0-3c5c-984a-b93ef317f991"
+}

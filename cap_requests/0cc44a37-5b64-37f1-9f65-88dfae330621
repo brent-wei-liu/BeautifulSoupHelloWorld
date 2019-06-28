@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T20:30:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e技術取勝﹕人保守住3.6元升勢未完\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【明報專訊】中建材短線料上試7元（圖）\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.mingpao.com/pns/%e7%b6%93%e6%bf%9f/article/20190305/s00004/1551724904615/%e6%8a%80%e8%a1%93%e5%8f%96%e5%8b%9d-%e4%ba%ba%e4%bf%9d%e5%ae%88%e4%bd%8f3-6%e5%85%83%e5%8d%87%e5%8b%a2%e6%9c%aa%e5%ae%8c"
+    },
+    "request_path": "requests",
+    "title": "技術取勝﹕人保守住3.6元升勢未完",
+    "uuid": "0cc44a37-5b64-37f1-9f65-88dfae330621"
+}

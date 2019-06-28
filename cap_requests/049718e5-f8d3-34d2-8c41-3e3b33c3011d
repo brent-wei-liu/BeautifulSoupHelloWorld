@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T04:48:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中國鐵塔去年資本開支減少近40%\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e中國鐵塔公布，去年資本開支減少39.6%，降至264.66億元人民幣，主要是通信營運商建設需求下降，同時公司推動建設模式轉型，以低成本滿足客戶需求。\n\n另外，截至去年底，總站址數目194.8萬個，按年增長4%，總租戶數目300.9萬戶，按年增長12%，整體共享率水平亦持續提升。\n\n公司指，未來會在鐵塔、電源配套、室分共享等重點領域，為5G規模建設做好準備，提升效率和降低相關建設成本，亦會推動與國家電網、南方電網、市政部門、房地產企業的戰略合作，主動獲取電力塔、監控桿、路燈桿、物業設施等社會資源，加大站址資源儲備，滿足5G新增站址需求。\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "中國鐵塔去年資本開支減少近40%",
+    "uuid": "049718e5-f8d3-34d2-8c41-3e3b33c3011d"
+}

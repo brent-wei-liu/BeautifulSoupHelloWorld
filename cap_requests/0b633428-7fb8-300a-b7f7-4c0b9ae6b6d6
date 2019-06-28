@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:20:56Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 433\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Untuk lomba pertama pada tahun baru, para anggota Running Man harus mencapai level 10 untuk menang. Sepanjang lomba, para anggota harus menemukan petualangan yang tersebar di seluruh sanggraloka ski dan menyelesaikannya untuk naik level. Siapa pun yang mencapai level tertinggi lebih dahulu akan mendapat hadiah luar biasa.\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 433",
+    "uuid": "0b633428-7fb8-300a-b7f7-4c0b9ae6b6d6"
+}

@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:02:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e平田晃久的纏繞哲學　12作品來台呈現（3） (圖)\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e日本建築師平田晃久將來台舉辦個展，其中將展出他設計的「太田市美術館‧圖書館」，融合了美術館與圖書館空間機能。（忠泰建築文化藝術基金會提供）\u003c/p\u003e\n\u003cp\u003e中央社記者鄭景雯傳真 108年3月4日\u003c/p\u003e\u003cp\u003e\u003cimg src=\"http://media.zenfs.com/zh-Hant-TW/homerun/cna.com.tw/8535867f3523789e39f4d3cf6cd3b4f8\" width=\"630\" height=\"354\" align=\"middle\" class=\"editorial\"/\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "平田晃久的纏繞哲學　12作品來台呈現（3） (圖)",
+    "uuid": "08449602-e263-33e1-828e-bfe4896a0e88"
+}

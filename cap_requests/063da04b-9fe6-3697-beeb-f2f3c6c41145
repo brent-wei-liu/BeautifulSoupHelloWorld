@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T18:22:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFoot - L1 - Bordeaux - Ligue 1 : Bordeaux sans Samuel Kalu ni Younousse Sankharé contre Montpellier\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003eFace à Montpellier, mardi (19 heures), Bordeaux sera privé de Samuel Kalu, Younousse Sankharé ou encore de Vukasin Jovanovic. Pablo est de retour. En attendant l\u0026#39;arrivée d\u0026#39;un nouvel entraîneur qui pourrait être le Portugais Paulo Sousa, Éric Bedouet dirigera seul l\u0026#39;équipe face à Montpellier, mardi. Kalu, \u003ca href=\"https://www.lequipe.fr/Football/Actualites/Bordeaux-la-mere-de-samuel-kalu-enlevee/995038\" shape=\"rect\" target=\"_blank\"\u003edont la mère a été enlevée\u003c/a\u003e, n\u0026#39;a pas été convoqué. Sankharé, \u003ca href=\"https://www.lequipe.fr/Football/Actualites/Younousse-sankhare-bordeaux-absent-a-cause-d-une-implantation-de-barbe/994916\" shape=\"rect\" target=\"_blank\"\u003equi souffre de complications après des implants de barbe\u003c/a\u003e, n\u0026#39;est toujours pas là. Bedouet ne pourra pas compter sur le défenseur Igor Lewczuk, qui soigne un talon douloureux, ni sur l\u0026#39;attaquant Andreas Cornelius, touché aux adducteurs. Vukasin Jovanovic est, lui, suspendu. \u003ca href=\"https://abonnes.lequipe.fr/Football/Article/Paulo-sousa-a-deja-vu-bordeaux/994301\" target=\"_blank\"\u003ePaulo Sousa a déjà vu Bordeaux\u003c/a\u003e Mais le coach des Girondins va bénéficier du retour du défenseur Pablo, victime d\u0026#39;une déchirure musculaire à Paris. Les jeunes milieux Aurélien Tchouaméni et Zaydou Youssouf, qui se sont plaints de petits bobos, sont bien là. Till Cissokho fait sa première apparition. Le groupe de Bordeaux Costil, Poussin - Koundé, Poundjé, Pablo, Cissokho, Palencia, Sabaly - Otavio, Tchouaméni, Adli Zaydou Youssouf, Basic, Plasil - Maja, Briand, De Préville, Kamano, Karamoh.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.lequipe.fr/Football/Actualites/Ligue-1-bordeaux-sans-samuel-kalu-ni-younousse-sankhare-contre-montpellier/995046"
+    },
+    "request_path": "requests",
+    "title": "Foot - L1 - Bordeaux - Ligue 1 : Bordeaux sans Samuel Kalu ni Younousse Sankharé contre Montpellier",
+    "uuid": "063da04b-9fe6-3697-beeb-f2f3c6c41145"
+}

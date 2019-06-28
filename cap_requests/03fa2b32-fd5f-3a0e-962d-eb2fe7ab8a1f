@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-03T16:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e中啟軍艦溫馨送愛 募集物資關懷幼童\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e記者劉程鈞／綜合報導\u003c/p\u003e\u003cp\u003e　「施比受更有福」，為響應公益及關懷兒童，海軍中啟軍艦今日上午由輔導長沈少校及油機上士潘旭旻代表全艦官兵溫馨送愛，將募集物資送到嘉義天主教安仁家園，透過實際行動，展現愛民義舉。\u003c/p\u003e\u003cp\u003e　沈輔導長表示，物資捐贈是一種善行與善意的交流，希望持續舉辦這樣的公益活動，讓國軍的善念成為一顆種子，在各地萌芽茁壯。且透過親身募資幫助育幼院的小朋友，才意識到自己及生活周遭的人，在生活物質上是多麼豐盛及幸福，盼望未來能繼續以實際行動，扶助育幼院小朋友在生活及學習上的匱乏，並透過拋磚引玉的正向能量傳遞，喚起社會大眾關注更多需要被幫助的人。\u003c/p\u003e\n\u003cp\u003e\u003cimg src='https://media.zenfs.com/ko/youthdailynews_517/7e04d61a4773d5fb2a5433162af985bf' width='934' height='550'/\u003e\u003c/p\u003e\n\u003cp\u003e中啟軍艦將募集物資送到嘉義天主教安仁家園，透過實際行動，展現愛民義舉。（中啟軍艦提供）\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.ydn.com.tw/News/326663"
+    },
+    "request_path": "requests",
+    "title": "中啟軍艦溫馨送愛 募集物資關懷幼童",
+    "uuid": "03fa2b32-fd5f-3a0e-962d-eb2fe7ab8a1f"
+}

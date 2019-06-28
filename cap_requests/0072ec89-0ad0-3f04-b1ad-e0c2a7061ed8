@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:00:39Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eFraichy digitalise le marché de proximité\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003eCréée en début d'année, Fraichy est une plate-forme fonctionnant avec un réseau de commerçants locaux, à Montpellier, pour faire son marché en ligne. L'outil, qui met l'accent sur un sourcing de produits sains et durables, permet de passer commande et de se faire livrer par coursier.\u003c/p\u003e \u003cp\u003eLa start-up montpelliéraine, qui sort à peine de pré-incubation après un accompagnement du BIC et du programme Start2You, travaille sur l'élargissement de son réseau de partenaires. Retrouvez notre vidéo (réalisation : Pixilone) ci-dessous.\u003c/p\u003e \u003cdiv class=\"content_widget\" data-type=\"youtube\"\u003e\u003ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oKUkqaalD5M\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"\u003e\u003c/iframe\u003e\u003c/div\u003e  \u003c/p\u003e\n\u003cem class=\"b\"\u003e\n\u003ca href=\"http://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-de-services/2019-03-04/fraichy-digitalise-le-marche-de-proximite-809507.html#xtor=AL-13\" rel=\"nofollow\" /\u003e\n\u003c/em\u003e\n\u003cp\u003e\n\u003cem class=\"b\"\u003e\n\u003ca href=\"http://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-de-services/2019-03-04/fraichy-digitalise-le-marche-de-proximite-809507.html#xtor=AL-13\" rel=\"nofollow\"\u003eRetrouvez cet article sur La Tribune.fr\u003c/a\u003e\n\u003c/em\u003e\n\u003c/p\u003e\n\u003cp\u003e\n\u003cbr /\u003e\n\u003ca href=\"https://objectif-languedoc-roussillon.latribune.fr/innovation/2019-02-20/nkd-puzzle-cree-des-boites-a-enigme-made-in-france-808171.html\" rel=\"nofollow\"\u003eNKD Puzzle crée des boîtes à énigme made in France\u003cbr /\u003e\n\u003c/a\u003e\n\u003ca href=\"https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-technologique/2019-02-06/mycarspot-accelere-sur-sa-solution-de-parking-collaboratif-806514.html\" rel=\"nofollow\"\u003eMyCarSpot accélère sur sa solution de parking collaboratif\u003cbr /\u003e\n\u003c/a\u003e\n\u003ca href=\"https://objectif-languedoc-roussillon.latribune.fr/innovation/innovation-de-services/2019-01-23/specialist-wanted-veut-liberer-les-tpe-pme-des-taches-administratives-804847.html\" rel=\"nofollow\"\u003eSpecialist-Wanted veut libérer les TPE-PME des tâches administratives\u003cbr /\u003e\n\u003c/a\u003e\n\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Fraichy digitalise le marché de proximité",
+    "uuid": "0072ec89-0ad0-3f04-b1ad-e0c2a7061ed8"
+}

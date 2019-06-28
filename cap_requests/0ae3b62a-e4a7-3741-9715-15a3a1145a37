@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:20:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eSam Smith : Du modèle à l\u0026#39;ami, son histoire avec Elton John\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eAu-delà d\u0026#039;un goût prononcé pour la musique et d\u0026#039;être tous deux auteurs compositeurs-interprètes britanniques de talent, quel est le lien entre Sam Smith et Elton John ? Retour sur une amitié hors norme !\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.cheriefm.fr/artistes/sam-smith/actualites/sam-smith-du-modele-a-l-ami-son-histoire-avec-elton-john-71408747"
+    },
+    "request_path": "requests",
+    "title": "Sam Smith : Du modèle à l\u0026#39;ami, son histoire avec Elton John",
+    "uuid": "0ae3b62a-e4a7-3741-9715-15a3a1145a37"
+}

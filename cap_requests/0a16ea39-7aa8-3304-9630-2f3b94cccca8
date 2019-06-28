@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T11:11:29Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e【公告】格威傳媒代重要子公司二零零八傳媒行銷股份有限公司董事會決議通過訂定減資基準日及減資換發股票基準日\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e日　　期：2019年03月04日\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e公司名稱：格威傳媒 (8497)\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e主　　旨：代重要子公司二零零八傳媒行銷股份有限公司董事會決議通過訂定減資基準日及減資換發股票基準日\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e發言人：程懷昌\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e說　　明：\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e1.董事會決議日期:108/03/04\u003c/p\u003e\u003cp\u003e2.減資基準日:108/03/14\u003c/p\u003e\u003cp\u003e3.減資換發股票作業計畫:不適用\u003c/p\u003e\u003cp\u003e4.換發股票基準日:108/05/06\u003c/p\u003e\u003cp\u003e5.停止過戶起始日期:108/05/02\u003c/p\u003e\u003cp\u003e6.停止過戶截止日期:108/05/06\u003c/p\u003e\u003cp\u003e7.減資後新股權利義務:本次現金減資換發之新股，其權利義務與原股份相同。\u003c/p\u003e\u003cp\u003e8.新股預計上市日:NA\u003c/p\u003e\u003cp\u003e9.預計減資新股上市後之上市普通股股數:不適用\u003c/p\u003e\u003cp\u003e10.預計減資新股上市後之上市普通股股數占已發行普通股比率\u003c/p\u003e\u003cp\u003e（減資後上市普通股股數/減資後已發行普通股股數）:不適用\u003c/p\u003e\u003cp\u003e11.前二項預計減資後上巿普通股股數未達6000萬股且未達25%者，\u003c/p\u003e\u003cp\u003e請說明股權流通性偏低之因應措施:不適用\u003c/p\u003e\u003cp\u003e12.其他應敘明事項:無\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "【公告】格威傳媒代重要子公司二零零八傳媒行銷股份有限公司董事會決議通過訂定減資基準日及減資換發股票基準日",
+    "uuid": "0a16ea39-7aa8-3304-9630-2f3b94cccca8"
+}

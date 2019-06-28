@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:28:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eIndustria estudiará \u0026quot;armonizar\u0026quot; los impuestos de matriculación y circulación\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMadrid, 4 mar (EFE).- El Ministerio de Industria pretende \u0026quot;armonizar\u0026quot; los impuestos de matriculación y circulación para mejorar la competitividad del sector de la automoción español, medida que debatirá con las empresas y el Ministerio de Hacienda en un grupo de trabajo, ha explicado este lunes la ministra Reyes Maroto.\n\u0026quot;España tiene en estos momentos dos impuestos, matriculación y circulación, que nos restan competitividad con respecto a otros países\u0026quot;, ha señalado la ministra de Industria, Comercio y Turismo durante la presentación del Plan Estratégico de Apoyo Integral al Sector de Automoción.\nMaroto ha explicado que en otros países estos dos impuestos se han \u0026quot;armonizado a uno solo\u0026quot; y que dentro de los ejes de su plan para la automoción está el de hacer \u0026quot;una fiscalidad verde, más orientada hacia el uso\u0026quot; del vehículo.\n\u0026quot;La armonización nos va a permitir gravar solo una vez frente a las dos actuales el mismo hecho imponible. Creo que es un beneficio para el consumidor\u0026quot;, ha añadido.\nPreguntada por si esta medida supondría la eliminación del impuesto de matriculación, que se paga una vez se adquiere el vehículo, Maroto ha dicho que tienen que \u0026quot;debatir\u0026quot; este aspecto en un grupo de trabajo con las empresas que van a crear sobre fiscalidad dentro de la Mesa de Movilidad Sostenible y Conectada.\n\u0026quot;No está cerrada ninguna propuesta, hemos revisado la fiscalidad en otros países, y hemos visto que perdemos competitividad porque España grava dos veces un mismo hecho a diferencia de otros países\u0026quot;, ha añadido.\nMaroto ha presentado este lunes un plan que prevé una inversión de 2.634 millones de euros para el periodo entre 2019 y 2025, de los cuales 515 millones se invertirán entre 2019 y 2020.\nEn este importe para los próximos dos años están incluidas medidas ya aprobadas con cargo a los Presupuestos de 2018, como los planes Moves y Movea de fomento de la demanda de vehículos, o la figura del contrato de relevo en la industria manufacturera.\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Industria estudiará \u0026quot;armonizar\u0026quot; los impuestos de matriculación y circulación",
+    "uuid": "0e497b58-9ab0-3b67-8d14-fa78e6599852"
+}

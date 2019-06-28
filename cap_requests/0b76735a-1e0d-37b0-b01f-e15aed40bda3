@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:06:01Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e快訊／東區車禍！貨車、3轎車追撞　4人送醫\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg width='100%' height='100%' align='middle' alt='\u0026#x005716;\u0026#x00ff0f;TVBS' src='http://media.zenfs.com/zh-Hant-TW/homerun/news_tvbs_com_tw_938/fd005f40c88bb78d79b1f100d6b03266'\u003e最新消息！下午1點多，台北市忠孝東路五段發生車禍意外，一輛貨車及和3部轎車發生追撞，警消趕抵現場處理，目前48歲貨車駕駛及另3名傷者送醫急救，而車禍原因，還在釐清。\u003c/p\u003e\u003cp\u003e\n\u003c/p\u003e\u003cp\u003e\n\u003cp class=\"read-more-vendor\"\u003e\u003cspan\u003e更多 TVBS 報導\u003c/span\u003e\u003cbr/\u003e\u003ca href='https://news.tvbs.com.tw/world/1092539?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092572'\u003e逆向超車「插進」車頭！　騎士頭顱...噴飛在路旁\u003c/a\u003e\u003cbr/\u003e  \n\u003ca href='https://news.tvbs.com.tw/local/1092518?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092572'\u003e逃錯人生方向...綽號「自殺」大藥頭　摔進田裡被警逮\u003c/a\u003e\u003cbr/\u003e  \n\u003ca href='https://news.tvbs.com.tw/local/1092395?utm_source=Yahoo\u0026utm_medium=Yahoo_news\u0026utm_campaign=newsid_1092572'\u003e又是酒駕！飆速轉彎失控　自撞分隔島燈桿\u003c/a\u003e\u003cbr/\u003e  \n\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://news.tvbs.com.tw/local/1092572"
+    },
+    "request_path": "requests",
+    "title": "快訊／東區車禍！貨車、3轎車追撞　4人送醫",
+    "uuid": "0b76735a-1e0d-37b0-b01f-e15aed40bda3"
+}

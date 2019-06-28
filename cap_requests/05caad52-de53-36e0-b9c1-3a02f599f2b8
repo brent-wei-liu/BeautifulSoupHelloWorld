@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T21:23:17Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eVasco x Flamengo: diferença nas finanças e equilíbrio em campo\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cbr\u003e\u003cp\u003eA diferença de expectativa entre os elencos de Vasco e Flamengo não reflete a situação dos dois clubes de como eles chegam para o primeiro conflito de 2018. A disparidade em relação aos elencos e contratações não se refletiram em campo e o equilíbrio é muito maior que o imaginado. O Flamengo ainda não consegue encaixar e tem uma importante estreia da Libertadores no meio da semana. Enquanto isso o Vasco chega como campeão da Taça Guanabara e invicto na temporada.\u003cbr\u003e\u003c/p\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/pt-BR/homerun/lance__99/238c55d7438f10cc3970581e48a6d988' alt='Portuguesa x Flamengo Arrascaeta'/\u003e\u003cp class=\"legenda-imagem\"\u003eArrascaeta foi o reforço mais caro da história do Flamengo (Alexandre Vital/Flamengo)\u003c/p\u003e\u003cp\u003eTodo esse hiato existente entre os times é muito pelo fato que hoje existe um clube com um poder financeiro muito maior que o outro. O Flamengo hoje pode investir em contratações de peso. Arrascaeta custou 13 milhões de euros para os cofres do rubro-negro, já Rodrigo Caio foi negociado por cinco milhões de euros. Valores surreais para o rival. No elenco mais valioso do Rio de Janeiro, a média de valor de mercado, segundo o site \u003ci\u003eTransfermkt\u003c/i\u003e, é de dois milhões e oitocentos mil euros. Um dos mais valiosos da América do Sul.\u003cbr\u003e\u003c/p\u003e\u003cimg class=\"editorial\" src='http://media.zenfs.com/pt-BR/homerun/lance__99/1afe9b1e444408ce61064c3822b5534d' alt='Vasco x Resende Lucas Mineiro'/\u003e\u003cp class=\"legenda-imagem\"\u003e\u0026#160;Lucas Mineiro: barato e já é destaque do time (Celso Pupo/Fotoarena)\u003c/p\u003e\u003cp\u003eJá o Vasco é o lado modesto desse clássico. Sem poder investir igual ao rival, o clube precisou de mais criatividade no mercado. O clube praticamente não investiu nos nove reforços e conseguiu reformular o elenco de forma barata. Segundo o mesmo \u003ci\u003eTransfermkt\u003c/i\u003e\u003cb\u003e,\u003c/b\u003e a média de valor de mercado do elenco vascaíno é de cerca de oitocentos mil euros.\u003cbr\u003e\u003cbr\u003eSe no valor de mercado, cada jogador do Flamengo custa três jogadores do Vasco, em campo isso não se reflete. Que venha o clássico, que promete ser mais equilibrado em campo que nas finanças.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.lance.com.br/vasco/flamengo-diferenca-nas-financas-equilibrio-campo.html"
+    },
+    "request_path": "requests",
+    "title": "Vasco x Flamengo: diferença nas finanças e equilíbrio em campo",
+    "uuid": "05caad52-de53-36e0-b9c1-3a02f599f2b8"
+}

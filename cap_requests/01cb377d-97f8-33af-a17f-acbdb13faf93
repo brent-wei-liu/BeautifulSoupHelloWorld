@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T14:44:35Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eEl cuento ‘El regalo de María’, todo un éxito de ventas y solidaridad\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cbody\u003e\u003cp\u003eEl pasado mes de octubre, se publicó ‘\u003cstrong\u003eEl regalo de María\u003c/strong\u003e’, un cuento en el que \u003cstrong\u003eIsabel de Villota\u003c/strong\u003e relataba la vida de su hermana, la piloto de Fórmula 1 \u003cstrong\u003eMaría de Villota\u003c/strong\u003e.\u003c/p\u003e\n\n\u003cp\u003eEsta obra, ilustrada por\u003cstrong\u003e Fernando de Pablo\u003c/strong\u003e y \u003cstrong\u003eMiren Lasa\u003c/strong\u003e, tenía además un objetivo benéfico: recaudar fondos para apoyar a la \u003cstrong\u003efundación Ana Carolina Díez Mahou\u003c/strong\u003e, que atiende a jóvenes afectados por enfermedades neuromusculares.\u003c/p\u003e\n\n\u003cp\u003e“María de Villota luchó hasta el último de sus días por ayudar a niños afectados con estas enfermedades raras, a su escudería de enfermos valientes, como los llamaba. Con este cuento hemos tratado de seguir su labor, inspirando a otras personas a ayudar a los demás y promover los valores del deporte y la solidaridad”, explicaba la autora del cuento.\u003c/p\u003e\n\n\u003cp\u003eEn efecto, María estaba muy comprometida con esta organización y otras causas benéficas. Tras su fallecimiento, su padre, Emilio de Villota, no quiso que todo este trabajo cayese en el olvido, y decidió crear el ‘\u003ca href=\"https://www.hola.com/tags/legado-de-maria-de-villota/\" target=\"_blank\"\u003e\u003cstrong\u003eLegado María de Villota\u003c/strong\u003e\u003c/a\u003e’. La iniciativa que ahora se encarga de continuar todo este trabajo que María comenzó.\u003c/p\u003e\n\n\u003cp\u003e‘El regalo de María’ ha sido todo un éxito. Según anuncian desde la fundación Ana Carolina Díez Mahou, gracias a la venta de este libro se ha conseguido financiar más de 2.000 tratamientos del programa ‘\u003cstrong\u003ePrimera estrella\u003c/strong\u003e’. Un proyecto que ofrece diferentes tipos de terapia para mejorar la calidad de vida de 60 chicos que padecen diferentes enfermedades raras. Entre ellos, destaca el de ‘\u003ca href=\"https://www.hola.com/sociedad/20180116104746/perro-nino-feliz-terapia-perros-busca-ayudar-ninos-con-diversas-enfermedades/\" target=\"_blank\"\u003e\u003cstrong\u003eUn perro, un niño feliz\u003c/strong\u003e\u003c/a\u003e’, en el que los niños de la organización interactúan con perros, descubriendo así el mundo que les rodea.\u003c/p\u003e\n\n\u003cp\u003e“Estos tratamientos son de vital importancia para los niños y sus familias, y consiguen unas mejoras en su calidad de vida muy importantes, más si tenemos en cuenta que no hay tratamiento farmacológico curativo para ellos”, señala \u003cstrong\u003eJavier Pérez-Mínguez\u003c/strong\u003e, director de la fundación. Javier también apuntaba que los familiares de estos chicos “dedican al menos el 20% de su sueldo a tratar estas enfermedades”, por lo que “iniciativas como la de este cuento suponen un regalo para las familias que sufren y luchan a diario, siendo un ejemplo para toda la sociedad”.\u003c/p\u003e\u003c/body\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.hola.com/sociedad/20190304138397/maria-de-villota-cuento-el-regalo-de-maria/"
+    },
+    "request_path": "requests",
+    "title": "El cuento ‘El regalo de María’, todo un éxito de ventas y solidaridad",
+    "uuid": "01cb377d-97f8-33af-a17f-acbdb13faf93"
+}

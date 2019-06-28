@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T08:05:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTillstånd saknas för Wilanders gräsplaner\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.svd.se/tillstand-saknas-for-wilanders-grasplaner"
+    },
+    "request_path": "requests",
+    "title": "Tillstånd saknas för Wilanders gräsplaner",
+    "uuid": "07871073-4c83-33eb-bfdf-7f557e081e0a"
+}

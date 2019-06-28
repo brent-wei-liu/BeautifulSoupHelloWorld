@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T07:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eInter-Icardi, irrompe Zhang: telefonata a Marotta, vuole Mauro a Francoforte\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eOra basta, \u003cstrong\u003eMauro Icardi \u003c/strong\u003edeve rientrare in squadra. E\u0026#39; questo il messaggio lanciato dalla Cina da \u003cstrong\u003eSteven Zhang\u003c/strong\u003e, il presidente dell\u0026#39;\u003cstrong\u003eInter\u003c/strong\u003e, atteso al rientro in Italia la prossima settimana, ha deciso di prendere in mano la situazione per provare a risolverla. Come rivela l\u0026#39;edizione odierna de\u003cem\u003e Il Corriere della Sera\u003c/em\u003e infatti, \u003cstrong\u003eZhang ha avuto un lungo colloquio telefonico con Marotta e Antonello e ha chiesto ai due dirigenti di trovare un modo per ammorbidire le parti e arrivare a una conclusione positiva nel più breve tempo possibile\u003c/strong\u003e: l\u0026#39;obiettivo è quello di avere a disposizione l\u0026#39;attaccante argentino per il rush finale tra campionato ed Europa League e l\u0026#39;idea è di averlo in tempi brevi.\u003cbr /\u003e\n\u003cbr /\u003e\n\u003cstrong\u003eVERTICE \u003c/strong\u003e- Tra oggi e domani infatti, riferisce il \u003cem\u003eCorSera\u003c/em\u003e, è in programma un \u003cstrong\u003evertice tra Icardi, staff medico, Spalletti e Marotta per reintegrare l\u0026#39;ex capitano\u003c/strong\u003e, considerato fisicamente pronto:\u003cstrong\u003e la speranza, seppur flebile, è di avere il nove nerazzurro a disposizione già per la trasferta di Francofort\u003c/strong\u003ee, andata degli ottavi di Europa League contro l\u0026#39;Eintracht. La domanda che la dirigenza porrà a Icardi sarà dunque se lui vorrà continuare ad essere solo un ex capitano o se vorrà tornare ad essere un calciatore dell\u0026#39;Inter. Da parte sua tuttavia Icardi, con la moglie/agente Wanda Nara, sosterrà la propria tesi, di essere stato privato ingiustamente della fascia con il preciso disegno di metterlo da parte in vista di una cessione estiva. La società nerazzurra non si aspetta una conclusione positiva e teme che l\u0026#39;attaccante ribadisca di non poter tornare per il dolore al ginocchio, ma la mossa è pronta: il caso Icardi non è ancora chiuso.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.calciomercato.com/news/inter-icardi-irrompe-zhang-telefonata-a-marotta-vuole-mauro-a-fr-28364"
+    },
+    "request_path": "requests",
+    "title": "Inter-Icardi, irrompe Zhang: telefonata a Marotta, vuole Mauro a Francoforte",
+    "uuid": "013e18bf-afc6-3e45-b1b2-6d95b88708d5"
+}

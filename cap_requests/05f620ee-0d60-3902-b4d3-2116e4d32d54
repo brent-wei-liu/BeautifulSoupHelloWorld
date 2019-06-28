@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:23:22Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eRunning Man - Episode 344\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u0026quot;Pekan ini, para anggota kedatangan bintang yang ahli dalam hal makanan, Bo Mi dari Apink dan Choi Min Yong. Mereka dibagi menjadi dua tim, Tim Jae Seok dan Tim Jong Kook. Mereka berkeliling Seoul dan mengunjungi restoran makanan lezat sambil melakukan beberapa misi. Tim manakah yang akan menang dan menerima hadiah utama?\u0026quot;\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.viu.com/en/list?series=playlist-21999426\u0026utm_source=yahoo\u0026utm_medium=banner\u0026utm_campaign=web"
+    },
+    "request_path": "requests",
+    "title": "Running Man - Episode 344",
+    "uuid": "05f620ee-0d60-3902-b4d3-2116e4d32d54"
+}

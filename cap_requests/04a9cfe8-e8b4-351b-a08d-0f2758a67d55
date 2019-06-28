@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T19:47:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e《阿思達克財經新聞》免責聲明\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\n\u003cp\u003e\u003cp\u003e免責聲明：《阿思達克財經新聞》竭力提供準資訊，惟不保證絕對無誤，資訊如有錯漏而令閣下蒙受損失（不論是否與侵權行為、訂立契約或其他方面有關），本公司概不負責。同時，《阿思達克財經新聞》所提供之投資分析技巧與建議，只可作為參考之用，並不構成要約、招攬、邀請、誘使、任何不論種類或形式之申述或訂立任何建議及推薦，讀者務請運用個人獨立思考能力自行作出投資決定，如因相關建議招致損失，概與《阿思達克財經新聞》、編輯及記者無關。\u003c/p\u003e\u003cp\u003e同時，《阿思達克財經新聞》所發刊的署名及╱或不署名文章，相關內容屬作者個人意見，並不代表《阿思達克財經新聞》立場。~\u003c/p\u003e\u003cp\u003e阿思達克財經新聞\u003cbr/\u003e網址: www.aastocks.com\u003c/p\u003e\u003c/p\u003e\n\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "《阿思達克財經新聞》免責聲明",
+    "uuid": "04a9cfe8-e8b4-351b-a08d-0f2758a67d55"
+}

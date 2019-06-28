@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T09:11:19Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003etable 0:【公告】元晶 2019年2月合併營收3.96億元 年增4.59%單位：仟元\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e【公告】元晶 2019年2 月合併營收 (單位：仟元)\u003c!-- table 0:【公告】元晶 2019年2月合併營收3.96億元 年增4.59%單位：仟元 cna_20190304_0454_001 --\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": ""
+    },
+    "request_path": "requests",
+    "title": "table 0:【公告】元晶 2019年2月合併營收3.96億元 年增4.59%單位：仟元",
+    "uuid": "00c4f5c3-acb2-3971-86b3-f56e7f9f5c0f"
+}

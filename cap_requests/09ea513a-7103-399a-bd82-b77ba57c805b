@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T06:00:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003e羅文嘉／每個人都是發光體 照亮他人\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg class=\"editorial\" src=\"http://media.zenfs.com/zh-Hant-TW/homerun/imedia_981/1e6925a299e09a5c312bbec6bbc76721\" alt=\"\u0026#x007f85;\u0026#x006587;\u0026#x005609;\u0026#x00ff0f;\u0026#x006bcf;\u0026#x00500b;\u0026#x004eba;\u0026#x0090fd;\u0026#x00662f;\u0026#x00767c;\u0026#x005149;\u0026#x009ad4; \u0026#x007167;\u0026#x004eae;\u0026#x004ed6;\u0026#x004eba;\"/\u003e\u003c/p\u003e\u003cp\u003e    最後一次在碾米廠工作，是跟安斯泰來的老總跟員工。\u003c/p\u003e\n\u003cp\u003e    這家日商企業，用一年的時間，投入我愛你學田的志工服務。非常用心、專注，從上到下，展現獨特的企業精神與文化。我很高興在種稻的日子，曾有這群人相伴。把光與熱傳播出去，溫暖別人，豐富自己。\u003c/p\u003e\n\u003cp\u003e    那天做完工，在涼亭下，人手一付碗筷，隨意站坐，吃道地的客家湯圓，冬天的風，吹過田野，卻一點都不覺冷。\u003c/p\u003e\n\u003cp\u003e    每個人，都可以是個發光體，為身邊的人帶來光亮，千萬不要輕忽你的能量。\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e作者為民進黨秘書長\u003c/p\u003e\n\u003cp\u003e●更多文章見作者臉書，經授權刊載。\u003c/p\u003e\n\u003cp\u003e●專欄文章，不代表i-Media 愛傳媒立場。\u003c/p\u003e\u003cp\u003e\u0026#160;\u003c/p\u003e\u003cp\u003e\u0026#160;\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://www.i-media.tw/news/detail.html?id=12429\" target=\"_blank\"\u003e查看原始文章\u003c/a\u003e\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.i-media.tw/news/detail.html?id=12429"
+    },
+    "request_path": "requests",
+    "title": "羅文嘉／每個人都是發光體 照亮他人",
+    "uuid": "09ea513a-7103-399a-bd82-b77ba57c805b"
+}

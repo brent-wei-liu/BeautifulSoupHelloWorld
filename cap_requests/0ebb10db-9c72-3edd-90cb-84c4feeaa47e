@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:18:34Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eGrave incidente stradale sulla A18: un morto e quattro feriti\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cp\u003e\u003cimg width=\"1200\" height=\"674\" src=\"http://media.zenfs.com/it-IT/homerun/notizie_it_154/59d7135670ff10a0008681869f7c1f30\" align=\"middle\" alt=\"Grave incidente sull\u0026#039;autostrada A18\"/\u003e\u003c/p\u003e\u003cp\u003eNella giornata di lunedì 4 marzo, intorno a mezzogiorno, si è verificato un incidente sull\u0026#8217;\u003cstrong\u003eautostrada A18 Catania-Messina\u003c/strong\u003e secondo quanto riferisce \u003cem\u003eLa Sicilia\u003c/em\u003e. Un uomo ha perso la vita e quattro persone sono rimaste ferite. In particolare il sinistro avrebbero avuto luogo vicino al casello di \u003cstrong\u003eGiarre\u003c/strong\u003e, in direzione Catania.\u003c/p\u003e\n\u003ch2\u003eLa dinamica\u003c/h2\u003e\n\u003cp\u003eStando alle prime informazioni lo scontro tra due auto, una \u003cstrong\u003eFiat Seicento\u003c/strong\u003e e una \u003cstrong\u003eFiat Multipla\u003c/strong\u003e, sarebbe stato provocato da un sorpasso. I mezzi, dopo l\u0026#8217;impatto, hanno terminato la loro corsa contro il guardrail come mostrato dalle immagini diffuse dai Vigili del Fuoco, giunti sul luogo dell\u0026#8217;incidente con la Polizia Stradale di Giardini Naxos come riporta \u003cem\u003eLa voce dell\u0026#8217;isola\u003c/em\u003e.\u003c/p\u003e\n\u003ch2\u003eLa vittima e i feriti\u003c/h2\u003e\n\u003cp\u003eSul posto sono arrivati anche i soccorritori del 118: nonostante il trasferimento al pronto soccorso di Acireale un \u003cstrong\u003e70enne\u003c/strong\u003e di Aci Catena (guidava la Seicento) non ce l\u0026#8217;ha fatta. Al momento dell\u0026#8217;incidente erano in auto con lui una donna (probabilmente sua moglie) e i due nipoti. La prima si troverebbe nella stessa struttura ospedaliera di Acireale insieme al conducente della Seicento (nessuno viaggiava con lui): avrebbero riportato ferite. I due bambini sono stati portati in elisoccorso all\u0026#8217;ospedale Cannizzaro di Catania e le loro condizioni sarebbero purtroppo gravi.\u003c/p\u003e\n\u003ch2\u003eLa circolazione\u003c/h2\u003e\n\u003cp\u003eIl traffico ha subito forti rallentamenti (si sono formate lunghe code, di circa quattro chilometri) e successivamente la circolazione è stata ripristinata, in seguito ai necessari rilievi svolti dalla Polizia Stradale per ricostruire la dinamica di quanto accaduto.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.notizie.it/cronaca/2019/03/04/incidente-a-18-morto-feriti/"
+    },
+    "request_path": "requests",
+    "title": "Grave incidente stradale sulla A18: un morto e quattro feriti",
+    "uuid": "0ebb10db-9c72-3edd-90cb-84c4feeaa47e"
+}

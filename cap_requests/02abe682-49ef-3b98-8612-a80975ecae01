@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T05:08:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAplazan el referéndum de independencia de Bougainville de Papúa Nueva Guinea\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eSídney (Australia), 4 mar (EFE).- El primer ministro papú, Peter O\u0026#39;Neill, anunció que el referéndum de Bougainville sobre la independencia de esta región autónoma se hará el 12 de octubre, cuatro meses después de lo previsto, informaron hoy medios locales.\nLa medida fue tomada tras una reunión celebrada el viernes entre O\u0026#39;Neill y el presidente de Bougainville, John Momis, en la que se abordó el referéndum, los acuerdos de paz, la disposición de las armas y una futura ceremonia para marcar la reconciliación, según el diario papú The Post Courier.\nLa Comisión del Referendo justificó el aplazamiento de la votación, inicialmente prevista para el 15 de junio, al considerar que \u0026quot;se necesita más tiempo para preparar un referéndum libre, creíble y justo\u0026quot;, según un documento del gobierno autónomo de Bougainville publicado tras la reunión.\nEl conflicto independentista de Bougainville estalló en 1989, cuando los propietarios indígenas de las tierras ocupadas por una gigantesca mina de cobre australiana se alzaron en armas tras negarse a recibir compensaciones por los daños medioambientales causados por el yacimiento.\nLa violencia motivó la intervención del Ejército papuano en defensa de los intereses de la compañía minera, sector que representa la principal fuente de ingresos del país.\nEl conflicto, que terminó con la firma en 2001 de los acuerdos de paz, costó 20.000 vidas -cerca de diez por ciento de la población de Boungainville- y el desplazamiento de 15.000 personas a campos de refugiados y a las vecinas Islas Salomón.\nLa isla de Bougainville pertenece geográficamente al archipiélago de las Islas Salomón, de las que dista tan sólo siete kilómetros, frente a los más de 760 kilómetros que la separan de Papúa Nueva Guinea. EFE\nEl primer ministro de Papua Nueva Guinea, Peter O´Neill (i), anunció que el referéndum de Bougainville sobre la independencia de esta región autónoma se hará el 12 de octubre, cuatro meses después de lo previsto. En la fotografía, O\u0026#39;Neill saluda al presidente peruano, Pedro Pablo Kuczynski (d). EFE/Archivo\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Aplazan el referéndum de independencia de Bougainville de Papúa Nueva Guinea",
+    "uuid": "02abe682-49ef-3b98-8612-a80975ecae01"
+}

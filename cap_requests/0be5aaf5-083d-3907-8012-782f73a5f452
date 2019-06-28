@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T17:05:13Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eAsukkaat kohtasivat uskomattoman näyn Taivalkoskella: Vesi vyöryi pihaan, autotalliin ja ulko-ovesta sisään – jäätyi paikoilleen 30 asteen pakkasessa\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eMaanantaiaamu valkeni Taivalkoskella sekasortoisesti, kun päävesijohdon katkeaminen jätti puolet kunnan asukkaista ilman vettä. Aamukahvit jäivät keittämättä ja kasvot pesemättä.\u003c/body\u003e\u003c/html\u003e",
+        "url": "https://www.is.fi/oulun-seutu/art-2000006023436.html?ref=rss"
+    },
+    "request_path": "requests",
+    "title": "Asukkaat kohtasivat uskomattoman näyn Taivalkoskella: Vesi vyöryi pihaan, autotalliin ja ulko-ovesta sisään – jäätyi paikoilleen 30 asteen pakkasessa",
+    "uuid": "0be5aaf5-083d-3907-8012-782f73a5f452"
+}

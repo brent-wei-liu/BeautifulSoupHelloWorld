@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T12:25:44Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eBebê que estava desaparecido em tragédia de Brumadinho tem corpo identificado\u003c/title\u003e\u003c/head\u003e\u003cbody\u003e\u003cfigure\u003e\u003cimg class='editorial' class=\"alignnone size-full wp-image-4346951\" src=\"http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/eff17c1adfc0e9953f3a0d714f6e4e32\" alt=\"\" width=\"1252\" height=\"702\"/\u003e\u003cfigcaption\u003eArquivo Pessoal\u003c/figcaption\u003e\u003c/figure\u003e \u003cp\u003eO desastre do rompimento da barragem da Vale em Brumadinho, que ocorreu em 25 de janeiro, confirmou mais uma vítima: Heitor Prates Máximo da Cunha, de apenas um ano e seis meses. O bebê teve seu corpo identificado pela Polícia Civil de Minas Gerais e, assim, integra o número de 186 mortos confirmados em uma das maiores tragédias registradas no país.\u003c/p\u003e \u003cp\u003eA mãe de Heitor, Paloma Prates da Cunha, de apenas 22 anos, conseguiu sobreviver ao ser resgatada por um funcionário da Vale. A jovem, que mal conseguia se mexer, teve que se segurar em uma corda e ignorar as dores e machucados (ela teve seu nariz e osso esterno do peito quebrados) para conseguir se salvar.\u003c/p\u003e \u003cp\u003ePaloma ficou internada por quatro dias e ainda se recupera dos ferimentos. Alguns dias após o acontecido, a auxiliar de cozinha deu uma entrevista à apresentadora Ana Maria Braga, na qual demonstrava ter esperanças de encontrar seu filho – além de sua irmã, Pâmela Prates da Cunha, que também estava desaparecida. Infelizmente, nenhum dos dois conseguiu sobreviver.\u003c/p\u003e \u003cp\u003eEm entrevista ao MG1, a jovem disse que às vezes pensa que é tudo um sonho e que, quando chegar em casa, vai encontrar sua família. Mas logo é trazida de volta à realidade: “Eu não vou mais escutar o meu filho me chamando de mãe”.\u003c/p\u003e \u003cp\u003eAlém de Heitor e Pâmela, Robson Máximo Gonçalves, pai da criança, também morreu na tragédia. Todos já tiveram seus corpos enterrados.\u003c/p\u003e\u003c/body\u003e\u003c/html\u003e",
+        "url": null
+    },
+    "request_path": "requests",
+    "title": "Bebê que estava desaparecido em tragédia de Brumadinho tem corpo identificado",
+    "uuid": "01146eee-a242-35a6-b8aa-aabdbe41009f"
+}

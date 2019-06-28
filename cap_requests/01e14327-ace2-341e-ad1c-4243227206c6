@@ -1,0 +1,20 @@
+{
+    "frcode": "cap_offnet",
+    "parameters": {
+        "annotate_unique": "1",
+        "cid": "cpp",
+        "client": "cap_offnet",
+        "document_publish_date": "2019-03-04T16:35:00Z",
+        "encoding": "utf8",
+        "frcode": "cap_offnet",
+        "include_types": "*:/",
+        "input_format": "html",
+        "output": "ujson",
+        "page_summary": "true",
+        "text": "\u003chtml\u003e\u003chead\u003e\u003ctitle\u003eTrump med ny forklaring pÃ¥ Kim-fiasko\u003c/title\u003e\u003c/head\u003e\u003cbody\u003eUSA-president Donald Trump mener hÃ¸ringen av hans tidligere advokat Michael Cohen kan forklare at atomsamtalene med Nord-Korea endte i ingenting.\u003c/body\u003e\u003c/html\u003e",
+        "url": "http://www.vg.no/nyheter/utenriks/nord-korea/trump-med-ny-forklaring-paa-kim-fiasko/a/24574197/"
+    },
+    "request_path": "requests",
+    "title": "Trump med ny forklaring pÃ¥ Kim-fiasko",
+    "uuid": "01e14327-ace2-341e-ad1c-4243227206c6"
+}
